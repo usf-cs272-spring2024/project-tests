@@ -7,7 +7,7 @@
 	<properties>
 		<!-- properties changed via command line -->
 		<config.werror>false</config.werror>
-		<config.xlint>-Xlint:all,-path,-processing,-options,-this-escape</config.xlint>
+		<config.xlint>-Xlint:all,-path,-processing,-options,-this-escape,-classfile</config.xlint>
 		<config.xdoclint>-Xdoclint:all/private</config.xdoclint>
 
 		<!-- project settings -->
@@ -148,5 +148,4 @@
 			<version>${versions.mariadb.jdbc}</version>
 		</dependency>
 	</dependencies>
-
 </project>
