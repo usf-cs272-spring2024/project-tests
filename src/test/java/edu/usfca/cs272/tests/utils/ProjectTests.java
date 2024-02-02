@@ -2,7 +2,6 @@ package edu.usfca.cs272.tests.utils;
 
 import static edu.usfca.cs272.tests.utils.ProjectPath.ACTUAL;
 import static edu.usfca.cs272.tests.utils.ProjectPath.EXPECTED;
-import static edu.usfca.cs272.tests.utils.ProjectPath.QUERY;
 import static edu.usfca.cs272.tests.utils.ProjectPath.TEXT;
 import static java.nio.charset.StandardCharsets.UTF_8;
 
@@ -487,7 +486,7 @@ public class ProjectTests {
 
 			// check system environment
 			Map<String, String> env = System.getenv();
-			
+
 			if (!env.containsKey("SKIP_ACTUAL_CLEANUP")) {
 				// delete any old files located in actual directory
 				System.out.println("Cleaning up old actual files...");
@@ -524,8 +523,7 @@ public class ProjectTests {
 
 		Assertions.assertAll(() -> Assertions.assertTrue(Files.isReadable(EXPECTED.path), EXPECTED.text),
 				() -> Assertions.assertTrue(Files.isWritable(ACTUAL.path), ACTUAL.text),
-				() -> Assertions.assertTrue(Files.isDirectory(TEXT.path), TEXT.text),
-				() -> Assertions.assertTrue(Files.isDirectory(QUERY.path), QUERY.text));
+				() -> Assertions.assertTrue(Files.isDirectory(TEXT.path), TEXT.text));
 	}
 
 	/**
