@@ -1,0 +1,231 @@
+{
+  "a": {
+    "input/text/simple/sentences.md": [
+      24,
+      28,
+      49,
+      53,
+      76
+    ]
+  },
+  "an": {
+    "input/text/simple/sentences.md": [
+      71
+    ]
+  },
+  "and": {
+    "input/text/simple/sentences.md": [
+      43
+    ]
+  },
+  "arrow": {
+    "input/text/simple/sentences.md": [
+      72
+    ]
+  },
+  "as": {
+    "input/text/simple/sentences.md": [
+      38,
+      40,
+      45,
+      48
+    ]
+  },
+  "asid": {
+    "input/text/simple/sentences.md": [
+      64
+    ]
+  },
+  "banana": {
+    "input/text/simple/sentences.md": [
+      77
+    ]
+  },
+  "buffalo": {
+    "input/text/simple/sentences.md": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ]
+  },
+  "chuck": {
+    "input/text/simple/sentences.md": [
+      26,
+      31,
+      35,
+      44,
+      56
+    ]
+  },
+  "could": {
+    "input/text/simple/sentences.md": [
+      30,
+      42,
+      55
+    ]
+  },
+  "fli": {
+    "input/text/simple/sentences.md": [
+      69,
+      74
+    ]
+  },
+  "fruit": {
+    "input/text/simple/sentences.md": [
+      73
+    ]
+  },
+  "he": {
+    "input/text/simple/sentences.md": [
+      33,
+      36,
+      41
+    ]
+  },
+  "her": {
+    "input/text/simple/sentences.md": [
+      16
+    ]
+  },
+  "how": {
+    "input/text/simple/sentences.md": [
+      20
+    ]
+  },
+  "if": {
+    "input/text/simple/sentences.md": [
+      27,
+      52
+    ]
+  },
+  "like": {
+    "input/text/simple/sentences.md": [
+      70,
+      75
+    ]
+  },
+  "much": {
+    "input/text/simple/sentences.md": [
+      21,
+      39,
+      46
+    ]
+  },
+  "of": {
+    "input/text/simple/sentences.md": [
+      18
+    ]
+  },
+  "on": {
+    "input/text/simple/sentences.md": [
+      15
+    ]
+  },
+  "put": {
+    "input/text/simple/sentences.md": [
+      12
+    ]
+  },
+  "roe": {
+    "input/text/simple/sentences.md": [
+      14
+    ]
+  },
+  "rose": {
+    "input/text/simple/sentences.md": [
+      9,
+      10,
+      13,
+      19
+    ]
+  },
+  "row": {
+    "input/text/simple/sentences.md": [
+      17
+    ]
+  },
+  "salli": {
+    "input/text/simple/sentences.md": [
+      58
+    ]
+  },
+  "seashel": {
+    "input/text/simple/sentences.md": [
+      63
+    ]
+  },
+  "seashor": {
+    "input/text/simple/sentences.md": [
+      67
+    ]
+  },
+  "sell": {
+    "input/text/simple/sentences.md": [
+      60
+    ]
+  },
+  "seventysix": {
+    "input/text/simple/sentences.md": [
+      61
+    ]
+  },
+  "shini": {
+    "input/text/simple/sentences.md": [
+      62
+    ]
+  },
+  "south": {
+    "input/text/simple/sentences.md": [
+      66
+    ]
+  },
+  "sue": {
+    "input/text/simple/sentences.md": [
+      59
+    ]
+  },
+  "the": {
+    "input/text/simple/sentences.md": [
+      65
+    ]
+  },
+  "time": {
+    "input/text/simple/sentences.md": [
+      68
+    ]
+  },
+  "to": {
+    "input/text/simple/sentences.md": [
+      11
+    ]
+  },
+  "wood": {
+    "input/text/simple/sentences.md": [
+      22,
+      32,
+      47,
+      57
+    ]
+  },
+  "woodchuck": {
+    "input/text/simple/sentences.md": [
+      25,
+      29,
+      50,
+      54
+    ]
+  },
+  "would": {
+    "input/text/simple/sentences.md": [
+      23,
+      34,
+      37,
+      51
+    ]
+  }
+}

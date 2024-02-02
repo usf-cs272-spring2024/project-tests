@@ -1,0 +1,5370 @@
+{
+  "a": {
+    "input/text/rfcs/rfc475.txt": [
+      4,
+      69,
+      100,
+      110,
+      127,
+      172,
+      250,
+      304,
+      307,
+      315,
+      323,
+      333,
+      608,
+      631,
+      651,
+      684,
+      733,
+      738,
+      760,
+      872,
+      895,
+      965,
+      975,
+      1027,
+      1100,
+      1104,
+      1150,
+      1184,
+      1249,
+      1259,
+      1280,
+      1323,
+      1397,
+      1425,
+      1436,
+      1499,
+      1599,
+      1628,
+      1703,
+      1744,
+      1754,
+      1769,
+      1785,
+      1793,
+      1931,
+      1990,
+      1997,
+      2056,
+      2118,
+      2134,
+      2152,
+      2301,
+      2314,
+      2335,
+      2362,
+      2393,
+      2447,
+      2486,
+      2539,
+      2679,
+      2752,
+      2831,
+      2871,
+      2992,
+      3053,
+      3160
+    ]
+  },
+  "abl": {
+    "input/text/rfcs/rfc475.txt": [
+      844
+    ]
+  },
+  "absenc": {
+    "input/text/rfcs/rfc475.txt": [
+      1862
+    ]
+  },
+  "abstract": {
+    "input/text/rfcs/rfc475.txt": [
+      1197
+    ]
+  },
+  "accept": {
+    "input/text/rfcs/rfc475.txt": [
+      783,
+      905,
+      1777,
+      2994
+    ]
+  },
+  "access": {
+    "input/text/rfcs/rfc475.txt": [
+      518,
+      1820,
+      1865,
+      1922,
+      1946,
+      1954,
+      1963,
+      2503
+    ]
+  },
+  "account": {
+    "input/text/rfcs/rfc475.txt": [
+      1883,
+      1896
+    ]
+  },
+  "acct": {
+    "input/text/rfcs/rfc475.txt": [
+      1858
+    ]
+  },
+  "ackn": {
+    "input/text/rfcs/rfc475.txt": [
+      3033
+    ]
+  },
+  "acknowledg": {
+    "input/text/rfcs/rfc475.txt": [
+      883,
+      2011,
+      2261,
+      2592,
+      2901,
+      3034,
+      3045
+    ]
+  },
+  "act": {
+    "input/text/rfcs/rfc475.txt": [
+      1050
+    ]
+  },
+  "action": {
+    "input/text/rfcs/rfc475.txt": [
+      2934
+    ]
+  },
+  "ad": {
+    "input/text/rfcs/rfc475.txt": [
+      2531
+    ]
+  },
+  "add": {
+    "input/text/rfcs/rfc475.txt": [
+      2655
+    ]
+  },
+  "addit": {
+    "input/text/rfcs/rfc475.txt": [
+      2738,
+      3131
+    ]
+  },
+  "address": {
+    "input/text/rfcs/rfc475.txt": [
+      269,
+      294,
+      339,
+      342,
+      367,
+      371,
+      406,
+      417,
+      584,
+      594,
+      604,
+      670,
+      695,
+      716,
+      725,
+      736,
+      765,
+      847,
+      907,
+      1332,
+      1409,
+      1472,
+      1529,
+      2039,
+      2081,
+      2462,
+      2497,
+      2516,
+      2527,
+      2556,
+      2580,
+      2862
+    ]
+  },
+  "adequ": {
+    "input/text/rfcs/rfc475.txt": [
+      562
+    ]
+  },
+  "advantag": {
+    "input/text/rfcs/rfc475.txt": [
+      728
+    ]
+  },
+  "affili": {
+    "input/text/rfcs/rfc475.txt": [
+      2513
+    ]
+  },
+  "agreement": {
+    "input/text/rfcs/rfc475.txt": [
+      45
+    ]
+  },
+  "aid": {
+    "input/text/rfcs/rfc475.txt": [
+      1232,
+      3195
+    ]
+  },
+  "akb": {
+    "input/text/rfcs/rfc475.txt": [
+      2023,
+      2040,
+      2048
+    ]
+  },
+  "akbdmcg": {
+    "input/text/rfcs/rfc475.txt": [
+      2044
+    ]
+  },
+  "all": {
+    "input/text/rfcs/rfc475.txt": [
+      1813
+    ]
+  },
+  "allow": {
+    "input/text/rfcs/rfc475.txt": [
+      68,
+      99,
+      1899,
+      2550,
+      2776,
+      3156
+    ]
+  },
+  "also": {
+    "input/text/rfcs/rfc475.txt": [
+      246,
+      516,
+      699,
+      1124,
+      1391,
+      2085,
+      2277,
+      3100,
+      3189
+    ]
+  },
+  "alter": {
+    "input/text/rfcs/rfc475.txt": [
+      2663
+    ]
+  },
+  "altern": {
+    "input/text/rfcs/rfc475.txt": [
+      1276,
+      2209,
+      2316
+    ]
+  },
+  "among": {
+    "input/text/rfcs/rfc475.txt": [
+      1910
+    ]
+  },
+  "an": {
+    "input/text/rfcs/rfc475.txt": [
+      211,
+      361,
+      389,
+      701,
+      821,
+      882,
+      1052,
+      1079,
+      1089,
+      1196,
+      1301,
+      1506,
+      1614,
+      1642,
+      1879,
+      2205,
+      2208,
+      2298,
+      2906,
+      2977,
+      3025,
+      3068,
+      3085
+    ]
+  },
+  "and": {
+    "input/text/rfcs/rfc475.txt": [
+      13,
+      34,
+      83,
+      143,
+      160,
+      271,
+      292,
+      372,
+      422,
+      487,
+      505,
+      576,
+      615,
+      635,
+      665,
+      740,
+      755,
+      788,
+      852,
+      863,
+      920,
+      1067,
+      1072,
+      1158,
+      1194,
+      1206,
+      1310,
+      1337,
+      1340,
+      1362,
+      1377,
+      1387,
+      1417,
+      1442,
+      1537,
+      1548,
+      1679,
+      1724,
+      1751,
+      1857,
+      1988,
+      2012,
+      2068,
+      2073,
+      2077,
+      2103,
+      2108,
+      2146,
+      2155,
+      2180,
+      2222,
+      2240,
+      2265,
+      2288,
+      2327,
+      2364,
+      2382,
+      2422,
+      2520,
+      2587,
+      2593,
+      2599,
+      2617,
+      2633,
+      2662,
+      2666,
+      2700,
+      2757,
+      2898,
+      2924,
+      2975,
+      3009,
+      3143,
+      3180,
+      3186
+    ]
+  },
+  "andor": {
+    "input/text/rfcs/rfc475.txt": [
+      1334,
+      2346
+    ]
+  },
+  "ani": {
+    "input/text/rfcs/rfc475.txt": [
+      463,
+      1948,
+      2608
+    ]
+  },
+  "anoth": {
+    "input/text/rfcs/rfc475.txt": [
+      3148
+    ]
+  },
+  "appear": {
+    "input/text/rfcs/rfc475.txt": [
+      2472
+    ]
+  },
+  "appli": {
+    "input/text/rfcs/rfc475.txt": [
+      1392
+    ]
+  },
+  "applic": {
+    "input/text/rfcs/rfc475.txt": [
+      472,
+      1414
+    ]
+  },
+  "approach": {
+    "input/text/rfcs/rfc475.txt": [
+      550,
+      720,
+      2612,
+      2718,
+      2760,
+      2770,
+      2789
+    ]
+  },
+  "appropri": {
+    "input/text/rfcs/rfc475.txt": [
+      2933,
+      2978
+    ]
+  },
+  "archiv": {
+    "input/text/rfcs/rfc475.txt": [
+      3222
+    ]
+  },
+  "are": {
+    "input/text/rfcs/rfc475.txt": [
+      133,
+      275,
+      279,
+      295,
+      1181,
+      1225,
+      1372,
+      2124,
+      2372,
+      2477,
+      2647,
+      2761
+    ]
+  },
+  "argument": {
+    "input/text/rfcs/rfc475.txt": [
+      2800,
+      2818,
+      2859,
+      2949,
+      2965,
+      3023,
+      3058,
+      3075,
+      3092
+    ]
+  },
+  "aris": {
+    "input/text/rfcs/rfc475.txt": [
+      1030
+    ]
+  },
+  "as": {
+    "input/text/rfcs/rfc475.txt": [
+      121,
+      482,
+      792,
+      825,
+      848,
+      964,
+      1051,
+      1056,
+      1178,
+      1510,
+      1623,
+      1659,
+      1917,
+      1983,
+      2006,
+      2008,
+      2021,
+      2028,
+      2163,
+      2202,
+      2204,
+      2256,
+      2512,
+      2723,
+      2735,
+      2773,
+      2880,
+      2882,
+      2919,
+      2959,
+      3071,
+      3088,
+      3119,
+      3134,
+      3171,
+      3192
+    ]
+  },
+  "ascii": {
+    "input/text/rfcs/rfc475.txt": [
+      3026
+    ]
+  },
+  "ask": {
+    "input/text/rfcs/rfc475.txt": [
+      3040
+    ]
+  },
+  "assign": {
+    "input/text/rfcs/rfc475.txt": [
+      630,
+      2971
+    ]
+  },
+  "assum": {
+    "input/text/rfcs/rfc475.txt": [
+      552,
+      586,
+      1213,
+      1380
+    ]
+  },
+  "assumpt": {
+    "input/text/rfcs/rfc475.txt": [
+      2940
+    ]
+  },
+  "at": {
+    "input/text/rfcs/rfc475.txt": [
+      46,
+      149,
+      158,
+      164,
+      187,
+      235,
+      377,
+      623,
+      1258,
+      1400,
+      1577,
+      1591,
+      1739,
+      1812,
+      2024,
+      2041,
+      2140,
+      2224,
+      3205
+    ]
+  },
+  "atim": {
+    "input/text/rfcs/rfc475.txt": [
+      1385
+    ]
+  },
+  "auth": {
+    "input/text/rfcs/rfc475.txt": [
+      2983
+    ]
+  },
+  "author": {
+    "input/text/rfcs/rfc475.txt": [
+      1190,
+      2257,
+      2586,
+      2984,
+      2987
+    ]
+  },
+  "authtitl": {
+    "input/text/rfcs/rfc475.txt": [
+      3144
+    ]
+  },
+  "automat": {
+    "input/text/rfcs/rfc475.txt": [
+      2557
+    ]
+  },
+  "avail": {
+    "input/text/rfcs/rfc475.txt": [
+      924
+    ]
+  },
+  "away": {
+    "input/text/rfcs/rfc475.txt": [
+      1691
+    ]
+  },
+  "base": {
+    "input/text/rfcs/rfc475.txt": [
+      1501
+    ]
+  },
+  "bbntenex": {
+    "input/text/rfcs/rfc475.txt": [
+      159
+    ]
+  },
+  "be": {
+    "input/text/rfcs/rfc475.txt": [
+      54,
+      134,
+      201,
+      219,
+      259,
+      322,
+      332,
+      408,
+      471,
+      508,
+      525,
+      536,
+      545,
+      558,
+      677,
+      709,
+      778,
+      807,
+      843,
+      850,
+      870,
+      1044,
+      1065,
+      1107,
+      1156,
+      1252,
+      1265,
+      1279,
+      1476,
+      1544,
+      1552,
+      1558,
+      1563,
+      1572,
+      1575,
+      1588,
+      1619,
+      1685,
+      1806,
+      1841,
+      1886,
+      1958,
+      2000,
+      2263,
+      2273,
+      2278,
+      2319,
+      2419,
+      2437,
+      2450,
+      2530,
+      2546,
+      2561,
+      2649,
+      2704,
+      2712,
+      2730,
+      2741,
+      2822,
+      2876,
+      2889,
+      3001,
+      3152
+    ]
+  },
+  "becaus": {
+    "input/text/rfcs/rfc475.txt": [
+      1668
+    ]
+  },
+  "been": {
+    "input/text/rfcs/rfc475.txt": [
+      147,
+      629,
+      1827,
+      2117,
+      2133
+    ]
+  },
+  "befor": {
+    "input/text/rfcs/rfc475.txt": [
+      314,
+      918,
+      2389
+    ]
+  },
+  "behind": {
+    "input/text/rfcs/rfc475.txt": [
+      2197
+    ]
+  },
+  "below": {
+    "input/text/rfcs/rfc475.txt": [
+      2845
+    ]
+  },
+  "best": {
+    "input/text/rfcs/rfc475.txt": [
+      1730,
+      1971
+    ]
+  },
+  "between": {
+    "input/text/rfcs/rfc475.txt": [
+      3167
+    ]
+  },
+  "beyond": {
+    "input/text/rfcs/rfc475.txt": [
+      280
+    ]
+  },
+  "bhushan": {
+    "input/text/rfcs/rfc475.txt": [
+      5,
+      418,
+      859,
+      1306,
+      1720,
+      2176,
+      2613,
+      3005,
+      3227
+    ]
+  },
+  "bin": {
+    "input/text/rfcs/rfc475.txt": [
+      334
+    ]
+  },
+  "branch": {
+    "input/text/rfcs/rfc475.txt": [
+      2369
+    ]
+  },
+  "bressler": {
+    "input/text/rfcs/rfc475.txt": [
+      3185
+    ]
+  },
+  "brows": {
+    "input/text/rfcs/rfc475.txt": [
+      1882
+    ]
+  },
+  "but": {
+    "input/text/rfcs/rfc475.txt": [
+      116,
+      216,
+      278,
+      839,
+      908,
+      968,
+      1120,
+      1403,
+      1530,
+      2445,
+      2710
+    ]
+  },
+  "by": {
+    "input/text/rfcs/rfc475.txt": [
+      87,
+      344,
+      388,
+      617,
+      638,
+      711,
+      836,
+      884,
+      990,
+      1037,
+      1208,
+      1478,
+      1494,
+      1732,
+      2201,
+      2367,
+      2375,
+      2548,
+      2652,
+      2732,
+      2808,
+      2878,
+      3003,
+      3184,
+      3223
+    ]
+  },
+  "byte": {
+    "input/text/rfcs/rfc475.txt": [
+      3123
+    ]
+  },
+  "can": {
+    "input/text/rfcs/rfc475.txt": [
+      176,
+      524,
+      708,
+      731,
+      758,
+      969,
+      1155,
+      1161,
+      1231,
+      1254,
+      1286,
+      1326,
+      1475,
+      1490,
+      1531,
+      1543,
+      1551,
+      1618,
+      1746,
+      1757,
+      1805,
+      1933,
+      1950,
+      1999,
+      2017,
+      2032,
+      2150,
+      2230,
+      2529,
+      2545,
+      2606,
+      2703,
+      2729,
+      2875,
+      2930
+    ]
+  },
+  "cancel": {
+    "input/text/rfcs/rfc475.txt": [
+      489,
+      1379
+    ]
+  },
+  "capabl": {
+    "input/text/rfcs/rfc475.txt": [
+      466
+    ]
+  },
+  "case": {
+    "input/text/rfcs/rfc475.txt": [
+      475
+    ]
+  },
+  "catalogu": {
+    "input/text/rfcs/rfc475.txt": [
+      1066
+    ]
+  },
+  "center": {
+    "input/text/rfcs/rfc475.txt": [
+      621,
+      2051
+    ]
+  },
+  "central": {
+    "input/text/rfcs/rfc475.txt": [
+      296
+    ]
+  },
+  "chanc": {
+    "input/text/rfcs/rfc475.txt": [
+      2394
+    ]
+  },
+  "charact": {
+    "input/text/rfcs/rfc475.txt": [
+      91,
+      129,
+      485,
+      1375
+    ]
+  },
+  "characteratatim": {
+    "input/text/rfcs/rfc475.txt": [
+      2170
+    ]
+  },
+  "charg": {
+    "input/text/rfcs/rfc475.txt": [
+      1872
+    ]
+  },
+  "cita": {
+    "input/text/rfcs/rfc475.txt": [
+      2854,
+      3090
+    ]
+  },
+  "citat": {
+    "input/text/rfcs/rfc475.txt": [
+      1151,
+      1187,
+      1281,
+      1600,
+      1611,
+      2448,
+      2584,
+      2855,
+      3091
+    ]
+  },
+  "class": {
+    "input/text/rfcs/rfc475.txt": [
+      1295
+    ]
+  },
+  "code": {
+    "input/text/rfcs/rfc475.txt": [
+      3106
+    ]
+  },
+  "collect": {
+    "input/text/rfcs/rfc475.txt": [
+      80,
+      2456
+    ]
+  },
+  "comma": {
+    "input/text/rfcs/rfc475.txt": [
+      2809
+    ]
+  },
+  "command": {
+    "input/text/rfcs/rfc475.txt": [
+      61,
+      67,
+      98,
+      115,
+      132,
+      478,
+      543,
+      1368,
+      1464,
+      1774,
+      1786,
+      1804,
+      1859,
+      1867,
+      1902,
+      1956,
+      1966,
+      1993,
+      1998,
+      2635,
+      2657,
+      2668,
+      2677,
+      2682,
+      2693,
+      2702,
+      2749,
+      2795,
+      2834,
+      2843,
+      2856,
+      3132,
+      3163,
+      3182
+    ]
+  },
+  "comment": {
+    "input/text/rfcs/rfc475.txt": [
+      8
+    ]
+  },
+  "communic": {
+    "input/text/rfcs/rfc475.txt": [
+      214,
+      254,
+      273,
+      1631,
+      1909,
+      2578
+    ]
+  },
+  "complet": {
+    "input/text/rfcs/rfc475.txt": [
+      1607
+    ]
+  },
+  "complex": {
+    "input/text/rfcs/rfc475.txt": [
+      2753
+    ]
+  },
+  "compos": {
+    "input/text/rfcs/rfc475.txt": [
+      453,
+      528,
+      1432
+    ]
+  },
+  "comput": {
+    "input/text/rfcs/rfc475.txt": [
+      1705,
+      1710
+    ]
+  },
+  "concept": {
+    "input/text/rfcs/rfc475.txt": [
+      289
+    ]
+  },
+  "concern": {
+    "input/text/rfcs/rfc475.txt": [
+      1060
+    ]
+  },
+  "connect": {
+    "input/text/rfcs/rfc475.txt": [
+      77,
+      108,
+      818,
+      1355,
+      3066,
+      3083
+    ]
+  },
+  "consid": {
+    "input/text/rfcs/rfc475.txt": [
+      1979,
+      2790
+    ]
+  },
+  "consider": {
+    "input/text/rfcs/rfc475.txt": [
+      3154,
+      3191
+    ]
+  },
+  "consol": {
+    "input/text/rfcs/rfc475.txt": [
+      237,
+      977,
+      1261
+    ]
+  },
+  "contain": {
+    "input/text/rfcs/rfc475.txt": [
+      368,
+      1189,
+      2507
+    ]
+  },
+  "content": {
+    "input/text/rfcs/rfc475.txt": [
+      1144
+    ]
+  },
+  "control": {
+    "input/text/rfcs/rfc475.txt": [
+      1821,
+      1866,
+      1923,
+      1955
+    ]
+  },
+  "conveni": {
+    "input/text/rfcs/rfc475.txt": [
+      177
+    ]
+  },
+  "convent": {
+    "input/text/rfcs/rfc475.txt": [
+      469,
+      480,
+      504,
+      1389
+    ]
+  },
+  "copi": {
+    "input/text/rfcs/rfc475.txt": [
+      942,
+      2388
+    ]
+  },
+  "correct": {
+    "input/text/rfcs/rfc475.txt": [
+      593
+    ]
+  },
+  "cost": {
+    "input/text/rfcs/rfc475.txt": [
+      1874
+    ]
+  },
+  "could": {
+    "input/text/rfcs/rfc475.txt": [
+      1106,
+      1278,
+      1782,
+      3128
+    ]
+  },
+  "creat": {
+    "input/text/rfcs/rfc475.txt": [
+      441,
+      451,
+      575,
+      1339,
+      1576,
+      1589,
+      2107,
+      2114,
+      2231
+    ]
+  },
+  "creation": {
+    "input/text/rfcs/rfc475.txt": [
+      554
+    ]
+  },
+  "crlfcrlf": {
+    "input/text/rfcs/rfc475.txt": [
+      93,
+      3032
+    ]
+  },
+  "current": {
+    "input/text/rfcs/rfc475.txt": [
+      58,
+      241,
+      899,
+      1075,
+      1212,
+      1640,
+      2093,
+      2341,
+      2349,
+      2502,
+      2569
+    ]
+  },
+  "data": {
+    "input/text/rfcs/rfc475.txt": [
+      107,
+      817,
+      966,
+      3082
+    ]
+  },
+  "day": {
+    "input/text/rfcs/rfc475.txt": [
+      2145,
+      2381
+    ]
+  },
+  "deal": {
+    "input/text/rfcs/rfc475.txt": [
+      2747
+    ]
+  },
+  "default": {
+    "input/text/rfcs/rfc475.txt": [
+      1894,
+      2939
+    ]
+  },
+  "defer": {
+    "input/text/rfcs/rfc475.txt": [
+      1036,
+      1477,
+      1553,
+      1567,
+      2982
+    ]
+  },
+  "defici": {
+    "input/text/rfcs/rfc475.txt": [
+      2604
+    ]
+  },
+  "defin": {
+    "input/text/rfcs/rfc475.txt": [
+      2678,
+      2691,
+      3103
+    ]
+  },
+  "delet": {
+    "input/text/rfcs/rfc475.txt": [
+      486,
+      1376
+    ]
+  },
+  "deliv": {
+    "input/text/rfcs/rfc475.txt": [
+      202,
+      225,
+      262,
+      1005,
+      1255,
+      2342,
+      2406,
+      2467
+    ]
+  },
+  "deliveri": {
+    "input/text/rfcs/rfc475.txt": [
+      887,
+      892,
+      3047,
+      3050
+    ]
+  },
+  "describ": {
+    "input/text/rfcs/rfc475.txt": [
+      19,
+      2844
+    ]
+  },
+  "design": {
+    "input/text/rfcs/rfc475.txt": [
+      2168
+    ]
+  },
+  "desir": {
+    "input/text/rfcs/rfc475.txt": [
+      277,
+      401,
+      567,
+      779,
+      873,
+      1995,
+      2624,
+      2660,
+      2696
+    ]
+  },
+  "destin": {
+    "input/text/rfcs/rfc475.txt": [
+      355,
+      694,
+      802,
+      812,
+      1009,
+      1041,
+      1359,
+      1408,
+      1457,
+      1471,
+      1484,
+      1528,
+      1555,
+      2377
+    ]
+  },
+  "determin": {
+    "input/text/rfcs/rfc475.txt": [
+      84,
+      582
+    ]
+  },
+  "differ": {
+    "input/text/rfcs/rfc475.txt": [
+      1294,
+      1798,
+      2127,
+      2764,
+      3206
+    ]
+  },
+  "direct": {
+    "input/text/rfcs/rfc475.txt": [
+      809,
+      970,
+      1356,
+      1454,
+      1590,
+      2211
+    ]
+  },
+  "directori": {
+    "input/text/rfcs/rfc475.txt": [
+      328
+    ]
+  },
+  "discuss": {
+    "input/text/rfcs/rfc475.txt": [
+      299
+    ]
+  },
+  "distribut": {
+    "input/text/rfcs/rfc475.txt": [
+      1098,
+      1182,
+      1335,
+      1521,
+      2069,
+      2089,
+      2109
+    ]
+  },
+  "dmcg": {
+    "input/text/rfcs/rfc475.txt": [
+      2047
+    ]
+  },
+  "do": {
+    "input/text/rfcs/rfc475.txt": [
+      459,
+      909,
+      1422,
+      1666,
+      1708,
+      2297,
+      2334
+    ]
+  },
+  "document": {
+    "input/text/rfcs/rfc475.txt": [
+      1154,
+      1176,
+      1616,
+      2233,
+      2326,
+      2434,
+      2590,
+      2990,
+      3021
+    ]
+  },
+  "doe": {
+    "input/text/rfcs/rfc475.txt": [
+      247,
+      829,
+      932,
+      982,
+      1076,
+      1638,
+      1967,
+      2570
+    ]
+  },
+  "down": {
+    "input/text/rfcs/rfc475.txt": [
+      1045,
+      1487,
+      1559
+    ]
+  },
+  "duplic": {
+    "input/text/rfcs/rfc475.txt": [
+      941
+    ]
+  },
+  "each": {
+    "input/text/rfcs/rfc475.txt": [
+      2766
+    ]
+  },
+  "easier": {
+    "input/text/rfcs/rfc475.txt": [
+      2742
+    ]
+  },
+  "echo": {
+    "input/text/rfcs/rfc475.txt": [
+      2174,
+      2200
+    ]
+  },
+  "econom": {
+    "input/text/rfcs/rfc475.txt": [
+      1565
+    ]
+  },
+  "edit": {
+    "input/text/rfcs/rfc475.txt": [
+      465,
+      468,
+      479,
+      513,
+      521,
+      568,
+      1370,
+      1583,
+      2128,
+      2238
+    ]
+  },
+  "editor": {
+    "input/text/rfcs/rfc475.txt": [
+      1438
+    ]
+  },
+  "effici": {
+    "input/text/rfcs/rfc475.txt": [
+      120,
+      3175
+    ]
+  },
+  "eg": {
+    "input/text/rfcs/rfc475.txt": [
+      156,
+      232
+    ]
+  },
+  "elig": {
+    "input/text/rfcs/rfc475.txt": [
+      1937
+    ]
+  },
+  "end": {
+    "input/text/rfcs/rfc475.txt": [
+      86,
+      2848,
+      3028
+    ]
+  },
+  "entir": {
+    "input/text/rfcs/rfc475.txt": [
+      1143,
+      1218,
+      2206
+    ]
+  },
+  "entireti": {
+    "input/text/rfcs/rfc475.txt": [
+      2444
+    ]
+  },
+  "entri": {
+    "input/text/rfcs/rfc475.txt": [
+      3217
+    ]
+  },
+  "especi": {
+    "input/text/rfcs/rfc475.txt": [
+      2469
+    ]
+  },
+  "etc": {
+    "input/text/rfcs/rfc475.txt": [
+      2519,
+      2523
+    ]
+  },
+  "even": {
+    "input/text/rfcs/rfc475.txt": [
+      772,
+      2147
+    ]
+  },
+  "event": {
+    "input/text/rfcs/rfc475.txt": [
+      857
+    ]
+  },
+  "examin": {
+    "input/text/rfcs/rfc475.txt": [
+      2396
+    ]
+  },
+  "exampl": {
+    "input/text/rfcs/rfc475.txt": [
+      1242
+    ]
+  },
+  "exist": {
+    "input/text/rfcs/rfc475.txt": [
+      1615,
+      2673,
+      2777
+    ]
+  },
+  "experi": {
+    "input/text/rfcs/rfc475.txt": [
+      2120
+    ]
+  },
+  "explicit": {
+    "input/text/rfcs/rfc475.txt": [
+      461,
+      831,
+      1080,
+      2573
+    ]
+  },
+  "express": {
+    "input/text/rfcs/rfc475.txt": [
+      3113
+    ]
+  },
+  "facil": {
+    "input/text/rfcs/rfc475.txt": [
+      140,
+      173,
+      215,
+      255,
+      274,
+      569,
+      703,
+      762,
+      874,
+      1240,
+      1497,
+      1584,
+      1647,
+      1753,
+      2059,
+      2065,
+      2540,
+      2559,
+      2574
+    ]
+  },
+  "fact": {
+    "input/text/rfcs/rfc475.txt": [
+      1681
+    ]
+  },
+  "fail": {
+    "input/text/rfcs/rfc475.txt": [
+      893,
+      3051
+    ]
+  },
+  "fall": {
+    "input/text/rfcs/rfc475.txt": [
+      2196
+    ]
+  },
+  "familiar": {
+    "input/text/rfcs/rfc475.txt": [
+      499
+    ]
+  },
+  "featur": {
+    "input/text/rfcs/rfc475.txt": [
+      2625
+    ]
+  },
+  "februari": {
+    "input/text/rfcs/rfc475.txt": [
+      33
+    ]
+  },
+  "file": {
+    "input/text/rfcs/rfc475.txt": [
+      39,
+      97,
+      324,
+      530,
+      533,
+      967,
+      1269,
+      2285,
+      2307,
+      2330,
+      2852,
+      3073,
+      3098,
+      3162,
+      3166
+    ]
+  },
+  "final": {
+    "input/text/rfcs/rfc475.txt": [
+      1008,
+      1203
+    ]
+  },
+  "first": {
+    "input/text/rfcs/rfc475.txt": [
+      2717
+    ]
+  },
+  "follow": {
+    "input/text/rfcs/rfc475.txt": [
+      438,
+      1347,
+      2611,
+      2792
+    ]
+  },
+  "for": {
+    "input/text/rfcs/rfc475.txt": [
+      7,
+      37,
+      62,
+      89,
+      126,
+      221,
+      335,
+      357,
+      484,
+      510,
+      527,
+      574,
+      672,
+      679,
+      713,
+      737,
+      763,
+      833,
+      925,
+      952,
+      987,
+      998,
+      1069,
+      1082,
+      1096,
+      1117,
+      1152,
+      1174,
+      1241,
+      1300,
+      1316,
+      1330,
+      1338,
+      1349,
+      1519,
+      1535,
+      1837,
+      1921,
+      2060,
+      2066,
+      2078,
+      2113,
+      2121,
+      2169,
+      2280,
+      2321,
+      2379,
+      2466,
+      2575,
+      2589,
+      2658,
+      2694,
+      2891,
+      2895,
+      2899,
+      2956,
+      3036,
+      3107,
+      3116,
+      3136,
+      3140,
+      3145,
+      3161,
+      3200,
+      3216
+    ]
+  },
+  "form": {
+    "input/text/rfcs/rfc475.txt": [
+      791,
+      2293,
+      2709,
+      2785,
+      2873,
+      2993,
+      3215
+    ]
+  },
+  "forward": {
+    "input/text/rfcs/rfc475.txt": [
+      835,
+      853,
+      871,
+      999,
+      1054,
+      1516,
+      2908,
+      3038,
+      3142
+    ]
+  },
+  "free": {
+    "input/text/rfcs/rfc475.txt": [
+      1842,
+      1890
+    ]
+  },
+  "from": {
+    "input/text/rfcs/rfc475.txt": [
+      766,
+      1692,
+      1992,
+      2022,
+      2563,
+      2765,
+      2857,
+      2935
+    ]
+  },
+  "fromackn": {
+    "input/text/rfcs/rfc475.txt": [
+      3139
+    ]
+  },
+  "frustrat": {
+    "input/text/rfcs/rfc475.txt": [
+      2119
+    ]
+  },
+  "ftp": {
+    "input/text/rfcs/rfc475.txt": [
+      12,
+      38,
+      56,
+      57,
+      421,
+      457,
+      549,
+      585,
+      646,
+      648,
+      706,
+      747,
+      781,
+      828,
+      840,
+      862,
+      900,
+      931,
+      981,
+      1074,
+      1211,
+      1309,
+      1360,
+      1460,
+      1643,
+      1723,
+      1779,
+      1830,
+      1844,
+      1869,
+      2179,
+      2221,
+      2247,
+      2409,
+      2475,
+      2564,
+      2565,
+      2568,
+      2616,
+      2794,
+      2840,
+      3008
+    ]
+  },
+  "ftpserver": {
+    "input/text/rfcs/rfc475.txt": [
+      390,
+      904
+    ]
+  },
+  "function": {
+    "input/text/rfcs/rfc475.txt": [
+      52,
+      430,
+      440,
+      1101,
+      1222,
+      1371,
+      1836,
+      1892,
+      2052,
+      2646,
+      2661,
+      2687,
+      2697,
+      2728,
+      2781
+    ]
+  },
+  "gain": {
+    "input/text/rfcs/rfc475.txt": [
+      1961
+    ]
+  },
+  "general": {
+    "input/text/rfcs/rfc475.txt": [
+      44,
+      251
+    ]
+  },
+  "get": {
+    "input/text/rfcs/rfc475.txt": [
+      2151,
+      2385
+    ]
+  },
+  "give": {
+    "input/text/rfcs/rfc475.txt": [
+      1944
+    ]
+  },
+  "given": {
+    "input/text/rfcs/rfc475.txt": [
+      3153
+    ]
+  },
+  "good": {
+    "input/text/rfcs/rfc475.txt": [
+      761,
+      1748
+    ]
+  },
+  "gradual": {
+    "input/text/rfcs/rfc475.txt": [
+      2713
+    ]
+  },
+  "great": {
+    "input/text/rfcs/rfc475.txt": [
+      2420
+    ]
+  },
+  "ground": {
+    "input/text/rfcs/rfc475.txt": [
+      2641
+    ]
+  },
+  "group": {
+    "input/text/rfcs/rfc475.txt": [
+      3,
+      739,
+      1185,
+      1538,
+      2074,
+      2521
+    ]
+  },
+  "guest": {
+    "input/text/rfcs/rfc475.txt": [
+      1984,
+      2029
+    ]
+  },
+  "had": {
+    "input/text/rfcs/rfc475.txt": [
+      2392
+    ]
+  },
+  "handl": {
+    "input/text/rfcs/rfc475.txt": [
+      63,
+      113,
+      989,
+      1292,
+      2061,
+      3108,
+      3197
+    ]
+  },
+  "hard": {
+    "input/text/rfcs/rfc475.txt": [
+      2387
+    ]
+  },
+  "hardcopi": {
+    "input/text/rfcs/rfc475.txt": [
+      336,
+      2345
+    ]
+  },
+  "has": {
+    "input/text/rfcs/rfc475.txt": [
+      517,
+      726,
+      1792,
+      1818,
+      1826,
+      2116,
+      2132,
+      2361
+    ]
+  },
+  "have": {
+    "input/text/rfcs/rfc475.txt": [
+      146,
+      185,
+      267,
+      360,
+      628,
+      877,
+      1345,
+      1424,
+      1702,
+      1919,
+      2251,
+      2289,
+      2295,
+      2332,
+      2391,
+      2427,
+      2489,
+      3112,
+      3203
+    ]
+  },
+  "he": {
+    "input/text/rfcs/rfc475.txt": [
+      1167,
+      1817,
+      2360
+    ]
+  },
+  "here": {
+    "input/text/rfcs/rfc475.txt": [
+      2532
+    ]
+  },
+  "him": {
+    "input/text/rfcs/rfc475.txt": [
+      1764,
+      1940
+    ]
+  },
+  "his": {
+    "input/text/rfcs/rfc475.txt": [
+      454,
+      501,
+      1401,
+      1445,
+      1759,
+      1810,
+      2199,
+      2235
+    ]
+  },
+  "home": {
+    "input/text/rfcs/rfc475.txt": [
+      1500,
+      1760
+    ]
+  },
+  "homebas": {
+    "input/text/rfcs/rfc475.txt": [
+      1704,
+      1741
+    ]
+  },
+  "host": {
+    "input/text/rfcs/rfc475.txt": [
+      162,
+      191,
+      370,
+      379,
+      503,
+      573,
+      636,
+      823,
+      838,
+      1042,
+      1485,
+      1502,
+      1556,
+      1742,
+      1745,
+      1761,
+      1799,
+      2042,
+      3207
+    ]
+  },
+  "how": {
+    "input/text/rfcs/rfc475.txt": [
+      580,
+      796,
+      1199
+    ]
+  },
+  "howev": {
+    "input/text/rfcs/rfc475.txt": [
+      607,
+      1223
+    ]
+  },
+  "human": {
+    "input/text/rfcs/rfc475.txt": [
+      2883
+    ]
+  },
+  "hundr": {
+    "input/text/rfcs/rfc475.txt": [
+      1689
+    ]
+  },
+  "i": {
+    "input/text/rfcs/rfc475.txt": [
+      3177
+    ]
+  },
+  "iccc": {
+    "input/text/rfcs/rfc475.txt": [
+      1985
+    ]
+  },
+  "ideal": {
+    "input/text/rfcs/rfc475.txt": [
+      1116
+    ]
+  },
+  "ident": {
+    "input/text/rfcs/rfc475.txt": [
+      634,
+      656,
+      753,
+      770,
+      785,
+      1534,
+      2481,
+      2999,
+      3069,
+      3086
+    ]
+  },
+  "identif": {
+    "input/text/rfcs/rfc475.txt": [
+      376,
+      382,
+      659,
+      2500,
+      2543
+    ]
+  },
+  "identifi": {
+    "input/text/rfcs/rfc475.txt": [
+      794,
+      1974,
+      2003,
+      2806,
+      2892,
+      2914,
+      2954,
+      2985,
+      3016
+    ]
+  },
+  "ie": {
+    "input/text/rfcs/rfc475.txt": [
+      1843,
+      1947
+    ]
+  },
+  "if": {
+    "input/text/rfcs/rfc475.txt": [
+      238,
+      565,
+      891,
+      921,
+      993,
+      1010,
+      1088,
+      1111,
+      1130,
+      1166,
+      1246,
+      1482,
+      1772,
+      1789,
+      2148,
+      2268,
+      2308,
+      2359,
+      2401,
+      2814,
+      2902,
+      2950,
+      2963,
+      3049
+    ]
+  },
+  "immedi": {
+    "input/text/rfcs/rfc475.txt": [
+      1257
+    ]
+  },
+  "implic": {
+    "input/text/rfcs/rfc475.txt": [
+      36
+    ]
+  },
+  "import": {
+    "input/text/rfcs/rfc475.txt": [
+      1299,
+      1788
+    ]
+  },
+  "improv": {
+    "input/text/rfcs/rfc475.txt": [
+      1237,
+      1302,
+      1908
+    ]
+  },
+  "in": {
+    "input/text/rfcs/rfc475.txt": [
+      203,
+      230,
+      325,
+      347,
+      391,
+      399,
+      447,
+      473,
+      645,
+      855,
+      1227,
+      1235,
+      1267,
+      1272,
+      1383,
+      1778,
+      1822,
+      1860,
+      1924,
+      1982,
+      2027,
+      2157,
+      2198,
+      2442,
+      2626,
+      2688,
+      2706,
+      2737,
+      2782,
+      2870,
+      2991,
+      3067,
+      3084,
+      3176
+    ]
+  },
+  "includ": {
+    "input/text/rfcs/rfc475.txt": [
+      153
+    ]
+  },
+  "incorpor": {
+    "input/text/rfcs/rfc475.txt": [
+      2684
+    ]
+  },
+  "indic": {
+    "input/text/rfcs/rfc475.txt": [
+      2594
+    ]
+  },
+  "individu": {
+    "input/text/rfcs/rfc475.txt": [
+      1536,
+      1540,
+      2072,
+      2076
+    ]
+  },
+  "ineffici": {
+    "input/text/rfcs/rfc475.txt": [
+      2187
+    ]
+  },
+  "inform": {
+    "input/text/rfcs/rfc475.txt": [
+      620,
+      671,
+      717,
+      774,
+      922,
+      951,
+      1023,
+      2050,
+      2255,
+      2458,
+      2508,
+      2528,
+      2886,
+      2955,
+      2974
+    ]
+  },
+  "input": {
+    "input/text/rfcs/rfc475.txt": [
+      2299
+    ]
+  },
+  "insofar": {
+    "input/text/rfcs/rfc475.txt": [
+      1055
+    ]
+  },
+  "instead": {
+    "input/text/rfcs/rfc475.txt": [
+      1148,
+      1604
+    ]
+  },
+  "inter": {
+    "input/text/rfcs/rfc475.txt": [
+      252
+    ]
+  },
+  "interact": {
+    "input/text/rfcs/rfc475.txt": [
+      212,
+      2159,
+      2171
+    ]
+  },
+  "interconsol": {
+    "input/text/rfcs/rfc475.txt": [
+      213
+    ]
+  },
+  "interent": {
+    "input/text/rfcs/rfc475.txt": [
+      272
+    ]
+  },
+  "intermedi": {
+    "input/text/rfcs/rfc475.txt": [
+      572,
+      822,
+      837,
+      879,
+      991,
+      994,
+      1017,
+      1053,
+      1090,
+      1328,
+      1507,
+      1593,
+      2907,
+      3037
+    ]
+  },
+  "interpret": {
+    "input/text/rfcs/rfc475.txt": [
+      2877
+    ]
+  },
+  "interprocess": {
+    "input/text/rfcs/rfc475.txt": [
+      270
+    ]
+  },
+  "into": {
+    "input/text/rfcs/rfc475.txt": [
+      2100,
+      2355,
+      2430,
+      3212,
+      3218
+    ]
+  },
+  "is": {
+    "input/text/rfcs/rfc475.txt": [
+      118,
+      193,
+      209,
+      240,
+      306,
+      312,
+      340,
+      383,
+      386,
+      497,
+      596,
+      606,
+      798,
+      868,
+      875,
+      916,
+      923,
+      944,
+      996,
+      1004,
+      1013,
+      1035,
+      1059,
+      1094,
+      1115,
+      1133,
+      1137,
+      1171,
+      1202,
+      1217,
+      1298,
+      1382,
+      1412,
+      1486,
+      1650,
+      1729,
+      1776,
+      1930,
+      1936,
+      2055,
+      2138,
+      2160,
+      2167,
+      2186,
+      2190,
+      2215,
+      2271,
+      2303,
+      2311,
+      2483,
+      2801,
+      2811,
+      2816,
+      2860,
+      2869,
+      2887,
+      2905,
+      2941,
+      2952,
+      2966,
+      3024,
+      3093,
+      3155,
+      3173
+    ]
+  },
+  "it": {
+    "input/text/rfcs/rfc475.txt": [
+      85,
+      192,
+      217,
+      257,
+      318,
+      320,
+      330,
+      354,
+      394,
+      641,
+      675,
+      775,
+      943,
+      972,
+      1003,
+      1007,
+      1136,
+      1247,
+      1256,
+      1549,
+      1561,
+      1586,
+      1649,
+      1662,
+      1825,
+      1884,
+      2063,
+      2243,
+      2275,
+      2309,
+      2317,
+      2366,
+      2471,
+      2482,
+      2739,
+      2774,
+      2810,
+      2868
+    ]
+  },
+  "item": {
+    "input/text/rfcs/rfc475.txt": [
+      1609,
+      2270
+    ]
+  },
+  "journal": {
+    "input/text/rfcs/rfc475.txt": [
+      1630,
+      2232,
+      2266,
+      2325,
+      2961
+    ]
+  },
+  "justifi": {
+    "input/text/rfcs/rfc475.txt": [
+      2636
+    ]
+  },
+  "keep": {
+    "input/text/rfcs/rfc475.txt": [
+      940
+    ]
+  },
+  "kelli": {
+    "input/text/rfcs/rfc475.txt": [
+      3224
+    ]
+  },
+  "kludg": {
+    "input/text/rfcs/rfc475.txt": [
+      2622,
+      2638
+    ]
+  },
+  "know": {
+    "input/text/rfcs/rfc475.txt": [
+      590,
+      1248,
+      1406,
+      1469,
+      1526
+    ]
+  },
+  "knowledg": {
+    "input/text/rfcs/rfc475.txt": [
+      2937
+    ]
+  },
+  "l": {
+    "input/text/rfcs/rfc475.txt": [
+      2925
+    ]
+  },
+  "lack": {
+    "input/text/rfcs/rfc475.txt": [
+      1676
+    ]
+  },
+  "larg": {
+    "input/text/rfcs/rfc475.txt": [
+      1175,
+      2433,
+      3165
+    ]
+  },
+  "last": {
+    "input/text/rfcs/rfc475.txt": [
+      767,
+      786
+    ]
+  },
+  "later": {
+    "input/text/rfcs/rfc475.txt": [
+      926,
+      1070
+    ]
+  },
+  "latter": {
+    "input/text/rfcs/rfc475.txt": [
+      719
+    ]
+  },
+  "like": {
+    "input/text/rfcs/rfc475.txt": [
+      3168
+    ]
+  },
+  "limit": {
+    "input/text/rfcs/rfc475.txt": [
+      1373
+    ]
+  },
+  "line": {
+    "input/text/rfcs/rfc475.txt": [
+      488,
+      979,
+      1378,
+      1660,
+      2207
+    ]
+  },
+  "lineat": {
+    "input/text/rfcs/rfc475.txt": [
+      1384
+    ]
+  },
+  "list": {
+    "input/text/rfcs/rfc475.txt": [
+      601,
+      609,
+      686
+    ]
+  },
+  "local": {
+    "input/text/rfcs/rfc475.txt": [
+      141,
+      502,
+      520,
+      668,
+      851,
+      1369,
+      1437,
+      1579,
+      1582,
+      2237
+    ]
+  },
+  "locat": {
+    "input/text/rfcs/rfc475.txt": [
+      579,
+      693,
+      764,
+      1331,
+      1694,
+      2079
+    ]
+  },
+  "log": {
+    "input/text/rfcs/rfc475.txt": [
+      1981,
+      2026,
+      2099,
+      2156,
+      2354,
+      2429
+    ]
+  },
+  "loggedin": {
+    "input/text/rfcs/rfc475.txt": [
+      242
+    ]
+  },
+  "login": {
+    "input/text/rfcs/rfc475.txt": [
+      1852
+    ]
+  },
+  "long": {
+    "input/text/rfcs/rfc475.txt": [
+      1262,
+      2600,
+      2926
+    ]
+  },
+  "look": {
+    "input/text/rfcs/rfc475.txt": [
+      682
+    ]
+  },
+  "lose": {
+    "input/text/rfcs/rfc475.txt": [
+      1673
+    ]
+  },
+  "machin": {
+    "input/text/rfcs/rfc475.txt": [
+      3169,
+      3213
+    ]
+  },
+  "mail": {
+    "input/text/rfcs/rfc475.txt": [
+      15,
+      28,
+      51,
+      64,
+      66,
+      73,
+      82,
+      96,
+      104,
+      139,
+      142,
+      155,
+      161,
+      168,
+      200,
+      207,
+      227,
+      234,
+      244,
+      286,
+      302,
+      311,
+      352,
+      398,
+      424,
+      428,
+      433,
+      477,
+      512,
+      540,
+      745,
+      834,
+      854,
+      858,
+      865,
+      889,
+      915,
+      938,
+      963,
+      1001,
+      1012,
+      1034,
+      1064,
+      1087,
+      1097,
+      1110,
+      1119,
+      1129,
+      1132,
+      1147,
+      1164,
+      1201,
+      1215,
+      1238,
+      1275,
+      1277,
+      1297,
+      1304,
+      1312,
+      1317,
+      1324,
+      1336,
+      1342,
+      1350,
+      1364,
+      1367,
+      1434,
+      1440,
+      1448,
+      1453,
+      1461,
+      1474,
+      1520,
+      1542,
+      1568,
+      1573,
+      1603,
+      1608,
+      1632,
+      1654,
+      1674,
+      1726,
+      1749,
+      1767,
+      1811,
+      1823,
+      1835,
+      1839,
+      1877,
+      1891,
+      1928,
+      1941,
+      1952,
+      1978,
+      2020,
+      2046,
+      2062,
+      2070,
+      2092,
+      2110,
+      2115,
+      2182,
+      2343,
+      2400,
+      2407,
+      2415,
+      2438,
+      2468,
+      2515,
+      2551,
+      2577,
+      2619,
+      2632,
+      2665,
+      2681,
+      2699,
+      2778,
+      2797,
+      2820,
+      2841,
+      2911,
+      2918,
+      2943,
+      2947,
+      3011,
+      3063,
+      3072,
+      3079,
+      3109,
+      3125,
+      3138,
+      3141,
+      3147,
+      3164,
+      3199
+    ]
+  },
+  "mailbox": {
+    "input/text/rfcs/rfc475.txt": [
+      186,
+      268,
+      291,
+      293,
+      305,
+      338,
+      356,
+      364,
+      366,
+      375,
+      381,
+      402,
+      405,
+      416,
+      603,
+      658,
+      669,
+      793,
+      803,
+      813,
+      1646,
+      1738,
+      1796,
+      1819,
+      2038,
+      2461,
+      2526,
+      2805,
+      3204
+    ]
+  },
+  "mailrel": {
+    "input/text/rfcs/rfc475.txt": [
+      1901
+    ]
+  },
+  "maintain": {
+    "input/text/rfcs/rfc475.txt": [
+      613,
+      650,
+      663,
+      724,
+      751
+    ]
+  },
+  "mani": {
+    "input/text/rfcs/rfc475.txt": [
+      150,
+      2122,
+      2383,
+      2474,
+      2724
+    ]
+  },
+  "manner": {
+    "input/text/rfcs/rfc475.txt": [
+      446,
+      3070,
+      3087
+    ]
+  },
+  "map": {
+    "input/text/rfcs/rfc475.txt": [
+      654
+    ]
+  },
+  "march": {
+    "input/text/rfcs/rfc475.txt": [
+      11,
+      426,
+      867,
+      1314,
+      1728,
+      2184,
+      2621,
+      3013
+    ]
+  },
+  "may": {
+    "input/text/rfcs/rfc475.txt": [
+      218,
+      258,
+      321,
+      331,
+      395,
+      470,
+      534,
+      776,
+      806,
+      842,
+      1043,
+      1123,
+      1188,
+      1264,
+      1390,
+      1514,
+      1557,
+      1562,
+      1574,
+      1587,
+      1597,
+      1684,
+      1897,
+      2250,
+      2488,
+      2711,
+      3000,
+      3151
+    ]
+  },
+  "me": {
+    "input/text/rfcs/rfc475.txt": [
+      2722
+    ]
+  },
+  "mean": {
+    "input/text/rfcs/rfc475.txt": [
+      2350
+    ]
+  },
+  "mechan": {
+    "input/text/rfcs/rfc475.txt": [
+      1081,
+      1920
+    ]
+  },
+  "meet": {
+    "input/text/rfcs/rfc475.txt": [
+      30,
+      48
+    ]
+  },
+  "member": {
+    "input/text/rfcs/rfc475.txt": [
+      2522
+    ]
+  },
+  "merit": {
+    "input/text/rfcs/rfc475.txt": [
+      3190
+    ]
+  },
+  "messag": {
+    "input/text/rfcs/rfc475.txt": [
+      179,
+      198,
+      263,
+      455,
+      464,
+      529,
+      532,
+      556,
+      578,
+      797,
+      805,
+      1250,
+      1263,
+      1570,
+      2363,
+      2371,
+      2595
+    ]
+  },
+  "mile": {
+    "input/text/rfcs/rfc475.txt": [
+      1690
+    ]
+  },
+  "minihost": {
+    "input/text/rfcs/rfc475.txt": [
+      1419
+    ]
+  },
+  "miss": {
+    "input/text/rfcs/rfc475.txt": [
+      2686,
+      2727
+    ]
+  },
+  "mitdmcg": {
+    "input/text/rfcs/rfc475.txt": [
+      9,
+      165,
+      1987,
+      2025
+    ]
+  },
+  "mlfl": {
+    "input/text/rfcs/rfc475.txt": [
+      95,
+      542,
+      544,
+      1463,
+      2634,
+      2667,
+      2701,
+      3089
+    ]
+  },
+  "mlto": {
+    "input/text/rfcs/rfc475.txt": [
+      2796
+    ]
+  },
+  "mode": {
+    "input/text/rfcs/rfc475.txt": [
+      1386
+    ]
+  },
+  "model": {
+    "input/text/rfcs/rfc475.txt": [
+      1315,
+      1348,
+      1411,
+      1493
+    ]
+  },
+  "modif": {
+    "input/text/rfcs/rfc475.txt": [
+      2566
+    ]
+  },
+  "modifi": {
+    "input/text/rfcs/rfc475.txt": [
+      148
+    ]
+  },
+  "more": {
+    "input/text/rfcs/rfc475.txt": [
+      119,
+      190,
+      1564,
+      1787,
+      2804,
+      3174
+    ]
+  },
+  "most": {
+    "input/text/rfcs/rfc475.txt": [
+      498,
+      1712,
+      2141,
+      2493,
+      2643
+    ]
+  },
+  "mtyp": {
+    "input/text/rfcs/rfc475.txt": [
+      2910
+    ]
+  },
+  "much": {
+    "input/text/rfcs/rfc475.txt": [
+      2203
+    ]
+  },
+  "multic": {
+    "input/text/rfcs/rfc475.txt": [
+      1918
+    ]
+  },
+  "multipl": {
+    "input/text/rfcs/rfc475.txt": [
+      906
+    ]
+  },
+  "must": {
+    "input/text/rfcs/rfc475.txt": [
+      2353
+    ]
+  },
+  "my": {
+    "input/text/rfcs/rfc475.txt": [
+      20
+    ]
+  },
+  "name": {
+    "input/text/rfcs/rfc475.txt": [
+      768,
+      787,
+      2310
+    ]
+  },
+  "necessari": {
+    "input/text/rfcs/rfc475.txt": [
+      1139
+    ]
+  },
+  "need": {
+    "input/text/rfcs/rfc475.txt": [
+      123,
+      749,
+      959,
+      1396,
+      1404,
+      1467,
+      1524,
+      2435,
+      2449,
+      3101,
+      3115
+    ]
+  },
+  "network": {
+    "input/text/rfcs/rfc475.txt": [
+      1,
+      14,
+      27,
+      50,
+      138,
+      154,
+      167,
+      182,
+      206,
+      285,
+      301,
+      363,
+      415,
+      423,
+      427,
+      432,
+      494,
+      511,
+      611,
+      619,
+      626,
+      673,
+      864,
+      1303,
+      1311,
+      1725,
+      1912,
+      1986,
+      2049,
+      2153,
+      2181,
+      2411,
+      2464,
+      2618,
+      3010
+    ]
+  },
+  "networkus": {
+    "input/text/rfcs/rfc475.txt": [
+      1989
+    ]
+  },
+  "new": {
+    "input/text/rfcs/rfc475.txt": [
+      2656,
+      2676,
+      2680,
+      2692,
+      2793,
+      3104
+    ]
+  },
+  "nic": {
+    "input/text/rfcs/rfc475.txt": [
+      10,
+      622,
+      633,
+      640,
+      655,
+      661,
+      690,
+      697,
+      723,
+      752,
+      757,
+      769,
+      784,
+      827,
+      1093,
+      1114,
+      1511,
+      1533,
+      1625,
+      1629,
+      2054,
+      2083,
+      2095,
+      2102,
+      2137,
+      2164,
+      2189,
+      2214,
+      2219,
+      2245,
+      2287,
+      2340,
+      2356,
+      2399,
+      2403,
+      2432,
+      2453,
+      2480,
+      2499,
+      2534,
+      2654,
+      2960,
+      2998,
+      3004
+    ]
+  },
+  "nls": {
+    "input/text/rfcs/rfc475.txt": [
+      2105,
+      2112,
+      2166,
+      2292,
+      2305,
+      2315,
+      2505
+    ]
+  },
+  "no": {
+    "input/text/rfcs/rfc475.txt": [
+      597,
+      2817,
+      2964,
+      3057,
+      3074
+    ]
+  },
+  "non": {
+    "input/text/rfcs/rfc475.txt": [
+      1900
+    ]
+  },
+  "normal": {
+    "input/text/rfcs/rfc475.txt": [
+      1701,
+      1942
+    ]
+  },
+  "not": {
+    "input/text/rfcs/rfc475.txt": [
+      124,
+      194,
+      210,
+      248,
+      460,
+      750,
+      830,
+      849,
+      910,
+      933,
+      960,
+      983,
+      1077,
+      1138,
+      1423,
+      1525,
+      1639,
+      1847,
+      1898,
+      1968,
+      2373,
+      2426,
+      2436,
+      2478,
+      2571,
+      2762
+    ]
+  },
+  "note": {
+    "input/text/rfcs/rfc475.txt": [
+      1887
+    ]
+  },
+  "notif": {
+    "input/text/rfcs/rfc475.txt": [
+      1271,
+      1765
+    ]
+  },
+  "number": {
+    "input/text/rfcs/rfc475.txt": [
+      734,
+      1626,
+      1794,
+      2267,
+      2518,
+      2962
+    ]
+  },
+  "nwgrfc": {
+    "input/text/rfcs/rfc475.txt": [
+      1179,
+      1775,
+      3188
+    ]
+  },
+  "o": {
+    "input/text/rfcs/rfc475.txt": [
+      2922
+    ]
+  },
+  "obtain": {
+    "input/text/rfcs/rfc475.txt": [
+      732
+    ]
+  },
+  "of": {
+    "input/text/rfcs/rfc475.txt": [
+      22,
+      25,
+      283,
+      290,
+      300,
+      476,
+      551,
+      555,
+      602,
+      610,
+      721,
+      735,
+      888,
+      1033,
+      1102,
+      1145,
+      1293,
+      1296,
+      1322,
+      1498,
+      1539,
+      1601,
+      1605,
+      1627,
+      1669,
+      1672,
+      1677,
+      1695,
+      1713,
+      1766,
+      1795,
+      1863,
+      1875,
+      1927,
+      1977,
+      2075,
+      2090,
+      2143,
+      2213,
+      2463,
+      2495,
+      2609,
+      2630,
+      2644,
+      2674,
+      2725,
+      2838,
+      2863,
+      2917,
+      2988,
+      3019,
+      3062,
+      3078,
+      3096,
+      3124,
+      3198
+    ]
+  },
+  "on": {
+    "input/text/rfcs/rfc475.txt": [
+      32,
+      974,
+      1546,
+      1768,
+      1797,
+      2459,
+      2509,
+      2639,
+      2830,
+      3046
+    ]
+  },
+  "one": {
+    "input/text/rfcs/rfc475.txt": [
+      188,
+      1949,
+      2149,
+      2491,
+      2802
+    ]
+  },
+  "onli": {
+    "input/text/rfcs/rfc475.txt": [
+      1149,
+      1165,
+      1395,
+      2446,
+      2490,
+      2506,
+      2651,
+      3121
+    ]
+  },
+  "onlin": {
+    "input/text/rfcs/rfc475.txt": [
+      362,
+      414,
+      600,
+      614,
+      664,
+      691,
+      702,
+      1621,
+      2347,
+      2348,
+      2398,
+      2525,
+      3220
+    ]
+  },
+  "option": {
+    "input/text/rfcs/rfc475.txt": [
+      2839
+    ]
+  },
+  "or": {
+    "input/text/rfcs/rfc475.txt": [
+      189,
+      199,
+      329,
+      452,
+      541,
+      599,
+      687,
+      771,
+      816,
+      819,
+      890,
+      928,
+      939,
+      955,
+      978,
+      1427,
+      1439,
+      1447,
+      1462,
+      1560,
+      1585,
+      1645,
+      1687,
+      1802,
+      1881,
+      2045,
+      2165,
+      2803,
+      2828,
+      2853,
+      2866,
+      2981,
+      3048
+    ]
+  },
+  "order": {
+    "input/text/rfcs/rfc475.txt": [
+      348,
+      392
+    ]
+  },
+  "ordinari": {
+    "input/text/rfcs/rfc475.txt": [
+      2598,
+      2923,
+      2942
+    ]
+  },
+  "other": {
+    "input/text/rfcs/rfc475.txt": [
+      181,
+      789,
+      1121,
+      1418,
+      1512,
+      2328,
+      2733,
+      2767,
+      3126,
+      3158
+    ]
+  },
+  "out": {
+    "input/text/rfcs/rfc475.txt": [
+      973,
+      2715
+    ]
+  },
+  "output": {
+    "input/text/rfcs/rfc475.txt": [
+      2337
+    ]
+  },
+  "over": {
+    "input/text/rfcs/rfc475.txt": [
+      492,
+      3064,
+      3080
+    ]
+  },
+  "overcom": {
+    "input/text/rfcs/rfc475.txt": [
+      2602
+    ]
+  },
+  "overhead": {
+    "input/text/rfcs/rfc475.txt": [
+      1880
+    ]
+  },
+  "overload": {
+    "input/text/rfcs/rfc475.txt": [
+      2139
+    ]
+  },
+  "own": {
+    "input/text/rfcs/rfc475.txt": [
+      2236
+    ]
+  },
+  "page": {
+    "input/text/rfcs/rfc475.txt": [
+      419,
+      860,
+      1307,
+      1721,
+      2177,
+      2614,
+      3006,
+      3228
+    ]
+  },
+  "paper": {
+    "input/text/rfcs/rfc475.txt": [
+      18
+    ]
+  },
+  "particip": {
+    "input/text/rfcs/rfc475.txt": [
+      612,
+      674,
+      2465
+    ]
+  },
+  "particular": {
+    "input/text/rfcs/rfc475.txt": [
+      1172,
+      2191
+    ]
+  },
+  "pass": {
+    "input/text/rfcs/rfc475.txt": [
+      1856
+    ]
+  },
+  "pathnam": {
+    "input/text/rfcs/rfc475.txt": [
+      1193,
+      2628,
+      3095
+    ]
+  },
+  "pdps": {
+    "input/text/rfcs/rfc475.txt": [
+      3172
+    ]
+  },
+  "perhap": {
+    "input/text/rfcs/rfc475.txt": [
+      1195
+    ]
+  },
+  "phase": {
+    "input/text/rfcs/rfc475.txt": [
+      2714
+    ]
+  },
+  "pick": {
+    "input/text/rfcs/rfc475.txt": [
+      317
+    ]
+  },
+  "place": {
+    "input/text/rfcs/rfc475.txt": [
+      308
+    ]
+  },
+  "possibl": {
+    "input/text/rfcs/rfc475.txt": [
+      220,
+      260,
+      678,
+      1651,
+      1671,
+      2279,
+      2320
+    ]
+  },
+  "prefer": {
+    "input/text/rfcs/rfc475.txt": [
+      546,
+      2772
+    ]
+  },
+  "present": {
+    "input/text/rfcs/rfc475.txt": [
+      548,
+      1204,
+      2708,
+      2784,
+      2951,
+      2967
+    ]
+  },
+  "previous": {
+    "input/text/rfcs/rfc475.txt": [
+      2336
+    ]
+  },
+  "print": {
+    "input/text/rfcs/rfc475.txt": [
+      233,
+      971,
+      2368,
+      2829
+    ]
+  },
+  "printer": {
+    "input/text/rfcs/rfc475.txt": [
+      980,
+      1661,
+      2832
+    ]
+  },
+  "privaci": {
+    "input/text/rfcs/rfc475.txt": [
+      1678
+    ]
+  },
+  "privileg": {
+    "input/text/rfcs/rfc475.txt": [
+      1962,
+      3137
+    ]
+  },
+  "problem": {
+    "input/text/rfcs/rfc475.txt": [
+      1719,
+      2135
+    ]
+  },
+  "procedur": {
+    "input/text/rfcs/rfc475.txt": [
+      986
+    ]
+  },
+  "process": {
+    "input/text/rfcs/rfc475.txt": [
+      253,
+      2690
+    ]
+  },
+  "program": {
+    "input/text/rfcs/rfc475.txt": [
+      145,
+      265,
+      712,
+      1285,
+      1399,
+      1429,
+      1449,
+      1481,
+      2223,
+      2549,
+      2552,
+      2582,
+      2745,
+      2779,
+      2879
+    ]
+  },
+  "propos": {
+    "input/text/rfcs/rfc475.txt": [
+      3183
+    ]
+  },
+  "protocol": {
+    "input/text/rfcs/rfc475.txt": [
+      41
+    ]
+  },
+  "provid": {
+    "input/text/rfcs/rfc475.txt": [
+      59,
+      137,
+      171,
+      249,
+      436,
+      462,
+      700,
+      759,
+      832,
+      1078,
+      1236,
+      1515,
+      1641,
+      1747,
+      2064,
+      2088,
+      2538,
+      2572
+    ]
+  },
+  "publish": {
+    "input/text/rfcs/rfc475.txt": [
+      598,
+      616,
+      666,
+      685
+    ]
+  },
+  "put": {
+    "input/text/rfcs/rfc475.txt": [
+      396,
+      1266,
+      3211
+    ]
+  },
+  "querri": {
+    "input/text/rfcs/rfc475.txt": [
+      688,
+      1752,
+      2547
+    ]
+  },
+  "quit": {
+    "input/text/rfcs/rfc475.txt": [
+      2161
+    ]
+  },
+  "rather": {
+    "input/text/rfcs/rfc475.txt": [
+      2750
+    ]
+  },
+  "rdmf": {
+    "input/text/rfcs/rfc475.txt": [
+      1803,
+      3181
+    ]
+  },
+  "rdml": {
+    "input/text/rfcs/rfc475.txt": [
+      1773,
+      1801,
+      3179
+    ]
+  },
+  "read": {
+    "input/text/rfcs/rfc475.txt": [
+      919,
+      953,
+      1198,
+      1207,
+      1216,
+      1239,
+      1284,
+      1341,
+      1750,
+      1809,
+      2365
+    ]
+  },
+  "readabl": {
+    "input/text/rfcs/rfc475.txt": [
+      2583,
+      3214
+    ]
+  },
+  "realtim": {
+    "input/text/rfcs/rfc475.txt": [
+      204,
+      231,
+      2980
+    ]
+  },
+  "receipt": {
+    "input/text/rfcs/rfc475.txt": [
+      1926
+    ]
+  },
+  "receiv": {
+    "input/text/rfcs/rfc475.txt": [
+      583,
+      592,
+      946,
+      958,
+      1084,
+      1160,
+      1220,
+      1234,
+      1244,
+      1838,
+      1876,
+      2015,
+      2031,
+      2904,
+      2928
+    ]
+  },
+  "recent": {
+    "input/text/rfcs/rfc475.txt": [
+      2130
+    ]
+  },
+  "reco": {
+    "input/text/rfcs/rfc475.txt": [
+      2944
+    ]
+  },
+  "recogn": {
+    "input/text/rfcs/rfc475.txt": [
+      846,
+      2484,
+      2671
+    ]
+  },
+  "recommend": {
+    "input/text/rfcs/rfc475.txt": [
+      902
+    ]
+  },
+  "record": {
+    "input/text/rfcs/rfc475.txt": [
+      1061,
+      1068,
+      1086,
+      1109,
+      1118,
+      1127,
+      1134,
+      1333,
+      1545,
+      2067,
+      2274,
+      2576,
+      2945,
+      2957,
+      2973,
+      3146
+    ]
+  },
+  "refer": {
+    "input/text/rfcs/rfc475.txt": [
+      411,
+      443,
+      927,
+      954,
+      1071,
+      1612
+    ]
+  },
+  "regular": {
+    "input/text/rfcs/rfc475.txt": [
+      1274
+    ]
+  },
+  "reiniti": {
+    "input/text/rfcs/rfc475.txt": [
+      1904
+    ]
+  },
+  "relat": {
+    "input/text/rfcs/rfc475.txt": [
+      2842
+    ]
+  },
+  "relev": {
+    "input/text/rfcs/rfc475.txt": [
+      3035
+    ]
+  },
+  "remot": {
+    "input/text/rfcs/rfc475.txt": [
+      2173
+    ]
+  },
+  "rent": {
+    "input/text/rfcs/rfc475.txt": [
+      1737
+    ]
+  },
+  "repli": {
+    "input/text/rfcs/rfc475.txt": [
+      2013,
+      2035,
+      2897,
+      2979,
+      3105,
+      3117,
+      3127
+    ]
+  },
+  "request": {
+    "input/text/rfcs/rfc475.txt": [
+      6,
+      885,
+      1113,
+      1290,
+      1444,
+      1547,
+      1758,
+      2591,
+      3130
+    ]
+  },
+  "requir": {
+    "input/text/rfcs/rfc475.txt": [
+      109,
+      195,
+      343,
+      387,
+      911,
+      934,
+      1733,
+      1833,
+      1848,
+      1906,
+      1959,
+      2096,
+      3002
+    ]
+  },
+  "respect": {
+    "input/text/rfcs/rfc475.txt": [
+      2479
+    ]
+  },
+  "respons": {
+    "input/text/rfcs/rfc475.txt": [
+      560,
+      947,
+      2826
+    ]
+  },
+  "restructuredinto": {
+    "input/text/rfcs/rfc475.txt": [
+      2291
+    ]
+  },
+  "result": {
+    "input/text/rfcs/rfc475.txt": [
+      24
+    ]
+  },
+  "retriev": {
+    "input/text/rfcs/rfc475.txt": [
+      714,
+      929,
+      956,
+      1073,
+      1162,
+      1192,
+      1287,
+      1620,
+      2324,
+      2554,
+      3097
+    ]
+  },
+  "return": {
+    "input/text/rfcs/rfc475.txt": [
+      881,
+      1020
+    ]
+  },
+  "rfc": {
+    "input/text/rfcs/rfc475.txt": [
+      420,
+      861,
+      1308,
+      1722,
+      2178,
+      2615,
+      3007,
+      3209,
+      3221
+    ]
+  },
+  "scope": {
+    "input/text/rfcs/rfc475.txt": [
+      282
+    ]
+  },
+  "search": {
+    "input/text/rfcs/rfc475.txt": [
+      88,
+      125
+    ]
+  },
+  "second": {
+    "input/text/rfcs/rfc475.txt": [
+      2756
+    ]
+  },
+  "see": {
+    "input/text/rfcs/rfc475.txt": [
+      2358
+    ]
+  },
+  "seem": {
+    "input/text/rfcs/rfc475.txt": [
+      561,
+      1663,
+      1969,
+      1994,
+      2719,
+      2771
+    ]
+  },
+  "seen": {
+    "input/text/rfcs/rfc475.txt": [
+      2374
+    ]
+  },
+  "select": {
+    "input/text/rfcs/rfc475.txt": [
+      1291
+    ]
+  },
+  "send": {
+    "input/text/rfcs/rfc475.txt": [
+      72,
+      103,
+      178,
+      350,
+      577,
+      795,
+      1032,
+      1039,
+      1047,
+      1141,
+      1363,
+      1451,
+      1480,
+      1550,
+      1598,
+      1653,
+      1763,
+      1853,
+      1939,
+      1951,
+      2010,
+      2034,
+      2283,
+      2581,
+      2896,
+      2900,
+      2976,
+      3044,
+      3120
+    ]
+  },
+  "sender": {
+    "input/text/rfcs/rfc475.txt": [
+      346,
+      559,
+      581,
+      589,
+      936,
+      1026,
+      1230,
+      1976,
+      2005,
+      2579,
+      2865,
+      2867,
+      2894
+    ]
+  },
+  "sent": {
+    "input/text/rfcs/rfc475.txt": [
+      799,
+      808,
+      1157,
+      2264,
+      2451,
+      2823
+    ]
+  },
+  "separ": {
+    "input/text/rfcs/rfc475.txt": [
+      1268,
+      1991,
+      2562,
+      2807
+    ]
+  },
+  "sequenc": {
+    "input/text/rfcs/rfc475.txt": [
+      92,
+      130,
+      2837,
+      2847,
+      3031
+    ]
+  },
+  "sequenti": {
+    "input/text/rfcs/rfc475.txt": [
+      2284,
+      2300,
+      2329,
+      2338
+    ]
+  },
+  "server": {
+    "input/text/rfcs/rfc475.txt": [
+      79,
+      122,
+      458,
+      467,
+      649,
+      748,
+      782,
+      841,
+      1361,
+      1388,
+      1644,
+      1845,
+      1870,
+      2476,
+      2969,
+      2997,
+      3042
+    ]
+  },
+  "servic": {
+    "input/text/rfcs/rfc475.txt": [
+      1517
+    ]
+  },
+  "sever": {
+    "input/text/rfcs/rfc475.txt": [
+      727,
+      1686,
+      1688,
+      2380
+    ]
+  },
+  "should": {
+    "input/text/rfcs/rfc475.txt": [
+      53,
+      170,
+      435,
+      507,
+      570,
+      1019,
+      1062,
+      1832,
+      1840,
+      1846,
+      1871,
+      1885,
+      2262,
+      2276,
+      2318,
+      2821
+    ]
+  },
+  "similar": {
+    "input/text/rfcs/rfc475.txt": [
+      704,
+      1028
+    ]
+  },
+  "sinc": {
+    "input/text/rfcs/rfc475.txt": [
+      2470
+    ]
+  },
+  "site": {
+    "input/text/rfcs/rfc475.txt": [
+      151,
+      223,
+      637,
+      880,
+      992,
+      995,
+      1018,
+      1040,
+      1048,
+      1091,
+      1105,
+      1122,
+      1221,
+      1329,
+      1402,
+      1508,
+      1513,
+      1580,
+      1594,
+      1815,
+      2016,
+      2227,
+      2734,
+      2909,
+      3039,
+      3111
+    ]
+  },
+  "situat": {
+    "input/text/rfcs/rfc475.txt": [
+      1029
+    ]
+  },
+  "six": {
+    "input/text/rfcs/rfc475.txt": [
+      439
+    ]
+  },
+  "sketchi": {
+    "input/text/rfcs/rfc475.txt": [
+      773
+    ]
+  },
+  "slow": {
+    "input/text/rfcs/rfc475.txt": [
+      2162
+    ]
+  },
+  "sndmsg": {
+    "input/text/rfcs/rfc475.txt": [
+      144,
+      2043
+    ]
+  },
+  "so": {
+    "input/text/rfcs/rfc475.txt": [
+      1112,
+      1667
+    ]
+  },
+  "solv": {
+    "input/text/rfcs/rfc475.txt": [
+      1731
+    ]
+  },
+  "some": {
+    "input/text/rfcs/rfc475.txt": [
+      222,
+      1914,
+      2825,
+      3110
+    ]
+  },
+  "somewhat": {
+    "input/text/rfcs/rfc475.txt": [
+      2669
+    ]
+  },
+  "special": {
+    "input/text/rfcs/rfc475.txt": [
+      128,
+      1413,
+      2058
+    ]
+  },
+  "specif": {
+    "input/text/rfcs/rfc475.txt": [
+      901,
+      1831,
+      3129
+    ]
+  },
+  "specifi": {
+    "input/text/rfcs/rfc475.txt": [
+      644,
+      896,
+      984,
+      1934,
+      2253,
+      2585,
+      3054
+    ]
+  },
+  "speed": {
+    "input/text/rfcs/rfc475.txt": [
+      2421
+    ]
+  },
+  "sriarc": {
+    "input/text/rfcs/rfc475.txt": [
+      31,
+      624
+    ]
+  },
+  "standard": {
+    "input/text/rfcs/rfc475.txt": [
+      790,
+      2872
+    ]
+  },
+  "start": {
+    "input/text/rfcs/rfc475.txt": [
+      2835,
+      3059,
+      3076
+    ]
+  },
+  "still": {
+    "input/text/rfcs/rfc475.txt": [
+      777
+    ]
+  },
+  "storag": {
+    "input/text/rfcs/rfc475.txt": [
+      988
+    ]
+  },
+  "store": {
+    "input/text/rfcs/rfc475.txt": [
+      313,
+      913,
+      917,
+      937,
+      949,
+      961
+    ]
+  },
+  "string": {
+    "input/text/rfcs/rfc475.txt": [
+      3027
+    ]
+  },
+  "subsystem": {
+    "input/text/rfcs/rfc475.txt": [
+      2501,
+      2544
+    ]
+  },
+  "such": {
+    "input/text/rfcs/rfc475.txt": [
+      481,
+      824,
+      1103,
+      1177,
+      1509,
+      1622,
+      1658,
+      1743,
+      1784,
+      1916,
+      1996,
+      2254,
+      2511,
+      2958,
+      3118,
+      3133,
+      3170
+    ]
+  },
+  "suffix": {
+    "input/text/rfcs/rfc475.txt": [
+      2312
+    ]
+  },
+  "suggest": {
+    "input/text/rfcs/rfc475.txt": [
+      1828,
+      2302,
+      2812,
+      3149
+    ]
+  },
+  "syntax": {
+    "input/text/rfcs/rfc475.txt": [
+      2629,
+      2754
+    ]
+  },
+  "system": {
+    "input/text/rfcs/rfc475.txt": [
+      16,
+      29,
+      169,
+      208,
+      245,
+      287,
+      303,
+      425,
+      429,
+      434,
+      522,
+      866,
+      1245,
+      1305,
+      1313,
+      1318,
+      1325,
+      1351,
+      1441,
+      1727,
+      1824,
+      1915,
+      2129,
+      2183,
+      2239,
+      2620,
+      2929,
+      3012
+    ]
+  },
+  "tabl": {
+    "input/text/rfcs/rfc475.txt": [
+      652,
+      754
+    ]
+  },
+  "tag": {
+    "input/text/rfcs/rfc475.txt": [
+      2018
+    ]
+  },
+  "take": {
+    "input/text/rfcs/rfc475.txt": [
+      2607,
+      2931
+    ]
+  },
+  "tardif": {
+    "input/text/rfcs/rfc475.txt": [
+      3225
+    ]
+  },
+  "telephon": {
+    "input/text/rfcs/rfc475.txt": [
+      2517
+    ]
+  },
+  "telnet": {
+    "input/text/rfcs/rfc475.txt": [
+      76,
+      815,
+      3065
+    ]
+  },
+  "term": {
+    "input/text/rfcs/rfc475.txt": [
+      404
+    ]
+  },
+  "termin": {
+    "input/text/rfcs/rfc475.txt": [
+      1657,
+      1771,
+      2154
+    ]
+  },
+  "text": {
+    "input/text/rfcs/rfc475.txt": [
+      2851,
+      3056
+    ]
+  },
+  "than": {
+    "input/text/rfcs/rfc475.txt": [
+      2751,
+      3159
+    ]
+  },
+  "that": {
+    "input/text/rfcs/rfc475.txt": [
+      49,
+      196,
+      378,
+      384,
+      393,
+      587,
+      647,
+      653,
+      707,
+      780,
+      903,
+      935,
+      1214,
+      1282,
+      1682,
+      1734,
+      1829,
+      1834,
+      1888,
+      1929,
+      2097,
+      2136,
+      2351,
+      2473,
+      2485,
+      2642,
+      2813,
+      2874,
+      3150
+    ]
+  },
+  "the": {
+    "input/text/rfcs/rfc475.txt": [
+      23,
+      26,
+      35,
+      47,
+      65,
+      75,
+      78,
+      81,
+      90,
+      94,
+      106,
+      114,
+      166,
+      197,
+      205,
+      243,
+      281,
+      284,
+      288,
+      310,
+      326,
+      337,
+      341,
+      345,
+      351,
+      365,
+      369,
+      373,
+      380,
+      397,
+      400,
+      403,
+      413,
+      431,
+      437,
+      445,
+      449,
+      456,
+      474,
+      493,
+      495,
+      514,
+      531,
+      539,
+      547,
+      553,
+      588,
+      591,
+      618,
+      625,
+      639,
+      660,
+      667,
+      689,
+      696,
+      715,
+      722,
+      729,
+      746,
+      756,
+      801,
+      804,
+      811,
+      826,
+      856,
+      878,
+      898,
+      930,
+      945,
+      950,
+      957,
+      962,
+      985,
+      1000,
+      1011,
+      1016,
+      1021,
+      1025,
+      1038,
+      1046,
+      1057,
+      1063,
+      1083,
+      1092,
+      1128,
+      1131,
+      1142,
+      1146,
+      1153,
+      1159,
+      1163,
+      1186,
+      1200,
+      1209,
+      1219,
+      1229,
+      1233,
+      1243,
+      1283,
+      1320,
+      1346,
+      1353,
+      1358,
+      1366,
+      1393,
+      1407,
+      1430,
+      1433,
+      1452,
+      1456,
+      1459,
+      1465,
+      1470,
+      1473,
+      1479,
+      1483,
+      1496,
+      1503,
+      1522,
+      1527,
+      1541,
+      1554,
+      1569,
+      1578,
+      1592,
+      1595,
+      1602,
+      1606,
+      1610,
+      1624,
+      1636,
+      1670,
+      1675,
+      1680,
+      1693,
+      1696,
+      1698,
+      1714,
+      1716,
+      1790,
+      1800,
+      1814,
+      1849,
+      1854,
+      1861,
+      1864,
+      1868,
+      1873,
+      1911,
+      1925,
+      1953,
+      1964,
+      1970,
+      1975,
+      2004,
+      2014,
+      2019,
+      2030,
+      2037,
+      2053,
+      2082,
+      2094,
+      2101,
+      2144,
+      2158,
+      2175,
+      2194,
+      2218,
+      2225,
+      2228,
+      2248,
+      2260,
+      2269,
+      2306,
+      2339,
+      2370,
+      2376,
+      2402,
+      2414,
+      2423,
+      2431,
+      2440,
+      2452,
+      2457,
+      2460,
+      2492,
+      2498,
+      2524,
+      2533,
+      2542,
+      2555,
+      2567,
+      2610,
+      2623,
+      2627,
+      2631,
+      2637,
+      2640,
+      2645,
+      2653,
+      2659,
+      2664,
+      2672,
+      2675,
+      2685,
+      2689,
+      2695,
+      2698,
+      2716,
+      2726,
+      2755,
+      2758,
+      2768,
+      2787,
+      2791,
+      2799,
+      2819,
+      2836,
+      2846,
+      2850,
+      2858,
+      2861,
+      2864,
+      2885,
+      2893,
+      2903,
+      2915,
+      2927,
+      2932,
+      2938,
+      2946,
+      2948,
+      2953,
+      2968,
+      2972,
+      2986,
+      2989,
+      2996,
+      3017,
+      3020,
+      3022,
+      3030,
+      3041,
+      3060,
+      3081,
+      3094,
+      3114,
+      3178,
+      3196,
+      3219
+    ]
+  },
+  "their": {
+    "input/text/rfcs/rfc475.txt": [
+      1709,
+      1740,
+      2386,
+      2397,
+      2443,
+      2707,
+      2783
+    ]
+  },
+  "them": {
+    "input/text/rfcs/rfc475.txt": [
+      2290
+    ]
+  },
+  "then": {
+    "input/text/rfcs/rfc475.txt": [
+      535,
+      1015,
+      1049,
+      1099,
+      1135,
+      1443,
+      1945,
+      2033,
+      2241,
+      2413
+    ]
+  },
+  "there": {
+    "input/text/rfcs/rfc475.txt": [
+      42,
+      595,
+      605,
+      1224,
+      2131,
+      2815
+    ]
+  },
+  "therefor": {
+    "input/text/rfcs/rfc475.txt": [
+      643,
+      1344
+    ]
+  },
+  "these": {
+    "input/text/rfcs/rfc475.txt": [
+      131,
+      506,
+      742,
+      2496,
+      2603
+    ]
+  },
+  "they": {
+    "input/text/rfcs/rfc475.txt": [
+      566,
+      1707,
+      2390,
+      3193
+    ]
+  },
+  "third": {
+    "input/text/rfcs/rfc475.txt": [
+      2759,
+      2769,
+      2788
+    ]
+  },
+  "this": {
+    "input/text/rfcs/rfc475.txt": [
+      17,
+      298,
+      442,
+      718,
+      912,
+      1170,
+      1410,
+      1492,
+      1889,
+      1905,
+      2558,
+      2833,
+      2913,
+      2936,
+      3208
+    ]
+  },
+  "thoma": {
+    "input/text/rfcs/rfc475.txt": [
+      3187
+    ]
+  },
+  "those": {
+    "input/text/rfcs/rfc475.txt": [
+      483
+    ]
+  },
+  "though": {
+    "input/text/rfcs/rfc475.txt": [
+      256
+    ]
+  },
+  "time": {
+    "input/text/rfcs/rfc475.txt": [
+      897,
+      1715,
+      2142,
+      2417,
+      3055
+    ]
+  },
+  "tip": {
+    "input/text/rfcs/rfc475.txt": [
+      563,
+      1416,
+      1488,
+      1634,
+      1637,
+      1656,
+      1697,
+      1699,
+      1717,
+      1735,
+      1755,
+      1770,
+      1780
+    ]
+  },
+  "titl": {
+    "input/text/rfcs/rfc475.txt": [
+      1191,
+      2258,
+      2588,
+      3014,
+      3015,
+      3018
+    ]
+  },
+  "to": {
+    "input/text/rfcs/rfc475.txt": [
+      71,
+      102,
+      112,
+      136,
+      152,
+      180,
+      224,
+      228,
+      261,
+      264,
+      297,
+      349,
+      353,
+      410,
+      412,
+      444,
+      519,
+      557,
+      657,
+      681,
+      692,
+      705,
+      743,
+      800,
+      810,
+      845,
+      869,
+      876,
+      948,
+      1006,
+      1024,
+      1085,
+      1108,
+      1126,
+      1140,
+      1169,
+      1183,
+      1205,
+      1251,
+      1357,
+      1374,
+      1405,
+      1415,
+      1450,
+      1455,
+      1468,
+      1566,
+      1571,
+      1613,
+      1633,
+      1652,
+      1655,
+      1665,
+      1762,
+      1808,
+      1851,
+      1878,
+      1938,
+      1960,
+      1973,
+      2002,
+      2009,
+      2036,
+      2071,
+      2087,
+      2106,
+      2126,
+      2210,
+      2216,
+      2244,
+      2252,
+      2272,
+      2282,
+      2286,
+      2296,
+      2304,
+      2323,
+      2333,
+      2357,
+      2395,
+      2405,
+      2410,
+      2428,
+      2439,
+      2455,
+      2537,
+      2553,
+      2601,
+      2648,
+      2670,
+      2721,
+      2743,
+      2746,
+      2780,
+      2798,
+      2824,
+      2888,
+      2995,
+      3043,
+      3102
+    ]
+  },
+  "too": {
+    "input/text/rfcs/rfc475.txt": [
+      1518
+    ]
+  },
+  "transfer": {
+    "input/text/rfcs/rfc475.txt": [
+      40,
+      117,
+      2242,
+      3061,
+      3077
+    ]
+  },
+  "transmit": {
+    "input/text/rfcs/rfc475.txt": [
+      537,
+      744
+    ]
+  },
+  "turnaround": {
+    "input/text/rfcs/rfc475.txt": [
+      2416
+    ]
+  },
+  "two": {
+    "input/text/rfcs/rfc475.txt": [
+      60
+    ]
+  },
+  "type": {
+    "input/text/rfcs/rfc475.txt": [
+      2596,
+      2912,
+      2916
+    ]
+  },
+  "typebyt": {
+    "input/text/rfcs/rfc475.txt": [
+      3157
+    ]
+  },
+  "u": {
+    "input/text/rfcs/rfc475.txt": [
+      2920
+    ]
+  },
+  "unbear": {
+    "input/text/rfcs/rfc475.txt": [
+      2192
+    ]
+  },
+  "undeliv": {
+    "input/text/rfcs/rfc475.txt": [
+      1022
+    ]
+  },
+  "undeliver": {
+    "input/text/rfcs/rfc475.txt": [
+      1014
+    ]
+  },
+  "understand": {
+    "input/text/rfcs/rfc475.txt": [
+      21
+    ]
+  },
+  "undertak": {
+    "input/text/rfcs/rfc475.txt": [
+      2086,
+      2536
+    ]
+  },
+  "undesir": {
+    "input/text/rfcs/rfc475.txt": [
+      1664,
+      2720
+    ]
+  },
+  "uniqu": {
+    "input/text/rfcs/rfc475.txt": [
+      632
+    ]
+  },
+  "unrecord": {
+    "input/text/rfcs/rfc475.txt": [
+      2091
+    ]
+  },
+  "until": {
+    "input/text/rfcs/rfc475.txt": [
+      1002
+    ]
+  },
+  "up": {
+    "input/text/rfcs/rfc475.txt": [
+      319,
+      683
+    ]
+  },
+  "upon": {
+    "input/text/rfcs/rfc475.txt": [
+      886,
+      1288
+    ]
+  },
+  "urgent": {
+    "input/text/rfcs/rfc475.txt": [
+      226,
+      1253,
+      2597,
+      2921
+    ]
+  },
+  "us": {
+    "input/text/rfcs/rfc475.txt": [
+      2514
+    ]
+  },
+  "use": {
+    "input/text/rfcs/rfc475.txt": [
+      135,
+      409,
+      509,
+      526,
+      571,
+      710,
+      741,
+      997,
+      1095,
+      1173,
+      1319,
+      1327,
+      1352,
+      1365,
+      1435,
+      1491,
+      1495,
+      1505,
+      1532,
+      1581,
+      1783,
+      1807,
+      1893,
+      2001,
+      2104,
+      2111,
+      2125,
+      2185,
+      2188,
+      2212,
+      2217,
+      2234,
+      2494,
+      2650,
+      2705,
+      2731,
+      2786,
+      2890
+    ]
+  },
+  "user": {
+    "input/text/rfcs/rfc475.txt": [
+      70,
+      101,
+      163,
+      175,
+      183,
+      229,
+      236,
+      239,
+      316,
+      327,
+      358,
+      374,
+      450,
+      496,
+      515,
+      564,
+      627,
+      680,
+      730,
+      976,
+      1058,
+      1210,
+      1260,
+      1273,
+      1289,
+      1321,
+      1354,
+      1381,
+      1394,
+      1420,
+      1431,
+      1466,
+      1489,
+      1504,
+      1523,
+      1596,
+      1635,
+      1683,
+      1700,
+      1718,
+      1736,
+      1756,
+      1781,
+      1791,
+      1850,
+      1855,
+      1895,
+      1913,
+      1932,
+      1943,
+      1965,
+      1980,
+      2080,
+      2098,
+      2195,
+      2226,
+      2229,
+      2249,
+      2281,
+      2322,
+      2352,
+      2378,
+      2384,
+      2412,
+      2424,
+      2441,
+      2487,
+      2510,
+      2827,
+      2884,
+      3201
+    ]
+  },
+  "userftp": {
+    "input/text/rfcs/rfc475.txt": [
+      111,
+      1426,
+      1446
+    ]
+  },
+  "userhost": {
+    "input/text/rfcs/rfc475.txt": [
+      157
+    ]
+  },
+  "usermail": {
+    "input/text/rfcs/rfc475.txt": [
+      1428
+    ]
+  },
+  "userpassacct": {
+    "input/text/rfcs/rfc475.txt": [
+      3135
+    ]
+  },
+  "usertelnet": {
+    "input/text/rfcs/rfc475.txt": [
+      1398
+    ]
+  },
+  "vari": {
+    "input/text/rfcs/rfc475.txt": [
+      490
+    ]
+  },
+  "veri": {
+    "input/text/rfcs/rfc475.txt": [
+      276,
+      2057,
+      2763
+    ]
+  },
+  "via": {
+    "input/text/rfcs/rfc475.txt": [
+      74,
+      105,
+      538,
+      814,
+      820,
+      1458,
+      2220,
+      2246,
+      2344,
+      2408,
+      2504
+    ]
+  },
+  "viageni": {
+    "input/text/rfcs/rfc475.txt": [
+      3226
+    ]
+  },
+  "want": {
+    "input/text/rfcs/rfc475.txt": [
+      1168
+    ]
+  },
+  "was": {
+    "input/text/rfcs/rfc475.txt": [
+      43,
+      642,
+      3210
+    ]
+  },
+  "way": {
+    "input/text/rfcs/rfc475.txt": [
+      1226,
+      1972
+    ]
+  },
+  "we": {
+    "input/text/rfcs/rfc475.txt": [
+      1343,
+      2605,
+      3099
+    ]
+  },
+  "well": {
+    "input/text/rfcs/rfc475.txt": [
+      2007,
+      2736,
+      2881
+    ]
+  },
+  "were": {
+    "input/text/rfcs/rfc475.txt": [
+      2404
+    ]
+  },
+  "when": {
+    "input/text/rfcs/rfc475.txt": [
+      1031,
+      2193
+    ]
+  },
+  "where": {
+    "input/text/rfcs/rfc475.txt": [
+      309,
+      914,
+      1706,
+      1816,
+      2259
+    ]
+  },
+  "wherebi": {
+    "input/text/rfcs/rfc475.txt": [
+      174,
+      2541
+    ]
+  },
+  "which": {
+    "input/text/rfcs/rfc475.txt": [
+      266,
+      385,
+      448,
+      523,
+      1180,
+      1228,
+      1617,
+      2683
+    ]
+  },
+  "while": {
+    "input/text/rfcs/rfc475.txt": [
+      1648
+    ]
+  },
+  "who": {
+    "input/text/rfcs/rfc475.txt": [
+      184,
+      359,
+      1421,
+      1935,
+      2123,
+      3202
+    ]
+  },
+  "wide": {
+    "input/text/rfcs/rfc475.txt": [
+      491
+    ]
+  },
+  "will": {
+    "input/text/rfcs/rfc475.txt": [
+      407,
+      662,
+      698,
+      1907,
+      2084,
+      2418,
+      2425,
+      2535,
+      2560,
+      2740,
+      2775,
+      2970
+    ]
+  },
+  "willhav": {
+    "input/text/rfcs/rfc475.txt": [
+      2454
+    ]
+  },
+  "wish": {
+    "input/text/rfcs/rfc475.txt": [
+      1125
+    ]
+  },
+  "with": {
+    "input/text/rfcs/rfc475.txt": [
+      500,
+      1270,
+      2172,
+      2313,
+      2748,
+      2849,
+      3029
+    ]
+  },
+  "within": {
+    "input/text/rfcs/rfc475.txt": [
+      55,
+      894,
+      3052
+    ]
+  },
+  "without": {
+    "input/text/rfcs/rfc475.txt": [
+      1903,
+      2294,
+      2331
+    ]
+  },
+  "work": {
+    "input/text/rfcs/rfc475.txt": [
+      2,
+      1711
+    ]
+  },
+  "would": {
+    "input/text/rfcs/rfc475.txt": [
+      676,
+      1957,
+      3194
+    ]
+  },
+  "write": {
+    "input/text/rfcs/rfc475.txt": [
+      2744
+    ]
+  },
+  "x": {
+    "input/text/rfcs/rfc475.txt": [
+      3122
+    ]
+  }
+}

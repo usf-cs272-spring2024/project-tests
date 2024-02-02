@@ -1,0 +1,8012 @@
+{
+  "a": {
+    "input/text/rfcs/rfc3629.txt": [
+      18,
+      87,
+      228,
+      386,
+      425,
+      431,
+      442,
+      509,
+      514,
+      520,
+      540,
+      589,
+      649,
+      684,
+      691,
+      731,
+      742,
+      815,
+      880,
+      901,
+      919,
+      1016,
+      1064,
+      1244,
+      1297,
+      1304,
+      1401,
+      1420,
+      1455,
+      1465,
+      1469,
+      1474,
+      1792,
+      1806,
+      1815,
+      1819,
+      1825,
+      1827,
+      1831,
+      1841,
+      1863,
+      1868,
+      1887,
+      1927,
+      1946,
+      1951,
+      2005,
+      2010,
+      2014,
+      2043,
+      2046,
+      2076,
+      2082,
+      2090,
+      2101,
+      2146,
+      2175,
+      2195,
+      2218,
+      2222,
+      2230,
+      2255,
+      2264,
+      2292,
+      2340,
+      2349,
+      2368,
+      2387,
+      2455,
+      2462,
+      2465,
+      2481,
+      2487,
+      2496,
+      2499,
+      2510,
+      2554,
+      2601,
+      2618,
+      2627,
+      2640,
+      2699,
+      2733,
+      2748,
+      2762,
+      2771,
+      2783,
+      2859,
+      2873,
+      2894,
+      2931,
+      2993,
+      3022,
+      3117,
+      3129,
+      3154,
+      3179,
+      3186,
+      3216,
+      3259,
+      3296,
+      3310,
+      3354,
+      3407,
+      3574,
+      3580,
+      3963,
+      4274
+    ]
+  },
+  "aa": {
+    "input/text/rfcs/rfc3629.txt": [
+      2606
+    ]
+  },
+  "abbrevi": {
+    "input/text/rfcs/rfc3629.txt": [
+      1784
+    ]
+  },
+  "abl": {
+    "input/text/rfcs/rfc3629.txt": [
+      3096
+    ]
+  },
+  "abnf": {
+    "input/text/rfcs/rfc3629.txt": [
+      1454,
+      1460,
+      1506,
+      1590,
+      3601,
+      3783
+    ]
+  },
+  "about": {
+    "input/text/rfcs/rfc3629.txt": [
+      2816,
+      2823,
+      2971,
+      3583
+    ]
+  },
+  "abov": {
+    "input/text/rfcs/rfc3629.txt": [
+      1040,
+      1236,
+      1284,
+      1340,
+      1392,
+      2708,
+      2939,
+      4115,
+      4199
+    ]
+  },
+  "abstract": {
+    "input/text/rfcs/rfc3629.txt": [
+      84
+    ]
+  },
+  "ac": {
+    "input/text/rfcs/rfc3629.txt": [
+      2604
+    ]
+  },
+  "accent": {
+    "input/text/rfcs/rfc3629.txt": [
+      3328
+    ]
+  },
+  "accept": {
+    "input/text/rfcs/rfc3629.txt": [
+      2982
+    ]
+  },
+  "access": {
+    "input/text/rfcs/rfc3629.txt": [
+      867,
+      3411,
+      3521
+    ]
+  },
+  "accompani": {
+    "input/text/rfcs/rfc3629.txt": [
+      2871
+    ]
+  },
+  "accord": {
+    "input/text/rfcs/rfc3629.txt": [
+      2660,
+      2954
+    ]
+  },
+  "account": {
+    "input/text/rfcs/rfc3629.txt": [
+      3283
+    ]
+  },
+  "acknowledg": {
+    "input/text/rfcs/rfc3629.txt": [
+      200,
+      3428,
+      4277
+    ]
+  },
+  "actual": {
+    "input/text/rfcs/rfc3629.txt": [
+      3015,
+      3212
+    ]
+  },
+  "acut": {
+    "input/text/rfcs/rfc3629.txt": [
+      3327,
+      3337,
+      3349
+    ]
+  },
+  "ad": {
+    "input/text/rfcs/rfc3629.txt": [
+      1645,
+      2579,
+      3579,
+      3599
+    ]
+  },
+  "add": {
+    "input/text/rfcs/rfc3629.txt": [
+      2100
+    ]
+  },
+  "addisonwesley": {
+    "input/text/rfcs/rfc3629.txt": [
+      3712
+    ]
+  },
+  "addit": {
+    "input/text/rfcs/rfc3629.txt": [
+      261,
+      284,
+      1607
+    ]
+  },
+  "address": {
+    "input/text/rfcs/rfc3629.txt": [
+      220,
+      4023,
+      4032
+    ]
+  },
+  "advantag": {
+    "input/text/rfcs/rfc3629.txt": [
+      2199,
+      2844
+    ]
+  },
+  "advic": {
+    "input/text/rfcs/rfc3629.txt": [
+      3588
+    ]
+  },
+  "ae": {
+    "input/text/rfcs/rfc3629.txt": [
+      3205
+    ]
+  },
+  "affect": {
+    "input/text/rfcs/rfc3629.txt": [
+      2000,
+      2164
+    ]
+  },
+  "after": {
+    "input/text/rfcs/rfc3629.txt": [
+      3008
+    ]
+  },
+  "again": {
+    "input/text/rfcs/rfc3629.txt": [
+      1733
+    ]
+  },
+  "against": {
+    "input/text/rfcs/rfc3629.txt": [
+      1395,
+      3128,
+      3136,
+      3568
+    ]
+  },
+  "agenbroad": {
+    "input/text/rfcs/rfc3629.txt": [
+      3443
+    ]
+  },
+  "aka": {
+    "input/text/rfcs/rfc3629.txt": [
+      471
+    ]
+  },
+  "alain": {
+    "input/text/rfcs/rfc3629.txt": [
+      3478
+    ]
+  },
+  "alexey": {
+    "input/text/rfcs/rfc3629.txt": [
+      3482
+    ]
+  },
+  "alexisnihon": {
+    "input/text/rfcs/rfc3629.txt": [
+      4038
+    ]
+  },
+  "algorithm": {
+    "input/text/rfcs/rfc3629.txt": [
+      666,
+      686,
+      1391
+    ]
+  },
+  "ali": {
+    "input/text/rfcs/rfc3629.txt": [
+      9,
+      4035
+    ]
+  },
+  "align": {
+    "input/text/rfcs/rfc3629.txt": [
+      3035
+    ]
+  },
+  "all": {
+    "input/text/rfcs/rfc3629.txt": [
+      81,
+      347,
+      392,
+      487,
+      943,
+      1164,
+      1308,
+      2026,
+      2138,
+      2685,
+      3006,
+      4064,
+      4124,
+      4241
+    ]
+  },
+  "allow": {
+    "input/text/rfcs/rfc3629.txt": [
+      1696,
+      3169,
+      3243
+    ]
+  },
+  "almost": {
+    "input/text/rfcs/rfc3629.txt": [
+      657,
+      3561
+    ]
+  },
+  "along": {
+    "input/text/rfcs/rfc3629.txt": [
+      771
+    ]
+  },
+  "also": {
+    "input/text/rfcs/rfc3629.txt": [
+      519,
+      849,
+      1777,
+      1851,
+      2258,
+      3292
+    ]
+  },
+  "alvestrand": {
+    "input/text/rfcs/rfc3629.txt": [
+      3445
+    ]
+  },
+  "alway": {
+    "input/text/rfcs/rfc3629.txt": [
+      1900,
+      2089,
+      2243,
+      2295,
+      2390
+    ]
+  },
+  "amd": {
+    "input/text/rfcs/rfc3629.txt": [
+      3690
+    ]
+  },
+  "amen": {
+    "input/text/rfcs/rfc3629.txt": [
+      3418
+    ]
+  },
+  "amend": {
+    "input/text/rfcs/rfc3629.txt": [
+      282,
+      1605,
+      1658,
+      2686,
+      2691,
+      2920,
+      2961,
+      3009
+    ]
+  },
+  "american": {
+    "input/text/rfcs/rfc3629.txt": [
+      3830,
+      3838
+    ]
+  },
+  "amount": {
+    "input/text/rfcs/rfc3629.txt": [
+      1643,
+      1711
+    ]
+  },
+  "an": {
+    "input/text/rfcs/rfc3629.txt": [
+      30,
+      334,
+      355,
+      395,
+      620,
+      1479,
+      1698,
+      1736,
+      1958,
+      1988,
+      2001,
+      2038,
+      2093,
+      2149,
+      2866,
+      2922,
+      3092,
+      3099,
+      3106,
+      3324,
+      3396,
+      3403,
+      3551,
+      3600,
+      3818,
+      3958,
+      4226
+    ]
+  },
+  "and": {
+    "input/text/rfcs/rfc3629.txt": [
+      39,
+      42,
+      63,
+      120,
+      122,
+      152,
+      169,
+      264,
+      281,
+      283,
+      296,
+      317,
+      331,
+      371,
+      420,
+      434,
+      452,
+      580,
+      768,
+      791,
+      846,
+      950,
+      1033,
+      1187,
+      1202,
+      1333,
+      1366,
+      1501,
+      1606,
+      1624,
+      1631,
+      1664,
+      1667,
+      1708,
+      1724,
+      1745,
+      1850,
+      1859,
+      1896,
+      1940,
+      2062,
+      2086,
+      2112,
+      2121,
+      2162,
+      2203,
+      2515,
+      2528,
+      2884,
+      2962,
+      3010,
+      3041,
+      3175,
+      3287,
+      3392,
+      3409,
+      3436,
+      3505,
+      3559,
+      3672,
+      3688,
+      3693,
+      3755,
+      3775,
+      3789,
+      3809,
+      3928,
+      3945,
+      4069,
+      4076,
+      4080,
+      4100,
+      4118,
+      4127,
+      4202,
+      4218,
+      4230,
+      4234
+    ]
+  },
+  "andri": {
+    "input/text/rfcs/rfc3629.txt": [
+      3446
+    ]
+  },
+  "ani": {
+    "input/text/rfcs/rfc3629.txt": [
+      421,
+      696,
+      1675,
+      1748,
+      1920,
+      2142,
+      2470,
+      2912,
+      3862,
+      3891,
+      3910,
+      3914,
+      3946,
+      3992,
+      4000,
+      4110,
+      4139,
+      4251,
+      4263,
+      4266
+    ]
+  },
+  "annex": {
+    "input/text/rfcs/rfc3629.txt": [
+      853,
+      3814
+    ]
+  },
+  "anot": {
+    "input/text/rfcs/rfc3629.txt": [
+      2544
+    ]
+  },
+  "anoth": {
+    "input/text/rfcs/rfc3629.txt": [
+      3182,
+      3230
+    ]
+  },
+  "ansi": {
+    "input/text/rfcs/rfc3629.txt": [
+      3844
+    ]
+  },
+  "anyth": {
+    "input/text/rfcs/rfc3629.txt": [
+      2822
+    ]
+  },
+  "anyway": {
+    "input/text/rfcs/rfc3629.txt": [
+      2833
+    ]
+  },
+  "anywher": {
+    "input/text/rfcs/rfc3629.txt": [
+      618
+    ]
+  },
+  "appar": {
+    "input/text/rfcs/rfc3629.txt": [
+      2843,
+      2855
+    ]
+  },
+  "appear": {
+    "input/text/rfcs/rfc3629.txt": [
+      537,
+      610,
+      699,
+      1901,
+      1918,
+      2946,
+      3405
+    ]
+  },
+  "applic": {
+    "input/text/rfcs/rfc3629.txt": [
+      119,
+      266,
+      370,
+      2868,
+      4005
+    ]
+  },
+  "appropri": {
+    "input/text/rfcs/rfc3629.txt": [
+      2057,
+      2517,
+      2535,
+      2929
+    ]
+  },
+  "april": {
+    "input/text/rfcs/rfc3629.txt": [
+      3714,
+      3733,
+      3826
+    ]
+  },
+  "architectur": {
+    "input/text/rfcs/rfc3629.txt": [
+      3671
+    ]
+  },
+  "are": {
+    "input/text/rfcs/rfc3629.txt": [
+      161,
+      410,
+      489,
+      568,
+      614,
+      796,
+      806,
+      869,
+      1052,
+      1146,
+      1167,
+      1190,
+      1229,
+      1375,
+      1578,
+      1616,
+      1635,
+      2316,
+      2399,
+      2828,
+      3394,
+      4121,
+      4200
+    ]
+  },
+  "arguabl": {
+    "input/text/rfcs/rfc3629.txt": [
+      2965
+    ]
+  },
+  "arnold": {
+    "input/text/rfcs/rfc3629.txt": [
+      3501
+    ]
+  },
+  "as": {
+    "input/text/rfcs/rfc3629.txt": [
+      341,
+      441,
+      635,
+      681,
+      700,
+      800,
+      1021,
+      1074,
+      1199,
+      1234,
+      1301,
+      1780,
+      1791,
+      1824,
+      1840,
+      1867,
+      1902,
+      1945,
+      1950,
+      2009,
+      2042,
+      2059,
+      2081,
+      2114,
+      2174,
+      2229,
+      2263,
+      2348,
+      2408,
+      2436,
+      2452,
+      2461,
+      2480,
+      2495,
+      2526,
+      2534,
+      2551,
+      2573,
+      2598,
+      2634,
+      2648,
+      2746,
+      2780,
+      2782,
+      2835,
+      2837,
+      2937,
+      3150,
+      3163,
+      3178,
+      3307,
+      3309,
+      3536,
+      4142,
+      4159,
+      4185,
+      4227
+    ]
+  },
+  "ascii": {
+    "input/text/rfcs/rfc3629.txt": [
+      516
+    ]
+  },
+  "aspect": {
+    "input/text/rfcs/rfc3629.txt": [
+      3077
+    ]
+  },
+  "assign": {
+    "input/text/rfcs/rfc3629.txt": [
+      299,
+      462,
+      2807
+    ]
+  },
+  "assigne": {
+    "input/text/rfcs/rfc3629.txt": [
+      4215
+    ]
+  },
+  "assist": {
+    "input/text/rfcs/rfc3629.txt": [
+      4091
+    ]
+  },
+  "assum": {
+    "input/text/rfcs/rfc3629.txt": [
+      374
+    ]
+  },
+  "assur": {
+    "input/text/rfcs/rfc3629.txt": [
+      3947
+    ]
+  },
+  "at": {
+    "input/text/rfcs/rfc3629.txt": [
+      1805,
+      1919,
+      1994,
+      2004,
+      2095,
+      2687
+    ]
+  },
+  "attack": {
+    "input/text/rfcs/rfc3629.txt": [
+      3093,
+      3123,
+      3219
+    ]
+  },
+  "attempt": {
+    "input/text/rfcs/rfc3629.txt": [
+      2094,
+      3959
+    ]
+  },
+  "attent": {
+    "input/text/rfcs/rfc3629.txt": [
+      3999
+    ]
+  },
+  "augment": {
+    "input/text/rfcs/rfc3629.txt": [
+      3778
+    ]
+  },
+  "author": {
+    "input/text/rfcs/rfc3629.txt": [
+      219,
+      4031
+    ]
+  },
+  "authorit": {
+    "input/text/rfcs/rfc3629.txt": [
+      1552,
+      1576,
+      1584
+    ]
+  },
+  "avail": {
+    "input/text/rfcs/rfc3629.txt": [
+      985,
+      3901,
+      3942,
+      3953
+    ]
+  },
+  "avoid": {
+    "input/text/rfcs/rfc3629.txt": [
+      2036
+    ]
+  },
+  "b": {
+    "input/text/rfcs/rfc3629.txt": [
+      1424,
+      2578,
+      2581,
+      2642
+    ]
+  },
+  "balanc": {
+    "input/text/rfcs/rfc3629.txt": [
+      2196
+    ]
+  },
+  "ban": {
+    "input/text/rfcs/rfc3629.txt": [
+      2369
+    ]
+  },
+  "base": {
+    "input/text/rfcs/rfc3629.txt": [
+      563,
+      652,
+      3421
+    ]
+  },
+  "basi": {
+    "input/text/rfcs/rfc3629.txt": [
+      2650,
+      4229
+    ]
+  },
+  "basic": {
+    "input/text/rfcs/rfc3629.txt": [
+      3673
+    ]
+  },
+  "bb": {
+    "input/text/rfcs/rfc3629.txt": [
+      1907,
+      2637
+    ]
+  },
+  "bcp": {
+    "input/text/rfcs/rfc3629.txt": [
+      3641,
+      3796,
+      3935
+    ]
+  },
+  "be": {
+    "input/text/rfcs/rfc3629.txt": [
+      668,
+      677,
+      798,
+      850,
+      893,
+      938,
+      967,
+      1316,
+      1423,
+      1575,
+      1758,
+      1789,
+      1930,
+      1943,
+      1963,
+      2079,
+      2242,
+      2248,
+      2290,
+      2302,
+      2371,
+      2385,
+      2478,
+      2506,
+      2745,
+      2810,
+      2831,
+      2885,
+      2973,
+      3095,
+      3125,
+      3185,
+      3293,
+      3315,
+      3330,
+      3399,
+      3870,
+      3900,
+      3932,
+      3951,
+      3983,
+      4016,
+      4074,
+      4096,
+      4136,
+      4182,
+      4205
+    ]
+  },
+  "bear": {
+    "input/text/rfcs/rfc3629.txt": [
+      761
+    ]
+  },
+  "becaus": {
+    "input/text/rfcs/rfc3629.txt": [
+      1981,
+      2796
+    ]
+  },
+  "been": {
+    "input/text/rfcs/rfc3629.txt": [
+      1719,
+      3060,
+      3213
+    ]
+  },
+  "befor": {
+    "input/text/rfcs/rfc3629.txt": [
+      1965,
+      2960
+    ]
+  },
+  "begin": {
+    "input/text/rfcs/rfc3629.txt": [
+      1925
+    ]
+  },
+  "believ": {
+    "input/text/rfcs/rfc3629.txt": [
+      1562
+    ]
+  },
+  "below": {
+    "input/text/rfcs/rfc3629.txt": [
+      971,
+      1442
+    ]
+  },
+  "between": {
+    "input/text/rfcs/rfc3629.txt": [
+      578,
+      1185,
+      2197
+    ]
+  },
+  "bf": {
+    "input/text/rfcs/rfc3629.txt": [
+      1908,
+      2638
+    ]
+  },
+  "binari": {
+    "input/text/rfcs/rfc3629.txt": [
+      1000,
+      1097,
+      1305,
+      1353,
+      1378
+    ]
+  },
+  "bit": {
+    "input/text/rfcs/rfc3629.txt": [
+      377,
+      393,
+      506,
+      887,
+      892,
+      914,
+      920,
+      925,
+      930,
+      947,
+      953,
+      957,
+      962,
+      984,
+      988,
+      1070,
+      1085,
+      1090,
+      1103,
+      1124,
+      1141,
+      1166,
+      1267,
+      1309,
+      1314,
+      1320,
+      1342,
+      1347,
+      1358,
+      1374,
+      3730,
+      3837
+    ]
+  },
+  "block": {
+    "input/text/rfcs/rfc3629.txt": [
+      1672,
+      2696
+    ]
+  },
+  "bnf": {
+    "input/text/rfcs/rfc3629.txt": [
+      3779
+    ]
+  },
+  "bodi": {
+    "input/text/rfcs/rfc3629.txt": [
+      3769
+    ]
+  },
+  "bom": {
+    "input/text/rfcs/rfc3629.txt": [
+      192,
+      1767,
+      1785,
+      1802,
+      1898,
+      2629,
+      3586
+    ]
+  },
+  "borenstein": {
+    "input/text/rfcs/rfc3629.txt": [
+      3757
+    ]
+  },
+  "boston": {
+    "input/text/rfcs/rfc3629.txt": [
+      3710
+    ]
+  },
+  "boul": {
+    "input/text/rfcs/rfc3629.txt": [
+      4037
+    ]
+  },
+  "boundari": {
+    "input/text/rfcs/rfc3629.txt": [
+      613
+    ]
+  },
+  "boyermoor": {
+    "input/text/rfcs/rfc3629.txt": [
+      663
+    ]
+  },
+  "bradner": {
+    "input/text/rfcs/rfc3629.txt": [
+      3629
+    ]
+  },
+  "bring": {
+    "input/text/rfcs/rfc3629.txt": [
+      3996
+    ]
+  },
+  "brouwer": {
+    "input/text/rfcs/rfc3629.txt": [
+      3447
+    ]
+  },
+  "buffer": {
+    "input/text/rfcs/rfc3629.txt": [
+      3262,
+      3278
+    ]
+  },
+  "bureau": {
+    "input/text/rfcs/rfc3629.txt": [
+      4039
+    ]
+  },
+  "but": {
+    "input/text/rfcs/rfc3629.txt": [
+      160,
+      397,
+      567,
+      1261,
+      1570,
+      1629,
+      1800,
+      1998,
+      2139,
+      2856,
+      2940,
+      3144,
+      3167,
+      4247
+    ]
+  },
+  "by": {
+    "input/text/rfcs/rfc3629.txt": [
+      253,
+      638,
+      683,
+      715,
+      719,
+      723,
+      752,
+      808,
+      840,
+      918,
+      1099,
+      1602,
+      2800,
+      2872,
+      3103,
+      3113,
+      3295,
+      3317,
+      3332,
+      3340,
+      3705,
+      3975,
+      4143,
+      4207,
+      4287
+    ]
+  },
+  "byte": {
+    "input/text/rfcs/rfc3629.txt": [
+      183,
+      189,
+      1446,
+      1764,
+      1781,
+      2765,
+      3255,
+      3288,
+      3356
+    ]
+  },
+  "bytevalu": {
+    "input/text/rfcs/rfc3629.txt": [
+      625
+    ]
+  },
+  "c": {
+    "input/text/rfcs/rfc3629.txt": [
+      77,
+      559,
+      604,
+      605,
+      1410,
+      1421,
+      2576,
+      2603,
+      3174,
+      3204,
+      4060
+    ]
+  },
+  "call": {
+    "input/text/rfcs/rfc3629.txt": [
+      91,
+      232
+    ]
+  },
+  "can": {
+    "input/text/rfcs/rfc3629.txt": [
+      427,
+      667,
+      676,
+      848,
+      1788,
+      2944,
+      3124,
+      3312,
+      3314,
+      3329,
+      3931,
+      3982
+    ]
+  },
+  "canada": {
+    "input/text/rfcs/rfc3629.txt": [
+      4044
+    ]
+  },
+  "canon": {
+    "input/text/rfcs/rfc3629.txt": [
+      3342
+    ]
+  },
+  "carri": {
+    "input/text/rfcs/rfc3629.txt": [
+      3126
+    ]
+  },
+  "case": {
+    "input/text/rfcs/rfc3629.txt": [
+      1975,
+      2220,
+      2253,
+      2304,
+      2398,
+      4170
+    ]
+  },
+  "categori": {
+    "input/text/rfcs/rfc3629.txt": [
+      14
+    ]
+  },
+  "caus": {
+    "input/text/rfcs/rfc3629.txt": [
+      1435
+    ]
+  },
+  "ce": {
+    "input/text/rfcs/rfc3629.txt": [
+      2555
+    ]
+  },
+  "certain": {
+    "input/text/rfcs/rfc3629.txt": [
+      2140,
+      2466,
+      2500,
+      3146
+    ]
+  },
+  "cesu": {
+    "input/text/rfcs/rfc3629.txt": [
+      1240,
+      1241,
+      1256,
+      1287,
+      3719,
+      3731
+    ]
+  },
+  "chang": {
+    "input/text/rfcs/rfc3629.txt": [
+      201,
+      278,
+      1642,
+      1700,
+      1738,
+      1750,
+      2789,
+      2924,
+      2979,
+      3014,
+      3019,
+      3508
+    ]
+  },
+  "char": {
+    "input/text/rfcs/rfc3629.txt": [
+      993
+    ]
+  },
+  "charact": {
+    "input/text/rfcs/rfc3629.txt": [
+      89,
+      94,
+      230,
+      235,
+      250,
+      262,
+      294,
+      338,
+      378,
+      409,
+      433,
+      440,
+      465,
+      469,
+      493,
+      543,
+      612,
+      639,
+      654,
+      694,
+      805,
+      824,
+      860,
+      898,
+      936,
+      965,
+      991,
+      1017,
+      1031,
+      1066,
+      1093,
+      1106,
+      1127,
+      1183,
+      1207,
+      1226,
+      1272,
+      1282,
+      1291,
+      1299,
+      1323,
+      1385,
+      1413,
+      1478,
+      1647,
+      1680,
+      1770,
+      1787,
+      1812,
+      1817,
+      1823,
+      1839,
+      1849,
+      1916,
+      1961,
+      2018,
+      2027,
+      2103,
+      2276,
+      2363,
+      2449,
+      2524,
+      2538,
+      2558,
+      2583,
+      2616,
+      2620,
+      2678,
+      2774,
+      2784,
+      2808,
+      2826,
+      2914,
+      2952,
+      3151,
+      3160,
+      3181,
+      3245,
+      3268,
+      3300,
+      3320,
+      3338,
+      3360,
+      3366,
+      3516,
+      3540,
+      3556,
+      3654,
+      3667,
+      3682,
+      3695,
+      3835
+    ]
+  },
+  "characterist": {
+    "input/text/rfcs/rfc3629.txt": [
+      139,
+      486,
+      3297
+    ]
+  },
+  "charset": {
+    "input/text/rfcs/rfc3629.txt": [
+      1755,
+      2656,
+      2664,
+      2750,
+      2935,
+      3029,
+      3057,
+      3596,
+      3793
+    ]
+  },
+  "check": {
+    "input/text/rfcs/rfc3629.txt": [
+      3135
+    ]
+  },
+  "chines": {
+    "input/text/rfcs/rfc3629.txt": [
+      2619
+    ]
+  },
+  "chris": {
+    "input/text/rfcs/rfc3629.txt": [
+      3489
+    ]
+  },
+  "circumst": {
+    "input/text/rfcs/rfc3629.txt": [
+      3091
+    ]
+  },
+  "claim": {
+    "input/text/rfcs/rfc3629.txt": [
+      1573,
+      3871,
+      3938
+    ]
+  },
+  "code": {
+    "input/text/rfcs/rfc3629.txt": [
+      297,
+      472,
+      474,
+      1265,
+      1274,
+      3653,
+      3666,
+      3681,
+      3834,
+      3840
+    ]
+  },
+  "column": {
+    "input/text/rfcs/rfc3629.txt": [
+      1036,
+      1078,
+      1336
+    ]
+  },
+  "combin": {
+    "input/text/rfcs/rfc3629.txt": [
+      3348
+    ]
+  },
+  "comment": {
+    "input/text/rfcs/rfc3629.txt": [
+      8,
+      4084
+    ]
+  },
+  "commit": {
+    "input/text/rfcs/rfc3629.txt": [
+      309
+    ]
+  },
+  "committe": {
+    "input/text/rfcs/rfc3629.txt": [
+      307,
+      1727
+    ]
+  },
+  "common": {
+    "input/text/rfcs/rfc3629.txt": [
+      325
+    ]
+  },
+  "communiti": {
+    "input/text/rfcs/rfc3629.txt": [
+      38
+    ]
+  },
+  "compani": {
+    "input/text/rfcs/rfc3629.txt": [
+      3737
+    ]
+  },
+  "compat": {
+    "input/text/rfcs/rfc3629.txt": [
+      115,
+      147,
+      547,
+      2841,
+      2942,
+      3725
+    ]
+  },
+  "complet": {
+    "input/text/rfcs/rfc3629.txt": [
+      2886
+    ]
+  },
+  "compris": {
+    "input/text/rfcs/rfc3629.txt": [
+      3659
+    ]
+  },
+  "concaten": {
+    "input/text/rfcs/rfc3629.txt": [
+      1978
+    ]
+  },
+  "conceiv": {
+    "input/text/rfcs/rfc3629.txt": [
+      3087
+    ]
+  },
+  "connect": {
+    "input/text/rfcs/rfc3629.txt": [
+      1996
+    ]
+  },
+  "consequ": {
+    "input/text/rfcs/rfc3629.txt": [
+      511,
+      1433,
+      1752,
+      3375
+    ]
+  },
+  "consid": {
+    "input/text/rfcs/rfc3629.txt": [
+      3074
+    ]
+  },
+  "consider": {
+    "input/text/rfcs/rfc3629.txt": [
+      197,
+      199,
+      1440,
+      3049,
+      3068,
+      3611
+    ]
+  },
+  "consist": {
+    "input/text/rfcs/rfc3629.txt": [
+      1846,
+      2676
+    ]
+  },
+  "consortium": {
+    "input/text/rfcs/rfc3629.txt": [
+      1741,
+      3699
+    ]
+  },
+  "contain": {
+    "input/text/rfcs/rfc3629.txt": [
+      929,
+      961,
+      1678,
+      1714,
+      1987,
+      2674,
+      2732,
+      2911,
+      2949,
+      4221
+    ]
+  },
+  "content": {
+    "input/text/rfcs/rfc3629.txt": [
+      174,
+      2716
+    ]
+  },
+  "contradict": {
+    "input/text/rfcs/rfc3629.txt": [
+      2927
+    ]
+  },
+  "contrast": {
+    "input/text/rfcs/rfc3629.txt": [
+      1238
+    ]
+  },
+  "control": {
+    "input/text/rfcs/rfc3629.txt": [
+      2321,
+      3412
+    ]
+  },
+  "conveni": {
+    "input/text/rfcs/rfc3629.txt": [
+      1450
+    ]
+  },
+  "convent": {
+    "input/text/rfcs/rfc3629.txt": [
+      177,
+      775
+    ]
+  },
+  "convers": {
+    "input/text/rfcs/rfc3629.txt": [
+      575
+    ]
+  },
+  "copi": {
+    "input/text/rfcs/rfc3629.txt": [
+      3936,
+      4075,
+      4098,
+      4126
+    ]
+  },
+  "copyright": {
+    "input/text/rfcs/rfc3629.txt": [
+      74,
+      76,
+      222,
+      4001,
+      4057,
+      4059,
+      4116,
+      4146,
+      4174
+    ]
+  },
+  "correct": {
+    "input/text/rfcs/rfc3629.txt": [
+      2902
+    ]
+  },
+  "correspond": {
+    "input/text/rfcs/rfc3629.txt": [
+      501
+    ]
+  },
+  "count": {
+    "input/text/rfcs/rfc3629.txt": [
+      2015
+    ]
+  },
+  "cours": {
+    "input/text/rfcs/rfc3629.txt": [
+      642
+    ]
+  },
+  "cover": {
+    "input/text/rfcs/rfc3629.txt": [
+      4012
+    ]
+  },
+  "creation": {
+    "input/text/rfcs/rfc3629.txt": [
+      2330
+    ]
+  },
+  "credenti": {
+    "input/text/rfcs/rfc3629.txt": [
+      3408
+    ]
+  },
+  "criteria": {
+    "input/text/rfcs/rfc3629.txt": [
+      721
+    ]
+  },
+  "crocker": {
+    "input/text/rfcs/rfc3629.txt": [
+      3773
+    ]
+  },
+  "cultur": {
+    "input/text/rfcs/rfc3629.txt": [
+      659
+    ]
+  },
+  "current": {
+    "input/text/rfcs/rfc3629.txt": [
+      50,
+      118,
+      369,
+      4285
+    ]
+  },
+  "d": {
+    "input/text/rfcs/rfc3629.txt": [
+      854,
+      3774
+    ]
+  },
+  "dan": {
+    "input/text/rfcs/rfc3629.txt": [
+      3472,
+      3491
+    ]
+  },
+  "data": {
+    "input/text/rfcs/rfc3629.txt": [
+      672,
+      1214,
+      1223,
+      1634,
+      1656,
+      1677,
+      1713,
+      2870,
+      2892,
+      2906,
+      2948,
+      2968
+    ]
+  },
+  "davi": {
+    "input/text/rfcs/rfc3629.txt": [
+      3449,
+      3807
+    ]
+  },
+  "david": {
+    "input/text/rfcs/rfc3629.txt": [
+      3457,
+      3466
+    ]
+  },
+  "deal": {
+    "input/text/rfcs/rfc3629.txt": [
+      2889
+    ]
+  },
+  "decid": {
+    "input/text/rfcs/rfc3629.txt": [
+      3046
+    ]
+  },
+  "decod": {
+    "input/text/rfcs/rfc3629.txt": [
+      1220,
+      1296,
+      1390,
+      1396,
+      1405,
+      1427,
+      3569
+    ]
+  },
+  "deem": {
+    "input/text/rfcs/rfc3629.txt": [
+      2981
+    ]
+  },
+  "defin": {
+    "input/text/rfcs/rfc3629.txt": [
+      86,
+      227,
+      252,
+      260,
+      319,
+      730,
+      839,
+      3031,
+      3704,
+      4175
+    ]
+  },
+  "definit": {
+    "input/text/rfcs/rfc3629.txt": [
+      179,
+      836,
+      1178,
+      1456,
+      1553,
+      3531
+    ]
+  },
+  "depend": {
+    "input/text/rfcs/rfc3629.txt": [
+      457
+    ]
+  },
+  "deriv": {
+    "input/text/rfcs/rfc3629.txt": [
+      1494,
+      4081,
+      4128
+    ]
+  },
+  "describ": {
+    "input/text/rfcs/rfc3629.txt": [
+      801,
+      1235,
+      1564,
+      1569,
+      2938,
+      3547,
+      3882
+    ]
+  },
+  "descript": {
+    "input/text/rfcs/rfc3629.txt": [
+      845,
+      3240
+    ]
+  },
+  "design": {
+    "input/text/rfcs/rfc3629.txt": [
+      720,
+      747,
+      807,
+      2753
+    ]
+  },
+  "detail": {
+    "input/text/rfcs/rfc3629.txt": [
+      267
+    ]
+  },
+  "determin": {
+    "input/text/rfcs/rfc3629.txt": [
+      1023,
+      1318
+    ]
+  },
+  "develop": {
+    "input/text/rfcs/rfc3629.txt": [
+      128,
+      4165
+    ]
+  },
+  "devis": {
+    "input/text/rfcs/rfc3629.txt": [
+      712
+    ]
+  },
+  "differ": {
+    "input/text/rfcs/rfc3629.txt": [
+      977,
+      1279,
+      1690,
+      2006
+    ]
+  },
+  "digit": {
+    "input/text/rfcs/rfc3629.txt": [
+      821,
+      2011
+    ]
+  },
+  "diminish": {
+    "input/text/rfcs/rfc3629.txt": [
+      705,
+      2096
+    ]
+  },
+  "direct": {
+    "input/text/rfcs/rfc3629.txt": [
+      510,
+      1205
+    ]
+  },
+  "director": {
+    "input/text/rfcs/rfc3629.txt": [
+      4030
+    ]
+  },
+  "disadvantag": {
+    "input/text/rfcs/rfc3629.txt": [
+      2860
+    ]
+  },
+  "disappear": {
+    "input/text/rfcs/rfc3629.txt": [
+      3562
+    ]
+  },
+  "disclaim": {
+    "input/text/rfcs/rfc3629.txt": [
+      4240
+    ]
+  },
+  "discuss": {
+    "input/text/rfcs/rfc3629.txt": [
+      41,
+      1759,
+      3437
+    ]
+  },
+  "display": {
+    "input/text/rfcs/rfc3629.txt": [
+      2061
+    ]
+  },
+  "disrupt": {
+    "input/text/rfcs/rfc3629.txt": [
+      744
+    ]
+  },
+  "distinct": {
+    "input/text/rfcs/rfc3629.txt": [
+      3319
+    ]
+  },
+  "distinguish": {
+    "input/text/rfcs/rfc3629.txt": [
+      2217
+    ]
+  },
+  "distribut": {
+    "input/text/rfcs/rfc3629.txt": [
+      68,
+      1345,
+      4101
+    ]
+  },
+  "do": {
+    "input/text/rfcs/rfc3629.txt": [
+      535,
+      1203,
+      2427,
+      2443
+    ]
+  },
+  "document": {
+    "input/text/rfcs/rfc3629.txt": [
+      28,
+      795,
+      3885,
+      3930,
+      4068,
+      4132,
+      4217
+    ]
+  },
+  "doe": {
+    "input/text/rfcs/rfc3629.txt": [
+      1571,
+      1649,
+      2360,
+      2489,
+      2730,
+      2787,
+      3903
+    ]
+  },
+  "doesnt": {
+    "input/text/rfcs/rfc3629.txt": [
+      2814,
+      2820,
+      3280
+    ]
+  },
+  "draft": {
+    "input/text/rfcs/rfc3629.txt": [
+      3435
+    ]
+  },
+  "drawback": {
+    "input/text/rfcs/rfc3629.txt": [
+      2204
+    ]
+  },
+  "dub": {
+    "input/text/rfcs/rfc3629.txt": [
+      1720
+    ]
+  },
+  "duerst": {
+    "input/text/rfcs/rfc3629.txt": [
+      3452,
+      3811
+    ]
+  },
+  "e": {
+    "input/text/rfcs/rfc3629.txt": [
+      2553,
+      2556,
+      2600,
+      2602,
+      2605,
+      2607,
+      2641,
+      3194,
+      3195,
+      3206,
+      3325,
+      3336,
+      3347,
+      3442
+    ]
+  },
+  "ea": {
+    "input/text/rfcs/rfc3629.txt": [
+      2577
+    ]
+  },
+  "each": {
+    "input/text/rfcs/rfc3629.txt": [
+      289,
+      337,
+      456,
+      959,
+      1620,
+      3359
+    ]
+  },
+  "easi": {
+    "input/text/rfcs/rfc3629.txt": [
+      577
+    ]
+  },
+  "easili": {
+    "input/text/rfcs/rfc3629.txt": [
+      615
+    ]
+  },
+  "ec": {
+    "input/text/rfcs/rfc3629.txt": [
+      2580
+    ]
+  },
+  "ed": {
+    "input/text/rfcs/rfc3629.txt": [
+      1419,
+      1422,
+      2575
+    ]
+  },
+  "edit": {
+    "input/text/rfcs/rfc3629.txt": [
+      51,
+      1661,
+      2694
+    ]
+  },
+  "editor": {
+    "input/text/rfcs/rfc3629.txt": [
+      4282
+    ]
+  },
+  "edwin": {
+    "input/text/rfcs/rfc3629.txt": [
+      3461
+    ]
+  },
+  "ef": {
+    "input/text/rfcs/rfc3629.txt": [
+      1906,
+      2636
+    ]
+  },
+  "effect": {
+    "input/text/rfcs/rfc3629.txt": [
+      2186
+    ]
+  },
+  "effort": {
+    "input/text/rfcs/rfc3629.txt": [
+      3911
+    ]
+  },
+  "eg": {
+    "input/text/rfcs/rfc3629.txt": [
+      554,
+      1976
+    ]
+  },
+  "element": {
+    "input/text/rfcs/rfc3629.txt": [
+      2236,
+      2270,
+      2315,
+      2355,
+      2406,
+      2468,
+      2476,
+      2502,
+      2514
+    ]
+  },
+  "elimin": {
+    "input/text/rfcs/rfc3629.txt": [
+      2182
+    ]
+  },
+  "els": {
+    "input/text/rfcs/rfc3629.txt": [
+      436
+    ]
+  },
+  "email": {
+    "input/text/rfcs/rfc3629.txt": [
+      4047
+    ]
+  },
+  "encod": {
+    "input/text/rfcs/rfc3629.txt": [
+      108,
+      321,
+      335,
+      345,
+      350,
+      356,
+      388,
+      411,
+      438,
+      481,
+      542,
+      582,
+      698,
+      870,
+      896,
+      939,
+      968,
+      987,
+      1015,
+      1063,
+      1182,
+      1197,
+      1209,
+      1231,
+      1246,
+      1262,
+      1288,
+      1321,
+      1499,
+      1856,
+      1861,
+      1865,
+      1889,
+      2277,
+      2364,
+      2430,
+      2450,
+      2525,
+      2548,
+      2570,
+      2595,
+      2631,
+      2697,
+      2705,
+      2953,
+      3139,
+      3162,
+      3235,
+      3244,
+      3301,
+      3552,
+      3726
+    ]
+  },
+  "encompass": {
+    "input/text/rfcs/rfc3629.txt": [
+      98,
+      239
+    ]
+  },
+  "engin": {
+    "input/text/rfcs/rfc3629.txt": [
+      4237
+    ]
+  },
+  "english": {
+    "input/text/rfcs/rfc3629.txt": [
+      4194
+    ]
+  },
+  "entiti": {
+    "input/text/rfcs/rfc3629.txt": [
+      2410,
+      2420
+    ]
+  },
+  "entri": {
+    "input/text/rfcs/rfc3629.txt": [
+      3051,
+      3414
+    ]
+  },
+  "equal": {
+    "input/text/rfcs/rfc3629.txt": [
+      1382
+    ]
+  },
+  "equival": {
+    "input/text/rfcs/rfc3629.txt": [
+      2958,
+      3343
+    ]
+  },
+  "erron": {
+    "input/text/rfcs/rfc3629.txt": [
+      3168
+    ]
+  },
+  "especi": {
+    "input/text/rfcs/rfc3629.txt": [
+      2411
+    ]
+  },
+  "etc": {
+    "input/text/rfcs/rfc3629.txt": [
+      1137,
+      1162
+    ]
+  },
+  "even": {
+    "input/text/rfcs/rfc3629.txt": [
+      376,
+      3350
+    ]
+  },
+  "eventu": {
+    "input/text/rfcs/rfc3629.txt": [
+      2131
+    ]
+  },
+  "ever": {
+    "input/text/rfcs/rfc3629.txt": [
+      1732
+    ]
+  },
+  "evolv": {
+    "input/text/rfcs/rfc3629.txt": [
+      2840
+    ]
+  },
+  "exact": {
+    "input/text/rfcs/rfc3629.txt": [
+      2108
+    ]
+  },
+  "exampl": {
+    "input/text/rfcs/rfc3629.txt": [
+      193,
+      2536,
+      3153,
+      3183,
+      3397
+    ]
+  },
+  "except": {
+    "input/text/rfcs/rfc3629.txt": [
+      352,
+      2116,
+      4158
+    ]
+  },
+  "exclus": {
+    "input/text/rfcs/rfc3629.txt": [
+      1054,
+      2125
+    ]
+  },
+  "execut": {
+    "input/text/rfcs/rfc3629.txt": [
+      4029
+    ]
+  },
+  "exist": {
+    "input/text/rfcs/rfc3629.txt": [
+      3363
+    ]
+  },
+  "expand": {
+    "input/text/rfcs/rfc3629.txt": [
+      1668,
+      3609
+    ]
+  },
+  "expect": {
+    "input/text/rfcs/rfc3629.txt": [
+      2283,
+      2377
+    ]
+  },
+  "explain": {
+    "input/text/rfcs/rfc3629.txt": [
+      4088
+    ]
+  },
+  "explicit": {
+    "input/text/rfcs/rfc3629.txt": [
+      3272
+    ]
+  },
+  "exploit": {
+    "input/text/rfcs/rfc3629.txt": [
+      3098,
+      3210
+    ]
+  },
+  "express": {
+    "input/text/rfcs/rfc3629.txt": [
+      1095,
+      1503,
+      2128,
+      3390,
+      4243
+    ]
+  },
+  "extens": {
+    "input/text/rfcs/rfc3629.txt": [
+      3761
+    ]
+  },
+  "extent": {
+    "input/text/rfcs/rfc3629.txt": [
+      3888
+    ]
+  },
+  "extern": {
+    "input/text/rfcs/rfc3629.txt": [
+      2002
+    ]
+  },
+  "f": {
+    "input/text/rfcs/rfc3629.txt": [
+      4,
+      505,
+      606,
+      1001,
+      2639,
+      3193,
+      3196,
+      3203,
+      3207,
+      3462
+    ]
+  },
+  "fail": {
+    "input/text/rfcs/rfc3629.txt": [
+      2879
+    ]
+  },
+  "fair": {
+    "input/text/rfcs/rfc3629.txt": [
+      678
+    ]
+  },
+  "faltstrom": {
+    "input/text/rfcs/rfc3629.txt": [
+      3454
+    ]
+  },
+  "far": {
+    "input/text/rfcs/rfc3629.txt": [
+      3308
+    ]
+  },
+  "fast": {
+    "input/text/rfcs/rfc3629.txt": [
+      664
+    ]
+  },
+  "fax": {
+    "input/text/rfcs/rfc3629.txt": [
+      4046
+    ]
+  },
+  "few": {
+    "input/text/rfcs/rfc3629.txt": [
+      2219
+    ]
+  },
+  "ff": {
+    "input/text/rfcs/rfc3629.txt": [
+      608,
+      1003
+    ]
+  },
+  "ffff": {
+    "input/text/rfcs/rfc3629.txt": [
+      1006,
+      1010,
+      3518
+    ]
+  },
+  "file": {
+    "input/text/rfcs/rfc3629.txt": [
+      149,
+      549,
+      2422,
+      3742
+    ]
+  },
+  "fill": {
+    "input/text/rfcs/rfc3629.txt": [
+      1082,
+      1147,
+      1168
+    ]
+  },
+  "final": {
+    "input/text/rfcs/rfc3629.txt": [
+      769
+    ]
+  },
+  "first": {
+    "input/text/rfcs/rfc3629.txt": [
+      586,
+      1035,
+      1219,
+      1355,
+      2073
+    ]
+  },
+  "fit": {
+    "input/text/rfcs/rfc3629.txt": [
+      4272
+    ]
+  },
+  "follow": {
+    "input/text/rfcs/rfc3629.txt": [
+      485,
+      917,
+      941,
+      952,
+      1022,
+      1302,
+      1490,
+      2132,
+      2552,
+      2574,
+      2599,
+      2635,
+      2747,
+      3430,
+      4183
+    ]
+  },
+  "for": {
+    "input/text/rfcs/rfc3629.txt": [
+      7,
+      35,
+      44,
+      59,
+      430,
+      986,
+      1192,
+      1251,
+      1281,
+      1399,
+      1448,
+      1498,
+      1695,
+      1935,
+      2060,
+      2117,
+      2127,
+      2232,
+      2266,
+      2271,
+      2351,
+      2356,
+      2433,
+      2464,
+      2498,
+      2651,
+      2658,
+      2712,
+      3052,
+      3152,
+      3322,
+      3358,
+      3368,
+      3539,
+      3589,
+      3603,
+      3633,
+      3647,
+      3728,
+      3780,
+      3841,
+      3943,
+      3968,
+      4161,
+      4173,
+      4273,
+      4279
+    ]
+  },
+  "forbid": {
+    "input/text/rfcs/rfc3629.txt": [
+      2225,
+      2259,
+      2344,
+      2457,
+      2491
+    ]
+  },
+  "forc": {
+    "input/text/rfcs/rfc3629.txt": [
+      4239
+    ]
+  },
+  "form": {
+    "input/text/rfcs/rfc3629.txt": [
+      322,
+      336,
+      351,
+      482,
+      583,
+      1198,
+      3120,
+      3140,
+      3425,
+      3553,
+      3817
+    ]
+  },
+  "format": {
+    "input/text/rfcs/rfc3629.txt": [
+      20,
+      734,
+      974,
+      3747,
+      3765
+    ]
+  },
+  "formula": {
+    "input/text/rfcs/rfc3629.txt": [
+      847
+    ]
+  },
+  "found": {
+    "input/text/rfcs/rfc3629.txt": [
+      616,
+      851,
+      3933
+    ]
+  },
+  "francoi": {
+    "input/text/rfcs/rfc3629.txt": [
+      4033
+    ]
+  },
+  "freed": {
+    "input/text/rfcs/rfc3629.txt": [
+      3456,
+      3753,
+      3787
+    ]
+  },
+  "from": {
+    "input/text/rfcs/rfc3629.txt": [
+      202,
+      495,
+      617,
+      818,
+      861,
+      931,
+      963,
+      1029,
+      1088,
+      1212,
+      1325,
+      1348,
+      1359,
+      1495,
+      1598,
+      1691,
+      2325,
+      2421,
+      2424,
+      2439,
+      2679,
+      2802,
+      3509,
+      3985
+    ]
+  },
+  "fssutf": {
+    "input/text/rfcs/rfc3629.txt": [
+      760,
+      764,
+      766,
+      3735,
+      3748
+    ]
+  },
+  "ftp": {
+    "input/text/rfcs/rfc3629.txt": [
+      2437
+    ]
+  },
+  "full": {
+    "input/text/rfcs/rfc3629.txt": [
+      143,
+      221,
+      404,
+      4056
+    ]
+  },
+  "function": {
+    "input/text/rfcs/rfc3629.txt": [
+      557,
+      1893,
+      2120,
+      2209,
+      2247,
+      4283
+    ]
+  },
+  "fund": {
+    "input/text/rfcs/rfc3629.txt": [
+      4278
+    ]
+  },
+  "furnish": {
+    "input/text/rfcs/rfc3629.txt": [
+      4077
+    ]
+  },
+  "further": {
+    "input/text/rfcs/rfc3629.txt": [
+      259
+    ]
+  },
+  "fyergeaualiscom": {
+    "input/text/rfcs/rfc3629.txt": [
+      4048
+    ]
+  },
+  "gain": {
+    "input/text/rfcs/rfc3629.txt": [
+      2798
+    ]
+  },
+  "gardin": {
+    "input/text/rfcs/rfc3629.txt": [
+      3487
+    ]
+  },
+  "general": {
+    "input/text/rfcs/rfc3629.txt": [
+      1640,
+      3964
+    ]
+  },
+  "generic": {
+    "input/text/rfcs/rfc3629.txt": [
+      2737,
+      2895
+    ]
+  },
+  "genuin": {
+    "input/text/rfcs/rfc3629.txt": [
+      1793
+    ]
+  },
+  "give": {
+    "input/text/rfcs/rfc3629.txt": [
+      2755
+    ]
+  },
+  "given": {
+    "input/text/rfcs/rfc3629.txt": [
+      1065,
+      1463
+    ]
+  },
+  "go": {
+    "input/text/rfcs/rfc3629.txt": [
+      2829
+    ]
+  },
+  "goldsmith": {
+    "input/text/rfcs/rfc3629.txt": [
+      3458
+    ]
+  },
+  "good": {
+    "input/text/rfcs/rfc3629.txt": [
+      2047
+    ]
+  },
+  "grammar": {
+    "input/text/rfcs/rfc3629.txt": [
+      1560
+    ]
+  },
+  "grant": {
+    "input/text/rfcs/rfc3629.txt": [
+      4198
+    ]
+  },
+  "great": {
+    "input/text/rfcs/rfc3629.txt": [
+      269
+    ]
+  },
+  "group": {
+    "input/text/rfcs/rfc3629.txt": [
+      3,
+      757
+    ]
+  },
+  "guarante": {
+    "input/text/rfcs/rfc3629.txt": [
+      2445
+    ]
+  },
+  "guid": {
+    "input/text/rfcs/rfc3629.txt": [
+      718
+    ]
+  },
+  "handl": {
+    "input/text/rfcs/rfc3629.txt": [
+      2509,
+      3081
+    ]
+  },
+  "hangugeo": {
+    "input/text/rfcs/rfc3629.txt": [
+      2564
+    ]
+  },
+  "hangul": {
+    "input/text/rfcs/rfc3629.txt": [
+      1671,
+      1679,
+      1715,
+      2951
+    ]
+  },
+  "hansen": {
+    "input/text/rfcs/rfc3629.txt": [
+      3460
+    ]
+  },
+  "harald": {
+    "input/text/rfcs/rfc3629.txt": [
+      3444
+    ]
+  },
+  "hard": {
+    "input/text/rfcs/rfc3629.txt": [
+      364
+    ]
+  },
+  "hart": {
+    "input/text/rfcs/rfc3629.txt": [
+      3463
+    ]
+  },
+  "has": {
+    "input/text/rfcs/rfc3629.txt": [
+      124,
+      137,
+      385,
+      398,
+      483,
+      884,
+      910,
+      1687,
+      1718,
+      3059,
+      3211,
+      3908
+    ]
+  },
+  "have": {
+    "input/text/rfcs/rfc3629.txt": [
+      287,
+      300,
+      308,
+      354,
+      415,
+      944,
+      1431,
+      1728,
+      1751,
+      1862,
+      1886,
+      2429,
+      2846,
+      2899,
+      3373,
+      3431
+    ]
+  },
+  "henc": {
+    "input/text/rfcs/rfc3629.txt": [
+      2834
+    ]
+  },
+  "here": {
+    "input/text/rfcs/rfc3629.txt": [
+      1464,
+      3032
+    ]
+  },
+  "herein": {
+    "input/text/rfcs/rfc3629.txt": [
+      4222,
+      4259
+    ]
+  },
+  "hexadecim": {
+    "input/text/rfcs/rfc3629.txt": [
+      491,
+      820,
+      999
+    ]
+  },
+  "hhhh": {
+    "input/text/rfcs/rfc3629.txt": [
+      813
+    ]
+  },
+  "higherord": {
+    "input/text/rfcs/rfc3629.txt": [
+      886,
+      913,
+      946,
+      1123,
+      1132
+    ]
+  },
+  "highord": {
+    "input/text/rfcs/rfc3629.txt": [
+      1069
+    ]
+  },
+  "hint": {
+    "input/text/rfcs/rfc3629.txt": [
+      1804,
+      1842
+    ]
+  },
+  "hm": {
+    "input/text/rfcs/rfc3629.txt": [
+      4042
+    ]
+  },
+  "hoffman": {
+    "input/text/rfcs/rfc3629.txt": [
+      3465
+    ]
+  },
+  "hopwood": {
+    "input/text/rfcs/rfc3629.txt": [
+      3467
+    ]
+  },
+  "how": {
+    "input/text/rfcs/rfc3629.txt": [
+      3079
+    ]
+  },
+  "howev": {
+    "input/text/rfcs/rfc3629.txt": [
+      112,
+      4130
+    ]
+  },
+  "http": {
+    "input/text/rfcs/rfc3629.txt": [
+      2453,
+      3827
+    ]
+  },
+  "httpwwwolddkuugdkjtcscwgdoc": {
+    "input/text/rfcs/rfc3629.txt": [
+      3750
+    ]
+  },
+  "httpwwwunicodeorgunicodereportstr": {
+    "input/text/rfcs/rfc3629.txt": [
+      3734
+    ]
+  },
+  "httpwwwunicodeorgunicodestandard": {
+    "input/text/rfcs/rfc3629.txt": [
+      3715
+    ]
+  },
+  "httpwwwunicodeorgunicodestandardpolicieshtml": {
+    "input/text/rfcs/rfc3629.txt": [
+      3847
+    ]
+  },
+  "iana": {
+    "input/text/rfcs/rfc3629.txt": [
+      196,
+      3048,
+      3056,
+      3792
+    ]
+  },
+  "ident": {
+    "input/text/rfcs/rfc3629.txt": [
+      2545
+    ]
+  },
+  "identif": {
+    "input/text/rfcs/rfc3629.txt": [
+      2278,
+      2365,
+      2431,
+      2447,
+      2735
+    ]
+  },
+  "identifi": {
+    "input/text/rfcs/rfc3629.txt": [
+      2522,
+      2849,
+      3404,
+      3913
+    ]
+  },
+  "ie": {
+    "input/text/rfcs/rfc3629.txt": [
+      687,
+      1055
+    ]
+  },
+  "ietf": {
+    "input/text/rfcs/rfc3629.txt": [
+      3044,
+      3852,
+      3920,
+      3987,
+      3990,
+      4028
+    ]
+  },
+  "if": {
+    "input/text/rfcs/rfc3629.txt": [
+      636,
+      1486,
+      3264,
+      3277
+    ]
+  },
+  "ignor": {
+    "input/text/rfcs/rfc3629.txt": [
+      2050,
+      2531
+    ]
+  },
+  "ill": {
+    "input/text/rfcs/rfc3629.txt": [
+      2185
+    ]
+  },
+  "illeg": {
+    "input/text/rfcs/rfc3629.txt": [
+      3082,
+      3147,
+      3171,
+      3200
+    ]
+  },
+  "impact": {
+    "input/text/rfcs/rfc3629.txt": [
+      3294,
+      3615
+    ]
+  },
+  "implement": {
+    "input/text/rfcs/rfc3629.txt": [
+      272,
+      1387,
+      1403,
+      1630,
+      1707,
+      2285,
+      2324,
+      2379,
+      2413,
+      2504,
+      3069,
+      3876,
+      4094
+    ]
+  },
+  "implementor": {
+    "input/text/rfcs/rfc3629.txt": [
+      1452,
+      1577,
+      3976
+    ]
+  },
+  "impli": {
+    "input/text/rfcs/rfc3629.txt": [
+      4245,
+      4267
+    ]
+  },
+  "import": {
+    "input/text/rfcs/rfc3629.txt": [
+      1043,
+      1911
+    ]
+  },
+  "improv": {
+    "input/text/rfcs/rfc3629.txt": [
+      45
+    ]
+  },
+  "in": {
+    "input/text/rfcs/rfc3629.txt": [
+      279,
+      302,
+      333,
+      367,
+      412,
+      466,
+      490,
+      539,
+      558,
+      597,
+      619,
+      695,
+      713,
+      736,
+      741,
+      793,
+      802,
+      826,
+      852,
+      858,
+      900,
+      958,
+      1083,
+      1096,
+      1108,
+      1129,
+      1148,
+      1169,
+      1210,
+      1232,
+      1330,
+      1459,
+      1504,
+      1557,
+      1639,
+      1657,
+      1746,
+      1760,
+      1973,
+      2028,
+      2071,
+      2092,
+      2155,
+      2177,
+      2190,
+      2251,
+      2291,
+      2386,
+      2473,
+      2512,
+      2549,
+      2571,
+      2596,
+      2632,
+      2714,
+      2925,
+      2990,
+      3021,
+      3054,
+      3089,
+      3215,
+      3222,
+      3406,
+      3410,
+      3433,
+      3548,
+      3613,
+      3635,
+      3883,
+      3926,
+      3934,
+      4092,
+      4102,
+      4105,
+      4138,
+      4168,
+      4176
+    ]
+  },
+  "incauti": {
+    "input/text/rfcs/rfc3629.txt": [
+      3100
+    ]
+  },
+  "incid": {
+    "input/text/rfcs/rfc3629.txt": [
+      1717
+    ]
+  },
+  "includ": {
+    "input/text/rfcs/rfc3629.txt": [
+      2684,
+      3302,
+      4122,
+      4246
+    ]
+  },
+  "incompat": {
+    "input/text/rfcs/rfc3629.txt": [
+      1699,
+      1737,
+      1749,
+      2790,
+      2923,
+      2978,
+      3013,
+      3018
+    ]
+  },
+  "increas": {
+    "input/text/rfcs/rfc3629.txt": [
+      707
+    ]
+  },
+  "independ": {
+    "input/text/rfcs/rfc3629.txt": [
+      2933
+    ]
+  },
+  "index": {
+    "input/text/rfcs/rfc3629.txt": [
+      3379
+    ]
+  },
+  "indic": {
+    "input/text/rfcs/rfc3629.txt": [
+      592,
+      983,
+      3638
+    ]
+  },
+  "inform": {
+    "input/text/rfcs/rfc3629.txt": [
+      213,
+      1779,
+      2758,
+      3649,
+      3662,
+      3677,
+      3717,
+      3842,
+      3917,
+      4025,
+      4220,
+      4258
+    ]
+  },
+  "infring": {
+    "input/text/rfcs/rfc3629.txt": [
+      4262
+    ]
+  },
+  "initi": {
+    "input/text/rfcs/rfc3629.txt": [
+      908,
+      1303,
+      1838,
+      1959,
+      2039,
+      2143,
+      2471
+    ]
+  },
+  "input": {
+    "input/text/rfcs/rfc3629.txt": [
+      3143
+    ]
+  },
+  "instanc": {
+    "input/text/rfcs/rfc3629.txt": [
+      1400,
+      3323
+    ]
+  },
+  "instant": {
+    "input/text/rfcs/rfc3629.txt": [
+      1638
+    ]
+  },
+  "instead": {
+    "input/text/rfcs/rfc3629.txt": [
+      1269,
+      2052
+    ]
+  },
+  "institut": {
+    "input/text/rfcs/rfc3629.txt": [
+      3833
+    ]
+  },
+  "integ": {
+    "input/text/rfcs/rfc3629.txt": [
+      460
+    ]
+  },
+  "integr": {
+    "input/text/rfcs/rfc3629.txt": [
+      3819
+    ]
+  },
+  "intellectu": {
+    "input/text/rfcs/rfc3629.txt": [
+      216,
+      3848,
+      3863
+    ]
+  },
+  "intend": {
+    "input/text/rfcs/rfc3629.txt": [
+      2150
+    ]
+  },
+  "intent": {
+    "input/text/rfcs/rfc3629.txt": [
+      2742
+    ]
+  },
+  "interchang": {
+    "input/text/rfcs/rfc3629.txt": [
+      3843
+    ]
+  },
+  "interest": {
+    "input/text/rfcs/rfc3629.txt": [
+      270,
+      647,
+      2192,
+      3993
+    ]
+  },
+  "intern": {
+    "input/text/rfcs/rfc3629.txt": [
+      3645
+    ]
+  },
+  "internation": {
+    "input/text/rfcs/rfc3629.txt": [
+      756
+    ]
+  },
+  "internet": {
+    "input/text/rfcs/rfc3629.txt": [
+      31,
+      37,
+      54,
+      79,
+      1255,
+      2165,
+      3759,
+      3767,
+      4062,
+      4152,
+      4156,
+      4166,
+      4178,
+      4209,
+      4232,
+      4236,
+      4289
+    ]
+  },
+  "interpret": {
+    "input/text/rfcs/rfc3629.txt": [
+      799,
+      1931,
+      1944,
+      1949,
+      2041,
+      2080,
+      2479,
+      2761,
+      3145,
+      3176
+    ]
+  },
+  "into": {
+    "input/text/rfcs/rfc3629.txt": [
+      1411,
+      1425,
+      2770,
+      3282,
+      3573,
+      4190
+    ]
+  },
+  "introduct": {
+    "input/text/rfcs/rfc3629.txt": [
+      175,
+      224
+    ]
+  },
+  "invalid": {
+    "input/text/rfcs/rfc3629.txt": [
+      1397,
+      1428,
+      1681,
+      3571
+    ]
+  },
+  "invit": {
+    "input/text/rfcs/rfc3629.txt": [
+      3991
+    ]
+  },
+  "involv": {
+    "input/text/rfcs/rfc3629.txt": [
+      1858,
+      3395
+    ]
+  },
+  "ira": {
+    "input/text/rfcs/rfc3629.txt": [
+      3480
+    ]
+  },
+  "is": {
+    "input/text/rfcs/rfc3629.txt": [
+      72,
+      251,
+      339,
+      512,
+      518,
+      576,
+      632,
+      644,
+      656,
+      703,
+      814,
+      838,
+      1042,
+      1057,
+      1216,
+      1243,
+      1248,
+      1292,
+      1380,
+      1462,
+      1468,
+      1482,
+      1493,
+      1502,
+      1556,
+      1561,
+      1596,
+      1776,
+      1857,
+      1894,
+      1910,
+      1971,
+      2020,
+      2032,
+      2087,
+      2145,
+      2214,
+      2282,
+      2376,
+      2547,
+      2569,
+      2594,
+      2630,
+      2667,
+      2710,
+      2724,
+      2741,
+      2752,
+      2852,
+      2858,
+      2921,
+      2964,
+      2996,
+      3001,
+      3086,
+      3110,
+      3227,
+      3257,
+      3270,
+      3417,
+      4223,
+      4228,
+      4284
+    ]
+  },
+  "isbn": {
+    "input/text/rfcs/rfc3629.txt": [
+      3713
+    ]
+  },
+  "iso": {
+    "input/text/rfcs/rfc3629.txt": [
+      22,
+      226,
+      857,
+      3644
+    ]
+  },
+  "isoiec": {
+    "input/text/rfcs/rfc3629.txt": [
+      85,
+      225,
+      286,
+      316,
+      467,
+      827,
+      856,
+      1595,
+      1663,
+      2683,
+      2739,
+      2919,
+      2959,
+      3026,
+      3239,
+      3535,
+      3657,
+      3661,
+      3676,
+      3689
+    ]
+  },
+  "issu": {
+    "input/text/rfcs/rfc3629.txt": [
+      3232,
+      3416
+    ]
+  },
+  "it": {
+    "input/text/rfcs/rfc3629.txt": [
+      390,
+      1041,
+      1215,
+      1487,
+      1909,
+      2031,
+      2051,
+      2055,
+      2065,
+      2124,
+      2137,
+      2213,
+      2281,
+      2375,
+      2723,
+      2877,
+      3085,
+      3105,
+      3142,
+      3177,
+      3904,
+      3907,
+      3998,
+      4072,
+      4089,
+      4093,
+      4189,
+      4212
+    ]
+  },
+  "itself": {
+    "input/text/rfcs/rfc3629.txt": [
+      2819,
+      4133
+    ]
+  },
+  "j": {
+    "input/text/rfcs/rfc3629.txt": [
+      3451,
+      3790
+    ]
+  },
+  "jame": {
+    "input/text/rfcs/rfc3629.txt": [
+      3441
+    ]
+  },
+  "japanes": {
+    "input/text/rfcs/rfc3629.txt": [
+      2588,
+      2592
+    ]
+  },
+  "john": {
+    "input/text/rfcs/rfc3629.txt": [
+      3486
+    ]
+  },
+  "joiner": {
+    "input/text/rfcs/rfc3629.txt": [
+      2106
+    ]
+  },
+  "joint": {
+    "input/text/rfcs/rfc3629.txt": [
+      755
+    ]
+  },
+  "josefsson": {
+    "input/text/rfcs/rfc3629.txt": [
+      3469
+    ]
+  },
+  "just": {
+    "input/text/rfcs/rfc3629.txt": [
+      2756
+    ]
+  },
+  "justif": {
+    "input/text/rfcs/rfc3629.txt": [
+      1694
+    ]
+  },
+  "karlsson": {
+    "input/text/rfcs/rfc3629.txt": [
+      3471
+    ]
+  },
+  "keep": {
+    "input/text/rfcs/rfc3629.txt": [
+      3534
+    ]
+  },
+  "keld": {
+    "input/text/rfcs/rfc3629.txt": [
+      3499
+    ]
+  },
+  "ken": {
+    "input/text/rfcs/rfc3629.txt": [
+      716
+    ]
+  },
+  "kenneth": {
+    "input/text/rfcs/rfc3629.txt": [
+      3503
+    ]
+  },
+  "kent": {
+    "input/text/rfcs/rfc3629.txt": [
+      3470
+    ]
+  },
+  "key": {
+    "input/text/rfcs/rfc3629.txt": [
+      777,
+      3631
+    ]
+  },
+  "kind": {
+    "input/text/rfcs/rfc3629.txt": [
+      4111
+    ]
+  },
+  "know": {
+    "input/text/rfcs/rfc3629.txt": [
+      2815
+    ]
+  },
+  "known": {
+    "input/text/rfcs/rfc3629.txt": [
+      1778,
+      2896
+    ]
+  },
+  "kohn": {
+    "input/text/rfcs/rfc3629.txt": [
+      3473
+    ]
+  },
+  "korean": {
+    "input/text/rfcs/rfc3629.txt": [
+      1670,
+      1722,
+      2563,
+      2567,
+      2695,
+      2917,
+      2950
+    ]
+  },
+  "kuhn": {
+    "input/text/rfcs/rfc3629.txt": [
+      3475
+    ]
+  },
+  "kung": {
+    "input/text/rfcs/rfc3629.txt": [
+      3477
+    ]
+  },
+  "label": {
+    "input/text/rfcs/rfc3629.txt": [
+      1756,
+      2337,
+      2671,
+      2728,
+      2751,
+      2847,
+      2864,
+      2876,
+      2883,
+      2897,
+      2936,
+      2995,
+      3000,
+      3030
+    ]
+  },
+  "labont": {
+    "input/text/rfcs/rfc3629.txt": [
+      3479
+    ]
+  },
+  "languag": {
+    "input/text/rfcs/rfc3629.txt": [
+      2568,
+      2593,
+      4191
+    ]
+  },
+  "larg": {
+    "input/text/rfcs/rfc3629.txt": [
+      88,
+      229
+    ]
+  },
+  "larger": {
+    "input/text/rfcs/rfc3629.txt": [
+      358,
+      2404
+    ]
+  },
+  "last": {
+    "input/text/rfcs/rfc3629.txt": [
+      1114,
+      1144,
+      1155,
+      1361,
+      1892,
+      3209
+    ]
+  },
+  "later": {
+    "input/text/rfcs/rfc3629.txt": [
+      3023
+    ]
+  },
+  "latter": {
+    "input/text/rfcs/rfc3629.txt": [
+      2396
+    ]
+  },
+  "layer": {
+    "input/text/rfcs/rfc3629.txt": [
+      2007
+    ]
+  },
+  "lead": {
+    "input/text/rfcs/rfc3629.txt": [
+      1277
+    ]
+  },
+  "learn": {
+    "input/text/rfcs/rfc3629.txt": [
+      2801
+    ]
+  },
+  "least": {
+    "input/text/rfcs/rfc3629.txt": [
+      2688
+    ]
+  },
+  "leav": {
+    "input/text/rfcs/rfc3629.txt": [
+      956
+    ]
+  },
+  "led": {
+    "input/text/rfcs/rfc3629.txt": [
+      125
+    ]
+  },
+  "left": {
+    "input/text/rfcs/rfc3629.txt": [
+      1370,
+      1376
+    ]
+  },
+  "length": {
+    "input/text/rfcs/rfc3629.txt": [
+      709
+    ]
+  },
+  "letter": {
+    "input/text/rfcs/rfc3629.txt": [
+      981
+    ]
+  },
+  "level": {
+    "input/text/rfcs/rfc3629.txt": [
+      3640
+    ]
+  },
+  "lexicograph": {
+    "input/text/rfcs/rfc3629.txt": [
+      626
+    ]
+  },
+  "librari": {
+    "input/text/rfcs/rfc3629.txt": [
+      560
+    ]
+  },
+  "licens": {
+    "input/text/rfcs/rfc3629.txt": [
+      3892,
+      3949,
+      3965
+    ]
+  },
+  "like": {
+    "input/text/rfcs/rfc3629.txt": [
+      2400
+    ]
+  },
+  "limit": {
+    "input/text/rfcs/rfc3629.txt": [
+      646,
+      3273,
+      4196,
+      4249
+    ]
+  },
+  "list": {
+    "input/text/rfcs/rfc3629.txt": [
+      3413
+    ]
+  },
+  "long": {
+    "input/text/rfcs/rfc3629.txt": [
+      2781,
+      2836
+    ]
+  },
+  "loss": {
+    "input/text/rfcs/rfc3629.txt": [
+      2205
+    ]
+  },
+  "low": {
+    "input/text/rfcs/rfc3629.txt": [
+      704
+    ]
+  },
+  "lowerord": {
+    "input/text/rfcs/rfc3629.txt": [
+      1357
+    ]
+  },
+  "lowestord": {
+    "input/text/rfcs/rfc3629.txt": [
+      1102,
+      1110
+    ]
+  },
+  "ltd": {
+    "input/text/rfcs/rfc3629.txt": [
+      3738
+    ]
+  },
+  "m": {
+    "input/text/rfcs/rfc3629.txt": [
+      3808,
+      3810
+    ]
+  },
+  "ma": {
+    "input/text/rfcs/rfc3629.txt": [
+      3711
+    ]
+  },
+  "made": {
+    "input/text/rfcs/rfc3629.txt": [
+      3524,
+      3909,
+      3941,
+      3952,
+      3960
+    ]
+  },
+  "mail": {
+    "input/text/rfcs/rfc3629.txt": [
+      3760
+    ]
+  },
+  "maintain": {
+    "input/text/rfcs/rfc3629.txt": [
+      311,
+      2317
+    ]
+  },
+  "major": {
+    "input/text/rfcs/rfc3629.txt": [
+      1706
+    ]
+  },
+  "make": {
+    "input/text/rfcs/rfc3629.txt": [
+      362,
+      1674,
+      1734,
+      2136
+    ]
+  },
+  "makoto": {
+    "input/text/rfcs/rfc3629.txt": [
+      3485
+    ]
+  },
+  "mandat": {
+    "input/text/rfcs/rfc3629.txt": [
+      2240
+    ]
+  },
+  "mani": {
+    "input/text/rfcs/rfc3629.txt": [
+      117,
+      368
+    ]
+  },
+  "manner": {
+    "input/text/rfcs/rfc3629.txt": [
+      745
+    ]
+  },
+  "march": {
+    "input/text/rfcs/rfc3629.txt": [
+      3643
+    ]
+  },
+  "mark": {
+    "input/text/rfcs/rfc3629.txt": [
+      191,
+      1086,
+      1343,
+      1766,
+      1783,
+      3448
+    ]
+  },
+  "markus": {
+    "input/text/rfcs/rfc3629.txt": [
+      3474,
+      3497
+    ]
+  },
+  "martin": {
+    "input/text/rfcs/rfc3629.txt": [
+      3450
+    ]
+  },
+  "match": {
+    "input/text/rfcs/rfc3629.txt": [
+      1488,
+      3378,
+      3391,
+      3401
+    ]
+  },
+  "mathemat": {
+    "input/text/rfcs/rfc3629.txt": [
+      3691
+    ]
+  },
+  "may": {
+    "input/text/rfcs/rfc3629.txt": [
+      790,
+      1315,
+      1404,
+      1430,
+      1834,
+      1962,
+      1986,
+      2078,
+      2163,
+      2169,
+      2809,
+      2878,
+      2908,
+      3291,
+      3372,
+      3749,
+      4011,
+      4015,
+      4073,
+      4095,
+      4134
+    ]
+  },
+  "mcdonald": {
+    "input/text/rfcs/rfc3629.txt": [
+      3481
+    ]
+  },
+  "mean": {
+    "input/text/rfcs/rfc3629.txt": [
+      2565,
+      2590,
+      2621
+    ]
+  },
+  "meant": {
+    "input/text/rfcs/rfc3629.txt": [
+      1250
+    ]
+  },
+  "meantim": {
+    "input/text/rfcs/rfc3629.txt": [
+      2157
+    ]
+  },
+  "mechan": {
+    "input/text/rfcs/rfc3629.txt": [
+      2279,
+      2298,
+      2366,
+      2393,
+      2432
+    ]
+  },
+  "media": {
+    "input/text/rfcs/rfc3629.txt": [
+      2672
+    ]
+  },
+  "melnikov": {
+    "input/text/rfcs/rfc3629.txt": [
+      3483
+    ]
+  },
+  "memo": {
+    "input/text/rfcs/rfc3629.txt": [
+      26,
+      71,
+      135,
+      167,
+      384,
+      2646,
+      3066,
+      3440
+    ]
+  },
+  "merchant": {
+    "input/text/rfcs/rfc3629.txt": [
+      4270
+    ]
+  },
+  "mess": {
+    "input/text/rfcs/rfc3629.txt": [
+      1723,
+      2918
+    ]
+  },
+  "messag": {
+    "input/text/rfcs/rfc3629.txt": [
+      3768
+    ]
+  },
+  "michael": {
+    "input/text/rfcs/rfc3629.txt": [
+      3476
+    ]
+  },
+  "might": {
+    "input/text/rfcs/rfc3629.txt": [
+      1999,
+      3156,
+      3184,
+      3869,
+      3896,
+      3898
+    ]
+  },
+  "mime": {
+    "input/text/rfcs/rfc3629.txt": [
+      194,
+      1754,
+      1761,
+      2409,
+      2643,
+      2655,
+      2715,
+      2749,
+      2934,
+      3028,
+      3595,
+      3762
+    ]
+  },
+  "misha": {
+    "input/text/rfcs/rfc3629.txt": [
+      3506
+    ]
+  },
+  "modifi": {
+    "input/text/rfcs/rfc3629.txt": [
+      4137
+    ]
+  },
+  "montreal": {
+    "input/text/rfcs/rfc3629.txt": [
+      4040
+    ]
+  },
+  "more": {
+    "input/text/rfcs/rfc3629.txt": [
+      344,
+      1632,
+      2776
+    ]
+  },
+  "most": {
+    "input/text/rfcs/rfc3629.txt": [
+      99,
+      240,
+      2901
+    ]
+  },
+  "move": {
+    "input/text/rfcs/rfc3629.txt": [
+      1149,
+      1666
+    ]
+  },
+  "multilingu": {
+    "input/text/rfcs/rfc3629.txt": [
+      3674
+    ]
+  },
+  "multioctet": {
+    "input/text/rfcs/rfc3629.txt": [
+      590,
+      1864
+    ]
+  },
+  "multipl": {
+    "input/text/rfcs/rfc3629.txt": [
+      3365
+    ]
+  },
+  "multipleoctet": {
+    "input/text/rfcs/rfc3629.txt": [
+      3652,
+      3665,
+      3680
+    ]
+  },
+  "multipurpos": {
+    "input/text/rfcs/rfc3629.txt": [
+      3758
+    ]
+  },
+  "murata": {
+    "input/text/rfcs/rfc3629.txt": [
+      3484
+    ]
+  },
+  "murray": {
+    "input/text/rfcs/rfc3629.txt": [
+      3495
+    ]
+  },
+  "must": {
+    "input/text/rfcs/rfc3629.txt": [
+      779,
+      780,
+      1393,
+      1929,
+      1941,
+      2477,
+      3576,
+      4181
+    ]
+  },
+  "mutual": {
+    "input/text/rfcs/rfc3629.txt": [
+      1053
+    ]
+  },
+  "myer": {
+    "input/text/rfcs/rfc3629.txt": [
+      3488
+    ]
+  },
+  "n": {
+    "input/text/rfcs/rfc3629.txt": [
+      904,
+      906,
+      912,
+      3754,
+      3756,
+      3788
+    ]
+  },
+  "naiv": {
+    "input/text/rfcs/rfc3629.txt": [
+      1402
+    ]
+  },
+  "name": {
+    "input/text/rfcs/rfc3629.txt": [
+      763,
+      1803
+    ]
+  },
+  "nation": {
+    "input/text/rfcs/rfc3629.txt": [
+      3831
+    ]
+  },
+  "necessari": {
+    "input/text/rfcs/rfc3629.txt": [
+      1217,
+      1972,
+      2069,
+      2527
+    ]
+  },
+  "ned": {
+    "input/text/rfcs/rfc3629.txt": [
+      3455
+    ]
+  },
+  "need": {
+    "input/text/rfcs/rfc3629.txt": [
+      1317,
+      2759,
+      3072,
+      4160
+    ]
+  },
+  "neither": {
+    "input/text/rfcs/rfc3629.txt": [
+      3902
+    ]
+  },
+  "network": {
+    "input/text/rfcs/rfc3629.txt": [
+      1
+    ]
+  },
+  "never": {
+    "input/text/rfcs/rfc3629.txt": [
+      609,
+      658,
+      1731
+    ]
+  },
+  "new": {
+    "input/text/rfcs/rfc3629.txt": [
+      1610,
+      1621,
+      1646,
+      1684,
+      1743,
+      2102,
+      2825,
+      2913,
+      3581
+    ]
+  },
+  "newer": {
+    "input/text/rfcs/rfc3629.txt": [
+      2874
+    ]
+  },
+  "newli": {
+    "input/text/rfcs/rfc3629.txt": [
+      2806
+    ]
+  },
+  "newman": {
+    "input/text/rfcs/rfc3629.txt": [
+      3490
+    ]
+  },
+  "next": {
+    "input/text/rfcs/rfc3629.txt": [
+      1122,
+      1131,
+      1153
+    ]
+  },
+  "nfssutfpdf": {
+    "input/text/rfcs/rfc3629.txt": [
+      3751
+    ]
+  },
+  "nihongo": {
+    "input/text/rfcs/rfc3629.txt": [
+      2589
+    ]
+  },
+  "no": {
+    "input/text/rfcs/rfc3629.txt": [
+      1372,
+      1705,
+      1709,
+      2794,
+      2966,
+      3012,
+      3854
+    ]
+  },
+  "nobreak": {
+    "input/text/rfcs/rfc3629.txt": [
+      1774,
+      1796,
+      1992,
+      2153,
+      2484
+    ]
+  },
+  "non": {
+    "input/text/rfcs/rfc3629.txt": [
+      743
+    ]
+  },
+  "nonbreak": {
+    "input/text/rfcs/rfc3629.txt": [
+      1938,
+      2084
+    ]
+  },
+  "normal": {
+    "input/text/rfcs/rfc3629.txt": [
+      417,
+      3424,
+      3618,
+      3816
+    ]
+  },
+  "normat": {
+    "input/text/rfcs/rfc3629.txt": [
+      204,
+      3530,
+      3575,
+      3626
+    ]
+  },
+  "not": {
+    "input/text/rfcs/rfc3629.txt": [
+      114,
+      536,
+      781,
+      785,
+      788,
+      1204,
+      1249,
+      1293,
+      1572,
+      1636,
+      1650,
+      1942,
+      2088,
+      2148,
+      2343,
+      2361,
+      2384,
+      2428,
+      2444,
+      2490,
+      2731,
+      2788,
+      2910,
+      3111,
+      3271,
+      3577,
+      3899,
+      4135,
+      4204,
+      4248,
+      4261
+    ]
+  },
+  "notat": {
+    "input/text/rfcs/rfc3629.txt": [
+      176,
+      774,
+      811
+    ]
+  },
+  "note": {
+    "input/text/rfcs/rfc3629.txt": [
+      1045,
+      1550,
+      3566
+    ]
+  },
+  "noteworthi": {
+    "input/text/rfcs/rfc3629.txt": [
+      2725
+    ]
+  },
+  "noth": {
+    "input/text/rfcs/rfc3629.txt": [
+      435,
+      2775,
+      2799
+    ]
+  },
+  "notic": {
+    "input/text/rfcs/rfc3629.txt": [
+      75,
+      4117,
+      4147
+    ]
+  },
+  "novemb": {
+    "input/text/rfcs/rfc3629.txt": [
+      12,
+      212,
+      530,
+      834,
+      1176,
+      1527,
+      1877,
+      2312,
+      2614,
+      2989,
+      3386,
+      3625,
+      3771,
+      3785,
+      3805,
+      4055
+    ]
+  },
+  "now": {
+    "input/text/rfcs/rfc3629.txt": [
+      1381,
+      2915,
+      3546
+    ]
+  },
+  "nul": {
+    "input/text/rfcs/rfc3629.txt": [
+      3159,
+      3180
+    ]
+  },
+  "number": {
+    "input/text/rfcs/rfc3629.txt": [
+      444,
+      449,
+      470,
+      494,
+      594,
+      640,
+      655,
+      825,
+      899,
+      933,
+      992,
+      994,
+      1025,
+      1032,
+      1094,
+      1107,
+      1128,
+      1184,
+      1227,
+      1273,
+      1283,
+      1306,
+      1324,
+      1327,
+      1354,
+      1379,
+      1386,
+      2792,
+      3246,
+      3269,
+      3557
+    ]
+  },
+  "o": {
+    "input/text/rfcs/rfc3629.txt": [
+      492,
+      531,
+      573,
+      584,
+      600,
+      611,
+      623,
+      661,
+      673,
+      2221,
+      2254,
+      2339,
+      3511,
+      3523,
+      3541,
+      3563,
+      3578,
+      3591,
+      3598,
+      3608
+    ]
+  },
+  "object": {
+    "input/text/rfcs/rfc3629.txt": [
+      132,
+      381,
+      728
+    ]
+  },
+  "obsolet": {
+    "input/text/rfcs/rfc3629.txt": [
+      13,
+      168,
+      1623
+    ]
+  },
+  "obtain": {
+    "input/text/rfcs/rfc3629.txt": [
+      1225,
+      2418,
+      3962,
+      3984
+    ]
+  },
+  "occur": {
+    "input/text/rfcs/rfc3629.txt": [
+      2402,
+      3016,
+      3020,
+      3233
+    ]
+  },
+  "octet": {
+    "input/text/rfcs/rfc3629.txt": [
+      361,
+      396,
+      414,
+      422,
+      446,
+      451,
+      503,
+      533,
+      587,
+      596,
+      602,
+      621,
+      875,
+      878,
+      905,
+      909,
+      928,
+      942,
+      978,
+      997,
+      1027,
+      1073,
+      1115,
+      1136,
+      1145,
+      1156,
+      1329,
+      1362,
+      1472,
+      1480,
+      1884,
+      1904,
+      2702,
+      3107,
+      3148,
+      3191,
+      3201,
+      3606
+    ]
+  },
+  "octob": {
+    "input/text/rfcs/rfc3629.txt": [
+      3798
+    ]
+  },
+  "of": {
+    "input/text/rfcs/rfc3629.txt": [
+      21,
+      24,
+      52,
+      65,
+      69,
+      100,
+      109,
+      129,
+      133,
+      140,
+      173,
+      181,
+      186,
+      241,
+      249,
+      268,
+      323,
+      382,
+      394,
+      401,
+      445,
+      450,
+      455,
+      588,
+      595,
+      629,
+      641,
+      645,
+      693,
+      729,
+      817,
+      855,
+      873,
+      879,
+      882,
+      903,
+      926,
+      934,
+      975,
+      989,
+      1026,
+      1037,
+      1049,
+      1071,
+      1079,
+      1091,
+      1104,
+      1112,
+      1116,
+      1125,
+      1134,
+      1142,
+      1179,
+      1270,
+      1289,
+      1328,
+      1337,
+      1363,
+      1388,
+      1444,
+      1451,
+      1457,
+      1471,
+      1476,
+      1507,
+      1554,
+      1592,
+      1604,
+      1612,
+      1662,
+      1712,
+      1810,
+      1821,
+      1829,
+      1847,
+      1882,
+      1926,
+      2016,
+      2025,
+      2053,
+      2075,
+      2172,
+      2187,
+      2193,
+      2201,
+      2206,
+      2210,
+      2227,
+      2261,
+      2286,
+      2322,
+      2328,
+      2334,
+      2346,
+      2380,
+      2414,
+      2448,
+      2459,
+      2493,
+      2623,
+      2653,
+      2677,
+      2682,
+      2692,
+      2701,
+      2764,
+      2773,
+      2845,
+      2904,
+      2930,
+      3025,
+      3070,
+      3078,
+      3121,
+      3141,
+      3241,
+      3252,
+      3261,
+      3267,
+      3286,
+      3298,
+      3364,
+      3402,
+      3438,
+      3515,
+      3528,
+      3532,
+      3550,
+      3554,
+      3570,
+      3616,
+      3660,
+      3766,
+      3821,
+      3861,
+      3879,
+      3937,
+      3939,
+      3948,
+      3957,
+      3971,
+      3979,
+      4071,
+      4109,
+      4164,
+      4256,
+      4269
+    ]
+  },
+  "offici": {
+    "input/text/rfcs/rfc3629.txt": [
+      55
+    ]
+  },
+  "old": {
+    "input/text/rfcs/rfc3629.txt": [
+      1655
+    ]
+  },
+  "older": {
+    "input/text/rfcs/rfc3629.txt": [
+      2867
+    ]
+  },
+  "on": {
+    "input/text/rfcs/rfc3629.txt": [
+      157,
+      458,
+      564,
+      653,
+      1150,
+      1253,
+      1582,
+      1588,
+      2022,
+      2767,
+      3422,
+      3918,
+      4085,
+      4123,
+      4225
+    ]
+  },
+  "one": {
+    "input/text/rfcs/rfc3629.txt": [
+      342,
+      360,
+      413,
+      883,
+      1059,
+      1161,
+      1628,
+      2797,
+      2813,
+      3764
+    ]
+  },
+  "oneoctet": {
+    "input/text/rfcs/rfc3629.txt": [
+      387
+    ]
+  },
+  "onli": {
+    "input/text/rfcs/rfc3629.txt": [
+      428,
+      877,
+      1058,
+      1485,
+      2066,
+      2853,
+      2945
+    ]
+  },
+  "oper": {
+    "input/text/rfcs/rfc3629.txt": [
+      739,
+      1257
+    ]
+  },
+  "option": {
+    "input/text/rfcs/rfc3629.txt": [
+      792
+    ]
+  },
+  "or": {
+    "input/text/rfcs/rfc3629.txt": [
+      343,
+      375,
+      476,
+      551,
+      1415,
+      1434,
+      2013,
+      2181,
+      2373,
+      2438,
+      2530,
+      2957,
+      3276,
+      3339,
+      3859,
+      3865,
+      3877,
+      3886,
+      3897,
+      3954,
+      3966,
+      3977,
+      4003,
+      4006,
+      4086,
+      4090,
+      4104,
+      4148,
+      4154,
+      4184,
+      4211,
+      4214,
+      4244,
+      4265,
+      4271
+    ]
+  },
+  "order": {
+    "input/text/rfcs/rfc3629.txt": [
+      190,
+      628,
+      637,
+      651,
+      1765,
+      1782,
+      1881,
+      2178
+    ]
+  },
+  "organ": {
+    "input/text/rfcs/rfc3629.txt": [
+      3646,
+      4157
+    ]
+  },
+  "origin": {
+    "input/text/rfcs/rfc3629.txt": [
+      106
+    ]
+  },
+  "oscarsson": {
+    "input/text/rfcs/rfc3629.txt": [
+      3492
+    ]
+  },
+  "other": {
+    "input/text/rfcs/rfc3629.txt": [
+      153,
+      164,
+      265,
+      290,
+      552,
+      571,
+      581,
+      697,
+      1436,
+      1922,
+      2440,
+      3694,
+      3866,
+      4007,
+      4079,
+      4155,
+      4192
+    ]
+  },
+  "otherwis": {
+    "input/text/rfcs/rfc3629.txt": [
+      538,
+      1982,
+      3047,
+      4087
+    ]
+  },
+  "out": {
+    "input/text/rfcs/rfc3629.txt": [
+      3127,
+      3543
+    ]
+  },
+  "outlin": {
+    "input/text/rfcs/rfc3629.txt": [
+      2707
+    ]
+  },
+  "over": {
+    "input/text/rfcs/rfc3629.txt": [
+      1618
+    ]
+  },
+  "overel": {
+    "input/text/rfcs/rfc3629.txt": [
+      3777
+    ]
+  },
+  "overflow": {
+    "input/text/rfcs/rfc3629.txt": [
+      3263
+    ]
+  },
+  "overlong": {
+    "input/text/rfcs/rfc3629.txt": [
+      1407
+    ]
+  },
+  "p": {
+    "input/text/rfcs/rfc3629.txt": [
+      3776,
+      4043
+    ]
+  },
+  "page": {
+    "input/text/rfcs/rfc3629.txt": [
+      209,
+      527,
+      831,
+      1173,
+      1524,
+      1874,
+      2309,
+      2611,
+      2986,
+      3383,
+      3622,
+      3802,
+      4052,
+      4294
+    ]
+  },
+  "pair": {
+    "input/text/rfcs/rfc3629.txt": [
+      1201,
+      1418
+    ]
+  },
+  "paragraph": {
+    "input/text/rfcs/rfc3629.txt": [
+      4120
+    ]
+  },
+  "paramet": {
+    "input/text/rfcs/rfc3629.txt": [
+      2657,
+      2665
+    ]
+  },
+  "pars": {
+    "input/text/rfcs/rfc3629.txt": [
+      562
+    ]
+  },
+  "parser": {
+    "input/text/rfcs/rfc3629.txt": [
+      151,
+      3102,
+      3130,
+      3155,
+      3187
+    ]
+  },
+  "part": {
+    "input/text/rfcs/rfc3629.txt": [
+      1608,
+      3670,
+      3685,
+      3763,
+      3820,
+      4106
+    ]
+  },
+  "parti": {
+    "input/text/rfcs/rfc3629.txt": [
+      3994
+    ]
+  },
+  "particip": {
+    "input/text/rfcs/rfc3629.txt": [
+      3432
+    ]
+  },
+  "particular": {
+    "input/text/rfcs/rfc3629.txt": [
+      1652,
+      1747,
+      3118,
+      3614,
+      4275
+    ]
+  },
+  "patent": {
+    "input/text/rfcs/rfc3629.txt": [
+      4002,
+      4004
+    ]
+  },
+  "patrick": {
+    "input/text/rfcs/rfc3629.txt": [
+      3453
+    ]
+  },
+  "paul": {
+    "input/text/rfcs/rfc3629.txt": [
+      3464
+    ]
+  },
+  "payload": {
+    "input/text/rfcs/rfc3629.txt": [
+      2434
+    ]
+  },
+  "per": {
+    "input/text/rfcs/rfc3629.txt": [
+      1075
+    ]
+  },
+  "perform": {
+    "input/text/rfcs/rfc3629.txt": [
+      3132
+    ]
+  },
+  "permiss": {
+    "input/text/rfcs/rfc3629.txt": [
+      3967,
+      4197
+    ]
+  },
+  "permit": {
+    "input/text/rfcs/rfc3629.txt": [
+      3112,
+      3198
+    ]
+  },
+  "perpetu": {
+    "input/text/rfcs/rfc3629.txt": [
+      4201
+    ]
+  },
+  "pertain": {
+    "input/text/rfcs/rfc3629.txt": [
+      3873
+    ]
+  },
+  "phipp": {
+    "input/text/rfcs/rfc3629.txt": [
+      3720
+    ]
+  },
+  "phone": {
+    "input/text/rfcs/rfc3629.txt": [
+      4045
+    ]
+  },
+  "pike": {
+    "input/text/rfcs/rfc3629.txt": [
+      725
+    ]
+  },
+  "plain": {
+    "input/text/rfcs/rfc3629.txt": [
+      515
+    ]
+  },
+  "plan": {
+    "input/text/rfcs/rfc3629.txt": [
+      738
+    ]
+  },
+  "plane": {
+    "input/text/rfcs/rfc3629.txt": [
+      3675,
+      3687
+    ]
+  },
+  "pleas": {
+    "input/text/rfcs/rfc3629.txt": [
+      46,
+      4022
+    ]
+  },
+  "pledg": {
+    "input/text/rfcs/rfc3629.txt": [
+      1729
+    ]
+  },
+  "point": {
+    "input/text/rfcs/rfc3629.txt": [
+      298,
+      475,
+      1275,
+      1997,
+      3063
+    ]
+  },
+  "polici": {
+    "input/text/rfcs/rfc3629.txt": [
+      1742
+    ]
+  },
+  "pose": {
+    "input/text/rfcs/rfc3629.txt": [
+      1651
+    ]
+  },
+  "posit": {
+    "input/text/rfcs/rfc3629.txt": [
+      473,
+      1111,
+      1133,
+      1921,
+      2074,
+      2293,
+      2388,
+      3855
+    ]
+  },
+  "possibl": {
+    "input/text/rfcs/rfc3629.txt": [
+      1808,
+      3285
+    ]
+  },
+  "postel": {
+    "input/text/rfcs/rfc3629.txt": [
+      3791
+    ]
+  },
+  "potenti": {
+    "input/text/rfcs/rfc3629.txt": [
+      2184
+    ]
+  },
+  "pournad": {
+    "input/text/rfcs/rfc3629.txt": [
+      3494
+    ]
+  },
+  "practic": {
+    "input/text/rfcs/rfc3629.txt": [
+      2991,
+      4019
+    ]
+  },
+  "preced": {
+    "input/text/rfcs/rfc3629.txt": [
+      1160
+    ]
+  },
+  "precompos": {
+    "input/text/rfcs/rfc3629.txt": [
+      3334
+    ]
+  },
+  "preliminari": {
+    "input/text/rfcs/rfc3629.txt": [
+      3740
+    ]
+  },
+  "prepar": {
+    "input/text/rfcs/rfc3629.txt": [
+      1067,
+      2507,
+      4097
+    ]
+  },
+  "prepend": {
+    "input/text/rfcs/rfc3629.txt": [
+      1814,
+      2625
+    ]
+  },
+  "presenc": {
+    "input/text/rfcs/rfc3629.txt": [
+      2024
+    ]
+  },
+  "present": {
+    "input/text/rfcs/rfc3629.txt": [
+      276
+    ]
+  },
+  "preserv": {
+    "input/text/rfcs/rfc3629.txt": [
+      141,
+      402
+    ]
+  },
+  "previous": {
+    "input/text/rfcs/rfc3629.txt": [
+      1627,
+      1676,
+      3038
+    ]
+  },
+  "principl": {
+    "input/text/rfcs/rfc3629.txt": [
+      2926
+    ]
+  },
+  "printf": {
+    "input/text/rfcs/rfc3629.txt": [
+      556
+    ]
+  },
+  "probabl": {
+    "input/text/rfcs/rfc3629.txt": [
+      689
+    ]
+  },
+  "problem": {
+    "input/text/rfcs/rfc3629.txt": [
+      1437,
+      1653,
+      2943
+    ]
+  },
+  "procedur": {
+    "input/text/rfcs/rfc3629.txt": [
+      3795,
+      3921,
+      4172
+    ]
+  },
+  "proceed": {
+    "input/text/rfcs/rfc3629.txt": [
+      1020,
+      1300,
+      1367
+    ]
+  },
+  "process": {
+    "input/text/rfcs/rfc3629.txt": [
+      1966,
+      2003,
+      2903,
+      4180
+    ]
+  },
+  "prohibit": {
+    "input/text/rfcs/rfc3629.txt": [
+      1181,
+      3157,
+      3189
+    ]
+  },
+  "proper": {
+    "input/text/rfcs/rfc3629.txt": [
+      2299,
+      2336,
+      2394,
+      2446
+    ]
+  },
+  "properti": {
+    "input/text/rfcs/rfc3629.txt": [
+      217,
+      263,
+      3849,
+      3864
+    ]
+  },
+  "propos": {
+    "input/text/rfcs/rfc3629.txt": [
+      107
+    ]
+  },
+  "proprietari": {
+    "input/text/rfcs/rfc3629.txt": [
+      3973,
+      4008
+    ]
+  },
+  "protect": {
+    "input/text/rfcs/rfc3629.txt": [
+      1394
+    ]
+  },
+  "protocol": {
+    "input/text/rfcs/rfc3629.txt": [
+      34,
+      56,
+      67,
+      121,
+      372,
+      2166,
+      2167,
+      2223,
+      2235,
+      2239,
+      2256,
+      2269,
+      2274,
+      2288,
+      2314,
+      2341,
+      2354,
+      2359,
+      2382,
+      2405,
+      2416,
+      2425,
+      2441,
+      2456,
+      2467,
+      2475,
+      2488,
+      2501,
+      3590
+    ]
+  },
+  "provid": {
+    "input/text/rfcs/rfc3629.txt": [
+      146,
+      546,
+      2275,
+      2362,
+      2998,
+      3011,
+      3353,
+      4112,
+      4224,
+      4286
+    ]
+  },
+  "public": {
+    "input/text/rfcs/rfc3629.txt": [
+      1603,
+      3944
+    ]
+  },
+  "publish": {
+    "input/text/rfcs/rfc3629.txt": [
+      1617,
+      4099
+    ]
+  },
+  "purpos": {
+    "input/text/rfcs/rfc3629.txt": [
+      2795,
+      4163,
+      4276
+    ]
+  },
+  "put": {
+    "input/text/rfcs/rfc3629.txt": [
+      1100,
+      1120
+    ]
+  },
+  "qc": {
+    "input/text/rfcs/rfc3629.txt": [
+      4041
+    ]
+  },
+  "qualiti": {
+    "input/text/rfcs/rfc3629.txt": [
+      400
+    ]
+  },
+  "quantiti": {
+    "input/text/rfcs/rfc3629.txt": [
+      1268
+    ]
+  },
+  "rang": {
+    "input/text/rfcs/rfc3629.txt": [
+      145,
+      407,
+      864,
+      868,
+      995,
+      3266,
+      3514,
+      3522
+    ]
+  },
+  "rather": {
+    "input/text/rfcs/rfc3629.txt": [
+      1586
+    ]
+  },
+  "rational": {
+    "input/text/rfcs/rfc3629.txt": [
+      2744
+    ]
+  },
+  "react": {
+    "input/text/rfcs/rfc3629.txt": [
+      2516
+    ]
+  },
+  "real": {
+    "input/text/rfcs/rfc3629.txt": [
+      3229
+    ]
+  },
+  "realli": {
+    "input/text/rfcs/rfc3629.txt": [
+      2068
+    ]
+  },
+  "reason": {
+    "input/text/rfcs/rfc3629.txt": [
+      2048,
+      2976
+    ]
+  },
+  "receiv": {
+    "input/text/rfcs/rfc3629.txt": [
+      1828,
+      2766,
+      2811,
+      2832,
+      2869
+    ]
+  },
+  "recogn": {
+    "input/text/rfcs/rfc3629.txt": [
+      680,
+      1853,
+      1878,
+      2881
+    ]
+  },
+  "recommend": {
+    "input/text/rfcs/rfc3629.txt": [
+      789,
+      2034,
+      2123,
+      2134
+    ]
+  },
+  "reduc": {
+    "input/text/rfcs/rfc3629.txt": [
+      2180
+    ]
+  },
+  "reduct": {
+    "input/text/rfcs/rfc3629.txt": [
+      2200
+    ]
+  },
+  "refer": {
+    "input/text/rfcs/rfc3629.txt": [
+      47,
+      205,
+      214,
+      2736,
+      3004,
+      3538,
+      3627,
+      3718,
+      4149
+    ]
+  },
+  "regard": {
+    "input/text/rfcs/rfc3629.txt": [
+      1753,
+      3856
+    ]
+  },
+  "registr": {
+    "input/text/rfcs/rfc3629.txt": [
+      195,
+      1762,
+      2644,
+      2652,
+      3597,
+      3794
+    ]
+  },
+  "registri": {
+    "input/text/rfcs/rfc3629.txt": [
+      3058
+    ]
+  },
+  "regular": {
+    "input/text/rfcs/rfc3629.txt": [
+      3389
+    ]
+  },
+  "relev": {
+    "input/text/rfcs/rfc3629.txt": [
+      305,
+      1726
+    ]
+  },
+  "reli": {
+    "input/text/rfcs/rfc3629.txt": [
+      156,
+      1581,
+      2021
+    ]
+  },
+  "reliabl": {
+    "input/text/rfcs/rfc3629.txt": [
+      679
+    ]
+  },
+  "remain": {
+    "input/text/rfcs/rfc3629.txt": [
+      301,
+      891,
+      924,
+      2161
+    ]
+  },
+  "remov": {
+    "input/text/rfcs/rfc3629.txt": [
+      3592,
+      4144
+    ]
+  },
+  "repertoir": {
+    "input/text/rfcs/rfc3629.txt": [
+      295,
+      326,
+      500,
+      2681
+    ]
+  },
+  "replac": {
+    "input/text/rfcs/rfc3629.txt": [
+      170,
+      1625
+    ]
+  },
+  "report": {
+    "input/text/rfcs/rfc3629.txt": [
+      3724
+    ]
+  },
+  "repres": {
+    "input/text/rfcs/rfc3629.txt": [
+      340,
+      822,
+      1206,
+      1473,
+      3316,
+      3331,
+      3905
+    ]
+  },
+  "request": {
+    "input/text/rfcs/rfc3629.txt": [
+      6,
+      40
+    ]
+  },
+  "requir": {
+    "input/text/rfcs/rfc3629.txt": [
+      782,
+      1028,
+      3639,
+      4017,
+      4186
+    ]
+  },
+  "reserv": {
+    "input/text/rfcs/rfc3629.txt": [
+      83,
+      1191,
+      4066
+    ]
+  },
+  "respect": {
+    "input/text/rfcs/rfc3629.txt": [
+      3923
+    ]
+  },
+  "restrict": {
+    "input/text/rfcs/rfc3629.txt": [
+      2170,
+      2212,
+      3512,
+      4108
+    ]
+  },
+  "result": {
+    "input/text/rfcs/rfc3629.txt": [
+      1280,
+      1984,
+      3956
+    ]
+  },
+  "revok": {
+    "input/text/rfcs/rfc3629.txt": [
+      4206
+    ]
+  },
+  "rfc": {
+    "input/text/rfcs/rfc3629.txt": [
+      171,
+      203,
+      210,
+      528,
+      803,
+      832,
+      1174,
+      1508,
+      1525,
+      1875,
+      2310,
+      2612,
+      2662,
+      2778,
+      2987,
+      3384,
+      3510,
+      3623,
+      3628,
+      3642,
+      3752,
+      3770,
+      3772,
+      3784,
+      3786,
+      3797,
+      3803,
+      4053,
+      4281
+    ]
+  },
+  "rfcs": {
+    "input/text/rfcs/rfc3629.txt": [
+      3636
+    ]
+  },
+  "right": {
+    "input/text/rfcs/rfc3629.txt": [
+      82,
+      3867,
+      3895,
+      3916,
+      3925,
+      3940,
+      3974,
+      4009,
+      4065,
+      4264
+    ]
+  },
+  "risk": {
+    "input/text/rfcs/rfc3629.txt": [
+      3260
+    ]
+  },
+  "rob": {
+    "input/text/rfcs/rfc3629.txt": [
+      724
+    ]
+  },
+  "roozbeh": {
+    "input/text/rfcs/rfc3629.txt": [
+      3493
+    ]
+  },
+  "roundtrip": {
+    "input/text/rfcs/rfc3629.txt": [
+      574
+    ]
+  },
+  "row": {
+    "input/text/rfcs/rfc3629.txt": [
+      1048
+    ]
+  },
+  "rule": {
+    "input/text/rfcs/rfc3629.txt": [
+      1497
+    ]
+  },
+  "s": {
+    "input/text/rfcs/rfc3629.txt": [
+      3630
+    ]
+  },
+  "safe": {
+    "input/text/rfcs/rfc3629.txt": [
+      3744
+    ]
+  },
+  "same": {
+    "input/text/rfcs/rfc3629.txt": [
+      247,
+      634,
+      1566,
+      1689,
+      2110,
+      3305,
+      3370
+    ]
+  },
+  "sargent": {
+    "input/text/rfcs/rfc3629.txt": [
+      3496
+    ]
+  },
+  "scalar": {
+    "input/text/rfcs/rfc3629.txt": [
+      478
+    ]
+  },
+  "scheme": {
+    "input/text/rfcs/rfc3629.txt": [
+      2706,
+      3727
+    ]
+  },
+  "scherer": {
+    "input/text/rfcs/rfc3629.txt": [
+      3498
+    ]
+  },
+  "scope": {
+    "input/text/rfcs/rfc3629.txt": [
+      3860
+    ]
+  },
+  "search": {
+    "input/text/rfcs/rfc3629.txt": [
+      665,
+      3387
+    ]
+  },
+  "second": {
+    "input/text/rfcs/rfc3629.txt": [
+      1077,
+      1335,
+      1807
+    ]
+  },
+  "secretariat": {
+    "input/text/rfcs/rfc3629.txt": [
+      3988
+    ]
+  },
+  "section": {
+    "input/text/rfcs/rfc3629.txt": [
+      1441,
+      1763,
+      2779,
+      3582,
+      3612
+    ]
+  },
+  "secur": {
+    "input/text/rfcs/rfc3629.txt": [
+      198,
+      1432,
+      1439,
+      3067,
+      3076,
+      3225,
+      3231,
+      3290,
+      3374,
+      3610
+    ]
+  },
+  "securitycrit": {
+    "input/text/rfcs/rfc3629.txt": [
+      3133
+    ]
+  },
+  "see": {
+    "input/text/rfcs/rfc3629.txt": [
+      759,
+      1438,
+      1739,
+      2777,
+      3426
+    ]
+  },
+  "select": {
+    "input/text/rfcs/rfc3629.txt": [
+      3393
+    ]
+  },
+  "semant": {
+    "input/text/rfcs/rfc3629.txt": [
+      1934,
+      2111,
+      2130
+    ]
+  },
+  "send": {
+    "input/text/rfcs/rfc3629.txt": [
+      3104
+    ]
+  },
+  "septemb": {
+    "input/text/rfcs/rfc3629.txt": [
+      714
+    ]
+  },
+  "sequenc": {
+    "input/text/rfcs/rfc3629.txt": [
+      184,
+      591,
+      599,
+      872,
+      881,
+      902,
+      998,
+      1118,
+      1332,
+      1350,
+      1365,
+      1398,
+      1409,
+      1429,
+      1447,
+      1470,
+      1475,
+      1481,
+      1905,
+      2539,
+      2559,
+      2584,
+      2700,
+      2763,
+      2772,
+      3084,
+      3108,
+      3149,
+      3166,
+      3173,
+      3192,
+      3202,
+      3251,
+      3289,
+      3321,
+      3344,
+      3357,
+      3361,
+      3367,
+      3572,
+      3607
+    ]
+  },
+  "serial": {
+    "input/text/rfcs/rfc3629.txt": [
+      1832,
+      1880
+    ]
+  },
+  "serv": {
+    "input/text/rfcs/rfc3629.txt": [
+      2647,
+      2793
+    ]
+  },
+  "server": {
+    "input/text/rfcs/rfc3629.txt": [
+      3221
+    ]
+  },
+  "set": {
+    "input/text/rfcs/rfc3629.txt": [
+      90,
+      95,
+      231,
+      236,
+      248,
+      888,
+      915,
+      921,
+      948,
+      954,
+      1310,
+      2785,
+      3655,
+      3668,
+      3683,
+      3836
+    ]
+  },
+  "sever": {
+    "input/text/rfcs/rfc3629.txt": [
+      320,
+      3299,
+      3318
+    ]
+  },
+  "shall": {
+    "input/text/rfcs/rfc3629.txt": [
+      783,
+      784
+    ]
+  },
+  "should": {
+    "input/text/rfcs/rfc3629.txt": [
+      786,
+      787,
+      2224,
+      2257,
+      2342,
+      2505,
+      3017
+    ]
+  },
+  "signatur": {
+    "input/text/rfcs/rfc3629.txt": [
+      1826,
+      1947,
+      1952,
+      2012,
+      2044,
+      2091,
+      2119,
+      2147,
+      2176,
+      2208,
+      2231,
+      2246,
+      2265,
+      2350,
+      2463,
+      2497,
+      2511,
+      2520,
+      2533
+    ]
+  },
+  "signific": {
+    "input/text/rfcs/rfc3629.txt": [
+      1633,
+      1710
+    ]
+  },
+  "similar": {
+    "input/text/rfcs/rfc3629.txt": [
+      1258,
+      1609
+    ]
+  },
+  "simon": {
+    "input/text/rfcs/rfc3629.txt": [
+      3468
+    ]
+  },
+  "simonsen": {
+    "input/text/rfcs/rfc3629.txt": [
+      3500
+    ]
+  },
+  "simpl": {
+    "input/text/rfcs/rfc3629.txt": [
+      685
+    ]
+  },
+  "sinc": {
+    "input/text/rfcs/rfc3629.txt": [
+      648
+    ]
+  },
+  "singl": {
+    "input/text/rfcs/rfc3629.txt": [
+      3355
+    ]
+  },
+  "singleoctet": {
+    "input/text/rfcs/rfc3629.txt": [
+      1888,
+      3165
+    ]
+  },
+  "size": {
+    "input/text/rfcs/rfc3629.txt": [
+      3279
+    ]
+  },
+  "so": {
+    "input/text/rfcs/rfc3629.txt": [
+      291
+    ]
+  },
+  "societi": {
+    "input/text/rfcs/rfc3629.txt": [
+      80,
+      4063,
+      4153,
+      4210,
+      4233,
+      4290
+    ]
+  },
+  "softwar": {
+    "input/text/rfcs/rfc3629.txt": [
+      154,
+      553
+    ]
+  },
+  "solut": {
+    "input/text/rfcs/rfc3629.txt": [
+      3420
+    ]
+  },
+  "some": {
+    "input/text/rfcs/rfc3629.txt": [
+      1974,
+      3090
+    ]
+  },
+  "sort": {
+    "input/text/rfcs/rfc3629.txt": [
+      627,
+      650,
+      3388
+    ]
+  },
+  "sourc": {
+    "input/text/rfcs/rfc3629.txt": [
+      1585,
+      3527
+    ]
+  },
+  "space": {
+    "input/text/rfcs/rfc3629.txt": [
+      1775,
+      1797,
+      1939,
+      1993,
+      2085,
+      2154,
+      2485
+    ]
+  },
+  "specif": {
+    "input/text/rfcs/rfc3629.txt": [
+      2168,
+      3045,
+      3741,
+      3782,
+      3981
+    ]
+  },
+  "specifi": {
+    "input/text/rfcs/rfc3629.txt": [
+      29,
+      722
+    ]
+  },
+  "stand": {
+    "input/text/rfcs/rfc3629.txt": [
+      429
+    ]
+  },
+  "standard": {
+    "input/text/rfcs/rfc3629.txt": [
+      15,
+      32,
+      57,
+      61,
+      188,
+      207,
+      256,
+      306,
+      348,
+      525,
+      751,
+      829,
+      843,
+      1171,
+      1522,
+      1594,
+      1615,
+      1872,
+      1955,
+      2307,
+      2609,
+      2786,
+      2839,
+      2984,
+      3381,
+      3620,
+      3648,
+      3658,
+      3702,
+      3708,
+      3800,
+      3813,
+      3824,
+      3832,
+      3839,
+      4021,
+      4050,
+      4167,
+      4179,
+      4292
+    ]
+  },
+  "standardsrel": {
+    "input/text/rfcs/rfc3629.txt": [
+      3929
+    ]
+  },
+  "standardstrack": {
+    "input/text/rfcs/rfc3629.txt": [
+      3927
+    ]
+  },
+  "start": {
+    "input/text/rfcs/rfc3629.txt": [
+      1098
+    ]
+  },
+  "state": {
+    "input/text/rfcs/rfc3629.txt": [
+      62
+    ]
+  },
+  "statement": {
+    "input/text/rfcs/rfc3629.txt": [
+      218,
+      223,
+      3850,
+      4058
+    ]
+  },
+  "status": {
+    "input/text/rfcs/rfc3629.txt": [
+      23,
+      64
+    ]
+  },
+  "stay": {
+    "input/text/rfcs/rfc3629.txt": [
+      3034
+    ]
+  },
+  "std": {
+    "input/text/rfcs/rfc3629.txt": [
+      11,
+      58
+    ]
+  },
+  "steward": {
+    "input/text/rfcs/rfc3629.txt": [
+      749
+    ]
+  },
+  "straighten": {
+    "input/text/rfcs/rfc3629.txt": [
+      3542
+    ]
+  },
+  "stream": {
+    "input/text/rfcs/rfc3629.txt": [
+      544,
+      622,
+      1820,
+      1833,
+      1845,
+      1928,
+      2030,
+      2077
+    ]
+  },
+  "strike": {
+    "input/text/rfcs/rfc3629.txt": [
+      2194
+    ]
+  },
+  "string": {
+    "input/text/rfcs/rfc3629.txt": [
+      517,
+      523,
+      631,
+      675,
+      692,
+      708,
+      816,
+      1467,
+      1980,
+      1985,
+      2670,
+      3377,
+      3400
+    ]
+  },
+  "strip": {
+    "input/text/rfcs/rfc3629.txt": [
+      1964,
+      1970,
+      2037,
+      2054,
+      2064,
+      2529
+    ]
+  },
+  "strong": {
+    "input/text/rfcs/rfc3629.txt": [
+      2122
+    ]
+  },
+  "stump": {
+    "input/text/rfcs/rfc3629.txt": [
+      2622
+    ]
+  },
+  "subtl": {
+    "input/text/rfcs/rfc3629.txt": [
+      3119
+    ]
+  },
+  "successor": {
+    "input/text/rfcs/rfc3629.txt": [
+      4213
+    ]
+  },
+  "such": {
+    "input/text/rfcs/rfc3629.txt": [
+      424,
+      682,
+      1697,
+      1735,
+      1830,
+      1969,
+      2008,
+      2058,
+      2211,
+      2407,
+      2419,
+      2435,
+      2451,
+      2862,
+      2967,
+      3894,
+      3915,
+      3972,
+      4125,
+      4141
+    ]
+  },
+  "suggest": {
+    "input/text/rfcs/rfc3629.txt": [
+      43,
+      1956,
+      3593
+    ]
+  },
+  "suitabl": {
+    "input/text/rfcs/rfc3629.txt": [
+      2711
+    ]
+  },
+  "summar": {
+    "input/text/rfcs/rfc3629.txt": [
+      972
+    ]
+  },
+  "supplementari": {
+    "input/text/rfcs/rfc3629.txt": [
+      3686
+    ]
+  },
+  "surrog": {
+    "input/text/rfcs/rfc3629.txt": [
+      1200,
+      1417
+    ]
+  },
+  "symbol": {
+    "input/text/rfcs/rfc3629.txt": [
+      3692
+    ]
+  },
+  "sync": {
+    "input/text/rfcs/rfc3629.txt": [
+      303
+    ]
+  },
+  "synchron": {
+    "input/text/rfcs/rfc3629.txt": [
+      315
+    ]
+  },
+  "syntax": {
+    "input/text/rfcs/rfc3629.txt": [
+      180,
+      1443,
+      1461,
+      1491,
+      3116,
+      3602,
+      3781
+    ]
+  },
+  "system": {
+    "input/text/rfcs/rfc3629.txt": [
+      104,
+      150,
+      245,
+      550,
+      740,
+      2423,
+      3743
+    ]
+  },
+  "t": {
+    "input/text/rfcs/rfc3629.txt": [
+      3721
+    ]
+  },
+  "tabl": {
+    "input/text/rfcs/rfc3629.txt": [
+      172,
+      970,
+      1039,
+      1051,
+      1081,
+      1339
+    ]
+  },
+  "tag": {
+    "input/text/rfcs/rfc3629.txt": [
+      2804,
+      2818
+    ]
+  },
+  "take": {
+    "input/text/rfcs/rfc3629.txt": [
+      3281,
+      3853
+    ]
+  },
+  "task": {
+    "input/text/rfcs/rfc3629.txt": [
+      4238
+    ]
+  },
+  "teach": {
+    "input/text/rfcs/rfc3629.txt": [
+      2821
+    ]
+  },
+  "technic": {
+    "input/text/rfcs/rfc3629.txt": [
+      3723
+    ]
+  },
+  "technolog": {
+    "input/text/rfcs/rfc3629.txt": [
+      10,
+      3650,
+      3663,
+      3678,
+      3881,
+      4013,
+      4036
+    ]
+  },
+  "tell": {
+    "input/text/rfcs/rfc3629.txt": [
+      3313
+    ]
+  },
+  "term": {
+    "input/text/rfcs/rfc3629.txt": [
+      3549
+    ]
+  },
+  "terminolog": {
+    "input/text/rfcs/rfc3629.txt": [
+      3544
+    ]
+  },
+  "text": {
+    "input/text/rfcs/rfc3629.txt": [
+      1799,
+      1968,
+      2675,
+      2720
+    ]
+  },
+  "textual": {
+    "input/text/rfcs/rfc3629.txt": [
+      2234,
+      2268,
+      2353
+    ]
+  },
+  "than": {
+    "input/text/rfcs/rfc3629.txt": [
+      359,
+      1587,
+      1923,
+      1957,
+      4193
+    ]
+  },
+  "that": {
+    "input/text/rfcs/rfc3629.txt": [
+      155,
+      292,
+      373,
+      513,
+      561,
+      690,
+      927,
+      1046,
+      1135,
+      1247,
+      1702,
+      1843,
+      1914,
+      2019,
+      2141,
+      2237,
+      2284,
+      2378,
+      2426,
+      2442,
+      2474,
+      2513,
+      2726,
+      2805,
+      2812,
+      2848,
+      2854,
+      3088,
+      3109,
+      3868,
+      3906,
+      4014,
+      4083,
+      4113,
+      4253
+    ]
+  },
+  "the": {
+    "input/text/rfcs/rfc3629.txt": [
+      36,
+      49,
+      53,
+      60,
+      78,
+      92,
+      101,
+      105,
+      110,
+      127,
+      131,
+      138,
+      142,
+      187,
+      233,
+      242,
+      246,
+      254,
+      275,
+      293,
+      304,
+      380,
+      399,
+      403,
+      416,
+      448,
+      453,
+      459,
+      464,
+      468,
+      484,
+      555,
+      585,
+      593,
+      598,
+      601,
+      624,
+      633,
+      662,
+      688,
+      727,
+      737,
+      753,
+      762,
+      772,
+      776,
+      809,
+      823,
+      841,
+      862,
+      865,
+      876,
+      885,
+      890,
+      897,
+      907,
+      911,
+      923,
+      932,
+      935,
+      940,
+      945,
+      951,
+      964,
+      969,
+      973,
+      980,
+      990,
+      1024,
+      1030,
+      1034,
+      1038,
+      1047,
+      1050,
+      1068,
+      1072,
+      1076,
+      1080,
+      1084,
+      1089,
+      1092,
+      1101,
+      1105,
+      1109,
+      1113,
+      1117,
+      1121,
+      1126,
+      1130,
+      1139,
+      1143,
+      1152,
+      1159,
+      1177,
+      1195,
+      1221,
+      1254,
+      1263,
+      1271,
+      1286,
+      1322,
+      1326,
+      1331,
+      1334,
+      1338,
+      1341,
+      1346,
+      1349,
+      1352,
+      1356,
+      1360,
+      1364,
+      1369,
+      1377,
+      1384,
+      1389,
+      1406,
+      1412,
+      1416,
+      1449,
+      1489,
+      1496,
+      1505,
+      1551,
+      1565,
+      1583,
+      1593,
+      1613,
+      1626,
+      1641,
+      1660,
+      1669,
+      1683,
+      1688,
+      1693,
+      1716,
+      1721,
+      1725,
+      1768,
+      1801,
+      1811,
+      1837,
+      1844,
+      1879,
+      1883,
+      1897,
+      1903,
+      1915,
+      1924,
+      1933,
+      1936,
+      1953,
+      1967,
+      1983,
+      1995,
+      2017,
+      2023,
+      2029,
+      2072,
+      2109,
+      2118,
+      2156,
+      2158,
+      2183,
+      2191,
+      2198,
+      2207,
+      2238,
+      2245,
+      2273,
+      2287,
+      2297,
+      2303,
+      2313,
+      2320,
+      2323,
+      2326,
+      2332,
+      2358,
+      2381,
+      2392,
+      2395,
+      2415,
+      2519,
+      2523,
+      2532,
+      2537,
+      2557,
+      2566,
+      2582,
+      2591,
+      2615,
+      2649,
+      2654,
+      2663,
+      2680,
+      2693,
+      2704,
+      2719,
+      2727,
+      2743,
+      2757,
+      2768,
+      2803,
+      2817,
+      2824,
+      2838,
+      2842,
+      2850,
+      2882,
+      2891,
+      2905,
+      2916,
+      2928,
+      2941,
+      2974,
+      2977,
+      2999,
+      3027,
+      3037,
+      3043,
+      3050,
+      3055,
+      3075,
+      3114,
+      3137,
+      3158,
+      3164,
+      3170,
+      3190,
+      3199,
+      3224,
+      3238,
+      3265,
+      3284,
+      3304,
+      3333,
+      3341,
+      3362,
+      3369,
+      3429,
+      3434,
+      3513,
+      3519,
+      3526,
+      3529,
+      3537,
+      3555,
+      3565,
+      3584,
+      3697,
+      3700,
+      3706,
+      3822,
+      3851,
+      3857,
+      3875,
+      3880,
+      3887,
+      3919,
+      3955,
+      3969,
+      3986,
+      3989,
+      4024,
+      4027,
+      4061,
+      4114,
+      4145,
+      4151,
+      4162,
+      4171,
+      4177,
+      4195,
+      4208,
+      4219,
+      4231,
+      4235,
+      4254,
+      4257,
+      4280,
+      4288
+    ]
+  },
+  "their": {
+    "input/text/rfcs/rfc3629.txt": [
+      324,
+      2329,
+      2335
+    ]
+  },
+  "them": {
+    "input/text/rfcs/rfc3629.txt": [
+      363
+    ]
+  },
+  "then": {
+    "input/text/rfcs/rfc3629.txt": [
+      1119,
+      1157,
+      1230,
+      1835,
+      2469,
+      2503,
+      2992
+    ]
+  },
+  "there": {
+    "input/text/rfcs/rfc3629.txt": [
+      1056,
+      1703,
+      2857,
+      2963,
+      3256
+    ]
+  },
+  "therebi": {
+    "input/text/rfcs/rfc3629.txt": [
+      1673
+    ]
+  },
+  "therefor": {
+    "input/text/rfcs/rfc3629.txt": [
+      2033,
+      3258
+    ]
+  },
+  "these": {
+    "input/text/rfcs/rfc3629.txt": [
+      976
+    ]
+  },
+  "they": {
+    "input/text/rfcs/rfc3629.txt": [
+      3080
+    ]
+  },
+  "thing": {
+    "input/text/rfcs/rfc3629.txt": [
+      1567,
+      3306,
+      3371
+    ]
+  },
+  "this": {
+    "input/text/rfcs/rfc3629.txt": [
+      25,
+      27,
+      66,
+      70,
+      123,
+      134,
+      166,
+      312,
+      383,
+      480,
+      545,
+      643,
+      794,
+      1237,
+      1276,
+      1559,
+      1589,
+      1786,
+      1891,
+      2097,
+      2133,
+      2188,
+      2300,
+      2645,
+      2669,
+      2740,
+      2972,
+      3065,
+      3122,
+      3208,
+      3415,
+      3439,
+      3884,
+      3980,
+      4020,
+      4067,
+      4119,
+      4131,
+      4216
+    ]
+  },
+  "thompson": {
+    "input/text/rfcs/rfc3629.txt": [
+      717,
+      746
+    ]
+  },
+  "those": {
+    "input/text/rfcs/rfc3629.txt": [
+      1290,
+      2233,
+      2252,
+      2267,
+      2352
+    ]
+  },
+  "though": {
+    "input/text/rfcs/rfc3629.txt": [
+      3351
+    ]
+  },
+  "threat": {
+    "input/text/rfcs/rfc3629.txt": [
+      3226
+    ]
+  },
+  "through": {
+    "input/text/rfcs/rfc3629.txt": [
+      750
+    ]
+  },
+  "thus": {
+    "input/text/rfcs/rfc3629.txt": [
+      3223
+    ]
+  },
+  "tight": {
+    "input/text/rfcs/rfc3629.txt": [
+      2318
+    ]
+  },
+  "time": {
+    "input/text/rfcs/rfc3629.txt": [
+      277,
+      1599,
+      1601,
+      1619,
+      2327,
+      2333
+    ]
+  },
+  "to": {
+    "input/text/rfcs/rfc3629.txt": [
+      48,
+      126,
+      163,
+      271,
+      274,
+      285,
+      310,
+      365,
+      463,
+      497,
+      502,
+      504,
+      570,
+      607,
+      797,
+      819,
+      874,
+      889,
+      895,
+      916,
+      922,
+      937,
+      949,
+      955,
+      960,
+      966,
+      1018,
+      1044,
+      1062,
+      1151,
+      1154,
+      1158,
+      1218,
+      1224,
+      1259,
+      1278,
+      1311,
+      1313,
+      1351,
+      1368,
+      1383,
+      1563,
+      1574,
+      1580,
+      1600,
+      1644,
+      1659,
+      1730,
+      1757,
+      1813,
+      1818,
+      1852,
+      1870,
+      1912,
+      2035,
+      2049,
+      2063,
+      2179,
+      2216,
+      2241,
+      2294,
+      2331,
+      2389,
+      2401,
+      2508,
+      2521,
+      2661,
+      2690,
+      2698,
+      2738,
+      2754,
+      2760,
+      2830,
+      2861,
+      2880,
+      2888,
+      2955,
+      2969,
+      3003,
+      3005,
+      3062,
+      3064,
+      3073,
+      3097,
+      3236,
+      3248,
+      3254,
+      3274,
+      3419,
+      3517,
+      3637,
+      3872,
+      3874,
+      3889,
+      3912,
+      3924,
+      3950,
+      3961,
+      3995,
+      3997,
+      4018,
+      4026,
+      4078,
+      4150,
+      4187,
+      4250
+    ]
+  },
+  "toalpha": {
+    "input/text/rfcs/rfc3629.txt": [
+      2546
+    ]
+  },
+  "toni": {
+    "input/text/rfcs/rfc3629.txt": [
+      3459
+    ]
+  },
+  "toplevel": {
+    "input/text/rfcs/rfc3629.txt": [
+      2721
+    ]
+  },
+  "total": {
+    "input/text/rfcs/rfc3629.txt": [
+      2249
+    ]
+  },
+  "track": {
+    "input/text/rfcs/rfc3629.txt": [
+      16,
+      33,
+      208,
+      288,
+      526,
+      830,
+      1172,
+      1523,
+      1873,
+      2308,
+      2610,
+      2985,
+      3382,
+      3621,
+      3801,
+      4051,
+      4293
+    ]
+  },
+  "transform": {
+    "input/text/rfcs/rfc3629.txt": [
+      19,
+      733,
+      3746
+    ]
+  },
+  "translat": {
+    "input/text/rfcs/rfc3629.txt": [
+      4070,
+      4188
+    ]
+  },
+  "transmiss": {
+    "input/text/rfcs/rfc3629.txt": [
+      2338
+    ]
+  },
+  "transpar": {
+    "input/text/rfcs/rfc3629.txt": [
+      162,
+      569
+    ]
+  },
+  "tree": {
+    "input/text/rfcs/rfc3629.txt": [
+      2624
+    ]
+  },
+  "trigger": {
+    "input/text/rfcs/rfc3629.txt": [
+      2900
+    ]
+  },
+  "turn": {
+    "input/text/rfcs/rfc3629.txt": [
+      3564
+    ]
+  },
+  "two": {
+    "input/text/rfcs/rfc3629.txt": [
+      1979,
+      2397
+    ]
+  },
+  "twooctet": {
+    "input/text/rfcs/rfc3629.txt": [
+      3172
+    ]
+  },
+  "type": {
+    "input/text/rfcs/rfc3629.txt": [
+      979,
+      2673,
+      2717,
+      2722
+    ]
+  },
+  "u": {
+    "input/text/rfcs/rfc3629.txt": [
+      496,
+      1414,
+      2104,
+      2540,
+      2541,
+      2542,
+      3345,
+      3346
+    ]
+  },
+  "uadd": {
+    "input/text/rfcs/rfc3629.txt": [
+      2561
+    ]
+  },
+  "uae": {
+    "input/text/rfcs/rfc3629.txt": [
+      2587
+    ]
+  },
+  "uax": {
+    "input/text/rfcs/rfc3629.txt": [
+      3427,
+      3806
+    ]
+  },
+  "ub": {
+    "input/text/rfcs/rfc3629.txt": [
+      1426,
+      2617
+    ]
+  },
+  "uc": {
+    "input/text/rfcs/rfc3629.txt": [
+      96,
+      111,
+      237,
+      328,
+      330,
+      349,
+      439,
+      732,
+      804,
+      1477,
+      1769,
+      1822,
+      1848,
+      1855,
+      2586,
+      3558,
+      3560,
+      3656,
+      3669,
+      3684,
+      3745
+    ]
+  },
+  "ucb": {
+    "input/text/rfcs/rfc3629.txt": [
+      2562
+    ]
+  },
+  "ud": {
+    "input/text/rfcs/rfc3629.txt": [
+      1186
+    ]
+  },
+  "udc": {
+    "input/text/rfcs/rfc3629.txt": [
+      2560
+    ]
+  },
+  "udfff": {
+    "input/text/rfcs/rfc3629.txt": [
+      1188
+    ]
+  },
+  "ue": {
+    "input/text/rfcs/rfc3629.txt": [
+      2543,
+      2585,
+      3335
+    ]
+  },
+  "uf": {
+    "input/text/rfcs/rfc3629.txt": [
+      498
+    ]
+  },
+  "ufeff": {
+    "input/text/rfcs/rfc3629.txt": [
+      1771,
+      1816,
+      1917,
+      1960,
+      2040,
+      2070,
+      2115,
+      2144,
+      2173,
+      2228,
+      2262,
+      2347,
+      2460,
+      2472,
+      2494
+    ]
+  },
+  "uffff": {
+    "input/text/rfcs/rfc3629.txt": [
+      3275
+    ]
+  },
+  "ufffffff": {
+    "input/text/rfcs/rfc3629.txt": [
+      3249
+    ]
+  },
+  "uhhhh": {
+    "input/text/rfcs/rfc3629.txt": [
+      810
+    ]
+  },
+  "unabl": {
+    "input/text/rfcs/rfc3629.txt": [
+      2887
+    ]
+  },
+  "uncertainti": {
+    "input/text/rfcs/rfc3629.txt": [
+      2098,
+      2159,
+      2189,
+      2202
+    ]
+  },
+  "under": {
+    "input/text/rfcs/rfc3629.txt": [
+      1682,
+      2319,
+      2718,
+      3893
+    ]
+  },
+  "understand": {
+    "input/text/rfcs/rfc3629.txt": [
+      1913
+    ]
+  },
+  "understood": {
+    "input/text/rfcs/rfc3629.txt": [
+      3002
+    ]
+  },
+  "unenforc": {
+    "input/text/rfcs/rfc3629.txt": [
+      2372
+    ]
+  },
+  "unfortun": {
+    "input/text/rfcs/rfc3629.txt": [
+      2160
+    ]
+  },
+  "unicod": {
+    "input/text/rfcs/rfc3629.txt": [
+      255,
+      257,
+      280,
+      318,
+      477,
+      842,
+      844,
+      1558,
+      1568,
+      1614,
+      1665,
+      1686,
+      1692,
+      1740,
+      1954,
+      2099,
+      2956,
+      3423,
+      3525,
+      3617,
+      3696,
+      3698,
+      3701,
+      3707,
+      3722,
+      3812,
+      3815,
+      3823
+    ]
+  },
+  "unicodeutf": {
+    "input/text/rfcs/rfc3629.txt": [
+      3594
+    ]
+  },
+  "unintend": {
+    "input/text/rfcs/rfc3629.txt": [
+      1989
+    ]
+  },
+  "unit": {
+    "input/text/rfcs/rfc3629.txt": [
+      346,
+      357,
+      389,
+      1866,
+      1890
+    ]
+  },
+  "univers": {
+    "input/text/rfcs/rfc3629.txt": [
+      93,
+      234,
+      3651,
+      3664,
+      3679
+    ]
+  },
+  "unknown": {
+    "input/text/rfcs/rfc3629.txt": [
+      2875
+    ]
+  },
+  "unless": {
+    "input/text/rfcs/rfc3629.txt": [
+      3042
+    ]
+  },
+  "unlimit": {
+    "input/text/rfcs/rfc3629.txt": [
+      73
+    ]
+  },
+  "until": {
+    "input/text/rfcs/rfc3629.txt": [
+      1163,
+      1371,
+      3040
+    ]
+  },
+  "up": {
+    "input/text/rfcs/rfc3629.txt": [
+      273,
+      1312,
+      2689,
+      3247,
+      3253
+    ]
+  },
+  "updat": {
+    "input/text/rfcs/rfc3629.txt": [
+      1597,
+      1637,
+      3061
+    ]
+  },
+  "urg": {
+    "input/text/rfcs/rfc3629.txt": [
+      1579
+    ]
+  },
+  "uri": {
+    "input/text/rfcs/rfc3629.txt": [
+      215,
+      3846
+    ]
+  },
+  "usabl": {
+    "input/text/rfcs/rfc3629.txt": [
+      735
+    ]
+  },
+  "usag": {
+    "input/text/rfcs/rfc3629.txt": [
+      1809,
+      2113,
+      2171
+    ]
+  },
+  "usascii": {
+    "input/text/rfcs/rfc3629.txt": [
+      144,
+      158,
+      405,
+      406,
+      408,
+      418,
+      432,
+      499,
+      507,
+      532,
+      565,
+      3829
+    ]
+  },
+  "use": {
+    "input/text/rfcs/rfc3629.txt": [
+      314,
+      366,
+      391,
+      669,
+      871,
+      894,
+      1193,
+      1252,
+      1453,
+      1790,
+      1836,
+      2126,
+      2215,
+      2226,
+      2260,
+      2296,
+      2345,
+      2391,
+      2458,
+      2492,
+      2518,
+      2703,
+      2713,
+      3214,
+      3634,
+      3878,
+      3970,
+      4255
+    ]
+  },
+  "useless": {
+    "input/text/rfcs/rfc3629.txt": [
+      1895,
+      2250
+    ]
+  },
+  "user": {
+    "input/text/rfcs/rfc3629.txt": [
+      3311,
+      3978
+    ]
+  },
+  "utf": {
+    "input/text/rfcs/rfc3629.txt": [
+      17,
+      130,
+      136,
+      178,
+      182,
+      211,
+      327,
+      329,
+      332,
+      353,
+      379,
+      437,
+      522,
+      529,
+      541,
+      579,
+      630,
+      671,
+      674,
+      702,
+      710,
+      767,
+      770,
+      833,
+      835,
+      837,
+      859,
+      866,
+      996,
+      1019,
+      1175,
+      1180,
+      1196,
+      1211,
+      1213,
+      1222,
+      1233,
+      1260,
+      1264,
+      1295,
+      1298,
+      1408,
+      1445,
+      1458,
+      1466,
+      1484,
+      1500,
+      1512,
+      1513,
+      1514,
+      1515,
+      1516,
+      1518,
+      1526,
+      1528,
+      1539,
+      1555,
+      1876,
+      1885,
+      2244,
+      2311,
+      2550,
+      2572,
+      2597,
+      2613,
+      2628,
+      2633,
+      2659,
+      2668,
+      2709,
+      2729,
+      2988,
+      3053,
+      3071,
+      3083,
+      3101,
+      3115,
+      3138,
+      3237,
+      3242,
+      3303,
+      3352,
+      3385,
+      3520,
+      3533,
+      3545,
+      3585,
+      3605,
+      3624,
+      3729,
+      3804,
+      4054
+    ]
+  },
+  "utfchar": {
+    "input/text/rfcs/rfc3629.txt": [
+      1510,
+      1511
+    ]
+  },
+  "utflik": {
+    "input/text/rfcs/rfc3629.txt": [
+      1245
+    ]
+  },
+  "utfoctet": {
+    "input/text/rfcs/rfc3629.txt": [
+      1509
+    ]
+  },
+  "utftail": {
+    "input/text/rfcs/rfc3629.txt": [
+      1520,
+      1531,
+      1533,
+      1536,
+      1538,
+      1542,
+      1544,
+      1547,
+      1548
+    ]
+  },
+  "utr": {
+    "input/text/rfcs/rfc3629.txt": [
+      3732
+    ]
+  },
+  "uuffff": {
+    "input/text/rfcs/rfc3629.txt": [
+      863
+    ]
+  },
+  "valid": {
+    "input/text/rfcs/rfc3629.txt": [
+      521,
+      660,
+      701,
+      1060,
+      1294,
+      1483,
+      3134,
+      3604,
+      3858
+    ]
+  },
+  "valu": {
+    "input/text/rfcs/rfc3629.txt": [
+      159,
+      165,
+      419,
+      426,
+      454,
+      461,
+      479,
+      488,
+      508,
+      534,
+      566,
+      572,
+      603,
+      1266,
+      2666
+    ]
+  },
+  "vari": {
+    "input/text/rfcs/rfc3629.txt": [
+      443
+    ]
+  },
+  "variant": {
+    "input/text/rfcs/rfc3629.txt": [
+      765
+    ]
+  },
+  "veri": {
+    "input/text/rfcs/rfc3629.txt": [
+      313,
+      2975,
+      3228
+    ]
+  },
+  "version": {
+    "input/text/rfcs/rfc3629.txt": [
+      185,
+      1591,
+      1611,
+      1622,
+      1685,
+      1744,
+      2734,
+      2791,
+      2851,
+      2932,
+      3007,
+      3024,
+      3039,
+      3703,
+      3709,
+      3825
+    ]
+  },
+  "versiondepend": {
+    "input/text/rfcs/rfc3629.txt": [
+      2863
+    ]
+  },
+  "versionindepend": {
+    "input/text/rfcs/rfc3629.txt": [
+      2994
+    ]
+  },
+  "versionsenumeratedversionshtmlunicod": {
+    "input/text/rfcs/rfc3629.txt": [
+      3716
+    ]
+  },
+  "virus": {
+    "input/text/rfcs/rfc3629.txt": [
+      3218
+    ]
+  },
+  "warn": {
+    "input/text/rfcs/rfc3629.txt": [
+      3567
+    ]
+  },
+  "warrant": {
+    "input/text/rfcs/rfc3629.txt": [
+      2997
+    ]
+  },
+  "warranti": {
+    "input/text/rfcs/rfc3629.txt": [
+      4242,
+      4252,
+      4268
+    ]
+  },
+  "was": {
+    "input/text/rfcs/rfc3629.txt": [
+      711,
+      748,
+      1701,
+      2980
+    ]
+  },
+  "way": {
+    "input/text/rfcs/rfc3629.txt": [
+      773,
+      1061,
+      1869,
+      4140
+    ]
+  },
+  "web": {
+    "input/text/rfcs/rfc3629.txt": [
+      3220
+    ]
+  },
+  "well": {
+    "input/text/rfcs/rfc3629.txt": [
+      2909
+    ]
+  },
+  "were": {
+    "input/text/rfcs/rfc3629.txt": [
+      113,
+      1704
+    ]
+  },
+  "when": {
+    "input/text/rfcs/rfc3629.txt": [
+      1138,
+      1208,
+      1948,
+      1977,
+      2056,
+      2067,
+      2280,
+      2305,
+      2367,
+      2374,
+      2412,
+      2454,
+      2486,
+      2865,
+      3161,
+      3234
+    ]
+  },
+  "whenev": {
+    "input/text/rfcs/rfc3629.txt": [
+      3376
+    ]
+  },
+  "where": {
+    "input/text/rfcs/rfc3629.txt": [
+      447,
+      812
+    ]
+  },
+  "wherea": {
+    "input/text/rfcs/rfc3629.txt": [
+      2893
+    ]
+  },
+  "which": {
+    "input/text/rfcs/rfc3629.txt": [
+      97,
+      238,
+      258,
+      1189,
+      1228,
+      1242,
+      1319,
+      1492,
+      1648,
+      1854,
+      2272,
+      2357,
+      2827,
+      2907,
+      3131,
+      3188,
+      3890,
+      4010,
+      4169
+    ]
+  },
+  "whistler": {
+    "input/text/rfcs/rfc3629.txt": [
+      3504
+    ]
+  },
+  "whole": {
+    "input/text/rfcs/rfc3629.txt": [
+      4103
+    ]
+  },
+  "widespread": {
+    "input/text/rfcs/rfc3629.txt": [
+      3217
+    ]
+  },
+  "width": {
+    "input/text/rfcs/rfc3629.txt": [
+      1773,
+      1795,
+      1991,
+      2152,
+      2483
+    ]
+  },
+  "will": {
+    "input/text/rfcs/rfc3629.txt": [
+      1899,
+      2135,
+      2289,
+      2301,
+      2383,
+      2417,
+      3033,
+      4203,
+      4260
+    ]
+  },
+  "winkler": {
+    "input/text/rfcs/rfc3629.txt": [
+      3502
+    ]
+  },
+  "wire": {
+    "input/text/rfcs/rfc3629.txt": [
+      2769
+    ]
+  },
+  "with": {
+    "input/text/rfcs/rfc3629.txt": [
+      116,
+      148,
+      423,
+      548,
+      670,
+      706,
+      726,
+      1194,
+      1239,
+      1307,
+      1654,
+      1860,
+      1932,
+      2107,
+      2403,
+      2626,
+      2890,
+      2947,
+      3036,
+      3326,
+      3587,
+      3922
+    ]
+  },
+  "within": {
+    "input/text/rfcs/rfc3629.txt": [
+      1798
+    ]
+  },
+  "without": {
+    "input/text/rfcs/rfc3629.txt": [
+      2045,
+      4107
+    ]
+  },
+  "wolf": {
+    "input/text/rfcs/rfc3629.txt": [
+      3507
+    ]
+  },
+  "word": {
+    "input/text/rfcs/rfc3629.txt": [
+      778,
+      2105,
+      3632
+    ]
+  },
+  "wordjoin": {
+    "input/text/rfcs/rfc3629.txt": [
+      2129
+    ]
+  },
+  "work": {
+    "input/text/rfcs/rfc3629.txt": [
+      2,
+      4082,
+      4129
+    ]
+  },
+  "world": {
+    "input/text/rfcs/rfc3629.txt": [
+      102,
+      243
+    ]
+  },
+  "worri": {
+    "input/text/rfcs/rfc3629.txt": [
+      2970
+    ]
+  },
+  "would": {
+    "input/text/rfcs/rfc3629.txt": [
+      2370,
+      2898,
+      3094,
+      3398
+    ]
+  },
+  "write": {
+    "input/text/rfcs/rfc3629.txt": [
+      103,
+      244
+    ]
+  },
+  "wwwunicodeorgunicodereportstr": {
+    "input/text/rfcs/rfc3629.txt": [
+      3828
+    ]
+  },
+  "x": {
+    "input/text/rfcs/rfc3629.txt": [
+      982,
+      1087,
+      1140,
+      1165,
+      1344,
+      1373,
+      3845
+    ]
+  },
+  "xabf": {
+    "input/text/rfcs/rfc3629.txt": [
+      1530
+    ]
+  },
+  "xbf": {
+    "input/text/rfcs/rfc3629.txt": [
+      1541,
+      1549
+    ]
+  },
+  "xcdf": {
+    "input/text/rfcs/rfc3629.txt": [
+      1519
+    ]
+  },
+  "xe": {
+    "input/text/rfcs/rfc3629.txt": [
+      1529
+    ]
+  },
+  "xed": {
+    "input/text/rfcs/rfc3629.txt": [
+      1534
+    ]
+  },
+  "xeec": {
+    "input/text/rfcs/rfc3629.txt": [
+      1532
+    ]
+  },
+  "xeeef": {
+    "input/text/rfcs/rfc3629.txt": [
+      1537
+    ]
+  },
+  "xf": {
+    "input/text/rfcs/rfc3629.txt": [
+      1517,
+      1535,
+      1540,
+      1545,
+      1546
+    ]
+  },
+  "xff": {
+    "input/text/rfcs/rfc3629.txt": [
+      1543
+    ]
+  },
+  "xffff": {
+    "input/text/rfcs/rfc3629.txt": [
+      1285
+    ]
+  },
+  "xojig": {
+    "input/text/rfcs/rfc3629.txt": [
+      758
+    ]
+  },
+  "xopen": {
+    "input/text/rfcs/rfc3629.txt": [
+      754,
+      3736,
+      3739
+    ]
+  },
+  "xxx": {
+    "input/text/rfcs/rfc3629.txt": [
+      1011
+    ]
+  },
+  "xxxx": {
+    "input/text/rfcs/rfc3629.txt": [
+      1007
+    ]
+  },
+  "xxxxx": {
+    "input/text/rfcs/rfc3629.txt": [
+      1004
+    ]
+  },
+  "xxxxxx": {
+    "input/text/rfcs/rfc3629.txt": [
+      1005,
+      1008,
+      1009,
+      1012,
+      1013,
+      1014
+    ]
+  },
+  "xxxxxxx": {
+    "input/text/rfcs/rfc3629.txt": [
+      1002
+    ]
+  },
+  "yergeau": {
+    "input/text/rfcs/rfc3629.txt": [
+      5,
+      206,
+      524,
+      828,
+      1170,
+      1521,
+      1871,
+      2306,
+      2608,
+      2983,
+      3380,
+      3619,
+      3799,
+      4034,
+      4049,
+      4291
+    ]
+  },
+  "yet": {
+    "input/text/rfcs/rfc3629.txt": [
+      3197
+    ]
+  },
+  "yield": {
+    "input/text/rfcs/rfc3629.txt": [
+      3250
+    ]
+  },
+  "zero": {
+    "input/text/rfcs/rfc3629.txt": [
+      1772,
+      1794,
+      1990,
+      2151,
+      2482
+    ]
+  },
+  "zerowidth": {
+    "input/text/rfcs/rfc3629.txt": [
+      1937,
+      2083
+    ]
+  }
+}

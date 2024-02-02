@@ -1,0 +1,15 @@
+{
+  "input/text/simple/.txt/hidden.txt": 1,
+  "input/text/simple/a/b/c/d/subdir.txt": 1,
+  "input/text/simple/animals.text": 11,
+  "input/text/simple/animals_copy.text": 11,
+  "input/text/simple/animals_double.text": 22,
+  "input/text/simple/capital_extension.TXT": 1,
+  "input/text/simple/capitals.txt": 4,
+  "input/text/simple/digits.tXt": 2,
+  "input/text/simple/dir.txt/findme.Txt": 17,
+  "input/text/simple/hello.txt": 6,
+  "input/text/simple/position.teXt": 20,
+  "input/text/simple/symbols.txt": 10,
+  "input/text/simple/words.tExT": 36
+}
