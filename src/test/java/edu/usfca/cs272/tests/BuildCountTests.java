@@ -54,7 +54,9 @@ public class BuildCountTests extends ProjectTests {
 		@Order(2)
 		@Test
 		@Tag("test-v1.1")
-		@Tag("test-v1.x")
+		@Tag("test-v1.2")
+		@Tag("test-v1.3")
+		@Tag("test-v1.4")
 		public void testSentences() {
 			Path input = ProjectPath.SIMPLE.resolve("sentences.md");
 			String id = ProjectPath.id(input);
@@ -94,7 +96,9 @@ public class BuildCountTests extends ProjectTests {
 		@Order(5)
 		@Test
 		@Tag("test-v1.1")
-		@Tag("test-v1.x")
+		@Tag("test-v1.2")
+		@Tag("test-v1.3")
+		@Tag("test-v1.4")
 		public void testEmpty() {
 			testOutput(ProjectPath.EMPTY);
 		}
@@ -141,7 +145,9 @@ public class BuildCountTests extends ProjectTests {
 		@Order(4)
 		@Test
 		@Tag("test-v1.1")
-		@Tag("test-v1.x")
+		@Tag("test-v1.2")
+		@Tag("test-v1.3")
+		@Tag("test-v1.4")
 		public void testText() {
 			testOutput(ProjectPath.TEXT);
 		}
@@ -154,7 +160,9 @@ public class BuildCountTests extends ProjectTests {
 	@Order(3)
 	@Tag("test-v1.0")
 	@Tag("test-v1.1")
-	@Tag("test-v1.x")
+	@Tag("test-v1.2")
+	@Tag("test-v1.3")
+	@Tag("test-v1.4")
 	@Tag("past-v2")
 	@Tag("past-v3")
 	@Tag("past-v4")

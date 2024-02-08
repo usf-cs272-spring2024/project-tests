@@ -69,7 +69,9 @@ public class BuildIndexTests extends ProjectTests {
 		@ParameterizedTest
 		@Order(2)
 		@ValueSource(strings = { "no_extension", "sentences.md", "double_extension.txt.html", "wrong_extension.html" })
-		@Tag("test-v1.x")
+		@Tag("test-v1.2")
+		@Tag("test-v1.3")
+		@Tag("test-v1.4")
 		public void testOther(String filename) {
 			Path input = ProjectPath.SIMPLE.resolve(filename);
 			testOutput("simple", input, ProjectPath.id(input));
@@ -161,7 +163,9 @@ public class BuildIndexTests extends ProjectTests {
 		 */
 		@Test
 		@Order(5)
-		@Tag("test-v1.x")
+		@Tag("test-v1.2")
+		@Tag("test-v1.3")
+		@Tag("test-v1.4")
 		public void testText() {
 			testOutput(".", ProjectPath.TEXT);
 		}
@@ -173,7 +177,9 @@ public class BuildIndexTests extends ProjectTests {
 	@Nested
 	@Order(3)
 	@Tag("test-v1.1")
-	@Tag("test-v1.x")
+	@Tag("test-v1.2")
+	@Tag("test-v1.3")
+	@Tag("test-v1.4")
 	@Tag("past-v2")
 	@Tag("past-v3")
 	@Tag("past-v4")
@@ -274,6 +280,9 @@ public class BuildIndexTests extends ProjectTests {
 	@Nested
 	@Order(4)
 	@Tag("past-v2")
+	@Tag("past-v3")
+	@Tag("past-v4")
+	@Tag("past-v5")
 	@TestMethodOrder(OrderAnnotation.class)
 	public class ComboTests {
 		/**
