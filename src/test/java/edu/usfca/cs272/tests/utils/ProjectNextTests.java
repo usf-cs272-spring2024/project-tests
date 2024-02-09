@@ -45,6 +45,7 @@ public class ProjectNextTests {
 	 */
 	@Test
 	@Tag("past-v1")
+	@Tag("next-v1.1")
 	@Tag("next-v4.1")
 	@Tag("next-v4.x")
 	@Tag("next-v5.0")
