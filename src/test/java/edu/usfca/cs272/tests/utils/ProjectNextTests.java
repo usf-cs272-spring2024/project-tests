@@ -1,8 +1,11 @@
 package edu.usfca.cs272.tests.utils;
 
 import static edu.usfca.cs272.tests.utils.ProjectFlag.INDEX;
+import static edu.usfca.cs272.tests.utils.ProjectFlag.QUERY;
+import static edu.usfca.cs272.tests.utils.ProjectFlag.RESULTS;
 import static edu.usfca.cs272.tests.utils.ProjectFlag.TEXT;
 import static edu.usfca.cs272.tests.utils.ProjectPath.HELLO;
+import static edu.usfca.cs272.tests.utils.ProjectPath.QUERY_SIMPLE;
 import static edu.usfca.cs272.tests.utils.ProjectTests.SHORT_TIMEOUT;
 import static edu.usfca.cs272.tests.utils.ProjectTests.testNoExceptions;
 
@@ -41,11 +44,28 @@ public class ProjectNextTests {
 	/**
 	 * Tests that next project functionality is not present.
 	 *
+	 * @throws IOException if an IO error occurs
+	 */
+	@Test
+	@Tag("next-v1.0")
+	@Tag("next-v1.1")
+	@Tag("next-v1.2")
+	@Tag("next-v1.3")
+	@Tag("next-v1.4")
+	public void testResultOutput() throws IOException {
+		String[] args = { TEXT.flag, HELLO.text, QUERY.flag, QUERY_SIMPLE.text, RESULTS.flag };
+		Files.deleteIfExists(RESULTS.path);
+		testNoExceptions(args, SHORT_TIMEOUT);
+		Assertions.assertFalse(Files.exists(RESULTS.path), debug);
+	}
+
+	/**
+	 * Tests that next project functionality is not present.
+	 *
 	 * @throws Exception if an error occurs
 	 */
 	@Test
 	@Tag("past-v1")
-	@Tag("next-v1.1")
 	@Tag("next-v4.1")
 	@Tag("next-v4.x")
 	@Tag("next-v5.0")
