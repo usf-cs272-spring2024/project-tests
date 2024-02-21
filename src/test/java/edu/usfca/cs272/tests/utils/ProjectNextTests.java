@@ -84,4 +84,27 @@ public class ProjectNextTests {
 	public void pass() throws Exception {
 		// No next tests for these releases!
 	}
+
+	/**
+	 * Makes sure tests fail for future projects that are not yet supported.
+	 */
+	@Test
+	@Tag("test-v2.1")
+	@Tag("test-v2.2")
+	@Tag("test-v2.3")
+	@Tag("test-v2.4")
+	@Tag("test-v3.0")
+	@Tag("test-v3.1")
+	@Tag("test-v3.2")
+	@Tag("test-v3.3")
+	@Tag("test-v3.4")
+	@Tag("test-v4.1")
+	@Tag("test-v4.x")
+	@Tag("test-v5.0")
+	@Tag("test-v5.1")
+	@Tag("test-v5.0")
+	@Tag("test-v5.1")
+	public void fail() {
+		Assertions.fail();
+	}
 }
