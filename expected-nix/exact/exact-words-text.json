@@ -1,0 +1,1274 @@
+{
+  "abstract and assert": [
+    {
+      "count": 5362,
+      "score": 0.04311329,
+      "where": "input/text/guten/pg1322.txt"
+    },
+    {
+      "count": 7025,
+      "score": 0.03749306,
+      "where": "input/text/guten/1400-0.txt"
+    },
+    {
+      "count": 6461,
+      "score": 0.02999564,
+      "where": "input/text/guten/2701-0.txt"
+    },
+    {
+      "count": 3077,
+      "score": 0.02865097,
+      "where": "input/text/guten/pg1661.txt"
+    },
+    {
+      "count": 251,
+      "score": 0.02565151,
+      "where": "input/text/rfcs/rfc6805.txt"
+    },
+    {
+      "count": 76,
+      "score": 0.02354399,
+      "where": "input/text/rfcs/rfc475.txt"
+    },
+    {
+      "count": 326,
+      "score": 0.01952563,
+      "where": "input/text/guten/pg37134.txt"
+    },
+    {
+      "count": 1198,
+      "score": 0.01882760,
+      "where": "input/text/guten/pg22577.txt"
+    },
+    {
+      "count": 203,
+      "score": 0.01850670,
+      "where": "input/text/guten/50468-0.txt"
+    },
+    {
+      "count": 79,
+      "score": 0.01839776,
+      "where": "input/text/rfcs/rfc3629.txt"
+    },
+    {
+      "count": 170,
+      "score": 0.01814882,
+      "where": "input/text/rfcs/rfc6838.txt"
+    },
+    {
+      "count": 472,
+      "score": 0.01743306,
+      "where": "input/text/rfcs/rfc5646.txt"
+    },
+    {
+      "count": 486,
+      "score": 0.01686856,
+      "where": "input/text/rfcs/rfc7231.txt"
+    },
+    {
+      "count": 12,
+      "score": 0.00053872,
+      "where": "input/text/stems/stem-in.txt"
+    },
+    {
+      "count": 12,
+      "score": 0.00053872,
+      "where": "input/text/stems/stem-out.txt"
+    }
+  ],
+  "acknowledg correspond particular understand understood": [
+    {
+      "count": 10,
+      "score": 0.00309789,
+      "where": "input/text/rfcs/rfc475.txt"
+    },
+    {
+      "count": 11,
+      "score": 0.00256171,
+      "where": "input/text/rfcs/rfc3629.txt"
+    },
+    {
+      "count": 66,
+      "score": 0.00243767,
+      "where": "input/text/rfcs/rfc5646.txt"
+    },
+    {
+      "count": 20,
+      "score": 0.00213516,
+      "where": "input/text/rfcs/rfc6838.txt"
+    },
+    {
+      "count": 49,
+      "score": 0.00170074,
+      "where": "input/text/rfcs/rfc7231.txt"
+    },
+    {
+      "count": 13,
+      "score": 0.00132856,
+      "where": "input/text/rfcs/rfc6805.txt"
+    },
+    {
+      "count": 22,
+      "score": 0.00098765,
+      "where": "input/text/stems/stem-in.txt"
+    },
+    {
+      "count": 22,
+      "score": 0.00098765,
+      "where": "input/text/stems/stem-out.txt"
+    },
+    {
+      "count": 16,
+      "score": 0.00095831,
+      "where": "input/text/guten/pg37134.txt"
+    },
+    {
+      "count": 174,
+      "score": 0.00092865,
+      "where": "input/text/guten/1400-0.txt"
+    },
+    {
+      "count": 10,
+      "score": 0.00091166,
+      "where": "input/text/guten/50468-0.txt"
+    },
+    {
+      "count": 82,
+      "score": 0.00076353,
+      "where": "input/text/guten/pg1661.txt"
+    },
+    {
+      "count": 34,
+      "score": 0.00053434,
+      "where": "input/text/guten/pg22577.txt"
+    },
+    {
+      "count": 108,
+      "score": 0.00050140,
+      "where": "input/text/guten/2701-0.txt"
+    },
+    {
+      "count": 52,
+      "score": 0.00041811,
+      "where": "input/text/guten/pg1322.txt"
+    }
+  ],
+  "alpaca hidden narwhal practic": [
+    {
+      "count": 1,
+      "score": 1.00000000,
+      "where": "input/text/simple/.txt/hidden.txt"
+    },
+    {
+      "count": 1,
+      "score": 1.00000000,
+      "where": "input/text/simple/a/b/c/d/subdir.txt"
+    },
+    {
+      "count": 7,
+      "score": 0.41176471,
+      "where": "input/text/simple/dir.txt/findme.Txt"
+    },
+    {
+      "count": 2,
+      "score": 0.09090909,
+      "where": "input/text/simple/animals_double.text"
+    },
+    {
+      "count": 1,
+      "score": 0.09090909,
+      "where": "input/text/simple/animals.text"
+    },
+    {
+      "count": 1,
+      "score": 0.09090909,
+      "where": "input/text/simple/animals_copy.text"
+    },
+    {
+      "count": 36,
+      "score": 0.00384328,
+      "where": "input/text/rfcs/rfc6838.txt"
+    },
+    {
+      "count": 93,
+      "score": 0.00343490,
+      "where": "input/text/rfcs/rfc5646.txt"
+    },
+    {
+      "count": 2,
+      "score": 0.00046577,
+      "where": "input/text/rfcs/rfc3629.txt"
+    },
+    {
+      "count": 13,
+      "score": 0.00045122,
+      "where": "input/text/rfcs/rfc7231.txt"
+    },
+    {
+      "count": 24,
+      "score": 0.00037718,
+      "where": "input/text/guten/pg22577.txt"
+    },
+    {
+      "count": 6,
+      "score": 0.00035937,
+      "where": "input/text/guten/pg37134.txt"
+    },
+    {
+      "count": 8,
+      "score": 0.00035915,
+      "where": "input/text/stems/stem-in.txt"
+    },
+    {
+      "count": 8,
+      "score": 0.00035915,
+      "where": "input/text/stems/stem-out.txt"
+    },
+    {
+      "count": 58,
+      "score": 0.00026927,
+      "where": "input/text/guten/2701-0.txt"
+    },
+    {
+      "count": 22,
+      "score": 0.00020485,
+      "where": "input/text/guten/pg1661.txt"
+    },
+    {
+      "count": 18,
+      "score": 0.00014473,
+      "where": "input/text/guten/pg1322.txt"
+    },
+    {
+      "count": 1,
+      "score": 0.00010220,
+      "where": "input/text/rfcs/rfc6805.txt"
+    },
+    {
+      "count": 1,
+      "score": 0.00009117,
+      "where": "input/text/guten/50468-0.txt"
+    },
+    {
+      "count": 14,
+      "score": 0.00007472,
+      "where": "input/text/guten/1400-0.txt"
+    }
+  ],
+  "and of the to": [
+    {
+      "count": 22166,
+      "score": 0.17822626,
+      "where": "input/text/guten/pg1322.txt"
+    },
+    {
+      "count": 2648,
+      "score": 0.15860086,
+      "where": "input/text/guten/pg37134.txt"
+    },
+    {
+      "count": 1523,
+      "score": 0.15564640,
+      "where": "input/text/rfcs/rfc6805.txt"
+    },
+    {
+      "count": 32425,
+      "score": 0.15053529,
+      "where": "input/text/guten/2701-0.txt"
+    },
+    {
+      "count": 481,
+      "score": 0.14900867,
+      "where": "input/text/rfcs/rfc475.txt"
+    },
+    {
+      "count": 613,
+      "score": 0.14275734,
+      "where": "input/text/rfcs/rfc3629.txt"
+    },
+    {
+      "count": 8992,
+      "score": 0.14131699,
+      "where": "input/text/guten/pg22577.txt"
+    },
+    {
+      "count": 1547,
+      "score": 0.14103382,
+      "where": "input/text/guten/50468-0.txt"
+    },
+    {
+      "count": 3929,
+      "score": 0.13637152,
+      "where": "input/text/rfcs/rfc7231.txt"
+    },
+    {
+      "count": 14405,
+      "score": 0.13412976,
+      "where": "input/text/guten/pg1661.txt"
+    },
+    {
+      "count": 3618,
+      "score": 0.13362881,
+      "where": "input/text/rfcs/rfc5646.txt"
+    },
+    {
+      "count": 24989,
+      "score": 0.13336856,
+      "where": "input/text/guten/1400-0.txt"
+    },
+    {
+      "count": 1196,
+      "score": 0.12768229,
+      "where": "input/text/rfcs/rfc6838.txt"
+    },
+    {
+      "count": 5,
+      "score": 0.00022447,
+      "where": "input/text/stems/stem-in.txt"
+    },
+    {
+      "count": 5,
+      "score": 0.00022447,
+      "where": "input/text/stems/stem-out.txt"
+    }
+  ],
+  "b c f x": [
+    {
+      "count": 107,
+      "score": 0.00975476,
+      "where": "input/text/guten/50468-0.txt"
+    },
+    {
+      "count": 32,
+      "score": 0.00745226,
+      "where": "input/text/rfcs/rfc3629.txt"
+    },
+    {
+      "count": 39,
+      "score": 0.00233589,
+      "where": "input/text/guten/pg37134.txt"
+    },
+    {
+      "count": 17,
+      "score": 0.00181488,
+      "where": "input/text/rfcs/rfc6838.txt"
+    },
+    {
+      "count": 47,
+      "score": 0.00173592,
+      "where": "input/text/rfcs/rfc5646.txt"
+    },
+    {
+      "count": 50,
+      "score": 0.00173545,
+      "where": "input/text/rfcs/rfc7231.txt"
+    },
+    {
+      "count": 54,
+      "score": 0.00084866,
+      "where": "input/text/guten/pg22577.txt"
+    },
+    {
+      "count": 4,
+      "score": 0.00040879,
+      "where": "input/text/rfcs/rfc6805.txt"
+    },
+    {
+      "count": 1,
+      "score": 0.00030979,
+      "where": "input/text/rfcs/rfc475.txt"
+    },
+    {
+      "count": 29,
+      "score": 0.00027003,
+      "where": "input/text/guten/pg1661.txt"
+    },
+    {
+      "count": 20,
+      "score": 0.00016081,
+      "where": "input/text/guten/pg1322.txt"
+    },
+    {
+      "count": 22,
+      "score": 0.00011742,
+      "where": "input/text/guten/1400-0.txt"
+    },
+    {
+      "count": 21,
+      "score": 0.00009749,
+      "where": "input/text/guten/2701-0.txt"
+    }
+  ],
+  "baa bee boo": [
+    {
+      "count": 2,
+      "score": 0.00008979,
+      "where": "input/text/stems/stem-in.txt"
+    },
+    {
+      "count": 2,
+      "score": 0.00008979,
+      "where": "input/text/stems/stem-out.txt"
+    },
+    {
+      "count": 4,
+      "score": 0.00003216,
+      "where": "input/text/guten/pg1322.txt"
+    },
+    {
+      "count": 1,
+      "score": 0.00000931,
+      "where": "input/text/guten/pg1661.txt"
+    },
+    {
+      "count": 2,
+      "score": 0.00000929,
+      "where": "input/text/guten/2701-0.txt"
+    },
+    {
+      "count": 1,
+      "score": 0.00000534,
+      "where": "input/text/guten/1400-0.txt"
+    }
+  ],
+  "creat creativ": [
+    {
+      "count": 9,
+      "score": 0.00278810,
+      "where": "input/text/rfcs/rfc475.txt"
+    },
+    {
+      "count": 33,
+      "score": 0.00114540,
+      "where": "input/text/rfcs/rfc7231.txt"
+    },
+    {
+      "count": 25,
+      "score": 0.00092336,
+      "where": "input/text/rfcs/rfc5646.txt"
+    },
+    {
+      "count": 6,
+      "score": 0.00064055,
+      "where": "input/text/rfcs/rfc6838.txt"
+    },
+    {
+      "count": 7,
+      "score": 0.00063816,
+      "where": "input/text/guten/50468-0.txt"
+    },
+    {
+      "count": 9,
+      "score": 0.00053905,
+      "where": "input/text/guten/pg37134.txt"
+    },
+    {
+      "count": 4,
+      "score": 0.00040879,
+      "where": "input/text/rfcs/rfc6805.txt"
+    },
+    {
+      "count": 4,
+      "score": 0.00017957,
+      "where": "input/text/stems/stem-in.txt"
+    },
+    {
+      "count": 4,
+      "score": 0.00017957,
+      "where": "input/text/stems/stem-out.txt"
+    },
+    {
+      "count": 9,
+      "score": 0.00014144,
+      "where": "input/text/guten/pg22577.txt"
+    },
+    {
+      "count": 17,
+      "score": 0.00007892,
+      "where": "input/text/guten/2701-0.txt"
+    },
+    {
+      "count": 8,
+      "score": 0.00006432,
+      "where": "input/text/guten/pg1322.txt"
+    },
+    {
+      "count": 6,
+      "score": 0.00005587,
+      "where": "input/text/guten/pg1661.txt"
+    },
+    {
+      "count": 6,
+      "score": 0.00003202,
+      "where": "input/text/guten/1400-0.txt"
+    }
+  ],
+  "ebook gutenberg project": [
+    {
+      "count": 141,
+      "score": 0.01285441,
+      "where": "input/text/guten/50468-0.txt"
+    },
+    {
+      "count": 137,
+      "score": 0.00820556,
+      "where": "input/text/guten/pg37134.txt"
+    },
+    {
+      "count": 136,
+      "score": 0.00213736,
+      "where": "input/text/guten/pg22577.txt"
+    },
+    {
+      "count": 140,
+      "score": 0.00130359,
+      "where": "input/text/guten/pg1661.txt"
+    },
+    {
+      "count": 147,
+      "score": 0.00118196,
+      "where": "input/text/guten/pg1322.txt"
+    },
+    {
+      "count": 139,
+      "score": 0.00074186,
+      "where": "input/text/guten/1400-0.txt"
+    },
+    {
+      "count": 155,
+      "score": 0.00071960,
+      "where": "input/text/guten/2701-0.txt"
+    },
+    {
+      "count": 5,
+      "score": 0.00022447,
+      "where": "input/text/stems/stem-in.txt"
+    },
+    {
+      "count": 5,
+      "score": 0.00022447,
+      "where": "input/text/stems/stem-out.txt"
+    },
+    {
+      "count": 2,
+      "score": 0.00007387,
+      "where": "input/text/rfcs/rfc5646.txt"
+    },
+    {
+      "count": 1,
+      "score": 0.00003471,
+      "where": "input/text/rfcs/rfc7231.txt"
+    }
+  ],
+  "eight eighteen eleven": [
+    {
+      "count": 3,
+      "score": 0.15000000,
+      "where": "input/text/simple/position.teXt"
+    },
+    {
+      "count": 21,
+      "score": 0.00019554,
+      "where": "input/text/guten/pg1661.txt"
+    },
+    {
+      "count": 5,
+      "score": 0.00018467,
+      "where": "input/text/rfcs/rfc5646.txt"
+    },
+    {
+      "count": 31,
+      "score": 0.00014392,
+      "where": "input/text/guten/2701-0.txt"
+    },
+    {
+      "count": 3,
+      "score": 0.00013468,
+      "where": "input/text/stems/stem-in.txt"
+    },
+    {
+      "count": 3,
+      "score": 0.00013468,
+      "where": "input/text/stems/stem-out.txt"
+    },
+    {
+      "count": 8,
+      "score": 0.00012573,
+      "where": "input/text/guten/pg22577.txt"
+    },
+    {
+      "count": 2,
+      "score": 0.00011979,
+      "where": "input/text/guten/pg37134.txt"
+    },
+    {
+      "count": 22,
+      "score": 0.00011742,
+      "where": "input/text/guten/1400-0.txt"
+    },
+    {
+      "count": 1,
+      "score": 0.00009117,
+      "where": "input/text/guten/50468-0.txt"
+    },
+    {
+      "count": 5,
+      "score": 0.00004020,
+      "where": "input/text/guten/pg1322.txt"
+    }
+  ],
+  "fall spring summer winter": [
+    {
+      "count": 172,
+      "score": 0.00138297,
+      "where": "input/text/guten/pg1322.txt"
+    },
+    {
+      "count": 10,
+      "score": 0.00059895,
+      "where": "input/text/guten/pg37134.txt"
+    },
+    {
+      "count": 35,
+      "score": 0.00055006,
+      "where": "input/text/guten/pg22577.txt"
+    },
+    {
+      "count": 10,
+      "score": 0.00044893,
+      "where": "input/text/stems/stem-in.txt"
+    },
+    {
+      "count": 10,
+      "score": 0.00044893,
+      "where": "input/text/stems/stem-out.txt"
+    },
+    {
+      "count": 93,
+      "score": 0.00043176,
+      "where": "input/text/guten/2701-0.txt"
+    },
+    {
+      "count": 67,
+      "score": 0.00035759,
+      "where": "input/text/guten/1400-0.txt"
+    },
+    {
+      "count": 1,
+      "score": 0.00030979,
+      "where": "input/text/rfcs/rfc475.txt"
+    },
+    {
+      "count": 28,
+      "score": 0.00026072,
+      "where": "input/text/guten/pg1661.txt"
+    },
+    {
+      "count": 2,
+      "score": 0.00007387,
+      "where": "input/text/rfcs/rfc5646.txt"
+    },
+    {
+      "count": 1,
+      "score": 0.00003471,
+      "where": "input/text/rfcs/rfc7231.txt"
+    }
+  ],
+  "g j p q y": [
+    {
+      "count": 40,
+      "score": 0.00364664,
+      "where": "input/text/guten/50468-0.txt"
+    },
+    {
+      "count": 32,
+      "score": 0.00327031,
+      "where": "input/text/rfcs/rfc6805.txt"
+    },
+    {
+      "count": 48,
+      "score": 0.00166603,
+      "where": "input/text/rfcs/rfc7231.txt"
+    },
+    {
+      "count": 13,
+      "score": 0.00138785,
+      "where": "input/text/rfcs/rfc6838.txt"
+    },
+    {
+      "count": 4,
+      "score": 0.00093153,
+      "where": "input/text/rfcs/rfc3629.txt"
+    },
+    {
+      "count": 21,
+      "score": 0.00033003,
+      "where": "input/text/guten/pg22577.txt"
+    },
+    {
+      "count": 8,
+      "score": 0.00029548,
+      "where": "input/text/rfcs/rfc5646.txt"
+    },
+    {
+      "count": 4,
+      "score": 0.00023958,
+      "where": "input/text/guten/pg37134.txt"
+    },
+    {
+      "count": 15,
+      "score": 0.00008006,
+      "where": "input/text/guten/1400-0.txt"
+    },
+    {
+      "count": 6,
+      "score": 0.00005587,
+      "where": "input/text/guten/pg1661.txt"
+    },
+    {
+      "count": 5,
+      "score": 0.00004020,
+      "where": "input/text/guten/pg1322.txt"
+    },
+    {
+      "count": 4,
+      "score": 0.00001857,
+      "where": "input/text/guten/2701-0.txt"
+    }
+  ],
+  "help helper": [
+    {
+      "count": 12,
+      "score": 0.00071874,
+      "where": "input/text/guten/pg37134.txt"
+    },
+    {
+      "count": 57,
+      "score": 0.00053075,
+      "where": "input/text/guten/pg1661.txt"
+    },
+    {
+      "count": 71,
+      "score": 0.00037893,
+      "where": "input/text/guten/1400-0.txt"
+    },
+    {
+      "count": 7,
+      "score": 0.00031425,
+      "where": "input/text/stems/stem-in.txt"
+    },
+    {
+      "count": 7,
+      "score": 0.00031425,
+      "where": "input/text/stems/stem-out.txt"
+    },
+    {
+      "count": 3,
+      "score": 0.00030659,
+      "where": "input/text/rfcs/rfc6805.txt"
+    },
+    {
+      "count": 18,
+      "score": 0.00028289,
+      "where": "input/text/guten/pg22577.txt"
+    },
+    {
+      "count": 60,
+      "score": 0.00027855,
+      "where": "input/text/guten/2701-0.txt"
+    },
+    {
+      "count": 3,
+      "score": 0.00027350,
+      "where": "input/text/guten/50468-0.txt"
+    },
+    {
+      "count": 7,
+      "score": 0.00025854,
+      "where": "input/text/rfcs/rfc5646.txt"
+    },
+    {
+      "count": 2,
+      "score": 0.00021352,
+      "where": "input/text/rfcs/rfc6838.txt"
+    },
+    {
+      "count": 23,
+      "score": 0.00018493,
+      "where": "input/text/guten/pg1322.txt"
+    },
+    {
+      "count": 2,
+      "score": 0.00006942,
+      "where": "input/text/rfcs/rfc7231.txt"
+    }
+  ],
+  "how what when where whi who": [
+    {
+      "count": 2457,
+      "score": 0.01311323,
+      "where": "input/text/guten/1400-0.txt"
+    },
+    {
+      "count": 1331,
+      "score": 0.01239339,
+      "where": "input/text/guten/pg1661.txt"
+    },
+    {
+      "count": 1304,
+      "score": 0.01048484,
+      "where": "input/text/guten/pg1322.txt"
+    },
+    {
+      "count": 2086,
+      "score": 0.00968440,
+      "where": "input/text/guten/2701-0.txt"
+    },
+    {
+      "count": 582,
+      "score": 0.00914663,
+      "where": "input/text/guten/pg22577.txt"
+    },
+    {
+      "count": 98,
+      "score": 0.00586967,
+      "where": "input/text/guten/pg37134.txt"
+    },
+    {
+      "count": 161,
+      "score": 0.00558814,
+      "where": "input/text/rfcs/rfc7231.txt"
+    },
+    {
+      "count": 16,
+      "score": 0.00495663,
+      "where": "input/text/rfcs/rfc475.txt"
+    },
+    {
+      "count": 42,
+      "score": 0.00448383,
+      "where": "input/text/rfcs/rfc6838.txt"
+    },
+    {
+      "count": 19,
+      "score": 0.00442478,
+      "where": "input/text/rfcs/rfc3629.txt"
+    },
+    {
+      "count": 119,
+      "score": 0.00439520,
+      "where": "input/text/rfcs/rfc5646.txt"
+    },
+    {
+      "count": 42,
+      "score": 0.00429228,
+      "where": "input/text/rfcs/rfc6805.txt"
+    },
+    {
+      "count": 40,
+      "score": 0.00364664,
+      "where": "input/text/guten/50468-0.txt"
+    },
+    {
+      "count": 6,
+      "score": 0.00026936,
+      "where": "input/text/stems/stem-in.txt"
+    },
+    {
+      "count": 6,
+      "score": 0.00026936,
+      "where": "input/text/stems/stem-out.txt"
+    }
+  ],
+  "i o u": [
+    {
+      "count": 6483,
+      "score": 0.03460036,
+      "where": "input/text/guten/1400-0.txt"
+    },
+    {
+      "count": 2997,
+      "score": 0.02790607,
+      "where": "input/text/guten/pg1661.txt"
+    },
+    {
+      "count": 3425,
+      "score": 0.02753880,
+      "where": "input/text/guten/pg1322.txt"
+    },
+    {
+      "count": 744,
+      "score": 0.01169260,
+      "where": "input/text/guten/pg22577.txt"
+    },
+    {
+      "count": 1972,
+      "score": 0.00915515,
+      "where": "input/text/guten/2701-0.txt"
+    },
+    {
+      "count": 28,
+      "score": 0.00652073,
+      "where": "input/text/rfcs/rfc3629.txt"
+    },
+    {
+      "count": 55,
+      "score": 0.00562085,
+      "where": "input/text/rfcs/rfc6805.txt"
+    },
+    {
+      "count": 108,
+      "score": 0.00398892,
+      "where": "input/text/rfcs/rfc5646.txt"
+    },
+    {
+      "count": 30,
+      "score": 0.00320273,
+      "where": "input/text/rfcs/rfc6838.txt"
+    },
+    {
+      "count": 47,
+      "score": 0.00281505,
+      "where": "input/text/guten/pg37134.txt"
+    },
+    {
+      "count": 27,
+      "score": 0.00246148,
+      "where": "input/text/guten/50468-0.txt"
+    },
+    {
+      "count": 51,
+      "score": 0.00177016,
+      "where": "input/text/rfcs/rfc7231.txt"
+    },
+    {
+      "count": 3,
+      "score": 0.00092937,
+      "where": "input/text/rfcs/rfc475.txt"
+    }
+  ],
+  "ka ke ki ko ku ky la le li lo lu ly": [
+    {
+      "count": 4,
+      "score": 0.00040879,
+      "where": "input/text/rfcs/rfc6805.txt"
+    },
+    {
+      "count": 45,
+      "score": 0.00036182,
+      "where": "input/text/guten/pg1322.txt"
+    },
+    {
+      "count": 26,
+      "score": 0.00012071,
+      "where": "input/text/guten/2701-0.txt"
+    },
+    {
+      "count": 1,
+      "score": 0.00005989,
+      "where": "input/text/guten/pg37134.txt"
+    },
+    {
+      "count": 1,
+      "score": 0.00003693,
+      "where": "input/text/rfcs/rfc5646.txt"
+    },
+    {
+      "count": 2,
+      "score": 0.00003143,
+      "where": "input/text/guten/pg22577.txt"
+    },
+    {
+      "count": 3,
+      "score": 0.00002793,
+      "where": "input/text/guten/pg1661.txt"
+    },
+    {
+      "count": 1,
+      "score": 0.00000534,
+      "where": "input/text/guten/1400-0.txt"
+    }
+  ],
+  "m n r s t": [
+    {
+      "count": 90,
+      "score": 0.00820494,
+      "where": "input/text/guten/50468-0.txt"
+    },
+    {
+      "count": 27,
+      "score": 0.00288246,
+      "where": "input/text/rfcs/rfc6838.txt"
+    },
+    {
+      "count": 10,
+      "score": 0.00232883,
+      "where": "input/text/rfcs/rfc3629.txt"
+    },
+    {
+      "count": 16,
+      "score": 0.00163516,
+      "where": "input/text/rfcs/rfc6805.txt"
+    },
+    {
+      "count": 45,
+      "score": 0.00156190,
+      "where": "input/text/rfcs/rfc7231.txt"
+    },
+    {
+      "count": 34,
+      "score": 0.00125577,
+      "where": "input/text/rfcs/rfc5646.txt"
+    },
+    {
+      "count": 37,
+      "score": 0.00058149,
+      "where": "input/text/guten/pg22577.txt"
+    },
+    {
+      "count": 9,
+      "score": 0.00053905,
+      "where": "input/text/guten/pg37134.txt"
+    },
+    {
+      "count": 18,
+      "score": 0.00016760,
+      "where": "input/text/guten/pg1661.txt"
+    },
+    {
+      "count": 11,
+      "score": 0.00005107,
+      "where": "input/text/guten/2701-0.txt"
+    },
+    {
+      "count": 4,
+      "score": 0.00003216,
+      "where": "input/text/guten/pg1322.txt"
+    },
+    {
+      "count": 6,
+      "score": 0.00003202,
+      "where": "input/text/guten/1400-0.txt"
+    }
+  ],
+  "request rfc": [
+    {
+      "count": 828,
+      "score": 0.02873902,
+      "where": "input/text/rfcs/rfc7231.txt"
+    },
+    {
+      "count": 166,
+      "score": 0.01696474,
+      "where": "input/text/rfcs/rfc6805.txt"
+    },
+    {
+      "count": 157,
+      "score": 0.01676097,
+      "where": "input/text/rfcs/rfc6838.txt"
+    },
+    {
+      "count": 291,
+      "score": 0.01074792,
+      "where": "input/text/rfcs/rfc5646.txt"
+    },
+    {
+      "count": 31,
+      "score": 0.00721938,
+      "where": "input/text/rfcs/rfc3629.txt"
+    },
+    {
+      "count": 18,
+      "score": 0.00557621,
+      "where": "input/text/rfcs/rfc475.txt"
+    },
+    {
+      "count": 3,
+      "score": 0.00027350,
+      "where": "input/text/guten/50468-0.txt"
+    },
+    {
+      "count": 4,
+      "score": 0.00023958,
+      "where": "input/text/guten/pg37134.txt"
+    },
+    {
+      "count": 4,
+      "score": 0.00017957,
+      "where": "input/text/stems/stem-in.txt"
+    },
+    {
+      "count": 4,
+      "score": 0.00017957,
+      "where": "input/text/stems/stem-out.txt"
+    },
+    {
+      "count": 6,
+      "score": 0.00009430,
+      "where": "input/text/guten/pg22577.txt"
+    },
+    {
+      "count": 7,
+      "score": 0.00006518,
+      "where": "input/text/guten/pg1661.txt"
+    },
+    {
+      "count": 12,
+      "score": 0.00006405,
+      "where": "input/text/guten/1400-0.txt"
+    },
+    {
+      "count": 4,
+      "score": 0.00001857,
+      "where": "input/text/guten/2701-0.txt"
+    },
+    {
+      "count": 1,
+      "score": 0.00000804,
+      "where": "input/text/guten/pg1322.txt"
+    }
+  ],
+  "v w x z": [
+    {
+      "count": 36,
+      "score": 0.00328198,
+      "where": "input/text/guten/50468-0.txt"
+    },
+    {
+      "count": 7,
+      "score": 0.00163018,
+      "where": "input/text/rfcs/rfc3629.txt"
+    },
+    {
+      "count": 35,
+      "score": 0.00121481,
+      "where": "input/text/rfcs/rfc7231.txt"
+    },
+    {
+      "count": 11,
+      "score": 0.00117434,
+      "where": "input/text/rfcs/rfc6838.txt"
+    },
+    {
+      "count": 26,
+      "score": 0.00096030,
+      "where": "input/text/rfcs/rfc5646.txt"
+    },
+    {
+      "count": 22,
+      "score": 0.00034575,
+      "where": "input/text/guten/pg22577.txt"
+    },
+    {
+      "count": 1,
+      "score": 0.00030979,
+      "where": "input/text/rfcs/rfc475.txt"
+    },
+    {
+      "count": 5,
+      "score": 0.00029947,
+      "where": "input/text/guten/pg37134.txt"
+    },
+    {
+      "count": 2,
+      "score": 0.00020439,
+      "where": "input/text/rfcs/rfc6805.txt"
+    },
+    {
+      "count": 4,
+      "score": 0.00003725,
+      "where": "input/text/guten/pg1661.txt"
+    },
+    {
+      "count": 6,
+      "score": 0.00002786,
+      "where": "input/text/guten/2701-0.txt"
+    },
+    {
+      "count": 3,
+      "score": 0.00002412,
+      "where": "input/text/guten/pg1322.txt"
+    },
+    {
+      "count": 3,
+      "score": 0.00001601,
+      "where": "input/text/guten/1400-0.txt"
+    }
+  ],
+  "woodchuck": [
+  ],
+  "your yourself yourselv": [
+    {
+      "count": 471,
+      "score": 0.00438564,
+      "where": "input/text/guten/pg1661.txt"
+    },
+    {
+      "count": 442,
+      "score": 0.00355391,
+      "where": "input/text/guten/pg1322.txt"
+    },
+    {
+      "count": 512,
+      "score": 0.00273259,
+      "where": "input/text/guten/1400-0.txt"
+    },
+    {
+      "count": 153,
+      "score": 0.00240453,
+      "where": "input/text/guten/pg22577.txt"
+    },
+    {
+      "count": 306,
+      "score": 0.00142063,
+      "where": "input/text/guten/2701-0.txt"
+    },
+    {
+      "count": 19,
+      "score": 0.00113800,
+      "where": "input/text/guten/pg37134.txt"
+    },
+    {
+      "count": 9,
+      "score": 0.00082049,
+      "where": "input/text/guten/50468-0.txt"
+    },
+    {
+      "count": 4,
+      "score": 0.00017957,
+      "where": "input/text/stems/stem-in.txt"
+    },
+    {
+      "count": 4,
+      "score": 0.00017957,
+      "where": "input/text/stems/stem-out.txt"
+    },
+    {
+      "count": 1,
+      "score": 0.00010676,
+      "where": "input/text/rfcs/rfc6838.txt"
+    },
+    {
+      "count": 1,
+      "score": 0.00010220,
+      "where": "input/text/rfcs/rfc6805.txt"
+    },
+    {
+      "count": 1,
+      "score": 0.00003693,
+      "where": "input/text/rfcs/rfc5646.txt"
+    },
+    {
+      "count": 1,
+      "score": 0.00003471,
+      "where": "input/text/rfcs/rfc7231.txt"
+    }
+  ],
+  "ø δ": [
+    {
+      "count": 2,
+      "score": 0.00018233,
+      "where": "input/text/guten/50468-0.txt"
+    }
+  ]
+}

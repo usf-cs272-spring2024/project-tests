@@ -1,0 +1,80 @@
+{
+  "ant perf": [
+  ],
+  "capybara hidden": [
+    {
+      "count": 1,
+      "score": 1.00000000,
+      "where": "input/text/simple/.txt/hidden.txt"
+    },
+    {
+      "count": 1,
+      "score": 1.00000000,
+      "where": "input/text/simple/capital_extension.TXT"
+    }
+  ],
+  "capybara hidden observ": [
+    {
+      "count": 1,
+      "score": 1.00000000,
+      "where": "input/text/simple/.txt/hidden.txt"
+    },
+    {
+      "count": 1,
+      "score": 1.00000000,
+      "where": "input/text/simple/capital_extension.TXT"
+    },
+    {
+      "count": 11,
+      "score": 0.30555556,
+      "where": "input/text/simple/words.tExT"
+    }
+  ],
+  "cardin": [
+  ],
+  "four six": [
+    {
+      "count": 2,
+      "score": 0.10000000,
+      "where": "input/text/simple/position.teXt"
+    }
+  ],
+  "hello world": [
+    {
+      "count": 6,
+      "score": 1.00000000,
+      "where": "input/text/simple/hello.txt"
+    }
+  ],
+  "lori": [
+    {
+      "count": 6,
+      "score": 0.27272727,
+      "where": "input/text/simple/animals_double.text"
+    },
+    {
+      "count": 3,
+      "score": 0.27272727,
+      "where": "input/text/simple/animals.text"
+    },
+    {
+      "count": 3,
+      "score": 0.27272727,
+      "where": "input/text/simple/animals_copy.text"
+    }
+  ],
+  "observ perfor": [
+    {
+      "count": 13,
+      "score": 0.36111111,
+      "where": "input/text/simple/words.tExT"
+    }
+  ],
+  "perform": [
+    {
+      "count": 8,
+      "score": 0.22222222,
+      "where": "input/text/simple/words.tExT"
+    }
+  ]
+}
