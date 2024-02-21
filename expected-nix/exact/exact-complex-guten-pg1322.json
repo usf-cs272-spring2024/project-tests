@@ -1,0 +1,439 @@
+{
+  "a": [
+    {
+      "count": 1312,
+      "score": 0.01054917,
+      "where": "input/text/guten/pg1322.txt"
+    }
+  ],
+  "a e i o u": [
+    {
+      "count": 4759,
+      "score": 0.03826485,
+      "where": "input/text/guten/pg1322.txt"
+    }
+  ],
+  "a j m q": [
+    {
+      "count": 1312,
+      "score": 0.01054917,
+      "where": "input/text/guten/pg1322.txt"
+    }
+  ],
+  "aa ae ai ao au": [
+    {
+      "count": 1,
+      "score": 0.00000804,
+      "where": "input/text/guten/pg1322.txt"
+    }
+  ],
+  "aa bl br ch cl cr dr fl fr gn kn ph pl pr rh sh sq st th tw wh": [
+    {
+      "count": 15,
+      "score": 0.00012061,
+      "where": "input/text/guten/pg1322.txt"
+    }
+  ],
+  "ab ac at az ec ex fa iw je me od op qu ug uy": [
+    {
+      "count": 1476,
+      "score": 0.01186781,
+      "where": "input/text/guten/pg1322.txt"
+    }
+  ],
+  "abcdefghijklmnopqrstuvwxyz": [
+  ],
+  "ad ap as de eb em gu il is og os qe to uc ux ye": [
+    {
+      "count": 4214,
+      "score": 0.03388277,
+      "where": "input/text/guten/pg1322.txt"
+    }
+  ],
+  "af ax ca ed el iq iz ov so ta tu ud uj": [
+    {
+      "count": 249,
+      "score": 0.00200209,
+      "where": "input/text/guten/pg1322.txt"
+    }
+  ],
+  "ag do eh ek eq er ev fi im ju nu oq pi ra te we za zi": [
+    {
+      "count": 602,
+      "score": 0.00484040,
+      "where": "input/text/guten/pg1322.txt"
+    }
+  ],
+  "ah da di du es go hi ir oj qa ul us uw yi": [
+    {
+      "count": 284,
+      "score": 0.00228351,
+      "where": "input/text/guten/pg1322.txt"
+    }
+  ],
+  "aj fe id ih ij ke la su up uq ya": [
+    {
+      "count": 194,
+      "score": 0.00155986,
+      "where": "input/text/guten/pg1322.txt"
+    }
+  ],
+  "ak ef ep he ji ka li oz pu qi qo ri ro sa un ve xa": [
+    {
+      "count": 299,
+      "score": 0.00240412,
+      "where": "input/text/guten/pg1322.txt"
+    }
+  ],
+  "al an be ho ut va wa": [
+    {
+      "count": 665,
+      "score": 0.00534695,
+      "where": "input/text/guten/pg1322.txt"
+    }
+  ],
+  "am ay ba bu eg ey fu ik lo ma mo po se uf uk um vu wo zu": [
+    {
+      "count": 290,
+      "score": 0.00233175,
+      "where": "input/text/guten/pg1322.txt"
+    }
+  ],
+  "aq ki le ob uz": [
+  ],
+  "ar bo ga gi ha if ig in it lu no ok or ow ti ub uv wi xi yo": [
+    {
+      "count": 4455,
+      "score": 0.03582054,
+      "where": "input/text/guten/pg1322.txt"
+    }
+  ],
+  "av aw ce ip ix ne ni si": [
+    {
+      "count": 2,
+      "score": 0.00001608,
+      "where": "input/text/guten/pg1322.txt"
+    }
+  ],
+  "b": [
+    {
+      "count": 3,
+      "score": 0.00002412,
+      "where": "input/text/guten/pg1322.txt"
+    }
+  ],
+  "b k": [
+    {
+      "count": 3,
+      "score": 0.00002412,
+      "where": "input/text/guten/pg1322.txt"
+    }
+  ],
+  "ba be bi bo bu": [
+    {
+      "count": 525,
+      "score": 0.00422128,
+      "where": "input/text/guten/pg1322.txt"
+    }
+  ],
+  "bi cu et ge ib ol om ot ru vo yu zo": [
+  ],
+  "c": [
+    {
+      "count": 5,
+      "score": 0.00004020,
+      "where": "input/text/guten/pg1322.txt"
+    }
+  ],
+  "c i l n x y": [
+    {
+      "count": 2865,
+      "score": 0.02303610,
+      "where": "input/text/guten/pg1322.txt"
+    }
+  ],
+  "ca ce ci co cu": [
+  ],
+  "ci ew hu ic mi mu na on pe xe": [
+    {
+      "count": 677,
+      "score": 0.00544343,
+      "where": "input/text/guten/pg1322.txt"
+    }
+  ],
+  "co ej fo iv ja oc uh vi wu": [
+    {
+      "count": 4,
+      "score": 0.00003216,
+      "where": "input/text/guten/pg1322.txt"
+    }
+  ],
+  "d": [
+    {
+      "count": 4,
+      "score": 0.00003216,
+      "where": "input/text/guten/pg1322.txt"
+    }
+  ],
+  "d e f r t u": [
+    {
+      "count": 39,
+      "score": 0.00031358,
+      "where": "input/text/guten/pg1322.txt"
+    }
+  ],
+  "da de di do du": [
+    {
+      "count": 271,
+      "score": 0.00217898,
+      "where": "input/text/guten/pg1322.txt"
+    }
+  ],
+  "e": [
+    {
+      "count": 22,
+      "score": 0.00017689,
+      "where": "input/text/guten/pg1322.txt"
+    }
+  ],
+  "ea ee ei eo eu": [
+  ],
+  "en iy of": [
+    {
+      "count": 4374,
+      "score": 0.03516925,
+      "where": "input/text/guten/pg1322.txt"
+    }
+  ],
+  "ez jo pa ze": [
+  ],
+  "f": [
+    {
+      "count": 11,
+      "score": 0.00008845,
+      "where": "input/text/guten/pg1322.txt"
+    }
+  ],
+  "fa fe fi fo fu": [
+  ],
+  "g": [
+    {
+      "count": 4,
+      "score": 0.00003216,
+      "where": "input/text/guten/pg1322.txt"
+    }
+  ],
+  "g h p w z": [
+    {
+      "count": 5,
+      "score": 0.00004020,
+      "where": "input/text/guten/pg1322.txt"
+    }
+  ],
+  "ga ge gi go gu": [
+    {
+      "count": 141,
+      "score": 0.00113371,
+      "where": "input/text/guten/pg1322.txt"
+    }
+  ],
+  "h": [
+  ],
+  "ha he hi ho hu": [
+    {
+      "count": 299,
+      "score": 0.00240412,
+      "where": "input/text/guten/pg1322.txt"
+    }
+  ],
+  "i": [
+    {
+      "count": 2858,
+      "score": 0.02297982,
+      "where": "input/text/guten/pg1322.txt"
+    }
+  ],
+  "ia ie ii io iu": [
+    {
+      "count": 4,
+      "score": 0.00003216,
+      "where": "input/text/guten/pg1322.txt"
+    }
+  ],
+  "j": [
+  ],
+  "ja je ji jo ju": [
+  ],
+  "k": [
+  ],
+  "ka ke ki ko ku": [
+  ],
+  "ko ox": [
+    {
+      "count": 1,
+      "score": 0.00000804,
+      "where": "input/text/guten/pg1322.txt"
+    }
+  ],
+  "ku": [
+  ],
+  "l": [
+    {
+      "count": 1,
+      "score": 0.00000804,
+      "where": "input/text/guten/pg1322.txt"
+    }
+  ],
+  "la le li lo lu": [
+    {
+      "count": 45,
+      "score": 0.00036182,
+      "where": "input/text/guten/pg1322.txt"
+    }
+  ],
+  "m": [
+  ],
+  "ma me mi mo mu": [
+    {
+      "count": 993,
+      "score": 0.00798424,
+      "where": "input/text/guten/pg1322.txt"
+    }
+  ],
+  "n": [
+  ],
+  "na ne ni no nu": [
+    {
+      "count": 280,
+      "score": 0.00225135,
+      "where": "input/text/guten/pg1322.txt"
+    }
+  ],
+  "o": [
+    {
+      "count": 566,
+      "score": 0.00455094,
+      "where": "input/text/guten/pg1322.txt"
+    }
+  ],
+  "o s v": [
+    {
+      "count": 571,
+      "score": 0.00459114,
+      "where": "input/text/guten/pg1322.txt"
+    }
+  ],
+  "oa oe oi oo ou": [
+  ],
+  "oh oy re ur xo xu": [
+  ],
+  "p": [
+    {
+      "count": 1,
+      "score": 0.00000804,
+      "where": "input/text/guten/pg1322.txt"
+    }
+  ],
+  "pa pe pi po pu": [
+    {
+      "count": 1,
+      "score": 0.00000804,
+      "where": "input/text/guten/pg1322.txt"
+    }
+  ],
+  "q": [
+  ],
+  "qa qe qi qo qu": [
+  ],
+  "r": [
+  ],
+  "ra re ri ro ru": [
+  ],
+  "s": [
+    {
+      "count": 3,
+      "score": 0.00002412,
+      "where": "input/text/guten/pg1322.txt"
+    }
+  ],
+  "sa se si so su": [
+    {
+      "count": 249,
+      "score": 0.00200209,
+      "where": "input/text/guten/pg1322.txt"
+    }
+  ],
+  "t": [
+    {
+      "count": 1,
+      "score": 0.00000804,
+      "where": "input/text/guten/pg1322.txt"
+    }
+  ],
+  "ta te ti to tu": [
+    {
+      "count": 2230,
+      "score": 0.01793037,
+      "where": "input/text/guten/pg1322.txt"
+    }
+  ],
+  "u": [
+    {
+      "count": 1,
+      "score": 0.00000804,
+      "where": "input/text/guten/pg1322.txt"
+    }
+  ],
+  "ua ue ui uo uu": [
+  ],
+  "v": [
+    {
+      "count": 2,
+      "score": 0.00001608,
+      "where": "input/text/guten/pg1322.txt"
+    }
+  ],
+  "va ve vi vo vu": [
+    {
+      "count": 2,
+      "score": 0.00001608,
+      "where": "input/text/guten/pg1322.txt"
+    }
+  ],
+  "w": [
+  ],
+  "wa we wi wo wu": [
+    {
+      "count": 331,
+      "score": 0.00266141,
+      "where": "input/text/guten/pg1322.txt"
+    }
+  ],
+  "x": [
+    {
+      "count": 1,
+      "score": 0.00000804,
+      "where": "input/text/guten/pg1322.txt"
+    }
+  ],
+  "xa xe xi xo xu": [
+    {
+      "count": 1,
+      "score": 0.00000804,
+      "where": "input/text/guten/pg1322.txt"
+    }
+  ],
+  "y": [
+  ],
+  "ya ye yi yo yu": [
+    {
+      "count": 32,
+      "score": 0.00025730,
+      "where": "input/text/guten/pg1322.txt"
+    }
+  ],
+  "z": [
+  ],
+  "za ze zi zo zu": [
+  ]
+}

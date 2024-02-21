@@ -1,0 +1,459 @@
+{
+  "a": [
+    {
+      "count": 316,
+      "score": 0.02880846,
+      "where": "input/text/guten/50468-0.txt"
+    }
+  ],
+  "a e i o u": [
+    {
+      "count": 387,
+      "score": 0.03528125,
+      "where": "input/text/guten/50468-0.txt"
+    }
+  ],
+  "a j m q": [
+    {
+      "count": 370,
+      "score": 0.03373142,
+      "where": "input/text/guten/50468-0.txt"
+    }
+  ],
+  "aa ae ai ao au": [
+    {
+      "count": 12,
+      "score": 0.00109399,
+      "where": "input/text/guten/50468-0.txt"
+    }
+  ],
+  "aa bl br ch cl cr dr fl fr gn kn ph pl pr rh sh sq st th tw wh": [
+    {
+      "count": 1,
+      "score": 0.00009117,
+      "where": "input/text/guten/50468-0.txt"
+    }
+  ],
+  "ab ac at az ec ex fa iw je me od op qu ug uy": [
+    {
+      "count": 31,
+      "score": 0.00282615,
+      "where": "input/text/guten/50468-0.txt"
+    }
+  ],
+  "abcdefghijklmnopqrstuvwxyz": [
+  ],
+  "ad ap as de eb em gu il is og os qe to uc ux ye": [
+    {
+      "count": 507,
+      "score": 0.04622117,
+      "where": "input/text/guten/50468-0.txt"
+    }
+  ],
+  "af ax ca ed el iq iz ov so ta tu ud uj": [
+    {
+      "count": 5,
+      "score": 0.00045583,
+      "where": "input/text/guten/50468-0.txt"
+    }
+  ],
+  "ag do eh ek eq er ev fi im ju nu oq pi ra te we za zi": [
+    {
+      "count": 47,
+      "score": 0.00428480,
+      "where": "input/text/guten/50468-0.txt"
+    }
+  ],
+  "ah da di du es go hi ir oj qa ul us uw yi": [
+    {
+      "count": 15,
+      "score": 0.00136749,
+      "where": "input/text/guten/50468-0.txt"
+    }
+  ],
+  "aj fe id ih ij ke la su up uq ya": [
+    {
+      "count": 6,
+      "score": 0.00054700,
+      "where": "input/text/guten/50468-0.txt"
+    }
+  ],
+  "ak ef ep he ji ka li oz pu qi qo ri ro sa un ve xa": [
+    {
+      "count": 3,
+      "score": 0.00027350,
+      "where": "input/text/guten/50468-0.txt"
+    }
+  ],
+  "al an be ho ut va wa": [
+    {
+      "count": 232,
+      "score": 0.02115052,
+      "where": "input/text/guten/50468-0.txt"
+    }
+  ],
+  "am ay ba bu eg ey fu ik lo ma mo po se uf uk um vu wo zu": [
+    {
+      "count": 2,
+      "score": 0.00018233,
+      "where": "input/text/guten/50468-0.txt"
+    }
+  ],
+  "aq ki le ob uz": [
+  ],
+  "ar bo ga gi ha if ig in it lu no ok or ow ti ub uv wi xi yo": [
+    {
+      "count": 564,
+      "score": 0.05141763,
+      "where": "input/text/guten/50468-0.txt"
+    }
+  ],
+  "av aw ce ip ix ne ni si": [
+  ],
+  "b": [
+    {
+      "count": 45,
+      "score": 0.00410247,
+      "where": "input/text/guten/50468-0.txt"
+    }
+  ],
+  "b k": [
+    {
+      "count": 59,
+      "score": 0.00537879,
+      "where": "input/text/guten/50468-0.txt"
+    }
+  ],
+  "ba be bi bo bu": [
+    {
+      "count": 153,
+      "score": 0.01394840,
+      "where": "input/text/guten/50468-0.txt"
+    }
+  ],
+  "bi cu et ge ib ol om ot ru vo yu zo": [
+    {
+      "count": 4,
+      "score": 0.00036466,
+      "where": "input/text/guten/50468-0.txt"
+    }
+  ],
+  "c": [
+    {
+      "count": 25,
+      "score": 0.00227915,
+      "where": "input/text/guten/50468-0.txt"
+    }
+  ],
+  "c i l n x y": [
+    {
+      "count": 110,
+      "score": 0.01002826,
+      "where": "input/text/guten/50468-0.txt"
+    }
+  ],
+  "ca ce ci co cu": [
+  ],
+  "ci ew hu ic mi mu na on pe xe": [
+    {
+      "count": 55,
+      "score": 0.00501413,
+      "where": "input/text/guten/50468-0.txt"
+    }
+  ],
+  "co ej fo iv ja oc uh vi wu": [
+    {
+      "count": 6,
+      "score": 0.00054700,
+      "where": "input/text/guten/50468-0.txt"
+    }
+  ],
+  "d": [
+    {
+      "count": 16,
+      "score": 0.00145866,
+      "where": "input/text/guten/50468-0.txt"
+    }
+  ],
+  "d e f r t u": [
+    {
+      "count": 111,
+      "score": 0.01011943,
+      "where": "input/text/guten/50468-0.txt"
+    }
+  ],
+  "da de di do du": [
+    {
+      "count": 37,
+      "score": 0.00337314,
+      "where": "input/text/guten/50468-0.txt"
+    }
+  ],
+  "e": [
+    {
+      "count": 44,
+      "score": 0.00401130,
+      "where": "input/text/guten/50468-0.txt"
+    }
+  ],
+  "ea ee ei eo eu": [
+  ],
+  "en iy of": [
+    {
+      "count": 336,
+      "score": 0.03063178,
+      "where": "input/text/guten/50468-0.txt"
+    }
+  ],
+  "ez jo pa ze": [
+  ],
+  "f": [
+    {
+      "count": 24,
+      "score": 0.00218798,
+      "where": "input/text/guten/50468-0.txt"
+    }
+  ],
+  "fa fe fi fo fu": [
+  ],
+  "g": [
+    {
+      "count": 7,
+      "score": 0.00063816,
+      "where": "input/text/guten/50468-0.txt"
+    }
+  ],
+  "g h p w z": [
+    {
+      "count": 39,
+      "score": 0.00355547,
+      "where": "input/text/guten/50468-0.txt"
+    }
+  ],
+  "ga ge gi go gu": [
+    {
+      "count": 4,
+      "score": 0.00036466,
+      "where": "input/text/guten/50468-0.txt"
+    }
+  ],
+  "h": [
+    {
+      "count": 11,
+      "score": 0.00100283,
+      "where": "input/text/guten/50468-0.txt"
+    }
+  ],
+  "ha he hi ho hu": [
+    {
+      "count": 2,
+      "score": 0.00018233,
+      "where": "input/text/guten/50468-0.txt"
+    }
+  ],
+  "i": [
+    {
+      "count": 23,
+      "score": 0.00209682,
+      "where": "input/text/guten/50468-0.txt"
+    }
+  ],
+  "ia ie ii io iu": [
+    {
+      "count": 4,
+      "score": 0.00036466,
+      "where": "input/text/guten/50468-0.txt"
+    }
+  ],
+  "j": [
+    {
+      "count": 15,
+      "score": 0.00136749,
+      "where": "input/text/guten/50468-0.txt"
+    }
+  ],
+  "ja je ji jo ju": [
+  ],
+  "k": [
+    {
+      "count": 14,
+      "score": 0.00127632,
+      "where": "input/text/guten/50468-0.txt"
+    }
+  ],
+  "ka ke ki ko ku": [
+  ],
+  "ko ox": [
+  ],
+  "ku": [
+  ],
+  "l": [
+    {
+      "count": 25,
+      "score": 0.00227915,
+      "where": "input/text/guten/50468-0.txt"
+    }
+  ],
+  "la le li lo lu": [
+  ],
+  "m": [
+    {
+      "count": 39,
+      "score": 0.00355547,
+      "where": "input/text/guten/50468-0.txt"
+    }
+  ],
+  "ma me mi mo mu": [
+  ],
+  "n": [
+    {
+      "count": 17,
+      "score": 0.00154982,
+      "where": "input/text/guten/50468-0.txt"
+    }
+  ],
+  "na ne ni no nu": [
+    {
+      "count": 29,
+      "score": 0.00264381,
+      "where": "input/text/guten/50468-0.txt"
+    }
+  ],
+  "o": [
+    {
+      "count": 2,
+      "score": 0.00018233,
+      "where": "input/text/guten/50468-0.txt"
+    }
+  ],
+  "o s v": [
+    {
+      "count": 24,
+      "score": 0.00218798,
+      "where": "input/text/guten/50468-0.txt"
+    }
+  ],
+  "oa oe oi oo ou": [
+  ],
+  "oh oy re ur xo xu": [
+  ],
+  "p": [
+    {
+      "count": 11,
+      "score": 0.00100283,
+      "where": "input/text/guten/50468-0.txt"
+    }
+  ],
+  "pa pe pi po pu": [
+    {
+      "count": 1,
+      "score": 0.00009117,
+      "where": "input/text/guten/50468-0.txt"
+    }
+  ],
+  "q": [
+  ],
+  "qa qe qi qo qu": [
+  ],
+  "r": [
+    {
+      "count": 13,
+      "score": 0.00118516,
+      "where": "input/text/guten/50468-0.txt"
+    }
+  ],
+  "ra re ri ro ru": [
+  ],
+  "s": [
+    {
+      "count": 9,
+      "score": 0.00082049,
+      "where": "input/text/guten/50468-0.txt"
+    }
+  ],
+  "sa se si so su": [
+    {
+      "count": 2,
+      "score": 0.00018233,
+      "where": "input/text/guten/50468-0.txt"
+    }
+  ],
+  "t": [
+    {
+      "count": 12,
+      "score": 0.00109399,
+      "where": "input/text/guten/50468-0.txt"
+    }
+  ],
+  "ta te ti to tu": [
+    {
+      "count": 197,
+      "score": 0.01795970,
+      "where": "input/text/guten/50468-0.txt"
+    }
+  ],
+  "u": [
+    {
+      "count": 2,
+      "score": 0.00018233,
+      "where": "input/text/guten/50468-0.txt"
+    }
+  ],
+  "ua ue ui uo uu": [
+  ],
+  "v": [
+    {
+      "count": 13,
+      "score": 0.00118516,
+      "where": "input/text/guten/50468-0.txt"
+    }
+  ],
+  "va ve vi vo vu": [
+    {
+      "count": 4,
+      "score": 0.00036466,
+      "where": "input/text/guten/50468-0.txt"
+    }
+  ],
+  "w": [
+    {
+      "count": 7,
+      "score": 0.00063816,
+      "where": "input/text/guten/50468-0.txt"
+    }
+  ],
+  "wa we wi wo wu": [
+    {
+      "count": 10,
+      "score": 0.00091166,
+      "where": "input/text/guten/50468-0.txt"
+    }
+  ],
+  "x": [
+    {
+      "count": 13,
+      "score": 0.00118516,
+      "where": "input/text/guten/50468-0.txt"
+    }
+  ],
+  "xa xe xi xo xu": [
+  ],
+  "y": [
+    {
+      "count": 7,
+      "score": 0.00063816,
+      "where": "input/text/guten/50468-0.txt"
+    }
+  ],
+  "ya ye yi yo yu": [
+  ],
+  "z": [
+    {
+      "count": 3,
+      "score": 0.00027350,
+      "where": "input/text/guten/50468-0.txt"
+    }
+  ],
+  "za ze zi zo zu": [
+  ]
+}
