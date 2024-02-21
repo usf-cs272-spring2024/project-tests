@@ -115,6 +115,7 @@ public class SearchExactTests extends ProjectTests {
 	 */
 	@Nested
 	@Order(2)
+	@Tag("test-v2.0")
 	@TestMethodOrder(OrderAnnotation.class)
 	public class ComplexTests {
 		/**
@@ -124,7 +125,6 @@ public class SearchExactTests extends ProjectTests {
 		 */
 		@ParameterizedTest
 		@Order(1)
-		@Tag("test-v2.0")
 		@EnumSource(mode = MATCH_ALL, names = "^GUTEN_.+")
 		public void testGutenFiles(ProjectPath path) {
 			testOutput(partial, "complex", path);
@@ -135,7 +135,6 @@ public class SearchExactTests extends ProjectTests {
 		 */
 		@Test
 		@Order(2)
-		@Tag("test-v2.0")
 		public void testGutenComplex() {
 			testOutput(partial, "complex", ProjectPath.GUTEN);
 		}
@@ -145,7 +144,6 @@ public class SearchExactTests extends ProjectTests {
 		 */
 		@Test
 		@Order(3)
-		@Tag("test-v2.0")
 		public void testTextWords() {
 			testOutput(partial, "words", ProjectPath.TEXT);
 		}
@@ -155,7 +153,6 @@ public class SearchExactTests extends ProjectTests {
 		 */
 		@Test
 		@Order(4)
-		@Tag("test-v2.0")
 		@Tag("test-v2.1")
 		@Tag("test-v2.2")
 		@Tag("test-v2.3")
@@ -169,7 +166,6 @@ public class SearchExactTests extends ProjectTests {
 		 */
 		@Test
 		@Order(5)
-		@Tag("test-v2.0")
 		@Tag("test-v2.1")
 		@Tag("test-v2.2")
 		@Tag("test-v2.3")
