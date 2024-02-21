@@ -37,7 +37,7 @@ import edu.usfca.cs272.tests.utils.ProjectTests;
  * A test suite for project v2.0.
  *
  * @author CS 272 Software Development (University of San Francisco)
- * @version Fall 2023
+ * @version Spring 2024
  */
 @TestClassOrder(ClassOrderer.OrderAnnotation.class)
 public class SearchExactTests extends ProjectTests {
