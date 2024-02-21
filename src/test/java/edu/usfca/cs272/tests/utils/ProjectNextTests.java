@@ -14,7 +14,7 @@ import edu.usfca.cs272.tests.SearchExactTests;
  * not be run directly; it is run by GitHub Actions only.
  *
  * @author CS 272 Software Development (University of San Francisco)
- * @version Fall 2023
+ * @version Spring 2024
  */
 public class ProjectNextTests {
 	/** Message output when a test fails. */
