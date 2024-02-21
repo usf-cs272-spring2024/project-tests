@@ -1,20 +1,13 @@
 package edu.usfca.cs272.tests.utils;
 
-import static edu.usfca.cs272.tests.utils.ProjectFlag.INDEX;
-import static edu.usfca.cs272.tests.utils.ProjectFlag.QUERY;
-import static edu.usfca.cs272.tests.utils.ProjectFlag.RESULTS;
-import static edu.usfca.cs272.tests.utils.ProjectFlag.TEXT;
-import static edu.usfca.cs272.tests.utils.ProjectPath.HELLO;
-import static edu.usfca.cs272.tests.utils.ProjectPath.QUERY_SIMPLE;
-import static edu.usfca.cs272.tests.utils.ProjectTests.SHORT_TIMEOUT;
-import static edu.usfca.cs272.tests.utils.ProjectTests.testNoExceptions;
-
 import java.io.IOException;
-import java.nio.file.Files;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Tag;
 import org.junit.jupiter.api.Test;
+
+import edu.usfca.cs272.tests.BuildIndexTests;
+import edu.usfca.cs272.tests.SearchExactTests;
 
 /**
  * Tests that next project code is not in the current project. This class should
@@ -35,10 +28,13 @@ public class ProjectNextTests {
 	@Test
 	@Tag("next-v1.0")
 	public void testIndexOutput() throws IOException {
-		String[] args = { TEXT.flag, HELLO.text, INDEX.flag };
-		Files.deleteIfExists(INDEX.path);
-		testNoExceptions(args, SHORT_TIMEOUT);
-		Assertions.assertFalse(Files.exists(INDEX.path), debug);
+		var parent = new BuildIndexTests();
+		var child = parent.new FileTests();
+
+		// expect test to fail
+		Assertions.assertThrows(
+				AssertionError.class,
+				() -> child.testSimple("hello.txt"));
 	}
 
 	/**
@@ -52,11 +48,14 @@ public class ProjectNextTests {
 	@Tag("next-v1.2")
 	@Tag("next-v1.3")
 	@Tag("next-v1.4")
-	public void testResultOutput() throws IOException {
-		String[] args = { TEXT.flag, HELLO.text, QUERY.flag, QUERY_SIMPLE.text, RESULTS.flag };
-		Files.deleteIfExists(RESULTS.path);
-		testNoExceptions(args, SHORT_TIMEOUT);
-		Assertions.assertFalse(Files.exists(RESULTS.path), debug);
+	public void testExactResultOutput() throws IOException {
+		var parent = new SearchExactTests();
+		var child = parent.new InitialTests();
+
+		// expect test to fail
+		Assertions.assertThrows(
+				AssertionError.class,
+				child::testSimpleSimple);
 	}
 
 	/**
@@ -66,6 +65,16 @@ public class ProjectNextTests {
 	 */
 	@Test
 	@Tag("past-v1")
+	@Tag("next-v2.0")
+	@Tag("next-v2.1")
+	@Tag("next-v2.2")
+	@Tag("next-v2.3")
+	@Tag("next-v2.4")
+	@Tag("next-v3.0")
+	@Tag("next-v3.1")
+	@Tag("next-v3.2")
+	@Tag("next-v3.3")
+	@Tag("next-v3.4")
 	@Tag("next-v4.1")
 	@Tag("next-v4.x")
 	@Tag("next-v5.0")
