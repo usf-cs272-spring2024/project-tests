@@ -1,13 +1,21 @@
 package edu.usfca.cs272.tests.utils;
 
 import java.io.IOException;
+import java.io.PrintWriter;
+import java.util.logging.Level;
+import java.util.logging.Logger;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Tag;
 import org.junit.jupiter.api.Test;
+import org.junit.platform.engine.discovery.DiscoverySelectors;
+import org.junit.platform.launcher.core.LauncherDiscoveryRequestBuilder;
+import org.junit.platform.launcher.core.LauncherFactory;
+import org.junit.platform.launcher.listeners.SummaryGeneratingListener;
 
 import edu.usfca.cs272.tests.BuildIndexTests;
 import edu.usfca.cs272.tests.SearchExactTests;
+import edu.usfca.cs272.tests.SearchPartialTests;
 
 /**
  * Tests that next project code is not in the current project. This class should
@@ -28,13 +36,7 @@ public class ProjectNextTests {
 	@Test
 	@Tag("next-v1.0")
 	public void testIndexOutput() throws IOException {
-		var parent = new BuildIndexTests();
-		var child = parent.new FileTests();
-
-		// expect test to fail
-		Assertions.assertThrows(
-				AssertionError.class,
-				() -> child.testSimple("hello.txt"));
+		runJUnitTest(BuildIndexTests.DirectoryTests.class, "testSimple");
 	}
 
 	/**
@@ -49,13 +51,18 @@ public class ProjectNextTests {
 	@Tag("next-v1.3")
 	@Tag("next-v1.4")
 	public void testExactResultOutput() throws IOException {
-		var parent = new SearchExactTests();
-		var child = parent.new InitialTests();
+		runJUnitTest(SearchExactTests.InitialTests.class, "testSimpleSimple");
+	}
 
-		// expect test to fail
-		Assertions.assertThrows(
-				AssertionError.class,
-				child::testSimpleSimple);
+	/**
+	 * Tests that next project functionality is not present.
+	 *
+	 * @throws IOException if an IO error occurs
+	 */
+	@Test
+	@Tag("next-v2.0")
+	public void testPartialResultOutput() throws IOException {
+		runJUnitTest(SearchPartialTests.InitialTests.class, "testSimpleSimple");
 	}
 
 	/**
@@ -89,10 +96,6 @@ public class ProjectNextTests {
 	 * Makes sure tests fail for future projects that are not yet supported.
 	 */
 	@Test
-	@Tag("test-v2.1")
-	@Tag("test-v2.2")
-	@Tag("test-v2.3")
-	@Tag("test-v2.4")
 	@Tag("test-v3.0")
 	@Tag("test-v3.1")
 	@Tag("test-v3.2")
@@ -106,5 +109,38 @@ public class ProjectNextTests {
 	@Tag("test-v5.1")
 	public void fail() {
 		Assertions.fail();
+	}
+
+	/**
+	 * Runs a JUnit test. Invokes the test through JUnit so that all setup and
+	 * teardown steps are still run (rather than calling the method directly).
+	 *
+	 * @param testClass the test class with the test method to run
+	 * @param testMethod the test method to run (including parameter types)
+	 */
+	public static void runJUnitTest(Class<?> testClass, String testMethod) {
+		var request = LauncherDiscoveryRequestBuilder.request()
+				.selectors(DiscoverySelectors.selectMethod(testClass, testMethod))
+				.build();
+
+		var launcher = LauncherFactory.create();
+		var listener = new SummaryGeneratingListener();
+
+		Logger logger = Logger.getLogger("org.junit.platform.launcher");
+		logger.setLevel(Level.SEVERE);
+
+		launcher.registerTestExecutionListeners(listener);
+		launcher.execute(request);
+
+		listener.getSummary().printTo(new PrintWriter(System.out));
+
+		long testCount = listener.getSummary().getTestsFoundCount();
+		String testText = "Unable to find JUnit test. Reach out to instructor for assistance.";
+
+		long failCount = listener.getSummary().getTotalFailureCount();
+		String failText = "You should NOT pass the tests for future projects in this release!";
+
+		assert 1 == testCount : testText;
+		Assertions.assertEquals(1, failCount, failText);
 	}
 }
