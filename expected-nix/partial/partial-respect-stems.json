@@ -1,0 +1,14 @@
+{
+  "respect": [
+    {
+      "count": 12,
+      "score": 0.00053872,
+      "where": "input/text/stems/stem-in.txt"
+    },
+    {
+      "count": 12,
+      "score": 0.00053872,
+      "where": "input/text/stems/stem-out.txt"
+    }
+  ]
+}

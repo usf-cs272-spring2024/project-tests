@@ -1,0 +1,304 @@
+{
+  "a": [
+    {
+      "count": 1406,
+      "score": 0.06312009,
+      "where": "input/text/stems/stem-in.txt"
+    },
+    {
+      "count": 1406,
+      "score": 0.06312009,
+      "where": "input/text/stems/stem-out.txt"
+    }
+  ],
+  "b": [
+    {
+      "count": 1201,
+      "score": 0.05391695,
+      "where": "input/text/stems/stem-in.txt"
+    },
+    {
+      "count": 1201,
+      "score": 0.05391695,
+      "where": "input/text/stems/stem-out.txt"
+    }
+  ],
+  "c": [
+    {
+      "count": 2172,
+      "score": 0.09750842,
+      "where": "input/text/stems/stem-in.txt"
+    },
+    {
+      "count": 2172,
+      "score": 0.09750842,
+      "where": "input/text/stems/stem-out.txt"
+    }
+  ],
+  "d": [
+    {
+      "count": 1423,
+      "score": 0.06388328,
+      "where": "input/text/stems/stem-in.txt"
+    },
+    {
+      "count": 1423,
+      "score": 0.06388328,
+      "where": "input/text/stems/stem-out.txt"
+    }
+  ],
+  "e": [
+    {
+      "count": 1040,
+      "score": 0.04668911,
+      "where": "input/text/stems/stem-in.txt"
+    },
+    {
+      "count": 1040,
+      "score": 0.04668911,
+      "where": "input/text/stems/stem-out.txt"
+    }
+  ],
+  "f": [
+    {
+      "count": 1058,
+      "score": 0.04749719,
+      "where": "input/text/stems/stem-in.txt"
+    },
+    {
+      "count": 1058,
+      "score": 0.04749719,
+      "where": "input/text/stems/stem-out.txt"
+    }
+  ],
+  "g": [
+    {
+      "count": 711,
+      "score": 0.03191919,
+      "where": "input/text/stems/stem-in.txt"
+    },
+    {
+      "count": 711,
+      "score": 0.03191919,
+      "where": "input/text/stems/stem-out.txt"
+    }
+  ],
+  "h": [
+    {
+      "count": 738,
+      "score": 0.03313131,
+      "where": "input/text/stems/stem-in.txt"
+    },
+    {
+      "count": 738,
+      "score": 0.03313131,
+      "where": "input/text/stems/stem-out.txt"
+    }
+  ],
+  "i": [
+    {
+      "count": 1091,
+      "score": 0.04897868,
+      "where": "input/text/stems/stem-in.txt"
+    },
+    {
+      "count": 1091,
+      "score": 0.04897868,
+      "where": "input/text/stems/stem-out.txt"
+    }
+  ],
+  "j": [
+    {
+      "count": 166,
+      "score": 0.00745230,
+      "where": "input/text/stems/stem-in.txt"
+    },
+    {
+      "count": 166,
+      "score": 0.00745230,
+      "where": "input/text/stems/stem-out.txt"
+    }
+  ],
+  "k": [
+    {
+      "count": 98,
+      "score": 0.00439955,
+      "where": "input/text/stems/stem-in.txt"
+    },
+    {
+      "count": 98,
+      "score": 0.00439955,
+      "where": "input/text/stems/stem-out.txt"
+    }
+  ],
+  "l": [
+    {
+      "count": 653,
+      "score": 0.02931538,
+      "where": "input/text/stems/stem-in.txt"
+    },
+    {
+      "count": 653,
+      "score": 0.02931538,
+      "where": "input/text/stems/stem-out.txt"
+    }
+  ],
+  "m": [
+    {
+      "count": 957,
+      "score": 0.04296296,
+      "where": "input/text/stems/stem-in.txt"
+    },
+    {
+      "count": 957,
+      "score": 0.04296296,
+      "where": "input/text/stems/stem-out.txt"
+    }
+  ],
+  "n": [
+    {
+      "count": 339,
+      "score": 0.01521886,
+      "where": "input/text/stems/stem-in.txt"
+    },
+    {
+      "count": 339,
+      "score": 0.01521886,
+      "where": "input/text/stems/stem-out.txt"
+    }
+  ],
+  "o": [
+    {
+      "count": 515,
+      "score": 0.02312009,
+      "where": "input/text/stems/stem-in.txt"
+    },
+    {
+      "count": 515,
+      "score": 0.02312009,
+      "where": "input/text/stems/stem-out.txt"
+    }
+  ],
+  "p": [
+    {
+      "count": 1795,
+      "score": 0.08058361,
+      "where": "input/text/stems/stem-in.txt"
+    },
+    {
+      "count": 1795,
+      "score": 0.08058361,
+      "where": "input/text/stems/stem-out.txt"
+    }
+  ],
+  "q": [
+    {
+      "count": 98,
+      "score": 0.00439955,
+      "where": "input/text/stems/stem-in.txt"
+    },
+    {
+      "count": 98,
+      "score": 0.00439955,
+      "where": "input/text/stems/stem-out.txt"
+    }
+  ],
+  "r": [
+    {
+      "count": 1347,
+      "score": 0.06047138,
+      "where": "input/text/stems/stem-in.txt"
+    },
+    {
+      "count": 1347,
+      "score": 0.06047138,
+      "where": "input/text/stems/stem-out.txt"
+    }
+  ],
+  "s": [
+    {
+      "count": 2571,
+      "score": 0.11542088,
+      "where": "input/text/stems/stem-in.txt"
+    },
+    {
+      "count": 2571,
+      "score": 0.11542088,
+      "where": "input/text/stems/stem-out.txt"
+    }
+  ],
+  "t": [
+    {
+      "count": 1075,
+      "score": 0.04826038,
+      "where": "input/text/stems/stem-in.txt"
+    },
+    {
+      "count": 1075,
+      "score": 0.04826038,
+      "where": "input/text/stems/stem-out.txt"
+    }
+  ],
+  "u": [
+    {
+      "count": 730,
+      "score": 0.03277217,
+      "where": "input/text/stems/stem-in.txt"
+    },
+    {
+      "count": 730,
+      "score": 0.03277217,
+      "where": "input/text/stems/stem-out.txt"
+    }
+  ],
+  "v": [
+    {
+      "count": 323,
+      "score": 0.01450056,
+      "where": "input/text/stems/stem-in.txt"
+    },
+    {
+      "count": 323,
+      "score": 0.01450056,
+      "where": "input/text/stems/stem-out.txt"
+    }
+  ],
+  "w": [
+    {
+      "count": 698,
+      "score": 0.03133558,
+      "where": "input/text/stems/stem-in.txt"
+    },
+    {
+      "count": 698,
+      "score": 0.03133558,
+      "where": "input/text/stems/stem-out.txt"
+    }
+  ],
+  "x": [
+  ],
+  "y": [
+    {
+      "count": 56,
+      "score": 0.00251403,
+      "where": "input/text/stems/stem-in.txt"
+    },
+    {
+      "count": 56,
+      "score": 0.00251403,
+      "where": "input/text/stems/stem-out.txt"
+    }
+  ],
+  "z": [
+    {
+      "count": 14,
+      "score": 0.00062851,
+      "where": "input/text/stems/stem-in.txt"
+    },
+    {
+      "count": 14,
+      "score": 0.00062851,
+      "where": "input/text/stems/stem-out.txt"
+    }
+  ]
+}
