@@ -1,0 +1,559 @@
+{
+  "a": [
+    {
+      "count": 11724,
+      "score": 0.10916608,
+      "where": "input/text/guten/pg1661.txt"
+    }
+  ],
+  "a e i o u": [
+    {
+      "count": 30625,
+      "score": 0.28515960,
+      "where": "input/text/guten/pg1661.txt"
+    }
+  ],
+  "a j m q": [
+    {
+      "count": 17581,
+      "score": 0.16370256,
+      "where": "input/text/guten/pg1661.txt"
+    }
+  ],
+  "aa ae ai ao au": [
+    {
+      "count": 58,
+      "score": 0.00054006,
+      "where": "input/text/guten/pg1661.txt"
+    }
+  ],
+  "aa bl br ch cl cr dr fl fr gn kn ph pl pr rh sh sq st th tw wh": [
+    {
+      "count": 20063,
+      "score": 0.18681329,
+      "where": "input/text/guten/pg1661.txt"
+    }
+  ],
+  "ab ac at az ec ex fa iw je me od op qu ug uy": [
+    {
+      "count": 3861,
+      "score": 0.03595106,
+      "where": "input/text/guten/pg1661.txt"
+    }
+  ],
+  "abcdefghijklmnopqrstuvwxyz": [
+  ],
+  "ad ap as de eb em gu il is og os qe to uc ux ye": [
+    {
+      "count": 7062,
+      "score": 0.06575664,
+      "where": "input/text/guten/pg1661.txt"
+    }
+  ],
+  "af ax ca ed el iq iz ov so ta tu ud uj": [
+    {
+      "count": 3067,
+      "score": 0.02855786,
+      "where": "input/text/guten/pg1661.txt"
+    }
+  ],
+  "ag do eh ek eq er ev fi im ju nu oq pi ra te we za zi": [
+    {
+      "count": 4533,
+      "score": 0.04220828,
+      "where": "input/text/guten/pg1661.txt"
+    }
+  ],
+  "ah da di du es go hi ir oj qa ul us uw yi": [
+    {
+      "count": 3650,
+      "score": 0.03398637,
+      "where": "input/text/guten/pg1661.txt"
+    }
+  ],
+  "aj fe id ih ij ke la su up uq ya": [
+    {
+      "count": 2521,
+      "score": 0.02347387,
+      "where": "input/text/guten/pg1661.txt"
+    }
+  ],
+  "ak ef ep he ji ka li oz pu qi qo ri ro sa un ve xa": [
+    {
+      "count": 6146,
+      "score": 0.05722746,
+      "where": "input/text/guten/pg1661.txt"
+    }
+  ],
+  "al an be ho ut va wa": [
+    {
+      "count": 9911,
+      "score": 0.09228463,
+      "where": "input/text/guten/pg1661.txt"
+    }
+  ],
+  "am ay ba bu eg ey fu ik lo ma mo po se uf uk um vu wo zu": [
+    {
+      "count": 6614,
+      "score": 0.06158516,
+      "where": "input/text/guten/pg1661.txt"
+    }
+  ],
+  "aq ki le ob uz": [
+    {
+      "count": 813,
+      "score": 0.00757011,
+      "where": "input/text/guten/pg1661.txt"
+    }
+  ],
+  "ar bo ga gi ha if ig in it lu no ok or ow ti ub uv wi xi yo": [
+    {
+      "count": 15056,
+      "score": 0.14019144,
+      "where": "input/text/guten/pg1661.txt"
+    }
+  ],
+  "av aw ce ip ix ne ni si": [
+    {
+      "count": 1476,
+      "score": 0.01374353,
+      "where": "input/text/guten/pg1661.txt"
+    }
+  ],
+  "b": [
+    {
+      "count": 4556,
+      "score": 0.04242244,
+      "where": "input/text/guten/pg1661.txt"
+    }
+  ],
+  "b k": [
+    {
+      "count": 5103,
+      "score": 0.04751574,
+      "where": "input/text/guten/pg1661.txt"
+    }
+  ],
+  "ba be bi bo bu": [
+    {
+      "count": 3573,
+      "score": 0.03326940,
+      "where": "input/text/guten/pg1661.txt"
+    }
+  ],
+  "bi cu et ge ib ol om ot ru vo yu zo": [
+    {
+      "count": 939,
+      "score": 0.00874334,
+      "where": "input/text/guten/pg1661.txt"
+    }
+  ],
+  "c": [
+    {
+      "count": 4137,
+      "score": 0.03852099,
+      "where": "input/text/guten/pg1661.txt"
+    }
+  ],
+  "c i l n x y": [
+    {
+      "count": 21103,
+      "score": 0.19649708,
+      "where": "input/text/guten/pg1661.txt"
+    }
+  ],
+  "ca ce ci co cu": [
+    {
+      "count": 3028,
+      "score": 0.02819472,
+      "where": "input/text/guten/pg1661.txt"
+    }
+  ],
+  "ci ew hu ic mi mu na on pe xe": [
+    {
+      "count": 2653,
+      "score": 0.02470297,
+      "where": "input/text/guten/pg1661.txt"
+    }
+  ],
+  "co ej fo iv ja oc uh vi wu": [
+    {
+      "count": 3376,
+      "score": 0.03143506,
+      "where": "input/text/guten/pg1661.txt"
+    }
+  ],
+  "d": [
+    {
+      "count": 3028,
+      "score": 0.02819472,
+      "where": "input/text/guten/pg1661.txt"
+    }
+  ],
+  "d e f r t u": [
+    {
+      "count": 27829,
+      "score": 0.25912511,
+      "where": "input/text/guten/pg1661.txt"
+    }
+  ],
+  "da de di do du": [
+    {
+      "count": 2660,
+      "score": 0.02476815,
+      "where": "input/text/guten/pg1661.txt"
+    }
+  ],
+  "e": [
+    {
+      "count": 1853,
+      "score": 0.01725390,
+      "where": "input/text/guten/pg1661.txt"
+    }
+  ],
+  "ea ee ei eo eu": [
+    {
+      "count": 233,
+      "score": 0.00216954,
+      "where": "input/text/guten/pg1661.txt"
+    }
+  ],
+  "en iy of": [
+    {
+      "count": 3290,
+      "score": 0.03063429,
+      "where": "input/text/guten/pg1661.txt"
+    }
+  ],
+  "ez jo pa ze": [
+    {
+      "count": 674,
+      "score": 0.00627584,
+      "where": "input/text/guten/pg1661.txt"
+    }
+  ],
+  "f": [
+    {
+      "count": 3888,
+      "score": 0.03620247,
+      "where": "input/text/guten/pg1661.txt"
+    }
+  ],
+  "fa fe fi fo fu": [
+    {
+      "count": 2890,
+      "score": 0.02690975,
+      "where": "input/text/guten/pg1661.txt"
+    }
+  ],
+  "g": [
+    {
+      "count": 1672,
+      "score": 0.01556855,
+      "where": "input/text/guten/pg1661.txt"
+    }
+  ],
+  "g h p w z": [
+    {
+      "count": 21227,
+      "score": 0.19765168,
+      "where": "input/text/guten/pg1661.txt"
+    }
+  ],
+  "ga ge gi go gu": [
+    {
+      "count": 1201,
+      "score": 0.01118291,
+      "where": "input/text/guten/pg1661.txt"
+    }
+  ],
+  "h": [
+    {
+      "count": 8547,
+      "score": 0.07958397,
+      "where": "input/text/guten/pg1661.txt"
+    }
+  ],
+  "ha he hi ho hu": [
+    {
+      "count": 8514,
+      "score": 0.07927670,
+      "where": "input/text/guten/pg1661.txt"
+    }
+  ],
+  "i": [
+    {
+      "count": 9439,
+      "score": 0.08788968,
+      "where": "input/text/guten/pg1661.txt"
+    }
+  ],
+  "ia ie ii io iu": [
+    {
+      "count": 8,
+      "score": 0.00007449,
+      "where": "input/text/guten/pg1661.txt"
+    }
+  ],
+  "j": [
+    {
+      "count": 331,
+      "score": 0.00308205,
+      "where": "input/text/guten/pg1661.txt"
+    }
+  ],
+  "ja je ji jo ju": [
+    {
+      "count": 330,
+      "score": 0.00307274,
+      "where": "input/text/guten/pg1661.txt"
+    }
+  ],
+  "k": [
+    {
+      "count": 547,
+      "score": 0.00509330,
+      "where": "input/text/guten/pg1661.txt"
+    }
+  ],
+  "ka ke ki ko ku": [
+    {
+      "count": 200,
+      "score": 0.00186227,
+      "where": "input/text/guten/pg1661.txt"
+    }
+  ],
+  "ko ox": [
+    {
+      "count": 4,
+      "score": 0.00003725,
+      "where": "input/text/guten/pg1661.txt"
+    }
+  ],
+  "ku": [
+    {
+      "count": 2,
+      "score": 0.00001862,
+      "where": "input/text/guten/pg1661.txt"
+    }
+  ],
+  "l": [
+    {
+      "count": 2725,
+      "score": 0.02537338,
+      "where": "input/text/guten/pg1661.txt"
+    }
+  ],
+  "la le li lo lu": [
+    {
+      "count": 2714,
+      "score": 0.02527096,
+      "where": "input/text/guten/pg1661.txt"
+    }
+  ],
+  "m": [
+    {
+      "count": 5246,
+      "score": 0.04884726,
+      "where": "input/text/guten/pg1661.txt"
+    }
+  ],
+  "ma me mi mo mu": [
+    {
+      "count": 3770,
+      "score": 0.03510373,
+      "where": "input/text/guten/pg1661.txt"
+    }
+  ],
+  "n": [
+    {
+      "count": 2307,
+      "score": 0.02148125,
+      "where": "input/text/guten/pg1661.txt"
+    }
+  ],
+  "na ne ni no nu": [
+    {
+      "count": 2303,
+      "score": 0.02144400,
+      "where": "input/text/guten/pg1661.txt"
+    }
+  ],
+  "o": [
+    {
+      "count": 6064,
+      "score": 0.05646393,
+      "where": "input/text/guten/pg1661.txt"
+    }
+  ],
+  "o s v": [
+    {
+      "count": 14553,
+      "score": 0.13550784,
+      "where": "input/text/guten/pg1661.txt"
+    }
+  ],
+  "oa oe oi oo ou": [
+    {
+      "count": 632,
+      "score": 0.00588476,
+      "where": "input/text/guten/pg1661.txt"
+    }
+  ],
+  "oh oy re ur xo xu": [
+    {
+      "count": 1191,
+      "score": 0.01108980,
+      "where": "input/text/guten/pg1661.txt"
+    }
+  ],
+  "p": [
+    {
+      "count": 2742,
+      "score": 0.02553168,
+      "where": "input/text/guten/pg1661.txt"
+    }
+  ],
+  "pa pe pi po pu": [
+    {
+      "count": 1742,
+      "score": 0.01622034,
+      "where": "input/text/guten/pg1661.txt"
+    }
+  ],
+  "q": [
+    {
+      "count": 280,
+      "score": 0.00260717,
+      "where": "input/text/guten/pg1661.txt"
+    }
+  ],
+  "qa qe qi qo qu": [
+    {
+      "count": 280,
+      "score": 0.00260717,
+      "where": "input/text/guten/pg1661.txt"
+    }
+  ],
+  "r": [
+    {
+      "count": 2120,
+      "score": 0.01974003,
+      "where": "input/text/guten/pg1661.txt"
+    }
+  ],
+  "ra re ri ro ru": [
+    {
+      "count": 2103,
+      "score": 0.01958173,
+      "where": "input/text/guten/pg1661.txt"
+    }
+  ],
+  "s": [
+    {
+      "count": 7704,
+      "score": 0.07173452,
+      "where": "input/text/guten/pg1661.txt"
+    }
+  ],
+  "sa se si so su": [
+    {
+      "count": 4303,
+      "score": 0.04006667,
+      "where": "input/text/guten/pg1661.txt"
+    }
+  ],
+  "t": [
+    {
+      "count": 15395,
+      "score": 0.14334798,
+      "where": "input/text/guten/pg1661.txt"
+    }
+  ],
+  "ta te ti to tu": [
+    {
+      "count": 4159,
+      "score": 0.03872584,
+      "where": "input/text/guten/pg1661.txt"
+    }
+  ],
+  "u": [
+    {
+      "count": 1545,
+      "score": 0.01438601,
+      "where": "input/text/guten/pg1661.txt"
+    }
+  ],
+  "ua ue ui uo uu": [
+  ],
+  "v": [
+    {
+      "count": 785,
+      "score": 0.00730940,
+      "where": "input/text/guten/pg1661.txt"
+    }
+  ],
+  "va ve vi vo vu": [
+    {
+      "count": 783,
+      "score": 0.00729077,
+      "where": "input/text/guten/pg1661.txt"
+    }
+  ],
+  "w": [
+    {
+      "count": 8260,
+      "score": 0.07691162,
+      "where": "input/text/guten/pg1661.txt"
+    }
+  ],
+  "wa we wi wo wu": [
+    {
+      "count": 5798,
+      "score": 0.05398711,
+      "where": "input/text/guten/pg1661.txt"
+    }
+  ],
+  "x": [
+    {
+      "count": 6,
+      "score": 0.00005587,
+      "where": "input/text/guten/pg1661.txt"
+    }
+  ],
+  "xa xe xi xo xu": [
+    {
+      "count": 4,
+      "score": 0.00003725,
+      "where": "input/text/guten/pg1661.txt"
+    }
+  ],
+  "y": [
+    {
+      "count": 2489,
+      "score": 0.02317591,
+      "where": "input/text/guten/pg1661.txt"
+    }
+  ],
+  "ya ye yi yo yu": [
+    {
+      "count": 2489,
+      "score": 0.02317591,
+      "where": "input/text/guten/pg1661.txt"
+    }
+  ],
+  "z": [
+    {
+      "count": 6,
+      "score": 0.00005587,
+      "where": "input/text/guten/pg1661.txt"
+    }
+  ],
+  "za ze zi zo zu": [
+    {
+      "count": 6,
+      "score": 0.00005587,
+      "where": "input/text/guten/pg1661.txt"
+    }
+  ]
+}

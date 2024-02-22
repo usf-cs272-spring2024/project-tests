@@ -1,0 +1,2894 @@
+{
+  "a": [
+    {
+      "count": 1382,
+      "score": 0.12599143,
+      "where": "input/text/guten/50468-0.txt"
+    },
+    {
+      "count": 21841,
+      "score": 0.11656740,
+      "where": "input/text/guten/1400-0.txt"
+    },
+    {
+      "count": 1885,
+      "score": 0.11290129,
+      "where": "input/text/guten/pg37134.txt"
+    },
+    {
+      "count": 13949,
+      "score": 0.11215727,
+      "where": "input/text/guten/pg1322.txt"
+    },
+    {
+      "count": 23992,
+      "score": 0.11138451,
+      "where": "input/text/guten/2701-0.txt"
+    },
+    {
+      "count": 11724,
+      "score": 0.10916608,
+      "where": "input/text/guten/pg1661.txt"
+    },
+    {
+      "count": 6635,
+      "score": 0.10427471,
+      "where": "input/text/guten/pg22577.txt"
+    }
+  ],
+  "a e i o u": [
+    {
+      "count": 3771,
+      "score": 0.34378704,
+      "where": "input/text/guten/50468-0.txt"
+    },
+    {
+      "count": 5513,
+      "score": 0.33019885,
+      "where": "input/text/guten/pg37134.txt"
+    },
+    {
+      "count": 19020,
+      "score": 0.29891561,
+      "where": "input/text/guten/pg22577.txt"
+    },
+    {
+      "count": 54401,
+      "score": 0.29034307,
+      "where": "input/text/guten/1400-0.txt"
+    },
+    {
+      "count": 35932,
+      "score": 0.28891212,
+      "where": "input/text/guten/pg1322.txt"
+    },
+    {
+      "count": 30625,
+      "score": 0.28515960,
+      "where": "input/text/guten/pg1661.txt"
+    },
+    {
+      "count": 59834,
+      "score": 0.27778345,
+      "where": "input/text/guten/2701-0.txt"
+    }
+  ],
+  "a j m q": [
+    {
+      "count": 34308,
+      "score": 0.18310491,
+      "where": "input/text/guten/1400-0.txt"
+    },
+    {
+      "count": 20622,
+      "score": 0.16581169,
+      "where": "input/text/guten/pg1322.txt"
+    },
+    {
+      "count": 17581,
+      "score": 0.16370256,
+      "where": "input/text/guten/pg1661.txt"
+    },
+    {
+      "count": 1763,
+      "score": 0.16072568,
+      "where": "input/text/guten/50468-0.txt"
+    },
+    {
+      "count": 33937,
+      "score": 0.15755485,
+      "where": "input/text/guten/2701-0.txt"
+    },
+    {
+      "count": 2525,
+      "score": 0.15123383,
+      "where": "input/text/guten/pg37134.txt"
+    },
+    {
+      "count": 9433,
+      "score": 0.14824768,
+      "where": "input/text/guten/pg22577.txt"
+    }
+  ],
+  "aa ae ai ao au": [
+    {
+      "count": 22,
+      "score": 0.00200565,
+      "where": "input/text/guten/50468-0.txt"
+    },
+    {
+      "count": 30,
+      "score": 0.00179684,
+      "where": "input/text/guten/pg37134.txt"
+    },
+    {
+      "count": 217,
+      "score": 0.00174479,
+      "where": "input/text/guten/pg1322.txt"
+    },
+    {
+      "count": 104,
+      "score": 0.00163445,
+      "where": "input/text/guten/pg22577.txt"
+    },
+    {
+      "count": 266,
+      "score": 0.00123492,
+      "where": "input/text/guten/2701-0.txt"
+    },
+    {
+      "count": 213,
+      "score": 0.00113680,
+      "where": "input/text/guten/1400-0.txt"
+    },
+    {
+      "count": 58,
+      "score": 0.00054006,
+      "where": "input/text/guten/pg1661.txt"
+    }
+  ],
+  "aa bl br ch cl cr dr fl fr gn kn ph pl pr rh sh sq st th tw wh": [
+    {
+      "count": 46589,
+      "score": 0.21629263,
+      "where": "input/text/guten/2701-0.txt"
+    },
+    {
+      "count": 26715,
+      "score": 0.21480261,
+      "where": "input/text/guten/pg1322.txt"
+    },
+    {
+      "count": 3124,
+      "score": 0.18711069,
+      "where": "input/text/guten/pg37134.txt"
+    },
+    {
+      "count": 20063,
+      "score": 0.18681329,
+      "where": "input/text/guten/pg1661.txt"
+    },
+    {
+      "count": 11753,
+      "score": 0.18470847,
+      "where": "input/text/guten/pg22577.txt"
+    },
+    {
+      "count": 1965,
+      "score": 0.17914122,
+      "where": "input/text/guten/50468-0.txt"
+    },
+    {
+      "count": 30861,
+      "score": 0.16470795,
+      "where": "input/text/guten/1400-0.txt"
+    }
+  ],
+  "ab ac at az ec ex fa iw je me od op qu ug uy": [
+    {
+      "count": 7437,
+      "score": 0.03969194,
+      "where": "input/text/guten/1400-0.txt"
+    },
+    {
+      "count": 628,
+      "score": 0.03761380,
+      "where": "input/text/guten/pg37134.txt"
+    },
+    {
+      "count": 3861,
+      "score": 0.03595106,
+      "where": "input/text/guten/pg1661.txt"
+    },
+    {
+      "count": 369,
+      "score": 0.03364026,
+      "where": "input/text/guten/50468-0.txt"
+    },
+    {
+      "count": 4150,
+      "score": 0.03336818,
+      "where": "input/text/guten/pg1322.txt"
+    },
+    {
+      "count": 2032,
+      "score": 0.03193462,
+      "where": "input/text/guten/pg22577.txt"
+    },
+    {
+      "count": 6621,
+      "score": 0.03073845,
+      "where": "input/text/guten/2701-0.txt"
+    }
+  ],
+  "abcdefghijklmnopqrstuvwxyz": [
+  ],
+  "ad ap as de eb em gu il is og os qe to uc ux ye": [
+    {
+      "count": 949,
+      "score": 0.08651655,
+      "where": "input/text/guten/50468-0.txt"
+    },
+    {
+      "count": 1372,
+      "score": 0.08217537,
+      "where": "input/text/guten/pg37134.txt"
+    },
+    {
+      "count": 5166,
+      "score": 0.08118812,
+      "where": "input/text/guten/pg22577.txt"
+    },
+    {
+      "count": 7062,
+      "score": 0.06575664,
+      "where": "input/text/guten/pg1661.txt"
+    },
+    {
+      "count": 11769,
+      "score": 0.06281222,
+      "where": "input/text/guten/1400-0.txt"
+    },
+    {
+      "count": 13390,
+      "score": 0.06216399,
+      "where": "input/text/guten/2701-0.txt"
+    },
+    {
+      "count": 7379,
+      "score": 0.05933103,
+      "where": "input/text/guten/pg1322.txt"
+    }
+  ],
+  "af ax ca ed el iq iz ov so ta tu ud uj": [
+    {
+      "count": 7504,
+      "score": 0.03483784,
+      "where": "input/text/guten/2701-0.txt"
+    },
+    {
+      "count": 329,
+      "score": 0.02999362,
+      "where": "input/text/guten/50468-0.txt"
+    },
+    {
+      "count": 3695,
+      "score": 0.02970974,
+      "where": "input/text/guten/pg1322.txt"
+    },
+    {
+      "count": 3067,
+      "score": 0.02855786,
+      "where": "input/text/guten/pg1661.txt"
+    },
+    {
+      "count": 5011,
+      "score": 0.02674416,
+      "where": "input/text/guten/1400-0.txt"
+    },
+    {
+      "count": 1605,
+      "score": 0.02522395,
+      "where": "input/text/guten/pg22577.txt"
+    },
+    {
+      "count": 339,
+      "score": 0.02030426,
+      "where": "input/text/guten/pg37134.txt"
+    }
+  ],
+  "ag do eh ek eq er ev fi im ju nu oq pi ra te we za zi": [
+    {
+      "count": 8582,
+      "score": 0.04580291,
+      "where": "input/text/guten/1400-0.txt"
+    },
+    {
+      "count": 2778,
+      "score": 0.04365865,
+      "where": "input/text/guten/pg22577.txt"
+    },
+    {
+      "count": 4533,
+      "score": 0.04220828,
+      "where": "input/text/guten/pg1661.txt"
+    },
+    {
+      "count": 8250,
+      "score": 0.03830119,
+      "where": "input/text/guten/2701-0.txt"
+    },
+    {
+      "count": 4478,
+      "score": 0.03600547,
+      "where": "input/text/guten/pg1322.txt"
+    },
+    {
+      "count": 571,
+      "score": 0.03419981,
+      "where": "input/text/guten/pg37134.txt"
+    },
+    {
+      "count": 334,
+      "score": 0.03044945,
+      "where": "input/text/guten/50468-0.txt"
+    }
+  ],
+  "ah da di du es go hi ir oj qa ul us uw yi": [
+    {
+      "count": 8803,
+      "score": 0.04086853,
+      "where": "input/text/guten/2701-0.txt"
+    },
+    {
+      "count": 7349,
+      "score": 0.03922228,
+      "where": "input/text/guten/1400-0.txt"
+    },
+    {
+      "count": 2475,
+      "score": 0.03889675,
+      "where": "input/text/guten/pg22577.txt"
+    },
+    {
+      "count": 3650,
+      "score": 0.03398637,
+      "where": "input/text/guten/pg1661.txt"
+    },
+    {
+      "count": 562,
+      "score": 0.03366076,
+      "where": "input/text/guten/pg37134.txt"
+    },
+    {
+      "count": 3145,
+      "score": 0.02528745,
+      "where": "input/text/guten/pg1322.txt"
+    },
+    {
+      "count": 266,
+      "score": 0.02425016,
+      "where": "input/text/guten/50468-0.txt"
+    }
+  ],
+  "aj fe id ih ij ke la su up uq ya": [
+    {
+      "count": 5121,
+      "score": 0.02377459,
+      "where": "input/text/guten/2701-0.txt"
+    },
+    {
+      "count": 2521,
+      "score": 0.02347387,
+      "where": "input/text/guten/pg1661.txt"
+    },
+    {
+      "count": 2612,
+      "score": 0.02100185,
+      "where": "input/text/guten/pg1322.txt"
+    },
+    {
+      "count": 3770,
+      "score": 0.02012083,
+      "where": "input/text/guten/1400-0.txt"
+    },
+    {
+      "count": 216,
+      "score": 0.01969186,
+      "where": "input/text/guten/50468-0.txt"
+    },
+    {
+      "count": 321,
+      "score": 0.01922616,
+      "where": "input/text/guten/pg37134.txt"
+    },
+    {
+      "count": 1108,
+      "score": 0.01741317,
+      "where": "input/text/guten/pg22577.txt"
+    }
+  ],
+  "ak ef ep he ji ka li oz pu qi qo ri ro sa un ve xa": [
+    {
+      "count": 12047,
+      "score": 0.06429593,
+      "where": "input/text/guten/1400-0.txt"
+    },
+    {
+      "count": 6146,
+      "score": 0.05722746,
+      "where": "input/text/guten/pg1661.txt"
+    },
+    {
+      "count": 11107,
+      "score": 0.05156501,
+      "where": "input/text/guten/2701-0.txt"
+    },
+    {
+      "count": 3107,
+      "score": 0.04882917,
+      "where": "input/text/guten/pg22577.txt"
+    },
+    {
+      "count": 5674,
+      "score": 0.04562193,
+      "where": "input/text/guten/pg1322.txt"
+    },
+    {
+      "count": 695,
+      "score": 0.04162674,
+      "where": "input/text/guten/pg37134.txt"
+    },
+    {
+      "count": 420,
+      "score": 0.03828973,
+      "where": "input/text/guten/50468-0.txt"
+    }
+  ],
+  "al an be ho ut va wa": [
+    {
+      "count": 18600,
+      "score": 0.09926989,
+      "where": "input/text/guten/1400-0.txt"
+    },
+    {
+      "count": 9911,
+      "score": 0.09228463,
+      "where": "input/text/guten/pg1661.txt"
+    },
+    {
+      "count": 11425,
+      "score": 0.09186299,
+      "where": "input/text/guten/pg1322.txt"
+    },
+    {
+      "count": 18491,
+      "score": 0.08584574,
+      "where": "input/text/guten/2701-0.txt"
+    },
+    {
+      "count": 847,
+      "score": 0.07721761,
+      "where": "input/text/guten/50468-0.txt"
+    },
+    {
+      "count": 4796,
+      "score": 0.07537325,
+      "where": "input/text/guten/pg22577.txt"
+    },
+    {
+      "count": 1142,
+      "score": 0.06839962,
+      "where": "input/text/guten/pg37134.txt"
+    }
+  ],
+  "am ay ba bu eg ey fu ik lo ma mo po se uf uk um vu wo zu": [
+    {
+      "count": 1166,
+      "score": 0.06983709,
+      "where": "input/text/guten/pg37134.txt"
+    },
+    {
+      "count": 8668,
+      "score": 0.06969526,
+      "where": "input/text/guten/pg1322.txt"
+    },
+    {
+      "count": 14782,
+      "score": 0.06862645,
+      "where": "input/text/guten/2701-0.txt"
+    },
+    {
+      "count": 4221,
+      "score": 0.06633663,
+      "where": "input/text/guten/pg22577.txt"
+    },
+    {
+      "count": 6614,
+      "score": 0.06158516,
+      "where": "input/text/guten/pg1661.txt"
+    },
+    {
+      "count": 10993,
+      "score": 0.05867064,
+      "where": "input/text/guten/1400-0.txt"
+    },
+    {
+      "count": 535,
+      "score": 0.04877382,
+      "where": "input/text/guten/50468-0.txt"
+    }
+  ],
+  "aq ki le ob uz": [
+    {
+      "count": 589,
+      "score": 0.00925664,
+      "where": "input/text/guten/pg22577.txt"
+    },
+    {
+      "count": 133,
+      "score": 0.00796598,
+      "where": "input/text/guten/pg37134.txt"
+    },
+    {
+      "count": 1707,
+      "score": 0.00792486,
+      "where": "input/text/guten/2701-0.txt"
+    },
+    {
+      "count": 813,
+      "score": 0.00757011,
+      "where": "input/text/guten/pg1661.txt"
+    },
+    {
+      "count": 1167,
+      "score": 0.00622838,
+      "where": "input/text/guten/1400-0.txt"
+    },
+    {
+      "count": 741,
+      "score": 0.00595803,
+      "where": "input/text/guten/pg1322.txt"
+    },
+    {
+      "count": 44,
+      "score": 0.00401130,
+      "where": "input/text/guten/50468-0.txt"
+    }
+  ],
+  "ar bo ga gi ha if ig in it lu no ok or ow ti ub uv wi xi yo": [
+    {
+      "count": 15056,
+      "score": 0.14019144,
+      "where": "input/text/guten/pg1661.txt"
+    },
+    {
+      "count": 2280,
+      "score": 0.13655966,
+      "where": "input/text/guten/pg37134.txt"
+    },
+    {
+      "count": 25545,
+      "score": 0.13633598,
+      "where": "input/text/guten/1400-0.txt"
+    },
+    {
+      "count": 8608,
+      "score": 0.13528210,
+      "where": "input/text/guten/pg22577.txt"
+    },
+    {
+      "count": 1399,
+      "score": 0.12754125,
+      "where": "input/text/guten/50468-0.txt"
+    },
+    {
+      "count": 15678,
+      "score": 0.12605934,
+      "where": "input/text/guten/pg1322.txt"
+    },
+    {
+      "count": 26574,
+      "score": 0.12337162,
+      "where": "input/text/guten/2701-0.txt"
+    }
+  ],
+  "av aw ce ip ix ne ni si": [
+    {
+      "count": 1982,
+      "score": 0.01593632,
+      "where": "input/text/guten/pg1322.txt"
+    },
+    {
+      "count": 1012,
+      "score": 0.01590445,
+      "where": "input/text/guten/pg22577.txt"
+    },
+    {
+      "count": 231,
+      "score": 0.01383565,
+      "where": "input/text/guten/pg37134.txt"
+    },
+    {
+      "count": 1476,
+      "score": 0.01374353,
+      "where": "input/text/guten/pg1661.txt"
+    },
+    {
+      "count": 2865,
+      "score": 0.01330096,
+      "where": "input/text/guten/2701-0.txt"
+    },
+    {
+      "count": 2401,
+      "score": 0.01281435,
+      "where": "input/text/guten/1400-0.txt"
+    },
+    {
+      "count": 96,
+      "score": 0.00875194,
+      "where": "input/text/guten/50468-0.txt"
+    }
+  ],
+  "b": [
+    {
+      "count": 11058,
+      "score": 0.05133752,
+      "where": "input/text/guten/2701-0.txt"
+    },
+    {
+      "count": 8714,
+      "score": 0.04650741,
+      "where": "input/text/guten/1400-0.txt"
+    },
+    {
+      "count": 2937,
+      "score": 0.04615747,
+      "where": "input/text/guten/pg22577.txt"
+    },
+    {
+      "count": 748,
+      "score": 0.04480115,
+      "where": "input/text/guten/pg37134.txt"
+    },
+    {
+      "count": 4556,
+      "score": 0.04242244,
+      "where": "input/text/guten/pg1661.txt"
+    },
+    {
+      "count": 5200,
+      "score": 0.04181073,
+      "where": "input/text/guten/pg1322.txt"
+    },
+    {
+      "count": 457,
+      "score": 0.04166287,
+      "where": "input/text/guten/50468-0.txt"
+    }
+  ],
+  "b k": [
+    {
+      "count": 12002,
+      "score": 0.05572011,
+      "where": "input/text/guten/2701-0.txt"
+    },
+    {
+      "count": 9944,
+      "score": 0.05307203,
+      "where": "input/text/guten/1400-0.txt"
+    },
+    {
+      "count": 3143,
+      "score": 0.04939494,
+      "where": "input/text/guten/pg22577.txt"
+    },
+    {
+      "count": 799,
+      "score": 0.04785577,
+      "where": "input/text/guten/pg37134.txt"
+    },
+    {
+      "count": 5103,
+      "score": 0.04751574,
+      "where": "input/text/guten/pg1661.txt"
+    },
+    {
+      "count": 5744,
+      "score": 0.04618477,
+      "where": "input/text/guten/pg1322.txt"
+    },
+    {
+      "count": 497,
+      "score": 0.04530951,
+      "where": "input/text/guten/50468-0.txt"
+    }
+  ],
+  "ba be bi bo bu": [
+    {
+      "count": 8430,
+      "score": 0.03913685,
+      "where": "input/text/guten/2701-0.txt"
+    },
+    {
+      "count": 2356,
+      "score": 0.03702656,
+      "where": "input/text/guten/pg22577.txt"
+    },
+    {
+      "count": 6828,
+      "score": 0.03644165,
+      "where": "input/text/guten/1400-0.txt"
+    },
+    {
+      "count": 3573,
+      "score": 0.03326940,
+      "where": "input/text/guten/pg1661.txt"
+    },
+    {
+      "count": 525,
+      "score": 0.03144466,
+      "where": "input/text/guten/pg37134.txt"
+    },
+    {
+      "count": 321,
+      "score": 0.02926429,
+      "where": "input/text/guten/50468-0.txt"
+    },
+    {
+      "count": 3633,
+      "score": 0.02921122,
+      "where": "input/text/guten/pg1322.txt"
+    }
+  ],
+  "bi cu et ge ib ol om ot ru vo yu zo": [
+    {
+      "count": 868,
+      "score": 0.01364136,
+      "where": "input/text/guten/pg22577.txt"
+    },
+    {
+      "count": 205,
+      "score": 0.01227839,
+      "where": "input/text/guten/pg37134.txt"
+    },
+    {
+      "count": 2639,
+      "score": 0.01225174,
+      "where": "input/text/guten/2701-0.txt"
+    },
+    {
+      "count": 1394,
+      "score": 0.01120849,
+      "where": "input/text/guten/pg1322.txt"
+    },
+    {
+      "count": 119,
+      "score": 0.01084876,
+      "where": "input/text/guten/50468-0.txt"
+    },
+    {
+      "count": 1851,
+      "score": 0.00987895,
+      "where": "input/text/guten/1400-0.txt"
+    },
+    {
+      "count": 939,
+      "score": 0.00874334,
+      "where": "input/text/guten/pg1661.txt"
+    }
+  ],
+  "c": [
+    {
+      "count": 690,
+      "score": 0.06290455,
+      "where": "input/text/guten/50468-0.txt"
+    },
+    {
+      "count": 811,
+      "score": 0.04857451,
+      "where": "input/text/guten/pg37134.txt"
+    },
+    {
+      "count": 2910,
+      "score": 0.04573314,
+      "where": "input/text/guten/pg22577.txt"
+    },
+    {
+      "count": 8596,
+      "score": 0.03990752,
+      "where": "input/text/guten/2701-0.txt"
+    },
+    {
+      "count": 4137,
+      "score": 0.03852099,
+      "where": "input/text/guten/pg1661.txt"
+    },
+    {
+      "count": 4686,
+      "score": 0.03767790,
+      "where": "input/text/guten/pg1322.txt"
+    },
+    {
+      "count": 6394,
+      "score": 0.03412536,
+      "where": "input/text/guten/1400-0.txt"
+    }
+  ],
+  "c i l n x y": [
+    {
+      "count": 2297,
+      "score": 0.20940833,
+      "where": "input/text/guten/50468-0.txt"
+    },
+    {
+      "count": 21103,
+      "score": 0.19649708,
+      "where": "input/text/guten/pg1661.txt"
+    },
+    {
+      "count": 12023,
+      "score": 0.18895175,
+      "where": "input/text/guten/pg22577.txt"
+    },
+    {
+      "count": 23201,
+      "score": 0.18654820,
+      "where": "input/text/guten/pg1322.txt"
+    },
+    {
+      "count": 3099,
+      "score": 0.18561332,
+      "where": "input/text/guten/pg37134.txt"
+    },
+    {
+      "count": 34733,
+      "score": 0.18537317,
+      "where": "input/text/guten/1400-0.txt"
+    },
+    {
+      "count": 36581,
+      "score": 0.16982980,
+      "where": "input/text/guten/2701-0.txt"
+    }
+  ],
+  "ca ce ci co cu": [
+    {
+      "count": 597,
+      "score": 0.05442611,
+      "where": "input/text/guten/50468-0.txt"
+    },
+    {
+      "count": 628,
+      "score": 0.03761380,
+      "where": "input/text/guten/pg37134.txt"
+    },
+    {
+      "count": 2232,
+      "score": 0.03507779,
+      "where": "input/text/guten/pg22577.txt"
+    },
+    {
+      "count": 3028,
+      "score": 0.02819472,
+      "where": "input/text/guten/pg1661.txt"
+    },
+    {
+      "count": 6035,
+      "score": 0.02801790,
+      "where": "input/text/guten/2701-0.txt"
+    },
+    {
+      "count": 3238,
+      "score": 0.02603522,
+      "where": "input/text/guten/pg1322.txt"
+    },
+    {
+      "count": 4757,
+      "score": 0.02538854,
+      "where": "input/text/guten/1400-0.txt"
+    }
+  ],
+  "ci ew hu ic mi mu na on pe xe": [
+    {
+      "count": 6538,
+      "score": 0.03035311,
+      "where": "input/text/guten/2701-0.txt"
+    },
+    {
+      "count": 3590,
+      "score": 0.02886548,
+      "where": "input/text/guten/pg1322.txt"
+    },
+    {
+      "count": 5235,
+      "score": 0.02793967,
+      "where": "input/text/guten/1400-0.txt"
+    },
+    {
+      "count": 1708,
+      "score": 0.02684268,
+      "where": "input/text/guten/pg22577.txt"
+    },
+    {
+      "count": 2653,
+      "score": 0.02470297,
+      "where": "input/text/guten/pg1661.txt"
+    },
+    {
+      "count": 408,
+      "score": 0.02443699,
+      "where": "input/text/guten/pg37134.txt"
+    },
+    {
+      "count": 266,
+      "score": 0.02425016,
+      "where": "input/text/guten/50468-0.txt"
+    }
+  ],
+  "co ej fo iv ja oc uh vi wu": [
+    {
+      "count": 753,
+      "score": 0.06864801,
+      "where": "input/text/guten/50468-0.txt"
+    },
+    {
+      "count": 835,
+      "score": 0.05001198,
+      "where": "input/text/guten/pg37134.txt"
+    },
+    {
+      "count": 2761,
+      "score": 0.04339148,
+      "where": "input/text/guten/pg22577.txt"
+    },
+    {
+      "count": 6088,
+      "score": 0.03249221,
+      "where": "input/text/guten/1400-0.txt"
+    },
+    {
+      "count": 3376,
+      "score": 0.03143506,
+      "where": "input/text/guten/pg1661.txt"
+    },
+    {
+      "count": 6750,
+      "score": 0.03133734,
+      "where": "input/text/guten/2701-0.txt"
+    },
+    {
+      "count": 3871,
+      "score": 0.03112487,
+      "where": "input/text/guten/pg1322.txt"
+    }
+  ],
+  "d": [
+    {
+      "count": 427,
+      "score": 0.03892789,
+      "where": "input/text/guten/50468-0.txt"
+    },
+    {
+      "count": 1898,
+      "score": 0.02982870,
+      "where": "input/text/guten/pg22577.txt"
+    },
+    {
+      "count": 3579,
+      "score": 0.02877704,
+      "where": "input/text/guten/pg1322.txt"
+    },
+    {
+      "count": 476,
+      "score": 0.02850982,
+      "where": "input/text/guten/pg37134.txt"
+    },
+    {
+      "count": 5322,
+      "score": 0.02840400,
+      "where": "input/text/guten/1400-0.txt"
+    },
+    {
+      "count": 3028,
+      "score": 0.02819472,
+      "where": "input/text/guten/pg1661.txt"
+    },
+    {
+      "count": 5868,
+      "score": 0.02724259,
+      "where": "input/text/guten/2701-0.txt"
+    }
+  ],
+  "d e f r t u": [
+    {
+      "count": 3477,
+      "score": 0.31698423,
+      "where": "input/text/guten/50468-0.txt"
+    },
+    {
+      "count": 4972,
+      "score": 0.29779588,
+      "where": "input/text/guten/pg37134.txt"
+    },
+    {
+      "count": 36474,
+      "score": 0.29327008,
+      "where": "input/text/guten/pg1322.txt"
+    },
+    {
+      "count": 17995,
+      "score": 0.28280685,
+      "where": "input/text/guten/pg22577.txt"
+    },
+    {
+      "count": 60537,
+      "score": 0.28104718,
+      "where": "input/text/guten/2701-0.txt"
+    },
+    {
+      "count": 27829,
+      "score": 0.25912511,
+      "where": "input/text/guten/pg1661.txt"
+    },
+    {
+      "count": 45620,
+      "score": 0.24347808,
+      "where": "input/text/guten/1400-0.txt"
+    }
+  ],
+  "da de di do du": [
+    {
+      "count": 409,
+      "score": 0.03728690,
+      "where": "input/text/guten/50468-0.txt"
+    },
+    {
+      "count": 1804,
+      "score": 0.02835141,
+      "where": "input/text/guten/pg22577.txt"
+    },
+    {
+      "count": 453,
+      "score": 0.02713225,
+      "where": "input/text/guten/pg37134.txt"
+    },
+    {
+      "count": 4716,
+      "score": 0.02516972,
+      "where": "input/text/guten/1400-0.txt"
+    },
+    {
+      "count": 3113,
+      "score": 0.02503015,
+      "where": "input/text/guten/pg1322.txt"
+    },
+    {
+      "count": 2660,
+      "score": 0.02476815,
+      "where": "input/text/guten/pg1661.txt"
+    },
+    {
+      "count": 5291,
+      "score": 0.02456383,
+      "where": "input/text/guten/2701-0.txt"
+    }
+  ],
+  "e": [
+    {
+      "count": 502,
+      "score": 0.04576534,
+      "where": "input/text/guten/50468-0.txt"
+    },
+    {
+      "count": 557,
+      "score": 0.03336128,
+      "where": "input/text/guten/pg37134.txt"
+    },
+    {
+      "count": 1706,
+      "score": 0.02681125,
+      "where": "input/text/guten/pg22577.txt"
+    },
+    {
+      "count": 2750,
+      "score": 0.02211144,
+      "where": "input/text/guten/pg1322.txt"
+    },
+    {
+      "count": 4031,
+      "score": 0.01871419,
+      "where": "input/text/guten/2701-0.txt"
+    },
+    {
+      "count": 1853,
+      "score": 0.01725390,
+      "where": "input/text/guten/pg1661.txt"
+    },
+    {
+      "count": 3144,
+      "score": 0.01677981,
+      "where": "input/text/guten/1400-0.txt"
+    }
+  ],
+  "ea ee ei eo eu": [
+    {
+      "count": 66,
+      "score": 0.00601696,
+      "where": "input/text/guten/50468-0.txt"
+    },
+    {
+      "count": 648,
+      "score": 0.00521026,
+      "where": "input/text/guten/pg1322.txt"
+    },
+    {
+      "count": 286,
+      "score": 0.00449474,
+      "where": "input/text/guten/pg22577.txt"
+    },
+    {
+      "count": 54,
+      "score": 0.00323431,
+      "where": "input/text/guten/pg37134.txt"
+    },
+    {
+      "count": 539,
+      "score": 0.00250234,
+      "where": "input/text/guten/2701-0.txt"
+    },
+    {
+      "count": 233,
+      "score": 0.00216954,
+      "where": "input/text/guten/pg1661.txt"
+    },
+    {
+      "count": 336,
+      "score": 0.00179326,
+      "where": "input/text/guten/1400-0.txt"
+    }
+  ],
+  "en iy of": [
+    {
+      "count": 837,
+      "score": 0.05013177,
+      "where": "input/text/guten/pg37134.txt"
+    },
+    {
+      "count": 4940,
+      "score": 0.03972019,
+      "where": "input/text/guten/pg1322.txt"
+    },
+    {
+      "count": 2506,
+      "score": 0.03938394,
+      "where": "input/text/guten/pg22577.txt"
+    },
+    {
+      "count": 7875,
+      "score": 0.03656023,
+      "where": "input/text/guten/2701-0.txt"
+    },
+    {
+      "count": 389,
+      "score": 0.03546358,
+      "where": "input/text/guten/50468-0.txt"
+    },
+    {
+      "count": 3290,
+      "score": 0.03063429,
+      "where": "input/text/guten/pg1661.txt"
+    },
+    {
+      "count": 5334,
+      "score": 0.02846804,
+      "where": "input/text/guten/1400-0.txt"
+    }
+  ],
+  "ez jo pa ze": [
+    {
+      "count": 793,
+      "score": 0.01246267,
+      "where": "input/text/guten/pg22577.txt"
+    },
+    {
+      "count": 134,
+      "score": 0.01221625,
+      "where": "input/text/guten/50468-0.txt"
+    },
+    {
+      "count": 196,
+      "score": 0.01173934,
+      "where": "input/text/guten/pg37134.txt"
+    },
+    {
+      "count": 1751,
+      "score": 0.00934525,
+      "where": "input/text/guten/1400-0.txt"
+    },
+    {
+      "count": 1127,
+      "score": 0.00906167,
+      "where": "input/text/guten/pg1322.txt"
+    },
+    {
+      "count": 1430,
+      "score": 0.00663887,
+      "where": "input/text/guten/2701-0.txt"
+    },
+    {
+      "count": 674,
+      "score": 0.00627584,
+      "where": "input/text/guten/pg1661.txt"
+    }
+  ],
+  "f": [
+    {
+      "count": 567,
+      "score": 0.05169113,
+      "where": "input/text/guten/50468-0.txt"
+    },
+    {
+      "count": 5496,
+      "score": 0.04419072,
+      "where": "input/text/guten/pg1322.txt"
+    },
+    {
+      "count": 8367,
+      "score": 0.03884437,
+      "where": "input/text/guten/2701-0.txt"
+    },
+    {
+      "count": 633,
+      "score": 0.03791327,
+      "where": "input/text/guten/pg37134.txt"
+    },
+    {
+      "count": 2325,
+      "score": 0.03653937,
+      "where": "input/text/guten/pg22577.txt"
+    },
+    {
+      "count": 3888,
+      "score": 0.03620247,
+      "where": "input/text/guten/pg1661.txt"
+    },
+    {
+      "count": 5809,
+      "score": 0.03100316,
+      "where": "input/text/guten/1400-0.txt"
+    }
+  ],
+  "fa fe fi fo fu": [
+    {
+      "count": 484,
+      "score": 0.04412435,
+      "where": "input/text/guten/50468-0.txt"
+    },
+    {
+      "count": 3869,
+      "score": 0.03110879,
+      "where": "input/text/guten/pg1322.txt"
+    },
+    {
+      "count": 1936,
+      "score": 0.03042590,
+      "where": "input/text/guten/pg22577.txt"
+    },
+    {
+      "count": 499,
+      "score": 0.02988740,
+      "where": "input/text/guten/pg37134.txt"
+    },
+    {
+      "count": 6165,
+      "score": 0.02862144,
+      "where": "input/text/guten/2701-0.txt"
+    },
+    {
+      "count": 2890,
+      "score": 0.02690975,
+      "where": "input/text/guten/pg1661.txt"
+    },
+    {
+      "count": 4680,
+      "score": 0.02497758,
+      "where": "input/text/guten/1400-0.txt"
+    }
+  ],
+  "g": [
+    {
+      "count": 1275,
+      "score": 0.02003772,
+      "where": "input/text/guten/pg22577.txt"
+    },
+    {
+      "count": 2363,
+      "score": 0.01899976,
+      "where": "input/text/guten/pg1322.txt"
+    },
+    {
+      "count": 3514,
+      "score": 0.01875454,
+      "where": "input/text/guten/1400-0.txt"
+    },
+    {
+      "count": 3594,
+      "score": 0.01668539,
+      "where": "input/text/guten/2701-0.txt"
+    },
+    {
+      "count": 266,
+      "score": 0.01593196,
+      "where": "input/text/guten/pg37134.txt"
+    },
+    {
+      "count": 1672,
+      "score": 0.01556855,
+      "where": "input/text/guten/pg1661.txt"
+    },
+    {
+      "count": 151,
+      "score": 0.01376607,
+      "where": "input/text/guten/50468-0.txt"
+    }
+  ],
+  "g h p w z": [
+    {
+      "count": 38019,
+      "score": 0.20291085,
+      "where": "input/text/guten/1400-0.txt"
+    },
+    {
+      "count": 21227,
+      "score": 0.19765168,
+      "where": "input/text/guten/pg1661.txt"
+    },
+    {
+      "count": 11341,
+      "score": 0.17823354,
+      "where": "input/text/guten/pg22577.txt"
+    },
+    {
+      "count": 38179,
+      "score": 0.17724863,
+      "where": "input/text/guten/2701-0.txt"
+    },
+    {
+      "count": 2664,
+      "score": 0.15955918,
+      "where": "input/text/guten/pg37134.txt"
+    },
+    {
+      "count": 18347,
+      "score": 0.14751950,
+      "where": "input/text/guten/pg1322.txt"
+    },
+    {
+      "count": 1474,
+      "score": 0.13437870,
+      "where": "input/text/guten/50468-0.txt"
+    }
+  ],
+  "ga ge gi go gu": [
+    {
+      "count": 891,
+      "score": 0.01400283,
+      "where": "input/text/guten/pg22577.txt"
+    },
+    {
+      "count": 2519,
+      "score": 0.01344413,
+      "where": "input/text/guten/1400-0.txt"
+    },
+    {
+      "count": 204,
+      "score": 0.01221850,
+      "where": "input/text/guten/pg37134.txt"
+    },
+    {
+      "count": 125,
+      "score": 0.01139575,
+      "where": "input/text/guten/50468-0.txt"
+    },
+    {
+      "count": 1201,
+      "score": 0.01118291,
+      "where": "input/text/guten/pg1661.txt"
+    },
+    {
+      "count": 1342,
+      "score": 0.01079038,
+      "where": "input/text/guten/pg1322.txt"
+    },
+    {
+      "count": 2288,
+      "score": 0.01062220,
+      "where": "input/text/guten/2701-0.txt"
+    }
+  ],
+  "h": [
+    {
+      "count": 8547,
+      "score": 0.07958397,
+      "where": "input/text/guten/pg1661.txt"
+    },
+    {
+      "count": 14805,
+      "score": 0.07901563,
+      "where": "input/text/guten/1400-0.txt"
+    },
+    {
+      "count": 13570,
+      "score": 0.06299966,
+      "where": "input/text/guten/2701-0.txt"
+    },
+    {
+      "count": 3003,
+      "score": 0.04719472,
+      "where": "input/text/guten/pg22577.txt"
+    },
+    {
+      "count": 4773,
+      "score": 0.03837742,
+      "where": "input/text/guten/pg1322.txt"
+    },
+    {
+      "count": 592,
+      "score": 0.03545759,
+      "where": "input/text/guten/pg37134.txt"
+    },
+    {
+      "count": 139,
+      "score": 0.01267208,
+      "where": "input/text/guten/50468-0.txt"
+    }
+  ],
+  "ha he hi ho hu": [
+    {
+      "count": 8514,
+      "score": 0.07927670,
+      "where": "input/text/guten/pg1661.txt"
+    },
+    {
+      "count": 14789,
+      "score": 0.07893023,
+      "where": "input/text/guten/1400-0.txt"
+    },
+    {
+      "count": 13532,
+      "score": 0.06282324,
+      "where": "input/text/guten/2701-0.txt"
+    },
+    {
+      "count": 2972,
+      "score": 0.04670753,
+      "where": "input/text/guten/pg22577.txt"
+    },
+    {
+      "count": 4748,
+      "score": 0.03817641,
+      "where": "input/text/guten/pg1322.txt"
+    },
+    {
+      "count": 577,
+      "score": 0.03455918,
+      "where": "input/text/guten/pg37134.txt"
+    },
+    {
+      "count": 119,
+      "score": 0.01084876,
+      "where": "input/text/guten/50468-0.txt"
+    }
+  ],
+  "i": [
+    {
+      "count": 9439,
+      "score": 0.08788968,
+      "where": "input/text/guten/pg1661.txt"
+    },
+    {
+      "count": 16063,
+      "score": 0.08572969,
+      "where": "input/text/guten/1400-0.txt"
+    },
+    {
+      "count": 1385,
+      "score": 0.08295400,
+      "where": "input/text/guten/pg37134.txt"
+    },
+    {
+      "count": 904,
+      "score": 0.08241408,
+      "where": "input/text/guten/50468-0.txt"
+    },
+    {
+      "count": 5113,
+      "score": 0.08035518,
+      "where": "input/text/guten/pg22577.txt"
+    },
+    {
+      "count": 14692,
+      "score": 0.06820862,
+      "where": "input/text/guten/2701-0.txt"
+    },
+    {
+      "count": 8427,
+      "score": 0.06775750,
+      "where": "input/text/guten/pg1322.txt"
+    }
+  ],
+  "ia ie ii io iu": [
+    {
+      "count": 19,
+      "score": 0.00113800,
+      "where": "input/text/guten/pg37134.txt"
+    },
+    {
+      "count": 6,
+      "score": 0.00054700,
+      "where": "input/text/guten/50468-0.txt"
+    },
+    {
+      "count": 11,
+      "score": 0.00017287,
+      "where": "input/text/guten/pg22577.txt"
+    },
+    {
+      "count": 33,
+      "score": 0.00015320,
+      "where": "input/text/guten/2701-0.txt"
+    },
+    {
+      "count": 15,
+      "score": 0.00012061,
+      "where": "input/text/guten/pg1322.txt"
+    },
+    {
+      "count": 8,
+      "score": 0.00007449,
+      "where": "input/text/guten/pg1661.txt"
+    },
+    {
+      "count": 3,
+      "score": 0.00001601,
+      "where": "input/text/guten/1400-0.txt"
+    }
+  ],
+  "j": [
+    {
+      "count": 1439,
+      "score": 0.00768007,
+      "where": "input/text/guten/1400-0.txt"
+    },
+    {
+      "count": 311,
+      "score": 0.00488763,
+      "where": "input/text/guten/pg22577.txt"
+    },
+    {
+      "count": 835,
+      "score": 0.00387654,
+      "where": "input/text/guten/2701-0.txt"
+    },
+    {
+      "count": 461,
+      "score": 0.00370668,
+      "where": "input/text/guten/pg1322.txt"
+    },
+    {
+      "count": 331,
+      "score": 0.00308205,
+      "where": "input/text/guten/pg1661.txt"
+    },
+    {
+      "count": 33,
+      "score": 0.00300848,
+      "where": "input/text/guten/50468-0.txt"
+    },
+    {
+      "count": 32,
+      "score": 0.00191663,
+      "where": "input/text/guten/pg37134.txt"
+    }
+  ],
+  "ja je ji jo ju": [
+    {
+      "count": 1428,
+      "score": 0.00762137,
+      "where": "input/text/guten/1400-0.txt"
+    },
+    {
+      "count": 305,
+      "score": 0.00479334,
+      "where": "input/text/guten/pg22577.txt"
+    },
+    {
+      "count": 831,
+      "score": 0.00385797,
+      "where": "input/text/guten/2701-0.txt"
+    },
+    {
+      "count": 461,
+      "score": 0.00370668,
+      "where": "input/text/guten/pg1322.txt"
+    },
+    {
+      "count": 330,
+      "score": 0.00307274,
+      "where": "input/text/guten/pg1661.txt"
+    },
+    {
+      "count": 29,
+      "score": 0.00173694,
+      "where": "input/text/guten/pg37134.txt"
+    },
+    {
+      "count": 15,
+      "score": 0.00136749,
+      "where": "input/text/guten/50468-0.txt"
+    }
+  ],
+  "k": [
+    {
+      "count": 1230,
+      "score": 0.00656462,
+      "where": "input/text/guten/1400-0.txt"
+    },
+    {
+      "count": 547,
+      "score": 0.00509330,
+      "where": "input/text/guten/pg1661.txt"
+    },
+    {
+      "count": 944,
+      "score": 0.00438258,
+      "where": "input/text/guten/2701-0.txt"
+    },
+    {
+      "count": 544,
+      "score": 0.00437405,
+      "where": "input/text/guten/pg1322.txt"
+    },
+    {
+      "count": 40,
+      "score": 0.00364664,
+      "where": "input/text/guten/50468-0.txt"
+    },
+    {
+      "count": 206,
+      "score": 0.00323747,
+      "where": "input/text/guten/pg22577.txt"
+    },
+    {
+      "count": 51,
+      "score": 0.00305462,
+      "where": "input/text/guten/pg37134.txt"
+    }
+  ],
+  "ka ke ki ko ku": [
+    {
+      "count": 43,
+      "score": 0.00257547,
+      "where": "input/text/guten/pg37134.txt"
+    },
+    {
+      "count": 500,
+      "score": 0.00232128,
+      "where": "input/text/guten/2701-0.txt"
+    },
+    {
+      "count": 416,
+      "score": 0.00222023,
+      "where": "input/text/guten/1400-0.txt"
+    },
+    {
+      "count": 200,
+      "score": 0.00186227,
+      "where": "input/text/guten/pg1661.txt"
+    },
+    {
+      "count": 20,
+      "score": 0.00182332,
+      "where": "input/text/guten/50468-0.txt"
+    },
+    {
+      "count": 214,
+      "score": 0.00172067,
+      "where": "input/text/guten/pg1322.txt"
+    },
+    {
+      "count": 104,
+      "score": 0.00163445,
+      "where": "input/text/guten/pg22577.txt"
+    }
+  ],
+  "ko ox": [
+    {
+      "count": 5,
+      "score": 0.00029947,
+      "where": "input/text/guten/pg37134.txt"
+    },
+    {
+      "count": 12,
+      "score": 0.00018859,
+      "where": "input/text/guten/pg22577.txt"
+    },
+    {
+      "count": 23,
+      "score": 0.00018493,
+      "where": "input/text/guten/pg1322.txt"
+    },
+    {
+      "count": 12,
+      "score": 0.00005571,
+      "where": "input/text/guten/2701-0.txt"
+    },
+    {
+      "count": 4,
+      "score": 0.00003725,
+      "where": "input/text/guten/pg1661.txt"
+    },
+    {
+      "count": 1,
+      "score": 0.00000534,
+      "where": "input/text/guten/1400-0.txt"
+    }
+  ],
+  "ku": [
+    {
+      "count": 4,
+      "score": 0.00006286,
+      "where": "input/text/guten/pg22577.txt"
+    },
+    {
+      "count": 2,
+      "score": 0.00001862,
+      "where": "input/text/guten/pg1661.txt"
+    }
+  ],
+  "l": [
+    {
+      "count": 4043,
+      "score": 0.03250784,
+      "where": "input/text/guten/pg1322.txt"
+    },
+    {
+      "count": 345,
+      "score": 0.03145227,
+      "where": "input/text/guten/50468-0.txt"
+    },
+    {
+      "count": 5934,
+      "score": 0.02754900,
+      "where": "input/text/guten/2701-0.txt"
+    },
+    {
+      "count": 2725,
+      "score": 0.02537338,
+      "where": "input/text/guten/pg1661.txt"
+    },
+    {
+      "count": 4586,
+      "score": 0.02447590,
+      "where": "input/text/guten/1400-0.txt"
+    },
+    {
+      "count": 347,
+      "score": 0.02078342,
+      "where": "input/text/guten/pg37134.txt"
+    },
+    {
+      "count": 1255,
+      "score": 0.01972340,
+      "where": "input/text/guten/pg22577.txt"
+    }
+  ],
+  "la le li lo lu": [
+    {
+      "count": 4035,
+      "score": 0.03244352,
+      "where": "input/text/guten/pg1322.txt"
+    },
+    {
+      "count": 312,
+      "score": 0.02844380,
+      "where": "input/text/guten/50468-0.txt"
+    },
+    {
+      "count": 5923,
+      "score": 0.02749793,
+      "where": "input/text/guten/2701-0.txt"
+    },
+    {
+      "count": 2714,
+      "score": 0.02527096,
+      "where": "input/text/guten/pg1661.txt"
+    },
+    {
+      "count": 4578,
+      "score": 0.02443320,
+      "where": "input/text/guten/1400-0.txt"
+    },
+    {
+      "count": 344,
+      "score": 0.02060374,
+      "where": "input/text/guten/pg37134.txt"
+    },
+    {
+      "count": 1253,
+      "score": 0.01969197,
+      "where": "input/text/guten/pg22577.txt"
+    }
+  ],
+  "m": [
+    {
+      "count": 10574,
+      "score": 0.05643440,
+      "where": "input/text/guten/1400-0.txt"
+    },
+    {
+      "count": 6079,
+      "score": 0.04887835,
+      "where": "input/text/guten/pg1322.txt"
+    },
+    {
+      "count": 5246,
+      "score": 0.04884726,
+      "where": "input/text/guten/pg1661.txt"
+    },
+    {
+      "count": 8397,
+      "score": 0.03898365,
+      "where": "input/text/guten/2701-0.txt"
+    },
+    {
+      "count": 2384,
+      "score": 0.03746660,
+      "where": "input/text/guten/pg22577.txt"
+    },
+    {
+      "count": 572,
+      "score": 0.03425970,
+      "where": "input/text/guten/pg37134.txt"
+    },
+    {
+      "count": 332,
+      "score": 0.03026712,
+      "where": "input/text/guten/50468-0.txt"
+    }
+  ],
+  "ma me mi mo mu": [
+    {
+      "count": 7379,
+      "score": 0.03938239,
+      "where": "input/text/guten/1400-0.txt"
+    },
+    {
+      "count": 4814,
+      "score": 0.03870708,
+      "where": "input/text/guten/pg1322.txt"
+    },
+    {
+      "count": 7608,
+      "score": 0.03532066,
+      "where": "input/text/guten/2701-0.txt"
+    },
+    {
+      "count": 3770,
+      "score": 0.03510373,
+      "where": "input/text/guten/pg1661.txt"
+    },
+    {
+      "count": 2164,
+      "score": 0.03400912,
+      "where": "input/text/guten/pg22577.txt"
+    },
+    {
+      "count": 538,
+      "score": 0.03222329,
+      "where": "input/text/guten/pg37134.txt"
+    },
+    {
+      "count": 283,
+      "score": 0.02579998,
+      "where": "input/text/guten/50468-0.txt"
+    }
+  ],
+  "n": [
+    {
+      "count": 1912,
+      "score": 0.03004872,
+      "where": "input/text/guten/pg22577.txt"
+    },
+    {
+      "count": 3279,
+      "score": 0.02636488,
+      "where": "input/text/guten/pg1322.txt"
+    },
+    {
+      "count": 410,
+      "score": 0.02455678,
+      "where": "input/text/guten/pg37134.txt"
+    },
+    {
+      "count": 247,
+      "score": 0.02251801,
+      "where": "input/text/guten/50468-0.txt"
+    },
+    {
+      "count": 4831,
+      "score": 0.02242825,
+      "where": "input/text/guten/2701-0.txt"
+    },
+    {
+      "count": 4158,
+      "score": 0.02219162,
+      "where": "input/text/guten/1400-0.txt"
+    },
+    {
+      "count": 2307,
+      "score": 0.02148125,
+      "where": "input/text/guten/pg1661.txt"
+    }
+  ],
+  "na ne ni no nu": [
+    {
+      "count": 1909,
+      "score": 0.03000157,
+      "where": "input/text/guten/pg22577.txt"
+    },
+    {
+      "count": 3279,
+      "score": 0.02636488,
+      "where": "input/text/guten/pg1322.txt"
+    },
+    {
+      "count": 409,
+      "score": 0.02449689,
+      "where": "input/text/guten/pg37134.txt"
+    },
+    {
+      "count": 4829,
+      "score": 0.02241896,
+      "where": "input/text/guten/2701-0.txt"
+    },
+    {
+      "count": 4155,
+      "score": 0.02217561,
+      "where": "input/text/guten/1400-0.txt"
+    },
+    {
+      "count": 2303,
+      "score": 0.02144400,
+      "where": "input/text/guten/pg1661.txt"
+    },
+    {
+      "count": 228,
+      "score": 0.02078585,
+      "where": "input/text/guten/50468-0.txt"
+    }
+  ],
+  "o": [
+    {
+      "count": 1379,
+      "score": 0.08259463,
+      "where": "input/text/guten/pg37134.txt"
+    },
+    {
+      "count": 9428,
+      "score": 0.07580606,
+      "where": "input/text/guten/pg1322.txt"
+    },
+    {
+      "count": 775,
+      "score": 0.07065366,
+      "where": "input/text/guten/50468-0.txt"
+    },
+    {
+      "count": 4370,
+      "score": 0.06867830,
+      "where": "input/text/guten/pg22577.txt"
+    },
+    {
+      "count": 14402,
+      "score": 0.06686227,
+      "where": "input/text/guten/2701-0.txt"
+    },
+    {
+      "count": 11016,
+      "score": 0.05879339,
+      "where": "input/text/guten/1400-0.txt"
+    },
+    {
+      "count": 6064,
+      "score": 0.05646393,
+      "where": "input/text/guten/pg1661.txt"
+    }
+  ],
+  "o s v": [
+    {
+      "count": 19982,
+      "score": 0.16066576,
+      "where": "input/text/guten/pg1322.txt"
+    },
+    {
+      "count": 34158,
+      "score": 0.15858086,
+      "where": "input/text/guten/2701-0.txt"
+    },
+    {
+      "count": 2637,
+      "score": 0.15794202,
+      "where": "input/text/guten/pg37134.txt"
+    },
+    {
+      "count": 9693,
+      "score": 0.15233380,
+      "where": "input/text/guten/pg22577.txt"
+    },
+    {
+      "count": 14553,
+      "score": 0.13550784,
+      "where": "input/text/guten/pg1661.txt"
+    },
+    {
+      "count": 24744,
+      "score": 0.13206097,
+      "where": "input/text/guten/1400-0.txt"
+    },
+    {
+      "count": 1435,
+      "score": 0.13082323,
+      "where": "input/text/guten/50468-0.txt"
+    }
+  ],
+  "oa oe oi oo ou": [
+    {
+      "count": 1194,
+      "score": 0.00637249,
+      "where": "input/text/guten/1400-0.txt"
+    },
+    {
+      "count": 67,
+      "score": 0.00610812,
+      "where": "input/text/guten/50468-0.txt"
+    },
+    {
+      "count": 632,
+      "score": 0.00588476,
+      "where": "input/text/guten/pg1661.txt"
+    },
+    {
+      "count": 1103,
+      "score": 0.00512075,
+      "where": "input/text/guten/2701-0.txt"
+    },
+    {
+      "count": 545,
+      "score": 0.00438209,
+      "where": "input/text/guten/pg1322.txt"
+    },
+    {
+      "count": 212,
+      "score": 0.00333176,
+      "where": "input/text/guten/pg22577.txt"
+    },
+    {
+      "count": 35,
+      "score": 0.00209631,
+      "where": "input/text/guten/pg37134.txt"
+    }
+  ],
+  "oh oy re ur xo xu": [
+    {
+      "count": 261,
+      "score": 0.02379433,
+      "where": "input/text/guten/50468-0.txt"
+    },
+    {
+      "count": 331,
+      "score": 0.01982511,
+      "where": "input/text/guten/pg37134.txt"
+    },
+    {
+      "count": 787,
+      "score": 0.01236838,
+      "where": "input/text/guten/pg22577.txt"
+    },
+    {
+      "count": 1396,
+      "score": 0.01122457,
+      "where": "input/text/guten/pg1322.txt"
+    },
+    {
+      "count": 1191,
+      "score": 0.01108980,
+      "where": "input/text/guten/pg1661.txt"
+    },
+    {
+      "count": 2064,
+      "score": 0.01101576,
+      "where": "input/text/guten/1400-0.txt"
+    },
+    {
+      "count": 2031,
+      "score": 0.00942906,
+      "where": "input/text/guten/2701-0.txt"
+    }
+  ],
+  "p": [
+    {
+      "count": 711,
+      "score": 0.06481904,
+      "where": "input/text/guten/50468-0.txt"
+    },
+    {
+      "count": 834,
+      "score": 0.04995208,
+      "where": "input/text/guten/pg37134.txt"
+    },
+    {
+      "count": 2875,
+      "score": 0.04518309,
+      "where": "input/text/guten/pg22577.txt"
+    },
+    {
+      "count": 3996,
+      "score": 0.03212993,
+      "where": "input/text/guten/pg1322.txt"
+    },
+    {
+      "count": 6233,
+      "score": 0.02893713,
+      "where": "input/text/guten/2701-0.txt"
+    },
+    {
+      "count": 5121,
+      "score": 0.02733124,
+      "where": "input/text/guten/1400-0.txt"
+    },
+    {
+      "count": 2742,
+      "score": 0.02553168,
+      "where": "input/text/guten/pg1661.txt"
+    }
+  ],
+  "pa pe pi po pu": [
+    {
+      "count": 404,
+      "score": 0.02419741,
+      "where": "input/text/guten/pg37134.txt"
+    },
+    {
+      "count": 1416,
+      "score": 0.02225365,
+      "where": "input/text/guten/pg22577.txt"
+    },
+    {
+      "count": 241,
+      "score": 0.02197101,
+      "where": "input/text/guten/50468-0.txt"
+    },
+    {
+      "count": 2525,
+      "score": 0.02030232,
+      "where": "input/text/guten/pg1322.txt"
+    },
+    {
+      "count": 4009,
+      "score": 0.01861206,
+      "where": "input/text/guten/2701-0.txt"
+    },
+    {
+      "count": 3475,
+      "score": 0.01854639,
+      "where": "input/text/guten/1400-0.txt"
+    },
+    {
+      "count": 1742,
+      "score": 0.01622034,
+      "where": "input/text/guten/pg1661.txt"
+    }
+  ],
+  "q": [
+    {
+      "count": 713,
+      "score": 0.00331015,
+      "where": "input/text/guten/2701-0.txt"
+    },
+    {
+      "count": 280,
+      "score": 0.00260717,
+      "where": "input/text/guten/pg1661.txt"
+    },
+    {
+      "count": 454,
+      "score": 0.00242304,
+      "where": "input/text/guten/1400-0.txt"
+    },
+    {
+      "count": 36,
+      "score": 0.00215621,
+      "where": "input/text/guten/pg37134.txt"
+    },
+    {
+      "count": 103,
+      "score": 0.00161873,
+      "where": "input/text/guten/pg22577.txt"
+    },
+    {
+      "count": 16,
+      "score": 0.00145866,
+      "where": "input/text/guten/50468-0.txt"
+    },
+    {
+      "count": 133,
+      "score": 0.00106939,
+      "where": "input/text/guten/pg1322.txt"
+    }
+  ],
+  "qa qe qi qo qu": [
+    {
+      "count": 713,
+      "score": 0.00331015,
+      "where": "input/text/guten/2701-0.txt"
+    },
+    {
+      "count": 280,
+      "score": 0.00260717,
+      "where": "input/text/guten/pg1661.txt"
+    },
+    {
+      "count": 454,
+      "score": 0.00242304,
+      "where": "input/text/guten/1400-0.txt"
+    },
+    {
+      "count": 36,
+      "score": 0.00215621,
+      "where": "input/text/guten/pg37134.txt"
+    },
+    {
+      "count": 103,
+      "score": 0.00161873,
+      "where": "input/text/guten/pg22577.txt"
+    },
+    {
+      "count": 15,
+      "score": 0.00136749,
+      "where": "input/text/guten/50468-0.txt"
+    },
+    {
+      "count": 133,
+      "score": 0.00106939,
+      "where": "input/text/guten/pg1322.txt"
+    }
+  ],
+  "r": [
+    {
+      "count": 334,
+      "score": 0.03044945,
+      "where": "input/text/guten/50468-0.txt"
+    },
+    {
+      "count": 466,
+      "score": 0.02791088,
+      "where": "input/text/guten/pg37134.txt"
+    },
+    {
+      "count": 1410,
+      "score": 0.02215936,
+      "where": "input/text/guten/pg22577.txt"
+    },
+    {
+      "count": 2698,
+      "score": 0.02169333,
+      "where": "input/text/guten/pg1322.txt"
+    },
+    {
+      "count": 2120,
+      "score": 0.01974003,
+      "where": "input/text/guten/pg1661.txt"
+    },
+    {
+      "count": 3486,
+      "score": 0.01860510,
+      "where": "input/text/guten/1400-0.txt"
+    },
+    {
+      "count": 3903,
+      "score": 0.01811995,
+      "where": "input/text/guten/2701-0.txt"
+    }
+  ],
+  "ra re ri ro ru": [
+    {
+      "count": 315,
+      "score": 0.02871729,
+      "where": "input/text/guten/50468-0.txt"
+    },
+    {
+      "count": 459,
+      "score": 0.02749161,
+      "where": "input/text/guten/pg37134.txt"
+    },
+    {
+      "count": 1394,
+      "score": 0.02190791,
+      "where": "input/text/guten/pg22577.txt"
+    },
+    {
+      "count": 2668,
+      "score": 0.02145212,
+      "where": "input/text/guten/pg1322.txt"
+    },
+    {
+      "count": 2103,
+      "score": 0.01958173,
+      "where": "input/text/guten/pg1661.txt"
+    },
+    {
+      "count": 3482,
+      "score": 0.01858375,
+      "where": "input/text/guten/1400-0.txt"
+    },
+    {
+      "count": 3894,
+      "score": 0.01807816,
+      "where": "input/text/guten/2701-0.txt"
+    }
+  ],
+  "s": [
+    {
+      "count": 18164,
+      "score": 0.08432762,
+      "where": "input/text/guten/2701-0.txt"
+    },
+    {
+      "count": 9763,
+      "score": 0.07849964,
+      "where": "input/text/guten/pg1322.txt"
+    },
+    {
+      "count": 4684,
+      "score": 0.07361308,
+      "where": "input/text/guten/pg22577.txt"
+    },
+    {
+      "count": 7704,
+      "score": 0.07173452,
+      "where": "input/text/guten/pg1661.txt"
+    },
+    {
+      "count": 12896,
+      "score": 0.06882712,
+      "where": "input/text/guten/1400-0.txt"
+    },
+    {
+      "count": 1109,
+      "score": 0.06642310,
+      "where": "input/text/guten/pg37134.txt"
+    },
+    {
+      "count": 562,
+      "score": 0.05123530,
+      "where": "input/text/guten/50468-0.txt"
+    }
+  ],
+  "sa se si so su": [
+    {
+      "count": 2943,
+      "score": 0.04625177,
+      "where": "input/text/guten/pg22577.txt"
+    },
+    {
+      "count": 9879,
+      "score": 0.04586394,
+      "where": "input/text/guten/2701-0.txt"
+    },
+    {
+      "count": 5185,
+      "score": 0.04169012,
+      "where": "input/text/guten/pg1322.txt"
+    },
+    {
+      "count": 694,
+      "score": 0.04156684,
+      "where": "input/text/guten/pg37134.txt"
+    },
+    {
+      "count": 7650,
+      "score": 0.04082874,
+      "where": "input/text/guten/1400-0.txt"
+    },
+    {
+      "count": 4303,
+      "score": 0.04006667,
+      "where": "input/text/guten/pg1661.txt"
+    },
+    {
+      "count": 237,
+      "score": 0.02160635,
+      "where": "input/text/guten/50468-0.txt"
+    }
+  ],
+  "t": [
+    {
+      "count": 35651,
+      "score": 0.16551221,
+      "where": "input/text/guten/2701-0.txt"
+    },
+    {
+      "count": 20573,
+      "score": 0.16541771,
+      "where": "input/text/guten/pg1322.txt"
+    },
+    {
+      "count": 2533,
+      "score": 0.15171299,
+      "where": "input/text/guten/pg37134.txt"
+    },
+    {
+      "count": 9460,
+      "score": 0.14867201,
+      "where": "input/text/guten/pg22577.txt"
+    },
+    {
+      "count": 15395,
+      "score": 0.14334798,
+      "where": "input/text/guten/pg1661.txt"
+    },
+    {
+      "count": 25522,
+      "score": 0.13621323,
+      "where": "input/text/guten/1400-0.txt"
+    },
+    {
+      "count": 1439,
+      "score": 0.13118789,
+      "where": "input/text/guten/50468-0.txt"
+    }
+  ],
+  "ta te ti to tu": [
+    {
+      "count": 8330,
+      "score": 0.04445797,
+      "where": "input/text/guten/1400-0.txt"
+    },
+    {
+      "count": 2552,
+      "score": 0.04010687,
+      "where": "input/text/guten/pg22577.txt"
+    },
+    {
+      "count": 4159,
+      "score": 0.03872584,
+      "where": "input/text/guten/pg1661.txt"
+    },
+    {
+      "count": 8224,
+      "score": 0.03818048,
+      "where": "input/text/guten/2701-0.txt"
+    },
+    {
+      "count": 617,
+      "score": 0.03695496,
+      "where": "input/text/guten/pg37134.txt"
+    },
+    {
+      "count": 4097,
+      "score": 0.03294203,
+      "where": "input/text/guten/pg1322.txt"
+    },
+    {
+      "count": 291,
+      "score": 0.02652931,
+      "where": "input/text/guten/50468-0.txt"
+    }
+  ],
+  "u": [
+    {
+      "count": 208,
+      "score": 0.01896253,
+      "where": "input/text/guten/50468-0.txt"
+    },
+    {
+      "count": 1196,
+      "score": 0.01879617,
+      "where": "input/text/guten/pg22577.txt"
+    },
+    {
+      "count": 307,
+      "score": 0.01838764,
+      "where": "input/text/guten/pg37134.txt"
+    },
+    {
+      "count": 1545,
+      "score": 0.01438601,
+      "where": "input/text/guten/pg1661.txt"
+    },
+    {
+      "count": 2717,
+      "score": 0.01261386,
+      "where": "input/text/guten/2701-0.txt"
+    },
+    {
+      "count": 2337,
+      "score": 0.01247278,
+      "where": "input/text/guten/1400-0.txt"
+    },
+    {
+      "count": 1378,
+      "score": 0.01107984,
+      "where": "input/text/guten/pg1322.txt"
+    }
+  ],
+  "ua ue ui uo uu": [
+  ],
+  "v": [
+    {
+      "count": 639,
+      "score": 0.01004243,
+      "where": "input/text/guten/pg22577.txt"
+    },
+    {
+      "count": 98,
+      "score": 0.00893427,
+      "where": "input/text/guten/50468-0.txt"
+    },
+    {
+      "count": 149,
+      "score": 0.00892429,
+      "where": "input/text/guten/pg37134.txt"
+    },
+    {
+      "count": 1592,
+      "score": 0.00739097,
+      "where": "input/text/guten/2701-0.txt"
+    },
+    {
+      "count": 785,
+      "score": 0.00730940,
+      "where": "input/text/guten/pg1661.txt"
+    },
+    {
+      "count": 791,
+      "score": 0.00636005,
+      "where": "input/text/guten/pg1322.txt"
+    },
+    {
+      "count": 832,
+      "score": 0.00444046,
+      "where": "input/text/guten/1400-0.txt"
+    }
+  ],
+  "va ve vi vo vu": [
+    {
+      "count": 636,
+      "score": 0.00999529,
+      "where": "input/text/guten/pg22577.txt"
+    },
+    {
+      "count": 143,
+      "score": 0.00856493,
+      "where": "input/text/guten/pg37134.txt"
+    },
+    {
+      "count": 83,
+      "score": 0.00756678,
+      "where": "input/text/guten/50468-0.txt"
+    },
+    {
+      "count": 1586,
+      "score": 0.00736311,
+      "where": "input/text/guten/2701-0.txt"
+    },
+    {
+      "count": 783,
+      "score": 0.00729077,
+      "where": "input/text/guten/pg1661.txt"
+    },
+    {
+      "count": 789,
+      "score": 0.00634397,
+      "where": "input/text/guten/pg1322.txt"
+    },
+    {
+      "count": 831,
+      "score": 0.00443512,
+      "where": "input/text/guten/1400-0.txt"
+    }
+  ],
+  "w": [
+    {
+      "count": 14572,
+      "score": 0.07777208,
+      "where": "input/text/guten/1400-0.txt"
+    },
+    {
+      "count": 8260,
+      "score": 0.07691162,
+      "where": "input/text/guten/pg1661.txt"
+    },
+    {
+      "count": 14748,
+      "score": 0.06846860,
+      "where": "input/text/guten/2701-0.txt"
+    },
+    {
+      "count": 4175,
+      "score": 0.06561370,
+      "where": "input/text/guten/pg22577.txt"
+    },
+    {
+      "count": 971,
+      "score": 0.05815764,
+      "where": "input/text/guten/pg37134.txt"
+    },
+    {
+      "count": 7205,
+      "score": 0.05793198,
+      "where": "input/text/guten/pg1322.txt"
+    },
+    {
+      "count": 461,
+      "score": 0.04202753,
+      "where": "input/text/guten/50468-0.txt"
+    }
+  ],
+  "wa we wi wo wu": [
+    {
+      "count": 10943,
+      "score": 0.05840378,
+      "where": "input/text/guten/1400-0.txt"
+    },
+    {
+      "count": 5798,
+      "score": 0.05398711,
+      "where": "input/text/guten/pg1661.txt"
+    },
+    {
+      "count": 2825,
+      "score": 0.04439730,
+      "where": "input/text/guten/pg22577.txt"
+    },
+    {
+      "count": 5321,
+      "score": 0.04278363,
+      "where": "input/text/guten/pg1322.txt"
+    },
+    {
+      "count": 8994,
+      "score": 0.04175526,
+      "where": "input/text/guten/2701-0.txt"
+    },
+    {
+      "count": 665,
+      "score": 0.03982990,
+      "where": "input/text/guten/pg37134.txt"
+    },
+    {
+      "count": 319,
+      "score": 0.02908196,
+      "where": "input/text/guten/50468-0.txt"
+    }
+  ],
+  "x": [
+    {
+      "count": 13,
+      "score": 0.00118516,
+      "where": "input/text/guten/50468-0.txt"
+    },
+    {
+      "count": 21,
+      "score": 0.00033003,
+      "where": "input/text/guten/pg22577.txt"
+    },
+    {
+      "count": 42,
+      "score": 0.00022416,
+      "where": "input/text/guten/1400-0.txt"
+    },
+    {
+      "count": 25,
+      "score": 0.00020101,
+      "where": "input/text/guten/pg1322.txt"
+    },
+    {
+      "count": 1,
+      "score": 0.00005989,
+      "where": "input/text/guten/pg37134.txt"
+    },
+    {
+      "count": 6,
+      "score": 0.00005587,
+      "where": "input/text/guten/pg1661.txt"
+    },
+    {
+      "count": 5,
+      "score": 0.00002321,
+      "where": "input/text/guten/2701-0.txt"
+    }
+  ],
+  "xa xe xi xo xu": [
+    {
+      "count": 5,
+      "score": 0.00007858,
+      "where": "input/text/guten/pg22577.txt"
+    },
+    {
+      "count": 1,
+      "score": 0.00005989,
+      "where": "input/text/guten/pg37134.txt"
+    },
+    {
+      "count": 5,
+      "score": 0.00004020,
+      "where": "input/text/guten/pg1322.txt"
+    },
+    {
+      "count": 4,
+      "score": 0.00003725,
+      "where": "input/text/guten/pg1661.txt"
+    },
+    {
+      "count": 5,
+      "score": 0.00002669,
+      "where": "input/text/guten/1400-0.txt"
+    },
+    {
+      "count": 2,
+      "score": 0.00000929,
+      "where": "input/text/guten/2701-0.txt"
+    }
+  ],
+  "y": [
+    {
+      "count": 2489,
+      "score": 0.02317591,
+      "where": "input/text/guten/pg1661.txt"
+    },
+    {
+      "count": 2741,
+      "score": 0.02203908,
+      "where": "input/text/guten/pg1322.txt"
+    },
+    {
+      "count": 3490,
+      "score": 0.01862645,
+      "where": "input/text/guten/1400-0.txt"
+    },
+    {
+      "count": 812,
+      "score": 0.01276128,
+      "where": "input/text/guten/pg22577.txt"
+    },
+    {
+      "count": 2523,
+      "score": 0.01171320,
+      "where": "input/text/guten/2701-0.txt"
+    },
+    {
+      "count": 98,
+      "score": 0.00893427,
+      "where": "input/text/guten/50468-0.txt"
+    },
+    {
+      "count": 145,
+      "score": 0.00868471,
+      "where": "input/text/guten/pg37134.txt"
+    }
+  ],
+  "ya ye yi yo yu": [
+    {
+      "count": 2489,
+      "score": 0.02317591,
+      "where": "input/text/guten/pg1661.txt"
+    },
+    {
+      "count": 2741,
+      "score": 0.02203908,
+      "where": "input/text/guten/pg1322.txt"
+    },
+    {
+      "count": 3490,
+      "score": 0.01862645,
+      "where": "input/text/guten/1400-0.txt"
+    },
+    {
+      "count": 799,
+      "score": 0.01255697,
+      "where": "input/text/guten/pg22577.txt"
+    },
+    {
+      "count": 2523,
+      "score": 0.01171320,
+      "where": "input/text/guten/2701-0.txt"
+    },
+    {
+      "count": 144,
+      "score": 0.00862482,
+      "where": "input/text/guten/pg37134.txt"
+    },
+    {
+      "count": 91,
+      "score": 0.00829611,
+      "where": "input/text/guten/50468-0.txt"
+    }
+  ],
+  "z": [
+    {
+      "count": 12,
+      "score": 0.00109399,
+      "where": "input/text/guten/50468-0.txt"
+    },
+    {
+      "count": 13,
+      "score": 0.00020431,
+      "where": "input/text/guten/pg22577.txt"
+    },
+    {
+      "count": 34,
+      "score": 0.00015785,
+      "where": "input/text/guten/2701-0.txt"
+    },
+    {
+      "count": 10,
+      "score": 0.00008041,
+      "where": "input/text/guten/pg1322.txt"
+    },
+    {
+      "count": 1,
+      "score": 0.00005989,
+      "where": "input/text/guten/pg37134.txt"
+    },
+    {
+      "count": 6,
+      "score": 0.00005587,
+      "where": "input/text/guten/pg1661.txt"
+    },
+    {
+      "count": 7,
+      "score": 0.00003736,
+      "where": "input/text/guten/1400-0.txt"
+    }
+  ],
+  "za ze zi zo zu": [
+    {
+      "count": 9,
+      "score": 0.00082049,
+      "where": "input/text/guten/50468-0.txt"
+    },
+    {
+      "count": 11,
+      "score": 0.00017287,
+      "where": "input/text/guten/pg22577.txt"
+    },
+    {
+      "count": 34,
+      "score": 0.00015785,
+      "where": "input/text/guten/2701-0.txt"
+    },
+    {
+      "count": 10,
+      "score": 0.00008041,
+      "where": "input/text/guten/pg1322.txt"
+    },
+    {
+      "count": 1,
+      "score": 0.00005989,
+      "where": "input/text/guten/pg37134.txt"
+    },
+    {
+      "count": 6,
+      "score": 0.00005587,
+      "where": "input/text/guten/pg1661.txt"
+    },
+    {
+      "count": 6,
+      "score": 0.00003202,
+      "where": "input/text/guten/1400-0.txt"
+    }
+  ]
+}

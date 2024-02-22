@@ -1,0 +1,554 @@
+{
+  "a": [
+    {
+      "count": 21841,
+      "score": 0.11656740,
+      "where": "input/text/guten/1400-0.txt"
+    }
+  ],
+  "a e i o u": [
+    {
+      "count": 54401,
+      "score": 0.29034307,
+      "where": "input/text/guten/1400-0.txt"
+    }
+  ],
+  "a j m q": [
+    {
+      "count": 34308,
+      "score": 0.18310491,
+      "where": "input/text/guten/1400-0.txt"
+    }
+  ],
+  "aa ae ai ao au": [
+    {
+      "count": 213,
+      "score": 0.00113680,
+      "where": "input/text/guten/1400-0.txt"
+    }
+  ],
+  "aa bl br ch cl cr dr fl fr gn kn ph pl pr rh sh sq st th tw wh": [
+    {
+      "count": 30861,
+      "score": 0.16470795,
+      "where": "input/text/guten/1400-0.txt"
+    }
+  ],
+  "ab ac at az ec ex fa iw je me od op qu ug uy": [
+    {
+      "count": 7437,
+      "score": 0.03969194,
+      "where": "input/text/guten/1400-0.txt"
+    }
+  ],
+  "abcdefghijklmnopqrstuvwxyz": [
+  ],
+  "ad ap as de eb em gu il is og os qe to uc ux ye": [
+    {
+      "count": 11769,
+      "score": 0.06281222,
+      "where": "input/text/guten/1400-0.txt"
+    }
+  ],
+  "af ax ca ed el iq iz ov so ta tu ud uj": [
+    {
+      "count": 5011,
+      "score": 0.02674416,
+      "where": "input/text/guten/1400-0.txt"
+    }
+  ],
+  "ag do eh ek eq er ev fi im ju nu oq pi ra te we za zi": [
+    {
+      "count": 8582,
+      "score": 0.04580291,
+      "where": "input/text/guten/1400-0.txt"
+    }
+  ],
+  "ah da di du es go hi ir oj qa ul us uw yi": [
+    {
+      "count": 7349,
+      "score": 0.03922228,
+      "where": "input/text/guten/1400-0.txt"
+    }
+  ],
+  "aj fe id ih ij ke la su up uq ya": [
+    {
+      "count": 3770,
+      "score": 0.02012083,
+      "where": "input/text/guten/1400-0.txt"
+    }
+  ],
+  "ak ef ep he ji ka li oz pu qi qo ri ro sa un ve xa": [
+    {
+      "count": 12047,
+      "score": 0.06429593,
+      "where": "input/text/guten/1400-0.txt"
+    }
+  ],
+  "al an be ho ut va wa": [
+    {
+      "count": 18600,
+      "score": 0.09926989,
+      "where": "input/text/guten/1400-0.txt"
+    }
+  ],
+  "am ay ba bu eg ey fu ik lo ma mo po se uf uk um vu wo zu": [
+    {
+      "count": 10993,
+      "score": 0.05867064,
+      "where": "input/text/guten/1400-0.txt"
+    }
+  ],
+  "aq ki le ob uz": [
+    {
+      "count": 1167,
+      "score": 0.00622838,
+      "where": "input/text/guten/1400-0.txt"
+    }
+  ],
+  "ar bo ga gi ha if ig in it lu no ok or ow ti ub uv wi xi yo": [
+    {
+      "count": 25545,
+      "score": 0.13633598,
+      "where": "input/text/guten/1400-0.txt"
+    }
+  ],
+  "av aw ce ip ix ne ni si": [
+    {
+      "count": 2401,
+      "score": 0.01281435,
+      "where": "input/text/guten/1400-0.txt"
+    }
+  ],
+  "b": [
+    {
+      "count": 8714,
+      "score": 0.04650741,
+      "where": "input/text/guten/1400-0.txt"
+    }
+  ],
+  "b k": [
+    {
+      "count": 9944,
+      "score": 0.05307203,
+      "where": "input/text/guten/1400-0.txt"
+    }
+  ],
+  "ba be bi bo bu": [
+    {
+      "count": 6828,
+      "score": 0.03644165,
+      "where": "input/text/guten/1400-0.txt"
+    }
+  ],
+  "bi cu et ge ib ol om ot ru vo yu zo": [
+    {
+      "count": 1851,
+      "score": 0.00987895,
+      "where": "input/text/guten/1400-0.txt"
+    }
+  ],
+  "c": [
+    {
+      "count": 6394,
+      "score": 0.03412536,
+      "where": "input/text/guten/1400-0.txt"
+    }
+  ],
+  "c i l n x y": [
+    {
+      "count": 34733,
+      "score": 0.18537317,
+      "where": "input/text/guten/1400-0.txt"
+    }
+  ],
+  "ca ce ci co cu": [
+    {
+      "count": 4757,
+      "score": 0.02538854,
+      "where": "input/text/guten/1400-0.txt"
+    }
+  ],
+  "ci ew hu ic mi mu na on pe xe": [
+    {
+      "count": 5235,
+      "score": 0.02793967,
+      "where": "input/text/guten/1400-0.txt"
+    }
+  ],
+  "co ej fo iv ja oc uh vi wu": [
+    {
+      "count": 6088,
+      "score": 0.03249221,
+      "where": "input/text/guten/1400-0.txt"
+    }
+  ],
+  "d": [
+    {
+      "count": 5322,
+      "score": 0.02840400,
+      "where": "input/text/guten/1400-0.txt"
+    }
+  ],
+  "d e f r t u": [
+    {
+      "count": 45620,
+      "score": 0.24347808,
+      "where": "input/text/guten/1400-0.txt"
+    }
+  ],
+  "da de di do du": [
+    {
+      "count": 4716,
+      "score": 0.02516972,
+      "where": "input/text/guten/1400-0.txt"
+    }
+  ],
+  "e": [
+    {
+      "count": 3144,
+      "score": 0.01677981,
+      "where": "input/text/guten/1400-0.txt"
+    }
+  ],
+  "ea ee ei eo eu": [
+    {
+      "count": 336,
+      "score": 0.00179326,
+      "where": "input/text/guten/1400-0.txt"
+    }
+  ],
+  "en iy of": [
+    {
+      "count": 5334,
+      "score": 0.02846804,
+      "where": "input/text/guten/1400-0.txt"
+    }
+  ],
+  "ez jo pa ze": [
+    {
+      "count": 1751,
+      "score": 0.00934525,
+      "where": "input/text/guten/1400-0.txt"
+    }
+  ],
+  "f": [
+    {
+      "count": 5809,
+      "score": 0.03100316,
+      "where": "input/text/guten/1400-0.txt"
+    }
+  ],
+  "fa fe fi fo fu": [
+    {
+      "count": 4680,
+      "score": 0.02497758,
+      "where": "input/text/guten/1400-0.txt"
+    }
+  ],
+  "g": [
+    {
+      "count": 3514,
+      "score": 0.01875454,
+      "where": "input/text/guten/1400-0.txt"
+    }
+  ],
+  "g h p w z": [
+    {
+      "count": 38019,
+      "score": 0.20291085,
+      "where": "input/text/guten/1400-0.txt"
+    }
+  ],
+  "ga ge gi go gu": [
+    {
+      "count": 2519,
+      "score": 0.01344413,
+      "where": "input/text/guten/1400-0.txt"
+    }
+  ],
+  "h": [
+    {
+      "count": 14805,
+      "score": 0.07901563,
+      "where": "input/text/guten/1400-0.txt"
+    }
+  ],
+  "ha he hi ho hu": [
+    {
+      "count": 14789,
+      "score": 0.07893023,
+      "where": "input/text/guten/1400-0.txt"
+    }
+  ],
+  "i": [
+    {
+      "count": 16063,
+      "score": 0.08572969,
+      "where": "input/text/guten/1400-0.txt"
+    }
+  ],
+  "ia ie ii io iu": [
+    {
+      "count": 3,
+      "score": 0.00001601,
+      "where": "input/text/guten/1400-0.txt"
+    }
+  ],
+  "j": [
+    {
+      "count": 1439,
+      "score": 0.00768007,
+      "where": "input/text/guten/1400-0.txt"
+    }
+  ],
+  "ja je ji jo ju": [
+    {
+      "count": 1428,
+      "score": 0.00762137,
+      "where": "input/text/guten/1400-0.txt"
+    }
+  ],
+  "k": [
+    {
+      "count": 1230,
+      "score": 0.00656462,
+      "where": "input/text/guten/1400-0.txt"
+    }
+  ],
+  "ka ke ki ko ku": [
+    {
+      "count": 416,
+      "score": 0.00222023,
+      "where": "input/text/guten/1400-0.txt"
+    }
+  ],
+  "ko ox": [
+    {
+      "count": 1,
+      "score": 0.00000534,
+      "where": "input/text/guten/1400-0.txt"
+    }
+  ],
+  "ku": [
+  ],
+  "l": [
+    {
+      "count": 4586,
+      "score": 0.02447590,
+      "where": "input/text/guten/1400-0.txt"
+    }
+  ],
+  "la le li lo lu": [
+    {
+      "count": 4578,
+      "score": 0.02443320,
+      "where": "input/text/guten/1400-0.txt"
+    }
+  ],
+  "m": [
+    {
+      "count": 10574,
+      "score": 0.05643440,
+      "where": "input/text/guten/1400-0.txt"
+    }
+  ],
+  "ma me mi mo mu": [
+    {
+      "count": 7379,
+      "score": 0.03938239,
+      "where": "input/text/guten/1400-0.txt"
+    }
+  ],
+  "n": [
+    {
+      "count": 4158,
+      "score": 0.02219162,
+      "where": "input/text/guten/1400-0.txt"
+    }
+  ],
+  "na ne ni no nu": [
+    {
+      "count": 4155,
+      "score": 0.02217561,
+      "where": "input/text/guten/1400-0.txt"
+    }
+  ],
+  "o": [
+    {
+      "count": 11016,
+      "score": 0.05879339,
+      "where": "input/text/guten/1400-0.txt"
+    }
+  ],
+  "o s v": [
+    {
+      "count": 24744,
+      "score": 0.13206097,
+      "where": "input/text/guten/1400-0.txt"
+    }
+  ],
+  "oa oe oi oo ou": [
+    {
+      "count": 1194,
+      "score": 0.00637249,
+      "where": "input/text/guten/1400-0.txt"
+    }
+  ],
+  "oh oy re ur xo xu": [
+    {
+      "count": 2064,
+      "score": 0.01101576,
+      "where": "input/text/guten/1400-0.txt"
+    }
+  ],
+  "p": [
+    {
+      "count": 5121,
+      "score": 0.02733124,
+      "where": "input/text/guten/1400-0.txt"
+    }
+  ],
+  "pa pe pi po pu": [
+    {
+      "count": 3475,
+      "score": 0.01854639,
+      "where": "input/text/guten/1400-0.txt"
+    }
+  ],
+  "q": [
+    {
+      "count": 454,
+      "score": 0.00242304,
+      "where": "input/text/guten/1400-0.txt"
+    }
+  ],
+  "qa qe qi qo qu": [
+    {
+      "count": 454,
+      "score": 0.00242304,
+      "where": "input/text/guten/1400-0.txt"
+    }
+  ],
+  "r": [
+    {
+      "count": 3486,
+      "score": 0.01860510,
+      "where": "input/text/guten/1400-0.txt"
+    }
+  ],
+  "ra re ri ro ru": [
+    {
+      "count": 3482,
+      "score": 0.01858375,
+      "where": "input/text/guten/1400-0.txt"
+    }
+  ],
+  "s": [
+    {
+      "count": 12896,
+      "score": 0.06882712,
+      "where": "input/text/guten/1400-0.txt"
+    }
+  ],
+  "sa se si so su": [
+    {
+      "count": 7650,
+      "score": 0.04082874,
+      "where": "input/text/guten/1400-0.txt"
+    }
+  ],
+  "t": [
+    {
+      "count": 25522,
+      "score": 0.13621323,
+      "where": "input/text/guten/1400-0.txt"
+    }
+  ],
+  "ta te ti to tu": [
+    {
+      "count": 8330,
+      "score": 0.04445797,
+      "where": "input/text/guten/1400-0.txt"
+    }
+  ],
+  "u": [
+    {
+      "count": 2337,
+      "score": 0.01247278,
+      "where": "input/text/guten/1400-0.txt"
+    }
+  ],
+  "ua ue ui uo uu": [
+  ],
+  "v": [
+    {
+      "count": 832,
+      "score": 0.00444046,
+      "where": "input/text/guten/1400-0.txt"
+    }
+  ],
+  "va ve vi vo vu": [
+    {
+      "count": 831,
+      "score": 0.00443512,
+      "where": "input/text/guten/1400-0.txt"
+    }
+  ],
+  "w": [
+    {
+      "count": 14572,
+      "score": 0.07777208,
+      "where": "input/text/guten/1400-0.txt"
+    }
+  ],
+  "wa we wi wo wu": [
+    {
+      "count": 10943,
+      "score": 0.05840378,
+      "where": "input/text/guten/1400-0.txt"
+    }
+  ],
+  "x": [
+    {
+      "count": 42,
+      "score": 0.00022416,
+      "where": "input/text/guten/1400-0.txt"
+    }
+  ],
+  "xa xe xi xo xu": [
+    {
+      "count": 5,
+      "score": 0.00002669,
+      "where": "input/text/guten/1400-0.txt"
+    }
+  ],
+  "y": [
+    {
+      "count": 3490,
+      "score": 0.01862645,
+      "where": "input/text/guten/1400-0.txt"
+    }
+  ],
+  "ya ye yi yo yu": [
+    {
+      "count": 3490,
+      "score": 0.01862645,
+      "where": "input/text/guten/1400-0.txt"
+    }
+  ],
+  "z": [
+    {
+      "count": 7,
+      "score": 0.00003736,
+      "where": "input/text/guten/1400-0.txt"
+    }
+  ],
+  "za ze zi zo zu": [
+    {
+      "count": 6,
+      "score": 0.00003202,
+      "where": "input/text/guten/1400-0.txt"
+    }
+  ]
+}
