@@ -58,10 +58,11 @@ public class SearchExactTests extends ProjectTests {
 
 	/**
 	 * Tests the output of this project.
+	 *
+	 * Note: Cannot tag at class level or it will inherit the partial tests as well.
 	 */
 	@Nested
 	@Order(1)
-	@Tag("test-v2.0")
 	@TestMethodOrder(OrderAnnotation.class)
 	public class InitialTests {
 		/**
@@ -69,6 +70,7 @@ public class SearchExactTests extends ProjectTests {
 		 */
 		@Test
 		@Order(1)
+		@Tag("test-v2.0")
 		public void testSimpleSimple() {
 			testOutput(partial, "simple", ProjectPath.SIMPLE);
 		}
@@ -78,6 +80,7 @@ public class SearchExactTests extends ProjectTests {
 		 */
 		@Test
 		@Order(2)
+		@Tag("test-v2.0")
 		public void testStemsWords() {
 			testOutput(partial, "words", ProjectPath.STEMS);
 		}
@@ -87,6 +90,7 @@ public class SearchExactTests extends ProjectTests {
 		 */
 		@Test
 		@Order(3)
+		@Tag("test-v2.0")
 		public void testStemsRespect() {
 			testOutput(partial, "respect", ProjectPath.STEMS);
 		}
@@ -96,6 +100,7 @@ public class SearchExactTests extends ProjectTests {
 		 */
 		@Test
 		@Order(4)
+		@Tag("test-v2.0")
 		public void testStemsLetters() {
 			testOutput(partial, "letters", ProjectPath.STEMS);
 		}
@@ -105,6 +110,7 @@ public class SearchExactTests extends ProjectTests {
 		 */
 		@Test
 		@Order(5)
+		@Tag("test-v2.0")
 		public void testRfcsLetters() {
 			testOutput(partial, "letters", ProjectPath.RFCS);
 		}
@@ -115,7 +121,6 @@ public class SearchExactTests extends ProjectTests {
 	 */
 	@Nested
 	@Order(2)
-	@Tag("test-v2.0")
 	@TestMethodOrder(OrderAnnotation.class)
 	public class ComplexTests {
 		/**
@@ -125,6 +130,7 @@ public class SearchExactTests extends ProjectTests {
 		 */
 		@ParameterizedTest
 		@Order(1)
+		@Tag("test-v2.0")
 		@EnumSource(mode = MATCH_ALL, names = "^GUTEN_.+")
 		public void testGutenFiles(ProjectPath path) {
 			testOutput(partial, "complex", path);
@@ -135,6 +141,7 @@ public class SearchExactTests extends ProjectTests {
 		 */
 		@Test
 		@Order(2)
+		@Tag("test-v2.0")
 		public void testGutenComplex() {
 			testOutput(partial, "complex", ProjectPath.GUTEN);
 		}
@@ -144,6 +151,7 @@ public class SearchExactTests extends ProjectTests {
 		 */
 		@Test
 		@Order(3)
+		@Tag("test-v2.0")
 		public void testTextWords() {
 			testOutput(partial, "words", ProjectPath.TEXT);
 		}
@@ -153,6 +161,7 @@ public class SearchExactTests extends ProjectTests {
 		 */
 		@Test
 		@Order(4)
+		@Tag("test-v2.0")
 		@Tag("test-v2.1")
 		@Tag("test-v2.2")
 		@Tag("test-v2.3")
@@ -180,7 +189,6 @@ public class SearchExactTests extends ProjectTests {
 	 */
 	@Nested
 	@Order(3)
-	@Tag("test-v2.0")
 	@Tag("test-v2.1")
 	@Tag("test-v2.2")
 	@Tag("test-v2.3")
@@ -197,6 +205,7 @@ public class SearchExactTests extends ProjectTests {
 		 */
 		@Test
 		@Order(1)
+		@Tag("test-v2.0")
 		public void testMissingQueryPath() throws Exception {
 			String[] args = { TEXT.flag, HELLO.text, QUERY.flag, searchFlag };
 			testNoExceptions(args, SHORT_TIMEOUT);
@@ -209,6 +218,7 @@ public class SearchExactTests extends ProjectTests {
 		 */
 		@Test
 		@Order(2)
+		@Tag("test-v2.0")
 		public void testInvalidQueryPath() throws Exception {
 			String query = Long.toHexString(Double.doubleToLongBits(Math.random()));
 			String[] args = { TEXT.flag, HELLO.text, QUERY.flag, query, searchFlag };
@@ -222,6 +232,7 @@ public class SearchExactTests extends ProjectTests {
 		 */
 		@Test
 		@Order(3)
+		@Tag("test-v2.0")
 		public void testNoOutput() throws Exception {
 			String[] args = { TEXT.flag, HELLO.text, QUERY.flag, QUERY_SIMPLE.text, searchFlag };
 
@@ -244,6 +255,7 @@ public class SearchExactTests extends ProjectTests {
 		 */
 		@Test
 		@Order(4)
+		@Tag("test-v2.0")
 		public void testDefaultResults() throws Exception {
 			String[] args = { TEXT.flag, HELLO.text, QUERY.flag, QUERY_SIMPLE.text, searchFlag, RESULTS.flag };
 
@@ -266,6 +278,7 @@ public class SearchExactTests extends ProjectTests {
 		 */
 		@Test
 		@Order(5)
+		@Tag("test-v2.0")
 		public void testNoText() throws Exception {
 			String[] args = { QUERY.flag, QUERY_SIMPLE.text, searchFlag, RESULTS.flag };
 
@@ -288,6 +301,7 @@ public class SearchExactTests extends ProjectTests {
 		 */
 		@Test
 		@Order(6)
+		@Tag("test-v2.0")
 		public void testOnlyResults() throws Exception {
 			String[] args = { searchFlag, RESULTS.flag };
 
@@ -310,6 +324,7 @@ public class SearchExactTests extends ProjectTests {
 		 */
 		@Test
 		@Order(7)
+		@Tag("test-v2.0")
 		public void testSwitched() throws Exception {
 			String[] args = { searchFlag, QUERY.flag, QUERY_SIMPLE.text, TEXT.flag, HELLO.text, RESULTS.flag };
 
