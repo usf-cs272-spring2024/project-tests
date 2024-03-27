@@ -16,6 +16,7 @@ import org.junit.platform.launcher.listeners.SummaryGeneratingListener;
 import edu.usfca.cs272.tests.BuildIndexTests;
 import edu.usfca.cs272.tests.SearchExactTests;
 import edu.usfca.cs272.tests.SearchPartialTests;
+import edu.usfca.cs272.tests.ThreadBuildTests;
 
 /**
  * Tests that next project code is not in the current project. This class should
@@ -68,15 +69,24 @@ public class ProjectNextTests {
 	/**
 	 * Tests that next project functionality is not present.
 	 *
-	 * @throws Exception if an error occurs
+	 * @throws IOException if an IO error occurs
 	 */
 	@Test
-	@Tag("past-v1")
-	@Tag("next-v2.0")
 	@Tag("next-v2.1")
 	@Tag("next-v2.2")
 	@Tag("next-v2.3")
 	@Tag("next-v2.4")
+	public void testThreadIndexOutput() throws IOException {
+		runJUnitTest(ThreadBuildTests.ApproachTests.class, "testIndex");
+	}
+
+	/**
+	 * Tests that next project functionality is not present.
+	 *
+	 * @throws Exception if an error occurs
+	 */
+	@Test
+	@Tag("past-v1")
 	@Tag("next-v3.0")
 	@Tag("next-v3.1")
 	@Tag("next-v3.2")
