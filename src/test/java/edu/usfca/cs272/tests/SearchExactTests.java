@@ -189,6 +189,7 @@ public class SearchExactTests extends ProjectTests {
 	 */
 	@Nested
 	@Order(3)
+	@Tag("test-v2.0")
 	@Tag("test-v2.1")
 	@Tag("test-v2.2")
 	@Tag("test-v2.3")
