@@ -116,11 +116,6 @@ public class ProjectNextTests {
 	 * Makes sure tests fail for future projects that are not yet supported.
 	 */
 	@Test
-	@Tag("test-v3.0")
-	@Tag("test-v3.1")
-	@Tag("test-v3.2")
-	@Tag("test-v3.3")
-	@Tag("test-v3.4")
 	@Tag("test-v4.1")
 	@Tag("test-v4.x")
 	@Tag("test-v5.0")
