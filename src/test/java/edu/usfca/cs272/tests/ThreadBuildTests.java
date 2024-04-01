@@ -346,11 +346,11 @@ public class ThreadBuildTests extends ProjectTests {
 	@Nested
 	@Order(2)
 	@TestMethodOrder(OrderAnnotation.class)
-	@Tag("test-v3.0")
-	@Tag("test-v3.1")
-	@Tag("test-v3.2")
-	@Tag("test-v3.3")
-	@Tag("test-v3.4")
+	@Tag("time-v3.0")
+	@Tag("time-v3.1")
+	@Tag("time-v3.2")
+	@Tag("time-v3.3")
+	@Tag("time-v3.4")
 	public class ThreadTests {
 		/** The target speedup to pass these tests. */
 		public double target;
