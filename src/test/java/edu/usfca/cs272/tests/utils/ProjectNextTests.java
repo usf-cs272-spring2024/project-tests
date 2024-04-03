@@ -86,6 +86,7 @@ public class ProjectNextTests {
 	 * @throws Exception if an error occurs
 	 */
 	@Test
+	@Tag("past-v1")
 	@Tag("time-v1.0")
 	@Tag("time-v1.1")
 	@Tag("time-v1.2")
@@ -96,7 +97,6 @@ public class ProjectNextTests {
 	@Tag("time-v2.2")
 	@Tag("time-v2.3")
 	@Tag("time-v2.4")
-	@Tag("past-v1")
 	@Tag("next-v3.0")
 	@Tag("next-v3.1")
 	@Tag("next-v3.2")
