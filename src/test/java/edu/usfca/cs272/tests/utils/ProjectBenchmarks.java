@@ -10,6 +10,7 @@ import java.io.StringWriter;
 import java.nio.file.Files;
 import java.time.Duration;
 import java.time.Instant;
+import java.util.Map;
 
 import org.apache.logging.log4j.Level;
 import org.apache.logging.log4j.LogManager;
@@ -25,23 +26,27 @@ import edu.usfca.cs272.tests.ThreadBuildTests;
  * @version Spring 2024
  */
 public class ProjectBenchmarks extends ProjectTests {
+	/** The system environment. */
+	public static final Map<String, String> ENV = System.getenv();
+
+	/** Indicates whether running on GitHub Actions. */
+	public static final boolean GITHUB = Boolean.parseBoolean(ENV.get("CI"))
+			&& Boolean.parseBoolean(ENV.get("GITHUB_ACTIONS"));
+
 	/** Speedup required for slow tests. */
 	public static final double MIN_SPEEDUP = 1.1;
 
 	/** The number of warmup runs when benchmarking. */
-	public static final int WARM_RUNS = 0;
+	public static final int WARMUP_ROUNDS = GITHUB ? 1 : 5;
 
-	/** The number of timed runs when benchmarking. */
-	public static final int TIME_RUNS = 5;
+	/** The number of rounds to use when benchmarking. */
+	public static final int TIMED_ROUNDS = GITHUB ? 5 : 10;
 
-	/**
-	 * The default number of threads to use when benchmarking single versus
-	 * multithreading.
-	 */
-	public static final ThreadBuildTests.Threads BENCH_MULTI = ThreadBuildTests.Threads.TWO;
+	/** The default number of threads to use when benchmarking single versus multithreading. */
+	public static final ThreadBuildTests.Threads BENCH_MULTI = ThreadBuildTests.Threads.THREE;
 
 	/** The default number of threads to use when benchmarking workers. */
-	public static final ThreadBuildTests.Threads BENCH_WORKERS = ThreadBuildTests.Threads.TWO;
+	public static final ThreadBuildTests.Threads BENCH_WORKERS = ThreadBuildTests.Threads.THREE;
 
 	/** Format string used for debug output. */
 	public static final String format = "%d workers has a %.2fx speedup (less than the %.1fx required) compared to %s.";
@@ -60,7 +65,7 @@ public class ProjectBenchmarks extends ProjectTests {
 	 */
 	public static double compare(String file, String label1, String[] args1, String label2, String[] args2)
 			throws IOException {
-		return compare(file, label1, args1, label2, args2, WARM_RUNS, TIME_RUNS);
+		return compare(file, label1, args1, label2, args2, WARMUP_ROUNDS, TIMED_ROUNDS);
 	}
 
 	/**
