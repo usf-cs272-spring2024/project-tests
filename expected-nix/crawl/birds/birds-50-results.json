@@ -1,0 +1,2004 @@
+{
+  "a": [
+    {
+      "count": 2,
+      "score": 0.25000000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/albatross.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/blackbird.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/bluebird.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/cardinal.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/chickadee.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/crane.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/crow.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/cuckoo.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/dove.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/duck.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/eagle.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/egret.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/falcon.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/finch.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/goose.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/gull.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/hawk.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/heron.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/hummingbird.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/ibis.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/kingfisher.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/loon.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/magpie.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/mallard.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/meadowlark.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/mockingbird.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/nighthawk.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/osprey.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/owl.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/pelican.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/pheasant.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/pigeon.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/puffin.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/quail.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/raven.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/roadrunner.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/robin.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/sandpiper.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/sparrow.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/starling.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/stork.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/swallow.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/swan.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/tern.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/turkey.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/vulture.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/warbler.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/woodpecker.html"
+    },
+    {
+      "count": 3,
+      "score": 0.05084746,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/"
+    }
+  ],
+  "b": [
+    {
+      "count": 2,
+      "score": 0.25000000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/blackbird.html"
+    },
+    {
+      "count": 2,
+      "score": 0.25000000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/bluebird.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/albatross.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/cardinal.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/chickadee.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/crane.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/crow.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/cuckoo.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/dove.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/duck.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/eagle.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/egret.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/falcon.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/finch.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/goose.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/gull.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/hawk.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/heron.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/hummingbird.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/ibis.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/kingfisher.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/loon.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/magpie.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/mallard.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/meadowlark.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/mockingbird.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/nighthawk.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/osprey.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/owl.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/pelican.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/pheasant.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/pigeon.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/puffin.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/quail.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/raven.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/roadrunner.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/robin.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/sandpiper.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/sparrow.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/starling.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/stork.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/swallow.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/swan.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/tern.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/turkey.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/vulture.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/warbler.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/woodpecker.html"
+    },
+    {
+      "count": 4,
+      "score": 0.06779661,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/"
+    }
+  ],
+  "c": [
+    {
+      "count": 2,
+      "score": 0.25000000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/cardinal.html"
+    },
+    {
+      "count": 2,
+      "score": 0.25000000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/chickadee.html"
+    },
+    {
+      "count": 2,
+      "score": 0.25000000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/crane.html"
+    },
+    {
+      "count": 2,
+      "score": 0.25000000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/crow.html"
+    },
+    {
+      "count": 2,
+      "score": 0.25000000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/cuckoo.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/albatross.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/blackbird.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/bluebird.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/dove.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/duck.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/eagle.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/egret.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/falcon.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/finch.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/goose.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/gull.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/hawk.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/heron.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/hummingbird.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/ibis.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/kingfisher.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/loon.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/magpie.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/mallard.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/meadowlark.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/mockingbird.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/nighthawk.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/osprey.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/owl.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/pelican.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/pheasant.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/pigeon.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/puffin.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/quail.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/raven.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/roadrunner.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/robin.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/sandpiper.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/sparrow.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/starling.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/stork.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/swallow.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/swan.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/tern.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/turkey.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/vulture.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/warbler.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/woodpecker.html"
+    },
+    {
+      "count": 5,
+      "score": 0.08474576,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/"
+    }
+  ],
+  "d": [
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/dove.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/duck.html"
+    },
+    {
+      "count": 2,
+      "score": 0.03389831,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/"
+    }
+  ],
+  "e": [
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/eagle.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/egret.html"
+    },
+    {
+      "count": 2,
+      "score": 0.03389831,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/"
+    }
+  ],
+  "f": [
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/falcon.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/finch.html"
+    },
+    {
+      "count": 2,
+      "score": 0.03389831,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/"
+    }
+  ],
+  "g": [
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/goose.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/gull.html"
+    },
+    {
+      "count": 2,
+      "score": 0.03389831,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/"
+    }
+  ],
+  "h": [
+    {
+      "count": 2,
+      "score": 0.25000000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/hawk.html"
+    },
+    {
+      "count": 2,
+      "score": 0.25000000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/heron.html"
+    },
+    {
+      "count": 2,
+      "score": 0.25000000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/hummingbird.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/albatross.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/blackbird.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/bluebird.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/cardinal.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/chickadee.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/crane.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/crow.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/cuckoo.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/dove.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/duck.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/eagle.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/egret.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/falcon.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/finch.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/goose.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/gull.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/ibis.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/kingfisher.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/loon.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/magpie.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/mallard.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/meadowlark.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/mockingbird.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/nighthawk.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/osprey.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/owl.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/pelican.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/pheasant.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/pigeon.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/puffin.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/quail.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/raven.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/roadrunner.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/robin.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/sandpiper.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/sparrow.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/starling.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/stork.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/swallow.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/swan.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/tern.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/turkey.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/vulture.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/warbler.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/woodpecker.html"
+    },
+    {
+      "count": 5,
+      "score": 0.08474576,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/"
+    }
+  ],
+  "i": [
+    {
+      "count": 2,
+      "score": 0.25000000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/ibis.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/albatross.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/blackbird.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/bluebird.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/cardinal.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/chickadee.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/crane.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/crow.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/cuckoo.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/dove.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/duck.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/eagle.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/egret.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/falcon.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/finch.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/goose.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/gull.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/hawk.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/heron.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/hummingbird.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/kingfisher.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/loon.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/magpie.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/mallard.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/meadowlark.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/mockingbird.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/nighthawk.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/osprey.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/owl.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/pelican.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/pheasant.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/pigeon.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/puffin.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/quail.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/raven.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/roadrunner.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/robin.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/sandpiper.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/sparrow.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/starling.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/stork.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/swallow.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/swan.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/tern.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/turkey.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/vulture.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/warbler.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/woodpecker.html"
+    },
+    {
+      "count": 2,
+      "score": 0.03389831,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/"
+    }
+  ],
+  "j": [
+  ],
+  "k": [
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/kingfisher.html"
+    },
+    {
+      "count": 1,
+      "score": 0.01694915,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/"
+    }
+  ],
+  "l": [
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/loon.html"
+    },
+    {
+      "count": 2,
+      "score": 0.03389831,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/"
+    }
+  ],
+  "m": [
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/magpie.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/mallard.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/meadowlark.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/mockingbird.html"
+    },
+    {
+      "count": 4,
+      "score": 0.06779661,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/"
+    }
+  ],
+  "n": [
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/nighthawk.html"
+    },
+    {
+      "count": 1,
+      "score": 0.01694915,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/"
+    }
+  ],
+  "o": [
+    {
+      "count": 2,
+      "score": 0.25000000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/osprey.html"
+    },
+    {
+      "count": 2,
+      "score": 0.25000000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/owl.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/albatross.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/blackbird.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/bluebird.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/cardinal.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/chickadee.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/crane.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/crow.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/cuckoo.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/dove.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/duck.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/eagle.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/egret.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/falcon.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/finch.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/goose.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/gull.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/hawk.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/heron.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/hummingbird.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/ibis.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/kingfisher.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/loon.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/magpie.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/mallard.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/meadowlark.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/mockingbird.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/nighthawk.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/pelican.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/pheasant.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/pigeon.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/puffin.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/quail.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/raven.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/roadrunner.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/robin.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/sandpiper.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/sparrow.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/starling.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/stork.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/swallow.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/swan.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/tern.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/turkey.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/vulture.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/warbler.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/woodpecker.html"
+    },
+    {
+      "count": 3,
+      "score": 0.05084746,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/"
+    }
+  ],
+  "p": [
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/pelican.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/pheasant.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/pigeon.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/puffin.html"
+    },
+    {
+      "count": 4,
+      "score": 0.06779661,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/"
+    }
+  ],
+  "q": [
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/quail.html"
+    },
+    {
+      "count": 1,
+      "score": 0.01694915,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/"
+    }
+  ],
+  "r": [
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/raven.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/roadrunner.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/robin.html"
+    },
+    {
+      "count": 3,
+      "score": 0.05084746,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/"
+    }
+  ],
+  "s": [
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/sandpiper.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/sparrow.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/starling.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/stork.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/swallow.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/swan.html"
+    },
+    {
+      "count": 6,
+      "score": 0.10169492,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/"
+    }
+  ],
+  "t": [
+    {
+      "count": 2,
+      "score": 0.25000000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/tern.html"
+    },
+    {
+      "count": 2,
+      "score": 0.25000000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/turkey.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/albatross.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/blackbird.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/bluebird.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/cardinal.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/chickadee.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/crane.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/crow.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/cuckoo.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/dove.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/duck.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/eagle.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/egret.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/falcon.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/finch.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/goose.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/gull.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/hawk.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/heron.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/hummingbird.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/ibis.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/kingfisher.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/loon.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/magpie.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/mallard.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/meadowlark.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/mockingbird.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/nighthawk.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/osprey.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/owl.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/pelican.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/pheasant.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/pigeon.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/puffin.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/quail.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/raven.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/roadrunner.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/robin.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/sandpiper.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/sparrow.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/starling.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/stork.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/swallow.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/swan.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/vulture.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/warbler.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/woodpecker.html"
+    },
+    {
+      "count": 2,
+      "score": 0.03389831,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/"
+    }
+  ],
+  "u": [
+  ],
+  "v": [
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/vulture.html"
+    },
+    {
+      "count": 1,
+      "score": 0.01694915,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/"
+    }
+  ],
+  "w": [
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/warbler.html"
+    },
+    {
+      "count": 1,
+      "score": 0.12500000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/woodpecker.html"
+    },
+    {
+      "count": 3,
+      "score": 0.05084746,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/"
+    }
+  ],
+  "x": [
+  ],
+  "y": [
+    {
+      "count": 1,
+      "score": 0.01694915,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/birds/"
+    }
+  ],
+  "z": [
+  ]
+}

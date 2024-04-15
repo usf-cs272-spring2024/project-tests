@@ -1,0 +1,18 @@
+{
+  "hello": {
+    "https://usf-cs272-spring2024.github.io/project-web/input/simple/hello.html": [
+      1,
+      3,
+      5,
+      7
+    ]
+  },
+  "world": {
+    "https://usf-cs272-spring2024.github.io/project-web/input/simple/hello.html": [
+      2,
+      4,
+      6,
+      8
+    ]
+  }
+}

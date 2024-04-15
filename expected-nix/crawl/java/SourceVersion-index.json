@@ -1,0 +1,3816 @@
+{
+  "": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1
+    ]
+  },
+  "a": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      82,
+      363,
+      386,
+      410,
+      432,
+      454,
+      707,
+      714,
+      770,
+      938,
+      1591,
+      1722,
+      1795,
+      1820,
+      1831,
+      1835,
+      1896,
+      1924,
+      1935,
+      1939,
+      2005,
+      2032,
+      2062,
+      2096,
+      2131,
+      2207,
+      2215,
+      2225,
+      2252,
+      2273,
+      2328,
+      2368,
+      2407
+    ]
+  },
+  "about": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      81
+    ]
+  },
+  "ad": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      94,
+      706
+    ]
+  },
+  "add": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      761
+    ]
+  },
+  "addit": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      88,
+      836,
+      886,
+      929,
+      982,
+      1020,
+      1125,
+      1160,
+      1195,
+      1238,
+      1380
+    ]
+  },
+  "affili": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      2416,
+      2427
+    ]
+  },
+  "all": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      52,
+      343,
+      1780
+    ]
+  },
+  "allow": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1579
+    ]
+  },
+  "alongsid": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1576
+    ]
+  },
+  "also": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      104,
+      712,
+      759,
+      814,
+      855,
+      898,
+      950,
+      993,
+      1032,
+      1070,
+      1102,
+      1134,
+      1169,
+      1208,
+      1253,
+      1293,
+      1325,
+      1357,
+      1394
+    ]
+  },
+  "alwaysstrict": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1248,
+      1263
+    ]
+  },
+  "an": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      541,
+      1416,
+      1432,
+      1469,
+      1474,
+      1613,
+      1643,
+      1661,
+      1665,
+      1744,
+      2190,
+      2247,
+      2372
+    ]
+  },
+  "and": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      349,
+      754,
+      790,
+      851,
+      893,
+      935,
+      1201,
+      1245,
+      1387,
+      1769,
+      1852,
+      1870,
+      1908,
+      1956,
+      1974,
+      2017,
+      2337,
+      2378,
+      2399,
+      2420,
+      2442
+    ]
+  },
+  "andor": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      2414,
+      2425
+    ]
+  },
+  "ani": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1875,
+      1979
+    ]
+  },
+  "annot": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      748,
+      1666
+    ]
+  },
+  "api": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1570,
+      1587,
+      1602,
+      1621,
+      1641,
+      1644,
+      2245,
+      2376
+    ]
+  },
+  "appli": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1853,
+      1957
+    ]
+  },
+  "appropri": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      72
+    ]
+  },
+  "are": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      554,
+      1429,
+      1445,
+      1483
+    ]
+  },
+  "argument": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      521,
+      1521,
+      2170,
+      2288,
+      2296
+    ]
+  },
+  "array": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      542,
+      1417,
+      1433
+    ]
+  },
+  "as": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      626,
+      1660
+    ]
+  },
+  "assert": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      709,
+      716
+    ]
+  },
+  "augment": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      622
+    ]
+  },
+  "autobox": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      749,
+      786
+    ]
+  },
+  "be": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      93,
+      474,
+      1495,
+      1536,
+      1545,
+      1568,
+      1692
+    ]
+  },
+  "becaus": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      2194
+    ]
+  },
+  "binari": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      849
+    ]
+  },
+  "block": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1166,
+      1179
+    ]
+  },
+  "boolean": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      354,
+      377,
+      388,
+      399,
+      412,
+      423,
+      443,
+      1713,
+      1811,
+      1868,
+      1913,
+      1972,
+      2023,
+      2034,
+      2065,
+      2077,
+      2085,
+      2098,
+      2134,
+      2146
+    ]
+  },
+  "bug": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      2369
+    ]
+  },
+  "by": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      134,
+      142,
+      152,
+      162,
+      172,
+      182,
+      192,
+      202,
+      212,
+      222,
+      232,
+      242,
+      253,
+      263,
+      273,
+      284,
+      295,
+      305,
+      315,
+      325,
+      335,
+      486,
+      614,
+      647,
+      678,
+      699,
+      727,
+      802,
+      830,
+      880,
+      923,
+      976,
+      1014,
+      1055,
+      1087,
+      1119,
+      1154,
+      1189,
+      1232,
+      1278,
+      1310,
+      1342,
+      1374,
+      1559,
+      1600,
+      1639,
+      1705,
+      1754,
+      1840,
+      1944
+    ]
+  },
+  "ca": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      2432
+    ]
+  },
+  "can": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      473,
+      1535,
+      1544,
+      1609
+    ]
+  },
+  "chang": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      687,
+      810,
+      1063,
+      1095,
+      1286,
+      1318,
+      1350,
+      2231
+    ]
+  },
+  "charact": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1482,
+      1746,
+      1755,
+      1842,
+      1946
+    ]
+  },
+  "characterisjavaidentifierpartint": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1758
+    ]
+  },
+  "characterisjavaidentifierstartint": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1749
+    ]
+  },
+  "check": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1788,
+      1854,
+      1889,
+      1958,
+      1993,
+      2056,
+      2120
+    ]
+  },
+  "class": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      11,
+      47,
+      107,
+      113,
+      532,
+      549,
+      559,
+      575,
+      625,
+      1244,
+      1268,
+      1424,
+      1440,
+      1459,
+      1479,
+      1510
+    ]
+  },
+  "classesinterfac": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      110
+    ]
+  },
+  "classfileformatvers": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      105
+    ]
+  },
+  "clone": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      561
+    ]
+  },
+  "code": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1670,
+      2401
+    ]
+  },
+  "coin": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      966
+    ]
+  },
+  "comparablesourcevers": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      56
+    ]
+  },
+  "compareto": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      562
+    ]
+  },
+  "compon": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      2213,
+      2236
+    ]
+  },
+  "conceptu": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      2393
+    ]
+  },
+  "configur": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1636
+    ]
+  },
+  "consist": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1742
+    ]
+  },
+  "constabl": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      57
+    ]
+  },
+  "constant": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      22,
+      27,
+      33,
+      38,
+      91,
+      119,
+      122,
+      124,
+      529,
+      545,
+      584,
+      1420,
+      1436,
+      1456,
+      1476,
+      1493,
+      1500,
+      1513
+    ]
+  },
+  "constructor": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      844
+    ]
+  },
+  "contain": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      543,
+      1418,
+      1434,
+      2387
+    ]
+  },
+  "contextu": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1767,
+      1882,
+      1986,
+      2049,
+      2113
+    ]
+  },
+  "convert": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      2250
+    ]
+  },
+  "copi": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      2264
+    ]
+  },
+  "copyright": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      2423
+    ]
+  },
+  "correspond": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      2259
+    ]
+  },
+  "countri": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      2422
+    ]
+  },
+  "current": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      488,
+      1561,
+      1675,
+      1707
+    ]
+  },
+  "declar": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      111,
+      555,
+      557,
+      573,
+      1430,
+      1446,
+      1473
+    ]
+  },
+  "default": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      894
+    ]
+  },
+  "definit": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      2395
+    ]
+  },
+  "deprec": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      16
+    ]
+  },
+  "describ": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      597,
+      627,
+      656,
+      735
+    ]
+  },
+  "describeconst": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      563
+    ]
+  },
+  "descript": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      125,
+      352,
+      2391
+    ]
+  },
+  "detail": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      25,
+      36,
+      585,
+      1409,
+      1663,
+      2389
+    ]
+  },
+  "determin": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      2221
+    ]
+  },
+  "develop": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      2379
+    ]
+  },
+  "developertarget": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      2390
+    ]
+  },
+  "diamond": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      841
+    ]
+  },
+  "differ": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1594
+    ]
+  },
+  "document": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      2380,
+      2385,
+      2444
+    ]
+  },
+  "each": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1856,
+      1960
+    ]
+  },
+  "earlier": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1648,
+      1693
+    ]
+  },
+  "edit": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      73,
+      147,
+      157,
+      167,
+      177,
+      187,
+      197,
+      207,
+      217,
+      227,
+      237,
+      247,
+      258,
+      268,
+      278,
+      289,
+      300,
+      310,
+      320,
+      330,
+      340,
+      604,
+      637,
+      652,
+      663,
+      683,
+      704,
+      732,
+      742,
+      807,
+      820,
+      835,
+      862,
+      885,
+      905,
+      928,
+      957,
+      981,
+      1000,
+      1019,
+      1039,
+      1060,
+      1077,
+      1092,
+      1109,
+      1124,
+      1141,
+      1159,
+      1176,
+      1194,
+      1215,
+      1237,
+      1260,
+      1283,
+      1300,
+      1315,
+      1332,
+      1347,
+      1364,
+      1379,
+      1401
+    ]
+  },
+  "element": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      2341
+    ]
+  },
+  "enhanc": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      751,
+      787,
+      865,
+      2373
+    ]
+  },
+  "enough": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      2331
+    ]
+  },
+  "enum": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      21,
+      26,
+      32,
+      37,
+      46,
+      59,
+      117,
+      118,
+      121,
+      123,
+      528,
+      548,
+      583,
+      1423,
+      1439,
+      1455,
+      1475,
+      1492,
+      1499,
+      1509
+    ]
+  },
+  "enumenumdesc": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      115
+    ]
+  },
+  "enumer": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      785
+    ]
+  },
+  "enumsourcevers": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      62
+    ]
+  },
+  "environ": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      490,
+      1563,
+      1677,
+      1709
+    ]
+  },
+  "equal": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      564,
+      2348
+    ]
+  },
+  "exact": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1468
+    ]
+  },
+  "exampl": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      2256,
+      2402
+    ]
+  },
+  "execut": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      489,
+      1562,
+      1676,
+      1708
+    ]
+  },
+  "express": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      892,
+      908,
+      1131,
+      1144,
+      2248
+    ]
+  },
+  "extend": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      61,
+      116,
+      779
+    ]
+  },
+  "extran": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1480
+    ]
+  },
+  "facil": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      710,
+      717,
+      772
+    ]
+  },
+  "fals": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1773,
+      1778,
+      1801,
+      1865,
+      1900,
+      1969,
+      2009,
+      2047,
+      2070,
+      2111,
+      2139
+    ]
+  },
+  "far": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      2205
+    ]
+  },
+  "featur": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1684,
+      2175,
+      2180,
+      2212,
+      2293,
+      2301,
+      2329
+    ]
+  },
+  "field": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      23,
+      28,
+      34,
+      39
+    ]
+  },
+  "final": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      565,
+      589,
+      608,
+      641,
+      672,
+      693,
+      721,
+      796,
+      824,
+      874,
+      917,
+      970,
+      1008,
+      1049,
+      1081,
+      1113,
+      1148,
+      1183,
+      1226,
+      1272,
+      1304,
+      1336,
+      1368
+    ]
+  },
+  "first": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      603,
+      636,
+      743
+    ]
+  },
+  "floatingpoint": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      756,
+      1249,
+      1264
+    ]
+  },
+  "follow": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1752,
+      2206
+    ]
+  },
+  "for": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      79,
+      752,
+      773,
+      788,
+      843,
+      909,
+      1027,
+      1043,
+      1204,
+      1219,
+      1390,
+      1406,
+      1747,
+      1756,
+      1779,
+      1866,
+      1881,
+      1970,
+      1985,
+      2048,
+      2112,
+      2255,
+      2374
+    ]
+  },
+  "from": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      688,
+      811,
+      941,
+      1064,
+      1096,
+      1287,
+      1319,
+      1351,
+      2251
+    ]
+  },
+  "fulli": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      484,
+      1557,
+      1703
+    ]
+  },
+  "further": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      2375
+    ]
+  },
+  "futur": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      97,
+      2234
+    ]
+  },
+  "generat": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1669
+    ]
+  },
+  "generic": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      747,
+      762
+    ]
+  },
+  "getclass": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      577
+    ]
+  },
+  "getdeclaringclass": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      566
+    ]
+  },
+  "given": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      419,
+      461,
+      1931,
+      2105
+    ]
+  },
+  "greater": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      2177,
+      2298,
+      2345
+    ]
+  },
+  "has": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1511,
+      2327,
+      2338
+    ]
+  },
+  "hashcod": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      567
+    ]
+  },
+  "have": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      2203,
+      2351
+    ]
+  },
+  "help": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      18
+    ]
+  },
+  "hexadecim": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      755
+    ]
+  },
+  "ide": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1614
+    ]
+  },
+  "identif": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1580
+    ]
+  },
+  "identifi": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      366,
+      946,
+      1470,
+      1725,
+      1765,
+      1798,
+      1807,
+      1838,
+      1909,
+      1942,
+      2018
+    ]
+  },
+  "if": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1507,
+      1519,
+      1612,
+      1664,
+      1739,
+      1791,
+      1892,
+      2001,
+      2059,
+      2128,
+      2171,
+      2228,
+      2291
+    ]
+  },
+  "illegalargumentexcept": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1506,
+      2191,
+      2290
+    ]
+  },
+  "implement": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      53,
+      1662
+    ]
+  },
+  "import": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      792
+    ]
+  },
+  "in": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      112,
+      371,
+      393,
+      417,
+      437,
+      459,
+      550,
+      558,
+      574,
+      598,
+      628,
+      657,
+      736,
+      837,
+      847,
+      887,
+      930,
+      983,
+      1021,
+      1126,
+      1161,
+      1196,
+      1239,
+      1381,
+      1425,
+      1441,
+      1477,
+      1634,
+      1730,
+      1825,
+      1858,
+      1874,
+      1929,
+      1962,
+      1978,
+      2039,
+      2103,
+      2232,
+      2417
+    ]
+  },
+  "includ": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      665,
+      840,
+      890,
+      933,
+      986,
+      1024,
+      1129,
+      1164,
+      1199,
+      1242,
+      1384,
+      1575
+    ]
+  },
+  "index": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      17
+    ]
+  },
+  "infer": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      989,
+      1004
+    ]
+  },
+  "influenc": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      2242
+    ]
+  },
+  "inform": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      80
+    ]
+  },
+  "initi": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1745
+    ]
+  },
+  "input": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1847,
+      1951
+    ]
+  },
+  "instanceof": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1205,
+      1220
+    ]
+  },
+  "interfac": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      54
+    ]
+  },
+  "into": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1849,
+      1953
+    ]
+  },
+  "introduc": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      133,
+      141,
+      151,
+      161,
+      171,
+      181,
+      191,
+      201,
+      211,
+      221,
+      231,
+      241,
+      252,
+      262,
+      272,
+      283,
+      294,
+      304,
+      314,
+      324,
+      334,
+      613,
+      646,
+      677,
+      698,
+      726,
+      801,
+      829,
+      879,
+      922,
+      975,
+      1013,
+      1054,
+      1086,
+      1118,
+      1153,
+      1188,
+      1231,
+      1277,
+      1309,
+      1341,
+      1373
+    ]
+  },
+  "is": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      362,
+      385,
+      409,
+      431,
+      453,
+      515,
+      620,
+      1522,
+      1574,
+      1588,
+      1611,
+      1618,
+      1637,
+      1721,
+      1794,
+      1819,
+      1834,
+      1895,
+      1923,
+      1938,
+      2004,
+      2031,
+      2061,
+      2095,
+      2130,
+      2164,
+      2176,
+      2192,
+      2218,
+      2263,
+      2282,
+      2297,
+      2406,
+      2437
+    ]
+  },
+  "isidentifi": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1710,
+      1861,
+      1965
+    ]
+  },
+  "isidentifiercharsequ": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      355,
+      1714
+    ]
+  },
+  "iskeyword": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      2020,
+      2082
+    ]
+  },
+  "iskeywordcharsequ": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      378,
+      400,
+      2024,
+      2086
+    ]
+  },
+  "isnam": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1808,
+      1910
+    ]
+  },
+  "isnamecharsequ": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      424,
+      444,
+      1812,
+      1914
+    ]
+  },
+  "it": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      2415,
+      2426
+    ]
+  },
+  "java": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      5,
+      67,
+      76,
+      136,
+      144,
+      154,
+      164,
+      174,
+      184,
+      194,
+      204,
+      214,
+      224,
+      234,
+      244,
+      255,
+      265,
+      275,
+      286,
+      297,
+      307,
+      317,
+      327,
+      337,
+      600,
+      616,
+      633,
+      649,
+      659,
+      680,
+      701,
+      729,
+      738,
+      766,
+      775,
+      781,
+      804,
+      816,
+      832,
+      857,
+      860,
+      868,
+      882,
+      900,
+      903,
+      911,
+      925,
+      952,
+      955,
+      959,
+      978,
+      995,
+      998,
+      1016,
+      1034,
+      1037,
+      1057,
+      1072,
+      1075,
+      1089,
+      1104,
+      1107,
+      1121,
+      1136,
+      1139,
+      1156,
+      1171,
+      1174,
+      1191,
+      1210,
+      1213,
+      1234,
+      1255,
+      1258,
+      1280,
+      1295,
+      1298,
+      1312,
+      1327,
+      1330,
+      1344,
+      1359,
+      1362,
+      1376,
+      1396,
+      1399,
+      1804,
+      1903,
+      2012,
+      2073,
+      2142,
+      2200,
+      2383,
+      2405
+    ]
+  },
+  "javacompil": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      43
+    ]
+  },
+  "javalangenum": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      114,
+      560
+    ]
+  },
+  "javalangenumsourcevers": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      50
+    ]
+  },
+  "javalangobject": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      49,
+      576
+    ]
+  },
+  "javaxlangmodel": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      45
+    ]
+  },
+  "javaxlangmodelsourcevers": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      51
+    ]
+  },
+  "jdk": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      7
+    ]
+  },
+  "jep": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      963,
+      1001,
+      1040,
+      1142,
+      1177,
+      1216,
+      1221,
+      1261,
+      1266
+    ]
+  },
+  "jsr": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      713,
+      760,
+      769,
+      778,
+      863,
+      906,
+      958
+    ]
+  },
+  "keyword": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      370,
+      387,
+      411,
+      1729,
+      1766,
+      1768,
+      1800,
+      1867,
+      1883,
+      1906,
+      1971,
+      1987,
+      2015,
+      2033,
+      2050,
+      2063,
+      2076,
+      2097,
+      2114,
+      2132,
+      2145
+    ]
+  },
+  "lambda": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      891,
+      907,
+      1028,
+      1044
+    ]
+  },
+  "languag": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      69,
+      77,
+      101,
+      596,
+      601,
+      619,
+      634,
+      655,
+      660,
+      734,
+      739,
+      768,
+      777,
+      783,
+      817,
+      858,
+      870,
+      901,
+      913,
+      953,
+      996,
+      1035,
+      1073,
+      1105,
+      1137,
+      1172,
+      1211,
+      1256,
+      1296,
+      1328,
+      1360,
+      1397,
+      1585,
+      1805,
+      1904,
+      2013,
+      2074,
+      2143,
+      2202
+    ]
+  },
+  "larg": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      2330
+    ]
+  },
+  "later": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1566,
+      1652
+    ]
+  },
+  "latest": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      373,
+      395,
+      439,
+      466,
+      469,
+      481,
+      511,
+      1524,
+      1528,
+      1531,
+      1540,
+      1554,
+      1577,
+      1597,
+      1696,
+      1700,
+      1732,
+      1827,
+      2041,
+      2160,
+      2187,
+      2278
+    ]
+  },
+  "latestsupport": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      478,
+      1547,
+      1551,
+      1688
+    ]
+  },
+  "least": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      495,
+      2313,
+      2356
+    ]
+  },
+  "legal": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      945
+    ]
+  },
+  "licens": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      2440
+    ]
+  },
+  "linear": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      2208,
+      2230
+    ]
+  },
+  "link": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      4
+    ]
+  },
+  "liter": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      389,
+      392,
+      413,
+      416,
+      757,
+      850,
+      1771,
+      1869,
+      1873,
+      1973,
+      1977,
+      2035,
+      2038,
+      2066,
+      2069,
+      2078,
+      2081,
+      2099,
+      2102,
+      2135,
+      2138,
+      2147,
+      2150
+    ]
+  },
+  "localvari": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      987,
+      1002,
+      1025,
+      1041
+    ]
+  },
+  "loop": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      753,
+      789
+    ]
+  },
+  "major": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      686,
+      809,
+      1062,
+      1094,
+      1285,
+      1317,
+      1349
+    ]
+  },
+  "map": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      2223,
+      2271
+    ]
+  },
+  "match": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1203,
+      1218,
+      1389,
+      1405,
+      1467,
+      1763
+    ]
+  },
+  "may": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1655,
+      1657,
+      1691,
+      2241
+    ]
+  },
+  "metadata": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      771
+    ]
+  },
+  "method": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      24,
+      29,
+      35,
+      40,
+      341,
+      347,
+      351,
+      556,
+      572,
+      895,
+      1408,
+      1573,
+      1736,
+      1776,
+      1844,
+      1863,
+      1878,
+      1948,
+      1967,
+      1982,
+      2045,
+      2109
+    ]
+  },
+  "methodsconcret": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      346
+    ]
+  },
+  "methodsinst": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      345
+    ]
+  },
+  "methodsstat": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      344
+    ]
+  },
+  "mill": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      964
+    ]
+  },
+  "model": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      96,
+      475,
+      1537,
+      1546,
+      1586,
+      1599,
+      1623
+    ]
+  },
+  "modifi": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      348,
+      668
+    ]
+  },
+  "modul": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      9,
+      42,
+      934,
+      961
+    ]
+  },
+  "more": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      2388
+    ]
+  },
+  "multicatch": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      852
+    ]
+  },
+  "must": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1466,
+      1567
+    ]
+  },
+  "n": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1626,
+      1632,
+      1650,
+      1654
+    ]
+  },
+  "name": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      356,
+      361,
+      368,
+      425,
+      430,
+      436,
+      445,
+      452,
+      458,
+      525,
+      536,
+      568,
+      947,
+      1452,
+      1463,
+      1487,
+      1489,
+      1504,
+      1517,
+      1715,
+      1720,
+      1727,
+      1741,
+      1784,
+      1813,
+      1818,
+      1824,
+      1833,
+      1885,
+      1899,
+      1907,
+      1915,
+      1922,
+      1928,
+      1937,
+      1989,
+      2008,
+      2016
+    ]
+  },
+  "navig": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      3
+    ]
+  },
+  "nest": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      20,
+      31,
+      106,
+      109,
+      624
+    ]
+  },
+  "new": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      15
+    ]
+  },
+  "no": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      685,
+      808,
+      1061,
+      1093,
+      1284,
+      1316,
+      1348,
+      1512,
+      2339
+    ]
+  },
+  "nonnul": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      2352
+    ]
+  },
+  "not": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      360,
+      383,
+      407,
+      429,
+      451,
+      1484,
+      1658,
+      1719,
+      1817,
+      1921,
+      2029,
+      2093
+    ]
+  },
+  "note": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      86,
+      1571,
+      2246
+    ]
+  },
+  "notifi": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      578
+    ]
+  },
+  "notifyal": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      579
+    ]
+  },
+  "null": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      391,
+      415,
+      504,
+      1523,
+      1774,
+      1872,
+      1976,
+      2037,
+      2068,
+      2080,
+      2101,
+      2137,
+      2149,
+      2322,
+      2365
+    ]
+  },
+  "nullpointerexcept": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1518
+    ]
+  },
+  "occur": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1610
+    ]
+  },
+  "of": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      65,
+      74,
+      99,
+      530,
+      546,
+      937,
+      944,
+      1247,
+      1421,
+      1437,
+      1457,
+      1490,
+      1581,
+      1607,
+      1743,
+      1837,
+      1941,
+      2181,
+      2185,
+      2198,
+      2214,
+      2237,
+      2294,
+      2302,
+      2396,
+      2412
+    ]
+  },
+  "on": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1590,
+      1629,
+      1645
+    ]
+  },
+  "one": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1603
+    ]
+  },
+  "onli": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1681,
+      1753,
+      2210
+    ]
+  },
+  "or": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      359,
+      369,
+      382,
+      390,
+      406,
+      414,
+      428,
+      450,
+      1565,
+      1615,
+      1651,
+      1656,
+      1718,
+      1728,
+      1799,
+      1816,
+      1920,
+      2028,
+      2036,
+      2064,
+      2067,
+      2092,
+      2100,
+      2133,
+      2136,
+      2347,
+      2370,
+      2409
+    ]
+  },
+  "oracl": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      2413,
+      2424,
+      2428
+    ]
+  },
+  "order": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      552,
+      1427,
+      1443
+    ]
+  },
+  "ordin": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      569
+    ]
+  },
+  "origin": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      128,
+      593
+    ]
+  },
+  "other": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1781,
+      2235,
+      2340,
+      2403,
+      2421
+    ]
+  },
+  "otherwis": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      503,
+      1802,
+      1901,
+      2010,
+      2071,
+      2140,
+      2321,
+      2364
+    ]
+  },
+  "overview": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      8,
+      2394
+    ]
+  },
+  "packag": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      10,
+      44
+    ]
+  },
+  "paramet": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1029,
+      1045,
+      1486,
+      1783,
+      1884,
+      1988,
+      2051,
+      2115,
+      2266
+    ]
+  },
+  "parkway": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      2429
+    ]
+  },
+  "particular": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      83
+    ]
+  },
+  "pattern": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1202,
+      1217,
+      1386,
+      1388,
+      1403,
+      1404,
+      1762
+    ]
+  },
+  "period": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1841,
+      1945
+    ]
+  },
+  "periodsepar": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1850,
+      1954
+    ]
+  },
+  "permit": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1485
+    ]
+  },
+  "platform": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      137,
+      145,
+      155,
+      165,
+      175,
+      185,
+      195,
+      205,
+      215,
+      225,
+      235,
+      245,
+      256,
+      266,
+      276,
+      287,
+      298,
+      308,
+      318,
+      328,
+      338,
+      617,
+      650,
+      681,
+      702,
+      730,
+      805,
+      833,
+      883,
+      926,
+      960,
+      979,
+      1017,
+      1058,
+      1090,
+      1122,
+      1157,
+      1192,
+      1235,
+      1281,
+      1313,
+      1345,
+      1377,
+      1592,
+      1630,
+      1646,
+      1683,
+      2304
+    ]
+  },
+  "polici": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      2446
+    ]
+  },
+  "preview": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      14
+    ]
+  },
+  "prior": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1066,
+      1098,
+      1289,
+      1321,
+      1353
+    ]
+  },
+  "processor": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1667,
+      1679
+    ]
+  },
+  "program": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      68,
+      767,
+      776,
+      782,
+      869,
+      912,
+      2201
+    ]
+  },
+  "progress": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      2209
+    ]
+  },
+  "project": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      965
+    ]
+  },
+  "public": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      58,
+      587,
+      606,
+      639,
+      670,
+      691,
+      719,
+      794,
+      822,
+      872,
+      915,
+      968,
+      1006,
+      1047,
+      1079,
+      1111,
+      1146,
+      1181,
+      1224,
+      1270,
+      1302,
+      1334,
+      1366,
+      1411,
+      1448,
+      1525,
+      1548,
+      1711,
+      1809,
+      1911,
+      2021,
+      2083,
+      2153,
+      2308
+    ]
+  },
+  "qualifi": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      435,
+      457,
+      1823,
+      1832,
+      1927,
+      1936
+    ]
+  },
+  "queri": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      2219
+    ]
+  },
+  "record": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1200,
+      1222,
+      1385,
+      1402
+    ]
+  },
+  "redistribut": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      2445
+    ]
+  },
+  "redwood": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      2430
+    ]
+  },
+  "refer": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      2377
+    ]
+  },
+  "regist": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      2410
+    ]
+  },
+  "regular": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1764
+    ]
+  },
+  "releas": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      98,
+      126,
+      130,
+      138,
+      148,
+      158,
+      168,
+      178,
+      188,
+      198,
+      208,
+      218,
+      228,
+      238,
+      249,
+      259,
+      269,
+      280,
+      291,
+      301,
+      311,
+      321,
+      331,
+      586,
+      591,
+      605,
+      610,
+      621,
+      638,
+      643,
+      669,
+      674,
+      689,
+      690,
+      695,
+      718,
+      723,
+      744,
+      793,
+      798,
+      812,
+      821,
+      826,
+      839,
+      871,
+      876,
+      889,
+      914,
+      919,
+      932,
+      967,
+      972,
+      985,
+      1005,
+      1010,
+      1023,
+      1046,
+      1051,
+      1067,
+      1078,
+      1083,
+      1099,
+      1110,
+      1115,
+      1128,
+      1145,
+      1150,
+      1163,
+      1180,
+      1185,
+      1198,
+      1223,
+      1228,
+      1241,
+      1269,
+      1274,
+      1290,
+      1301,
+      1306,
+      1322,
+      1333,
+      1338,
+      1354,
+      1365,
+      1370,
+      1383,
+      1564,
+      1689,
+      1697,
+      2262,
+      2350
+    ]
+  },
+  "remov": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      936
+    ]
+  },
+  "report": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      2367
+    ]
+  },
+  "reserv": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      2435
+    ]
+  },
+  "restor": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1246,
+      1262
+    ]
+  },
+  "result": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      2244,
+      2353
+    ]
+  },
+  "return": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      357,
+      380,
+      404,
+      426,
+      448,
+      467,
+      479,
+      493,
+      509,
+      526,
+      540,
+      1415,
+      1431,
+      1453,
+      1496,
+      1497,
+      1529,
+      1538,
+      1552,
+      1569,
+      1698,
+      1716,
+      1737,
+      1750,
+      1759,
+      1777,
+      1789,
+      1814,
+      1864,
+      1879,
+      1890,
+      1918,
+      1968,
+      1983,
+      1999,
+      2026,
+      2046,
+      2057,
+      2090,
+      2110,
+      2126,
+      2158,
+      2276,
+      2311,
+      2324,
+      2354
+    ]
+  },
+  "right": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      2434
+    ]
+  },
+  "run": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1589,
+      1628,
+      1633,
+      1642,
+      1672
+    ]
+  },
+  "runtim": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      496,
+      519,
+      2168,
+      2173,
+      2183,
+      2216,
+      2239,
+      2268,
+      2286,
+      2314,
+      2325,
+      2357
+    ]
+  },
+  "runtimevers": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      491,
+      492,
+      2307,
+      2309,
+      2310
+    ]
+  },
+  "rv": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      508,
+      2157,
+      2267
+    ]
+  },
+  "s": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      379,
+      384,
+      401,
+      408,
+      2025,
+      2030,
+      2052,
+      2060,
+      2087,
+      2094,
+      2116,
+      2129
+    ]
+  },
+  "se": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      6,
+      861,
+      904,
+      956,
+      999,
+      1038,
+      1076,
+      1108,
+      1140,
+      1175,
+      1214,
+      1259,
+      1299,
+      1331,
+      1363,
+      1400,
+      2384
+    ]
+  },
+  "seal": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1243,
+      1267
+    ]
+  },
+  "search": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      41
+    ]
+  },
+  "second": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      662
+    ]
+  },
+  "see": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      70,
+      103,
+      711,
+      758,
+      813,
+      854,
+      897,
+      949,
+      992,
+      1031,
+      1069,
+      1101,
+      1133,
+      1168,
+      1207,
+      1252,
+      1292,
+      1324,
+      1356,
+      1393,
+      1803,
+      1902,
+      2011,
+      2072,
+      2141,
+      2381
+    ]
+  },
+  "segment": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1851,
+      1857,
+      1876,
+      1955,
+      1961,
+      1980
+    ]
+  },
+  "semant": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1250,
+      1265
+    ]
+  },
+  "separ": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1839,
+      1943
+    ]
+  },
+  "sequenc": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1836,
+      1940
+    ]
+  },
+  "serializ": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      55
+    ]
+  },
+  "set": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      943,
+      2342
+    ]
+  },
+  "shore": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      2431
+    ]
+  },
+  "should": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1680
+    ]
+  },
+  "similar": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1616
+    ]
+  },
+  "simpl": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      367,
+      708,
+      715,
+      1726
+    ]
+  },
+  "sinc": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      102,
+      853,
+      896,
+      948,
+      991,
+      1030,
+      1068,
+      1100,
+      1132,
+      1167,
+      1206,
+      1251,
+      1291,
+      1323,
+      1355,
+      1392,
+      2019,
+      2151,
+      2306,
+      2366
+    ]
+  },
+  "singl": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      939
+    ]
+  },
+  "situat": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1582,
+      1608
+    ]
+  },
+  "skip": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      2
+    ]
+  },
+  "small": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      864
+    ]
+  },
+  "so": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      2204
+    ]
+  },
+  "sort": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1606
+    ]
+  },
+  "sourc": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      63,
+      84,
+      89,
+      374,
+      396,
+      420,
+      440,
+      462,
+      470,
+      482,
+      501,
+      512,
+      1532,
+      1541,
+      1555,
+      1624,
+      1701,
+      1733,
+      1828,
+      1932,
+      2042,
+      2106,
+      2161,
+      2188,
+      2196,
+      2226,
+      2260,
+      2274,
+      2279,
+      2319,
+      2335,
+      2343,
+      2362
+    ]
+  },
+  "sourcevers": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      48,
+      60,
+      402,
+      446,
+      465,
+      477,
+      506,
+      523,
+      538,
+      590,
+      609,
+      642,
+      673,
+      694,
+      722,
+      797,
+      825,
+      875,
+      918,
+      971,
+      1009,
+      1050,
+      1082,
+      1114,
+      1149,
+      1184,
+      1227,
+      1273,
+      1305,
+      1337,
+      1369,
+      1413,
+      1450,
+      1527,
+      1550,
+      1916,
+      2088,
+      2155
+    ]
+  },
+  "sourceversionvalueofruntimeversionpars": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      2265
+    ]
+  },
+  "specif": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      78,
+      602,
+      635,
+      661,
+      740,
+      818,
+      859,
+      902,
+      954,
+      997,
+      1036,
+      1074,
+      1106,
+      1138,
+      1173,
+      1212,
+      1257,
+      1297,
+      1329,
+      1361,
+      1398,
+      1806,
+      1905,
+      2014,
+      2075,
+      2144
+    ]
+  },
+  "specifi": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      535,
+      1462,
+      1503,
+      1516
+    ]
+  },
+  "split": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1845,
+      1949
+    ]
+  },
+  "standard": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      146,
+      156,
+      166,
+      176,
+      186,
+      196,
+      206,
+      216,
+      226,
+      236,
+      246,
+      257,
+      267,
+      277,
+      288,
+      299,
+      309,
+      319,
+      329,
+      339,
+      651,
+      682,
+      703,
+      731,
+      806,
+      834,
+      884,
+      927,
+      980,
+      1018,
+      1059,
+      1091,
+      1123,
+      1158,
+      1193,
+      1236,
+      1282,
+      1314,
+      1346,
+      1378
+    ]
+  },
+  "static": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      353,
+      376,
+      398,
+      422,
+      442,
+      464,
+      476,
+      505,
+      522,
+      537,
+      588,
+      607,
+      640,
+      671,
+      692,
+      720,
+      791,
+      795,
+      823,
+      873,
+      916,
+      969,
+      1007,
+      1048,
+      1080,
+      1112,
+      1147,
+      1182,
+      1225,
+      1271,
+      1303,
+      1335,
+      1367,
+      1412,
+      1449,
+      1526,
+      1549,
+      1712,
+      1810,
+      1912,
+      2022,
+      2084,
+      2154
+    ]
+  },
+  "strictfp": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      667
+    ]
+  },
+  "string": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      846,
+      1465,
+      1782,
+      1786,
+      1793,
+      1848,
+      1887,
+      1894,
+      1952,
+      1991,
+      2003,
+      2054,
+      2118,
+      2253
+    ]
+  },
+  "subject": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      2438
+    ]
+  },
+  "suggest": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      2371
+    ]
+  },
+  "summari": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      19,
+      30,
+      108,
+      120,
+      342
+    ]
+  },
+  "support": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      485,
+      499,
+      746,
+      1558,
+      1638,
+      1704,
+      2317,
+      2333,
+      2360
+    ]
+  },
+  "switch": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      848,
+      1130,
+      1143,
+      1391,
+      1407
+    ]
+  },
+  "syntact": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      364,
+      433,
+      455,
+      1723,
+      1796,
+      1821,
+      1830,
+      1897,
+      1925,
+      1934,
+      2006
+    ]
+  },
+  "syntax": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      842,
+      1026,
+      1042
+    ]
+  },
+  "system": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      962
+    ]
+  },
+  "term": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      2397,
+      2441
+    ]
+  },
+  "text": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1165,
+      1178
+    ]
+  },
+  "than": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1595,
+      1649,
+      1653,
+      1694,
+      2178,
+      2299,
+      2346
+    ]
+  },
+  "that": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      87,
+      472,
+      498,
+      514,
+      1534,
+      1543,
+      1605,
+      2163,
+      2229,
+      2281,
+      2316,
+      2359
+    ]
+  },
+  "the": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      66,
+      71,
+      75,
+      100,
+      127,
+      131,
+      135,
+      139,
+      143,
+      149,
+      153,
+      159,
+      163,
+      169,
+      173,
+      179,
+      183,
+      189,
+      193,
+      199,
+      203,
+      209,
+      213,
+      219,
+      223,
+      229,
+      233,
+      239,
+      243,
+      250,
+      254,
+      260,
+      264,
+      270,
+      274,
+      281,
+      285,
+      292,
+      296,
+      302,
+      306,
+      312,
+      316,
+      322,
+      326,
+      332,
+      336,
+      372,
+      394,
+      418,
+      438,
+      460,
+      468,
+      480,
+      487,
+      494,
+      510,
+      518,
+      527,
+      534,
+      544,
+      551,
+      592,
+      595,
+      599,
+      611,
+      615,
+      618,
+      629,
+      632,
+      644,
+      648,
+      654,
+      658,
+      666,
+      675,
+      679,
+      696,
+      700,
+      724,
+      728,
+      733,
+      737,
+      765,
+      774,
+      780,
+      799,
+      803,
+      815,
+      827,
+      831,
+      856,
+      867,
+      877,
+      881,
+      899,
+      910,
+      920,
+      924,
+      942,
+      951,
+      973,
+      977,
+      994,
+      1011,
+      1015,
+      1033,
+      1052,
+      1056,
+      1065,
+      1071,
+      1084,
+      1088,
+      1097,
+      1103,
+      1116,
+      1120,
+      1135,
+      1151,
+      1155,
+      1170,
+      1186,
+      1190,
+      1209,
+      1229,
+      1233,
+      1254,
+      1275,
+      1279,
+      1288,
+      1294,
+      1307,
+      1311,
+      1320,
+      1326,
+      1339,
+      1343,
+      1352,
+      1358,
+      1371,
+      1375,
+      1395,
+      1419,
+      1426,
+      1435,
+      1442,
+      1454,
+      1461,
+      1464,
+      1488,
+      1491,
+      1498,
+      1502,
+      1515,
+      1520,
+      1530,
+      1539,
+      1553,
+      1560,
+      1584,
+      1596,
+      1601,
+      1620,
+      1640,
+      1674,
+      1678,
+      1687,
+      1695,
+      1699,
+      1706,
+      1731,
+      1735,
+      1740,
+      1770,
+      1775,
+      1785,
+      1826,
+      1846,
+      1871,
+      1886,
+      1930,
+      1950,
+      1975,
+      1990,
+      1995,
+      2040,
+      2053,
+      2079,
+      2104,
+      2117,
+      2122,
+      2148,
+      2159,
+      2167,
+      2172,
+      2179,
+      2182,
+      2186,
+      2195,
+      2199,
+      2211,
+      2222,
+      2233,
+      2238,
+      2243,
+      2258,
+      2277,
+      2285,
+      2292,
+      2300,
+      2303,
+      2312,
+      2323,
+      2355,
+      2382,
+      2418,
+      2443
+    ]
+  },
+  "they": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      553,
+      1428,
+      1444
+    ]
+  },
+  "third": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      741,
+      819
+    ]
+  },
+  "this": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      500,
+      531,
+      547,
+      838,
+      888,
+      931,
+      984,
+      1022,
+      1127,
+      1162,
+      1197,
+      1240,
+      1382,
+      1422,
+      1438,
+      1458,
+      1478,
+      1508,
+      1572,
+      1635,
+      1761,
+      1792,
+      1843,
+      1862,
+      1877,
+      1893,
+      1947,
+      1966,
+      1981,
+      2002,
+      2044,
+      2108,
+      2318,
+      2334,
+      2361
+    ]
+  },
+  "throw": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1505,
+      2289
+    ]
+  },
+  "thrown": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      2193
+    ]
+  },
+  "to": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      95,
+      631,
+      745,
+      764,
+      866,
+      1472,
+      1494,
+      1578,
+      1622,
+      1671,
+      1686,
+      1787,
+      1855,
+      1888,
+      1959,
+      1992,
+      1997,
+      2055,
+      2119,
+      2124,
+      2220,
+      2224,
+      2249,
+      2257,
+      2270,
+      2272,
+      2332,
+      2349,
+      2439
+    ]
+  },
+  "tool": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1617
+    ]
+  },
+  "tostr": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      570
+    ]
+  },
+  "trademark": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      2408,
+      2411
+    ]
+  },
+  "tree": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      13
+    ]
+  },
+  "true": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1738,
+      1751,
+      1760,
+      1772,
+      1790,
+      1880,
+      1891,
+      1984,
+      2000,
+      2058,
+      2127
+    ]
+  },
+  "trywithresourc": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      845
+    ]
+  },
+  "turn": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1859,
+      1963
+    ]
+  },
+  "type": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      350,
+      763,
+      988,
+      1003
+    ]
+  },
+  "under": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      517,
+      1673,
+      2166,
+      2284
+    ]
+  },
+  "underscor": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      940
+    ]
+  },
+  "unlik": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1860,
+      1964
+    ]
+  },
+  "up": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1685
+    ]
+  },
+  "updat": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      630
+    ]
+  },
+  "us": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      2419
+    ]
+  },
+  "usaal": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      2433
+    ]
+  },
+  "usabl": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      516,
+      2165,
+      2283
+    ]
+  },
+  "use": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      12,
+      1471,
+      1619,
+      1682,
+      1998,
+      2125,
+      2436
+    ]
+  },
+  "v": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      248,
+      279,
+      290,
+      653,
+      684,
+      705
+    ]
+  },
+  "valid": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      365,
+      434,
+      456,
+      1724,
+      1797,
+      1822,
+      1898,
+      1926,
+      2007
+    ]
+  },
+  "valu": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      539,
+      1410,
+      1414,
+      2254
+    ]
+  },
+  "valueof": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      571,
+      1447,
+      2152
+    ]
+  },
+  "valueofruntimevers": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      507,
+      2156
+    ]
+  },
+  "valueofstr": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      524,
+      1451
+    ]
+  },
+  "var": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      990
+    ]
+  },
+  "vararg": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      750
+    ]
+  },
+  "version": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      64,
+      85,
+      90,
+      129,
+      132,
+      140,
+      150,
+      160,
+      170,
+      180,
+      190,
+      200,
+      210,
+      220,
+      230,
+      240,
+      251,
+      261,
+      271,
+      282,
+      293,
+      303,
+      313,
+      323,
+      333,
+      375,
+      397,
+      403,
+      421,
+      441,
+      447,
+      463,
+      471,
+      483,
+      497,
+      502,
+      513,
+      520,
+      594,
+      612,
+      645,
+      676,
+      697,
+      725,
+      800,
+      828,
+      878,
+      921,
+      974,
+      1012,
+      1053,
+      1085,
+      1117,
+      1152,
+      1187,
+      1230,
+      1276,
+      1308,
+      1340,
+      1372,
+      1533,
+      1542,
+      1556,
+      1593,
+      1598,
+      1625,
+      1631,
+      1647,
+      1702,
+      1734,
+      1829,
+      1917,
+      1933,
+      1994,
+      1996,
+      2043,
+      2089,
+      2107,
+      2121,
+      2123,
+      2162,
+      2169,
+      2174,
+      2184,
+      2189,
+      2197,
+      2217,
+      2227,
+      2240,
+      2261,
+      2269,
+      2275,
+      2280,
+      2287,
+      2295,
+      2305,
+      2315,
+      2320,
+      2326,
+      2336,
+      2344,
+      2358,
+      2363,
+      2404
+    ]
+  },
+  "wait": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      580,
+      581,
+      582
+    ]
+  },
+  "was": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1668
+    ]
+  },
+  "way": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1604
+    ]
+  },
+  "where": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1583
+    ]
+  },
+  "whether": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      358,
+      381,
+      405,
+      427,
+      449,
+      1717,
+      1815,
+      1919,
+      2027,
+      2091
+    ]
+  },
+  "which": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      664,
+      1690,
+      1748,
+      1757,
+      2386
+    ]
+  },
+  "while": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1627
+    ]
+  },
+  "whitespac": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1481
+    ]
+  },
+  "will": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      92
+    ]
+  },
+  "with": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      533,
+      623,
+      784,
+      1460,
+      1501,
+      1514,
+      2392
+    ]
+  },
+  "work": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1659,
+      2400
+    ]
+  },
+  "workaround": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      2398
+    ]
+  }
+}

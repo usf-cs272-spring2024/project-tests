@@ -1,0 +1,38 @@
+{
+  "gone": {
+    "https://www.cs.usfca.edu/~cs272/redirect/index.html": [
+      2
+    ]
+  },
+  "hello": {
+    "https://www.cs.usfca.edu/~cs272/redirect/one": [
+      1,
+      3,
+      5,
+      7
+    ]
+  },
+  "loop": {
+    "https://www.cs.usfca.edu/~cs272/redirect/index.html": [
+      3
+    ]
+  },
+  "nowher": {
+    "https://www.cs.usfca.edu/~cs272/redirect/index.html": [
+      1
+    ]
+  },
+  "redirect": {
+    "https://www.cs.usfca.edu/~cs272/redirect/index.html": [
+      4
+    ]
+  },
+  "world": {
+    "https://www.cs.usfca.edu/~cs272/redirect/one": [
+      2,
+      4,
+      6,
+      8
+    ]
+  }
+}

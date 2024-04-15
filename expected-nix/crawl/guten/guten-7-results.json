@@ -1,0 +1,2729 @@
+{
+  "a": [
+    {
+      "count": 1382,
+      "score": 0.12596846,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/50468-h/50468-h.htm"
+    },
+    {
+      "count": 21847,
+      "score": 0.11649994,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1400-h/1400-h.htm"
+    },
+    {
+      "count": 14104,
+      "score": 0.11208239,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1322-h/1322-h.htm"
+    },
+    {
+      "count": 23990,
+      "score": 0.11135454,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/2701-h/2701-h.htm"
+    },
+    {
+      "count": 11718,
+      "score": 0.10907568,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1661-h/1661-h.htm"
+    },
+    {
+      "count": 6599,
+      "score": 0.10420022,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/22577-h/22577-h.htm"
+    },
+    {
+      "count": 4,
+      "score": 0.07272727,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/"
+    }
+  ],
+  "a e i o u": [
+    {
+      "count": 3773,
+      "score": 0.34390666,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/50468-h/50468-h.htm"
+    },
+    {
+      "count": 18930,
+      "score": 0.29891047,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/22577-h/22577-h.htm"
+    },
+    {
+      "count": 54432,
+      "score": 0.29026065,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1400-h/1400-h.htm"
+    },
+    {
+      "count": 36302,
+      "score": 0.28848660,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1322-h/1322-h.htm"
+    },
+    {
+      "count": 30640,
+      "score": 0.28520897,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1661-h/1661-h.htm"
+    },
+    {
+      "count": 59848,
+      "score": 0.27779686,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/2701-h/2701-h.htm"
+    },
+    {
+      "count": 11,
+      "score": 0.20000000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/"
+    }
+  ],
+  "a j m q": [
+    {
+      "count": 34313,
+      "score": 0.18297534,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1400-h/1400-h.htm"
+    },
+    {
+      "count": 20858,
+      "score": 0.16575543,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1322-h/1322-h.htm"
+    },
+    {
+      "count": 17582,
+      "score": 0.16366006,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1661-h/1661-h.htm"
+    },
+    {
+      "count": 1763,
+      "score": 0.16069638,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/50468-h/50468-h.htm"
+    },
+    {
+      "count": 33935,
+      "score": 0.15751632,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/2701-h/2701-h.htm"
+    },
+    {
+      "count": 9367,
+      "score": 0.14790778,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/22577-h/22577-h.htm"
+    },
+    {
+      "count": 7,
+      "score": 0.12727273,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/"
+    }
+  ],
+  "aa ae ai ao au": [
+    {
+      "count": 22,
+      "score": 0.00200529,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/50468-h/50468-h.htm"
+    },
+    {
+      "count": 218,
+      "score": 0.00173241,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1322-h/1322-h.htm"
+    },
+    {
+      "count": 103,
+      "score": 0.00162640,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/22577-h/22577-h.htm"
+    },
+    {
+      "count": 266,
+      "score": 0.00123469,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/2701-h/2701-h.htm"
+    },
+    {
+      "count": 212,
+      "score": 0.00113050,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1400-h/1400-h.htm"
+    },
+    {
+      "count": 58,
+      "score": 0.00053989,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1661-h/1661-h.htm"
+    }
+  ],
+  "aa bl br ch cl cr dr fl fr gn kn ph pl pr rh sh sq st th tw wh": [
+    {
+      "count": 15,
+      "score": 0.27272727,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/"
+    },
+    {
+      "count": 46607,
+      "score": 0.21633602,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/2701-h/2701-h.htm"
+    },
+    {
+      "count": 27013,
+      "score": 0.21466830,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1322-h/1322-h.htm"
+    },
+    {
+      "count": 20077,
+      "score": 0.18688448,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1661-h/1661-h.htm"
+    },
+    {
+      "count": 11670,
+      "score": 0.18427286,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/22577-h/22577-h.htm"
+    },
+    {
+      "count": 1965,
+      "score": 0.17910856,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/50468-h/50468-h.htm"
+    },
+    {
+      "count": 30942,
+      "score": 0.16499936,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1400-h/1400-h.htm"
+    }
+  ],
+  "ab ac at az ec ex fa iw je me od op qu ug uy": [
+    {
+      "count": 7437,
+      "score": 0.03965808,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1400-h/1400-h.htm"
+    },
+    {
+      "count": 2,
+      "score": 0.03636364,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/"
+    },
+    {
+      "count": 3861,
+      "score": 0.03593968,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1661-h/1661-h.htm"
+    },
+    {
+      "count": 369,
+      "score": 0.03363413,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/50468-h/50468-h.htm"
+    },
+    {
+      "count": 4207,
+      "score": 0.03343240,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1322-h/1322-h.htm"
+    },
+    {
+      "count": 2005,
+      "score": 0.03165956,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/22577-h/22577-h.htm"
+    },
+    {
+      "count": 6616,
+      "score": 0.03070953,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/2701-h/2701-h.htm"
+    }
+  ],
+  "abcdefghijklmnopqrstuvwxyz": [
+  ],
+  "ad ap as de eb em gu il is og os qe to uc ux ye": [
+    {
+      "count": 949,
+      "score": 0.08650077,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/50468-h/50468-h.htm"
+    },
+    {
+      "count": 5136,
+      "score": 0.08109901,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/22577-h/22577-h.htm"
+    },
+    {
+      "count": 7059,
+      "score": 0.06570790,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1661-h/1661-h.htm"
+    },
+    {
+      "count": 11776,
+      "score": 0.06279596,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1400-h/1400-h.htm"
+    },
+    {
+      "count": 13389,
+      "score": 0.06214781,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/2701-h/2701-h.htm"
+    },
+    {
+      "count": 7486,
+      "score": 0.05949013,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1322-h/1322-h.htm"
+    },
+    {
+      "count": 1,
+      "score": 0.01818182,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/"
+    }
+  ],
+  "af ax ca ed el iq iz ov so ta tu ud uj": [
+    {
+      "count": 7504,
+      "score": 0.03483137,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/2701-h/2701-h.htm"
+    },
+    {
+      "count": 329,
+      "score": 0.02998815,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/50468-h/50468-h.htm"
+    },
+    {
+      "count": 3752,
+      "score": 0.02981659,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1322-h/1322-h.htm"
+    },
+    {
+      "count": 3068,
+      "score": 0.02855813,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1661-h/1661-h.htm"
+    },
+    {
+      "count": 5008,
+      "score": 0.02670535,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1400-h/1400-h.htm"
+    },
+    {
+      "count": 1590,
+      "score": 0.02510658,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/22577-h/22577-h.htm"
+    },
+    {
+      "count": 1,
+      "score": 0.01818182,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/"
+    }
+  ],
+  "ag do eh ek eq er ev fi im ju nu oq pi ra te we za zi": [
+    {
+      "count": 8594,
+      "score": 0.04582782,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1400-h/1400-h.htm"
+    },
+    {
+      "count": 2735,
+      "score": 0.04318648,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/22577-h/22577-h.htm"
+    },
+    {
+      "count": 4526,
+      "score": 0.04212976,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1661-h/1661-h.htm"
+    },
+    {
+      "count": 8244,
+      "score": 0.03826623,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/2701-h/2701-h.htm"
+    },
+    {
+      "count": 4524,
+      "score": 0.03595156,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1322-h/1322-h.htm"
+    },
+    {
+      "count": 333,
+      "score": 0.03035275,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/50468-h/50468-h.htm"
+    },
+    {
+      "count": 1,
+      "score": 0.01818182,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/"
+    }
+  ],
+  "ah da di du es go hi ir oj qa ul us uw yi": [
+    {
+      "count": 3,
+      "score": 0.05454545,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/"
+    },
+    {
+      "count": 8802,
+      "score": 0.04085630,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/2701-h/2701-h.htm"
+    },
+    {
+      "count": 7333,
+      "score": 0.03910349,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1400-h/1400-h.htm"
+    },
+    {
+      "count": 2447,
+      "score": 0.03863888,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/22577-h/22577-h.htm"
+    },
+    {
+      "count": 3657,
+      "score": 0.03404077,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1661-h/1661-h.htm"
+    },
+    {
+      "count": 3182,
+      "score": 0.02528688,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1322-h/1322-h.htm"
+    },
+    {
+      "count": 266,
+      "score": 0.02424574,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/50468-h/50468-h.htm"
+    }
+  ],
+  "aj fe id ih ij ke la su up uq ya": [
+    {
+      "count": 5126,
+      "score": 0.02379339,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/2701-h/2701-h.htm"
+    },
+    {
+      "count": 2529,
+      "score": 0.02354091,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1661-h/1661-h.htm"
+    },
+    {
+      "count": 2638,
+      "score": 0.02096379,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1322-h/1322-h.htm"
+    },
+    {
+      "count": 3776,
+      "score": 0.02013566,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1400-h/1400-h.htm"
+    },
+    {
+      "count": 216,
+      "score": 0.01968827,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/50468-h/50468-h.htm"
+    },
+    {
+      "count": 1083,
+      "score": 0.01710090,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/22577-h/22577-h.htm"
+    }
+  ],
+  "ak ef ep he ji ka li oz pu qi qo ri ro sa un ve xa": [
+    {
+      "count": 12050,
+      "score": 0.06425707,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1400-h/1400-h.htm"
+    },
+    {
+      "count": 6145,
+      "score": 0.05720004,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1661-h/1661-h.htm"
+    },
+    {
+      "count": 11107,
+      "score": 0.05155544,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/2701-h/2701-h.htm"
+    },
+    {
+      "count": 3068,
+      "score": 0.04844465,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/22577-h/22577-h.htm"
+    },
+    {
+      "count": 5748,
+      "score": 0.04567850,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1322-h/1322-h.htm"
+    },
+    {
+      "count": 420,
+      "score": 0.03828275,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/50468-h/50468-h.htm"
+    },
+    {
+      "count": 2,
+      "score": 0.03636364,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/"
+    }
+  ],
+  "al an be ho ut va wa": [
+    {
+      "count": 18605,
+      "score": 0.09921185,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1400-h/1400-h.htm"
+    },
+    {
+      "count": 9918,
+      "score": 0.09232058,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1661-h/1661-h.htm"
+    },
+    {
+      "count": 11510,
+      "score": 0.09146826,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1322-h/1322-h.htm"
+    },
+    {
+      "count": 18493,
+      "score": 0.08583908,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/2701-h/2701-h.htm"
+    },
+    {
+      "count": 847,
+      "score": 0.07720354,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/50468-h/50468-h.htm"
+    },
+    {
+      "count": 4778,
+      "score": 0.07544608,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/22577-h/22577-h.htm"
+    },
+    {
+      "count": 4,
+      "score": 0.07272727,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/"
+    }
+  ],
+  "am ay ba bu eg ey fu ik lo ma mo po se uf uk um vu wo zu": [
+    {
+      "count": 8757,
+      "score": 0.06959058,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1322-h/1322-h.htm"
+    },
+    {
+      "count": 14787,
+      "score": 0.06863692,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/2701-h/2701-h.htm"
+    },
+    {
+      "count": 4190,
+      "score": 0.06616138,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/22577-h/22577-h.htm"
+    },
+    {
+      "count": 6585,
+      "score": 0.06129573,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1661-h/1661-h.htm"
+    },
+    {
+      "count": 10994,
+      "score": 0.05862591,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1400-h/1400-h.htm"
+    },
+    {
+      "count": 3,
+      "score": 0.05454545,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/"
+    },
+    {
+      "count": 535,
+      "score": 0.04876493,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/50468-h/50468-h.htm"
+    }
+  ],
+  "aq ki le ob uz": [
+    {
+      "count": 1,
+      "score": 0.01818182,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/"
+    },
+    {
+      "count": 580,
+      "score": 0.00915838,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/22577-h/22577-h.htm"
+    },
+    {
+      "count": 1706,
+      "score": 0.00791875,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/2701-h/2701-h.htm"
+    },
+    {
+      "count": 812,
+      "score": 0.00755841,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1661-h/1661-h.htm"
+    },
+    {
+      "count": 1166,
+      "score": 0.00621774,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1400-h/1400-h.htm"
+    },
+    {
+      "count": 751,
+      "score": 0.00596809,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1322-h/1322-h.htm"
+    },
+    {
+      "count": 44,
+      "score": 0.00401057,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/50468-h/50468-h.htm"
+    }
+  ],
+  "ar bo ga gi ha if ig in it lu no ok or ow ti ub uv wi xi yo": [
+    {
+      "count": 15074,
+      "score": 0.14031462,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1661-h/1661-h.htm"
+    },
+    {
+      "count": 25579,
+      "score": 0.13640096,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1400-h/1400-h.htm"
+    },
+    {
+      "count": 8544,
+      "score": 0.13491236,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/22577-h/22577-h.htm"
+    },
+    {
+      "count": 1399,
+      "score": 0.12751800,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/50468-h/50468-h.htm"
+    },
+    {
+      "count": 15817,
+      "score": 0.12569535,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1322-h/1322-h.htm"
+    },
+    {
+      "count": 26591,
+      "score": 0.12342762,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/2701-h/2701-h.htm"
+    },
+    {
+      "count": 3,
+      "score": 0.05454545,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/"
+    }
+  ],
+  "av aw ce ip ix ne ni si": [
+    {
+      "count": 2012,
+      "score": 0.01598907,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1322-h/1322-h.htm"
+    },
+    {
+      "count": 1000,
+      "score": 0.01579030,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/22577-h/22577-h.htm"
+    },
+    {
+      "count": 1475,
+      "score": 0.01372987,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1661-h/1661-h.htm"
+    },
+    {
+      "count": 2860,
+      "score": 0.01327528,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/2701-h/2701-h.htm"
+    },
+    {
+      "count": 2397,
+      "score": 0.01278209,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1400-h/1400-h.htm"
+    },
+    {
+      "count": 96,
+      "score": 0.00875034,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/50468-h/50468-h.htm"
+    }
+  ],
+  "b": [
+    {
+      "count": 6,
+      "score": 0.10909091,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/"
+    },
+    {
+      "count": 11062,
+      "score": 0.05134656,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/2701-h/2701-h.htm"
+    },
+    {
+      "count": 8720,
+      "score": 0.04649972,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1400-h/1400-h.htm"
+    },
+    {
+      "count": 2908,
+      "score": 0.04591821,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/22577-h/22577-h.htm"
+    },
+    {
+      "count": 4564,
+      "score": 0.04248348,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1661-h/1661-h.htm"
+    },
+    {
+      "count": 5285,
+      "score": 0.04199911,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1322-h/1322-h.htm"
+    },
+    {
+      "count": 457,
+      "score": 0.04165527,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/50468-h/50468-h.htm"
+    }
+  ],
+  "b k": [
+    {
+      "count": 6,
+      "score": 0.10909091,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/"
+    },
+    {
+      "count": 12006,
+      "score": 0.05572833,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/2701-h/2701-h.htm"
+    },
+    {
+      "count": 9950,
+      "score": 0.05305874,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1400-h/1400-h.htm"
+    },
+    {
+      "count": 3097,
+      "score": 0.04890257,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/22577-h/22577-h.htm"
+    },
+    {
+      "count": 5111,
+      "score": 0.04757517,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1661-h/1661-h.htm"
+    },
+    {
+      "count": 5832,
+      "score": 0.04634604,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1322-h/1322-h.htm"
+    },
+    {
+      "count": 497,
+      "score": 0.04530125,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/50468-h/50468-h.htm"
+    }
+  ],
+  "ba be bi bo bu": [
+    {
+      "count": 8430,
+      "score": 0.03912959,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/2701-h/2701-h.htm"
+    },
+    {
+      "count": 2336,
+      "score": 0.03688615,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/22577-h/22577-h.htm"
+    },
+    {
+      "count": 6828,
+      "score": 0.03641056,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1400-h/1400-h.htm"
+    },
+    {
+      "count": 3575,
+      "score": 0.03327748,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1661-h/1661-h.htm"
+    },
+    {
+      "count": 3703,
+      "score": 0.02942719,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1322-h/1322-h.htm"
+    },
+    {
+      "count": 321,
+      "score": 0.02925896,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/50468-h/50468-h.htm"
+    }
+  ],
+  "bi cu et ge ib ol om ot ru vo yu zo": [
+    {
+      "count": 853,
+      "score": 0.01346913,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/22577-h/22577-h.htm"
+    },
+    {
+      "count": 2640,
+      "score": 0.01225411,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/2701-h/2701-h.htm"
+    },
+    {
+      "count": 1423,
+      "score": 0.01130837,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1322-h/1322-h.htm"
+    },
+    {
+      "count": 119,
+      "score": 0.01084678,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/50468-h/50468-h.htm"
+    },
+    {
+      "count": 1851,
+      "score": 0.00987053,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1400-h/1400-h.htm"
+    },
+    {
+      "count": 940,
+      "score": 0.00874988,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1661-h/1661-h.htm"
+    }
+  ],
+  "c": [
+    {
+      "count": 6,
+      "score": 0.10909091,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/"
+    },
+    {
+      "count": 690,
+      "score": 0.06289308,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/50468-h/50468-h.htm"
+    },
+    {
+      "count": 2888,
+      "score": 0.04560240,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/22577-h/22577-h.htm"
+    },
+    {
+      "count": 8603,
+      "score": 0.03993260,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/2701-h/2701-h.htm"
+    },
+    {
+      "count": 4149,
+      "score": 0.03862050,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1661-h/1661-h.htm"
+    },
+    {
+      "count": 4758,
+      "score": 0.03781112,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1322-h/1322-h.htm"
+    },
+    {
+      "count": 6462,
+      "score": 0.03445885,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1400-h/1400-h.htm"
+    }
+  ],
+  "c i l n x y": [
+    {
+      "count": 2299,
+      "score": 0.20955246,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/50468-h/50468-h.htm"
+    },
+    {
+      "count": 21135,
+      "score": 0.19673276,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1661-h/1661-h.htm"
+    },
+    {
+      "count": 11920,
+      "score": 0.18822043,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/22577-h/22577-h.htm"
+    },
+    {
+      "count": 23485,
+      "score": 0.18663181,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1322-h/1322-h.htm"
+    },
+    {
+      "count": 34875,
+      "score": 0.18597223,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1400-h/1400-h.htm"
+    },
+    {
+      "count": 36607,
+      "score": 0.16991896,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/2701-h/2701-h.htm"
+    },
+    {
+      "count": 7,
+      "score": 0.12727273,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/"
+    }
+  ],
+  "ca ce ci co cu": [
+    {
+      "count": 5,
+      "score": 0.09090909,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/"
+    },
+    {
+      "count": 597,
+      "score": 0.05441619,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/50468-h/50468-h.htm"
+    },
+    {
+      "count": 2219,
+      "score": 0.03503869,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/22577-h/22577-h.htm"
+    },
+    {
+      "count": 3035,
+      "score": 0.02825095,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1661-h/1661-h.htm"
+    },
+    {
+      "count": 6042,
+      "score": 0.02804519,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/2701-h/2701-h.htm"
+    },
+    {
+      "count": 3289,
+      "score": 0.02613719,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1322-h/1322-h.htm"
+    },
+    {
+      "count": 4765,
+      "score": 0.02540954,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1400-h/1400-h.htm"
+    }
+  ],
+  "ci ew hu ic mi mu na on pe xe": [
+    {
+      "count": 6536,
+      "score": 0.03033819,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/2701-h/2701-h.htm"
+    },
+    {
+      "count": 3643,
+      "score": 0.02895038,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1322-h/1322-h.htm"
+    },
+    {
+      "count": 5234,
+      "score": 0.02791050,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1400-h/1400-h.htm"
+    },
+    {
+      "count": 1681,
+      "score": 0.02654350,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/22577-h/22577-h.htm"
+    },
+    {
+      "count": 2652,
+      "score": 0.02468584,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1661-h/1661-h.htm"
+    },
+    {
+      "count": 266,
+      "score": 0.02424574,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/50468-h/50468-h.htm"
+    }
+  ],
+  "co ej fo iv ja oc uh vi wu": [
+    {
+      "count": 6,
+      "score": 0.10909091,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/"
+    },
+    {
+      "count": 753,
+      "score": 0.06863549,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/50468-h/50468-h.htm"
+    },
+    {
+      "count": 2736,
+      "score": 0.04320227,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/22577-h/22577-h.htm"
+    },
+    {
+      "count": 6101,
+      "score": 0.03253381,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1400-h/1400-h.htm"
+    },
+    {
+      "count": 3385,
+      "score": 0.03150889,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1661-h/1661-h.htm"
+    },
+    {
+      "count": 6759,
+      "score": 0.03137330,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/2701-h/2701-h.htm"
+    },
+    {
+      "count": 3920,
+      "score": 0.03115166,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1322-h/1322-h.htm"
+    }
+  ],
+  "d": [
+    {
+      "count": 4,
+      "score": 0.07272727,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/"
+    },
+    {
+      "count": 427,
+      "score": 0.03892079,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/50468-h/50468-h.htm"
+    },
+    {
+      "count": 1861,
+      "score": 0.02938576,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/22577-h/22577-h.htm"
+    },
+    {
+      "count": 3634,
+      "score": 0.02887886,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1322-h/1322-h.htm"
+    },
+    {
+      "count": 5311,
+      "score": 0.02832110,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1400-h/1400-h.htm"
+    },
+    {
+      "count": 3023,
+      "score": 0.02813925,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1661-h/1661-h.htm"
+    },
+    {
+      "count": 5851,
+      "score": 0.02715863,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/2701-h/2701-h.htm"
+    }
+  ],
+  "d e f r t u": [
+    {
+      "count": 3476,
+      "score": 0.31683529,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/50468-h/50468-h.htm"
+    },
+    {
+      "count": 36887,
+      "score": 0.29313551,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1322-h/1322-h.htm"
+    },
+    {
+      "count": 17845,
+      "score": 0.28177799,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/22577-h/22577-h.htm"
+    },
+    {
+      "count": 60549,
+      "score": 0.28105070,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/2701-h/2701-h.htm"
+    },
+    {
+      "count": 27844,
+      "score": 0.25918272,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1661-h/1661-h.htm"
+    },
+    {
+      "count": 14,
+      "score": 0.25454545,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/"
+    },
+    {
+      "count": 45638,
+      "score": 0.24336632,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1400-h/1400-h.htm"
+    }
+  ],
+  "da de di do du": [
+    {
+      "count": 4,
+      "score": 0.07272727,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/"
+    },
+    {
+      "count": 409,
+      "score": 0.03728010,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/50468-h/50468-h.htm"
+    },
+    {
+      "count": 1775,
+      "score": 0.02802779,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/22577-h/22577-h.htm"
+    },
+    {
+      "count": 3158,
+      "score": 0.02509616,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1322-h/1322-h.htm"
+    },
+    {
+      "count": 4706,
+      "score": 0.02509492,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1400-h/1400-h.htm"
+    },
+    {
+      "count": 2654,
+      "score": 0.02470446,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1661-h/1661-h.htm"
+    },
+    {
+      "count": 5276,
+      "score": 0.02448964,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/2701-h/2701-h.htm"
+    }
+  ],
+  "e": [
+    {
+      "count": 502,
+      "score": 0.04575700,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/50468-h/50468-h.htm"
+    },
+    {
+      "count": 2,
+      "score": 0.03636364,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/"
+    },
+    {
+      "count": 1696,
+      "score": 0.02678036,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/22577-h/22577-h.htm"
+    },
+    {
+      "count": 2769,
+      "score": 0.02200483,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1322-h/1322-h.htm"
+    },
+    {
+      "count": 4031,
+      "score": 0.01871072,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/2701-h/2701-h.htm"
+    },
+    {
+      "count": 1856,
+      "score": 0.01727637,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1661-h/1661-h.htm"
+    },
+    {
+      "count": 3144,
+      "score": 0.01676550,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1400-h/1400-h.htm"
+    }
+  ],
+  "ea ee ei eo eu": [
+    {
+      "count": 66,
+      "score": 0.00601586,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/50468-h/50468-h.htm"
+    },
+    {
+      "count": 656,
+      "score": 0.00521313,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1322-h/1322-h.htm"
+    },
+    {
+      "count": 284,
+      "score": 0.00448445,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/22577-h/22577-h.htm"
+    },
+    {
+      "count": 539,
+      "score": 0.00250188,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/2701-h/2701-h.htm"
+    },
+    {
+      "count": 233,
+      "score": 0.00216885,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1661-h/1661-h.htm"
+    },
+    {
+      "count": 336,
+      "score": 0.00179173,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1400-h/1400-h.htm"
+    }
+  ],
+  "en iy of": [
+    {
+      "count": 3,
+      "score": 0.05454545,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/"
+    },
+    {
+      "count": 4990,
+      "score": 0.03965479,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1322-h/1322-h.htm"
+    },
+    {
+      "count": 2508,
+      "score": 0.03960208,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/22577-h/22577-h.htm"
+    },
+    {
+      "count": 7878,
+      "score": 0.03656737,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/2701-h/2701-h.htm"
+    },
+    {
+      "count": 389,
+      "score": 0.03545711,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/50468-h/50468-h.htm"
+    },
+    {
+      "count": 3294,
+      "score": 0.03066183,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1661-h/1661-h.htm"
+    },
+    {
+      "count": 5338,
+      "score": 0.02846508,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1400-h/1400-h.htm"
+    }
+  ],
+  "ez jo pa ze": [
+    {
+      "count": 1038,
+      "score": 0.01639034,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/22577-h/22577-h.htm"
+    },
+    {
+      "count": 134,
+      "score": 0.01221402,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/50468-h/50468-h.htm"
+    },
+    {
+      "count": 1753,
+      "score": 0.00934794,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1400-h/1400-h.htm"
+    },
+    {
+      "count": 1143,
+      "score": 0.00908325,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1322-h/1322-h.htm"
+    },
+    {
+      "count": 1432,
+      "score": 0.00664692,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/2701-h/2701-h.htm"
+    },
+    {
+      "count": 675,
+      "score": 0.00628316,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1661-h/1661-h.htm"
+    }
+  ],
+  "f": [
+    {
+      "count": 567,
+      "score": 0.05168171,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/50468-h/50468-h.htm"
+    },
+    {
+      "count": 5564,
+      "score": 0.04421628,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1322-h/1322-h.htm"
+    },
+    {
+      "count": 8369,
+      "score": 0.03884644,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/2701-h/2701-h.htm"
+    },
+    {
+      "count": 3890,
+      "score": 0.03620962,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1661-h/1661-h.htm"
+    },
+    {
+      "count": 2289,
+      "score": 0.03614401,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/22577-h/22577-h.htm"
+    },
+    {
+      "count": 5810,
+      "score": 0.03098204,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1400-h/1400-h.htm"
+    },
+    {
+      "count": 1,
+      "score": 0.01818182,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/"
+    }
+  ],
+  "fa fe fi fo fu": [
+    {
+      "count": 484,
+      "score": 0.04411631,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/50468-h/50468-h.htm"
+    },
+    {
+      "count": 3915,
+      "score": 0.03111192,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1322-h/1322-h.htm"
+    },
+    {
+      "count": 1910,
+      "score": 0.03015948,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/22577-h/22577-h.htm"
+    },
+    {
+      "count": 6166,
+      "score": 0.02862076,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/2701-h/2701-h.htm"
+    },
+    {
+      "count": 2891,
+      "score": 0.02691055,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1661-h/1661-h.htm"
+    },
+    {
+      "count": 4682,
+      "score": 0.02496694,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1400-h/1400-h.htm"
+    },
+    {
+      "count": 1,
+      "score": 0.01818182,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/"
+    }
+  ],
+  "g": [
+    {
+      "count": 3,
+      "score": 0.05454545,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/"
+    },
+    {
+      "count": 1255,
+      "score": 0.01981683,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/22577-h/22577-h.htm"
+    },
+    {
+      "count": 2388,
+      "score": 0.01897708,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1322-h/1322-h.htm"
+    },
+    {
+      "count": 3492,
+      "score": 0.01862122,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1400-h/1400-h.htm"
+    },
+    {
+      "count": 3593,
+      "score": 0.01667765,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/2701-h/2701-h.htm"
+    },
+    {
+      "count": 1675,
+      "score": 0.01559155,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1661-h/1661-h.htm"
+    },
+    {
+      "count": 151,
+      "score": 0.01376356,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/50468-h/50468-h.htm"
+    }
+  ],
+  "g h p w z": [
+    {
+      "count": 13,
+      "score": 0.23636364,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/"
+    },
+    {
+      "count": 38001,
+      "score": 0.20264174,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1400-h/1400-h.htm"
+    },
+    {
+      "count": 21200,
+      "score": 0.19733780,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1661-h/1661-h.htm"
+    },
+    {
+      "count": 11496,
+      "score": 0.18152534,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/22577-h/22577-h.htm"
+    },
+    {
+      "count": 38180,
+      "score": 0.17722036,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/2701-h/2701-h.htm"
+    },
+    {
+      "count": 18547,
+      "score": 0.14739025,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1322-h/1322-h.htm"
+    },
+    {
+      "count": 1475,
+      "score": 0.13444536,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/50468-h/50468-h.htm"
+    }
+  ],
+  "ga ge gi go gu": [
+    {
+      "count": 879,
+      "score": 0.01387968,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/22577-h/22577-h.htm"
+    },
+    {
+      "count": 2497,
+      "score": 0.01331534,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1400-h/1400-h.htm"
+    },
+    {
+      "count": 125,
+      "score": 0.01139367,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/50468-h/50468-h.htm"
+    },
+    {
+      "count": 1204,
+      "score": 0.01120730,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1661-h/1661-h.htm"
+    },
+    {
+      "count": 1356,
+      "score": 0.01077593,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1322-h/1322-h.htm"
+    },
+    {
+      "count": 2289,
+      "score": 0.01062487,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/2701-h/2701-h.htm"
+    }
+  ],
+  "h": [
+    {
+      "count": 8543,
+      "score": 0.07952155,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1661-h/1661-h.htm"
+    },
+    {
+      "count": 14799,
+      "score": 0.07891622,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1400-h/1400-h.htm"
+    },
+    {
+      "count": 13566,
+      "score": 0.06296939,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/2701-h/2701-h.htm"
+    },
+    {
+      "count": 2988,
+      "score": 0.04718143,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/22577-h/22577-h.htm"
+    },
+    {
+      "count": 4818,
+      "score": 0.03828793,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1322-h/1322-h.htm"
+    },
+    {
+      "count": 2,
+      "score": 0.03636364,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/"
+    },
+    {
+      "count": 141,
+      "score": 0.01285206,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/50468-h/50468-h.htm"
+    }
+  ],
+  "ha he hi ho hu": [
+    {
+      "count": 8514,
+      "score": 0.07925161,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1661-h/1661-h.htm"
+    },
+    {
+      "count": 14788,
+      "score": 0.07885756,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1400-h/1400-h.htm"
+    },
+    {
+      "count": 13532,
+      "score": 0.06281157,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/2701-h/2701-h.htm"
+    },
+    {
+      "count": 2955,
+      "score": 0.04666035,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/22577-h/22577-h.htm"
+    },
+    {
+      "count": 4789,
+      "score": 0.03805747,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1322-h/1322-h.htm"
+    },
+    {
+      "count": 2,
+      "score": 0.03636364,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/"
+    },
+    {
+      "count": 119,
+      "score": 0.01084678,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/50468-h/50468-h.htm"
+    }
+  ],
+  "i": [
+    {
+      "count": 9442,
+      "score": 0.08788979,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1661-h/1661-h.htm"
+    },
+    {
+      "count": 16071,
+      "score": 0.08569920,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1400-h/1400-h.htm"
+    },
+    {
+      "count": 906,
+      "score": 0.08258135,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/50468-h/50468-h.htm"
+    },
+    {
+      "count": 5081,
+      "score": 0.08023054,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/22577-h/22577-h.htm"
+    },
+    {
+      "count": 14693,
+      "score": 0.06820060,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/2701-h/2701-h.htm"
+    },
+    {
+      "count": 8496,
+      "score": 0.06751645,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1322-h/1322-h.htm"
+    }
+  ],
+  "ia ie ii io iu": [
+    {
+      "count": 7,
+      "score": 0.00063805,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/50468-h/50468-h.htm"
+    },
+    {
+      "count": 10,
+      "score": 0.00015790,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/22577-h/22577-h.htm"
+    },
+    {
+      "count": 33,
+      "score": 0.00015318,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/2701-h/2701-h.htm"
+    },
+    {
+      "count": 17,
+      "score": 0.00013510,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1322-h/1322-h.htm"
+    },
+    {
+      "count": 9,
+      "score": 0.00008378,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1661-h/1661-h.htm"
+    },
+    {
+      "count": 5,
+      "score": 0.00002666,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1400-h/1400-h.htm"
+    }
+  ],
+  "j": [
+    {
+      "count": 1439,
+      "score": 0.00767352,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1400-h/1400-h.htm"
+    },
+    {
+      "count": 305,
+      "score": 0.00481604,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/22577-h/22577-h.htm"
+    },
+    {
+      "count": 835,
+      "score": 0.00387583,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/2701-h/2701-h.htm"
+    },
+    {
+      "count": 468,
+      "score": 0.00371913,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1322-h/1322-h.htm"
+    },
+    {
+      "count": 331,
+      "score": 0.00308108,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1661-h/1661-h.htm"
+    },
+    {
+      "count": 33,
+      "score": 0.00300793,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/50468-h/50468-h.htm"
+    }
+  ],
+  "ja je ji jo ju": [
+    {
+      "count": 1428,
+      "score": 0.00761486,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1400-h/1400-h.htm"
+    },
+    {
+      "count": 299,
+      "score": 0.00472130,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/22577-h/22577-h.htm"
+    },
+    {
+      "count": 831,
+      "score": 0.00385726,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/2701-h/2701-h.htm"
+    },
+    {
+      "count": 468,
+      "score": 0.00371913,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1322-h/1322-h.htm"
+    },
+    {
+      "count": 330,
+      "score": 0.00307177,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1661-h/1661-h.htm"
+    },
+    {
+      "count": 15,
+      "score": 0.00136724,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/50468-h/50468-h.htm"
+    }
+  ],
+  "k": [
+    {
+      "count": 1230,
+      "score": 0.00655902,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1400-h/1400-h.htm"
+    },
+    {
+      "count": 547,
+      "score": 0.00509169,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1661-h/1661-h.htm"
+    },
+    {
+      "count": 944,
+      "score": 0.00438177,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/2701-h/2701-h.htm"
+    },
+    {
+      "count": 547,
+      "score": 0.00434693,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1322-h/1322-h.htm"
+    },
+    {
+      "count": 40,
+      "score": 0.00364598,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/50468-h/50468-h.htm"
+    },
+    {
+      "count": 189,
+      "score": 0.00298437,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/22577-h/22577-h.htm"
+    }
+  ],
+  "ka ke ki ko ku": [
+    {
+      "count": 500,
+      "score": 0.00232085,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/2701-h/2701-h.htm"
+    },
+    {
+      "count": 416,
+      "score": 0.00221834,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1400-h/1400-h.htm"
+    },
+    {
+      "count": 200,
+      "score": 0.00186168,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1661-h/1661-h.htm"
+    },
+    {
+      "count": 20,
+      "score": 0.00182299,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/50468-h/50468-h.htm"
+    },
+    {
+      "count": 217,
+      "score": 0.00172447,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1322-h/1322-h.htm"
+    },
+    {
+      "count": 91,
+      "score": 0.00143692,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/22577-h/22577-h.htm"
+    }
+  ],
+  "ko ox": [
+    {
+      "count": 26,
+      "score": 0.00020662,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1322-h/1322-h.htm"
+    },
+    {
+      "count": 9,
+      "score": 0.00014211,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/22577-h/22577-h.htm"
+    },
+    {
+      "count": 12,
+      "score": 0.00005570,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/2701-h/2701-h.htm"
+    },
+    {
+      "count": 4,
+      "score": 0.00003723,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1661-h/1661-h.htm"
+    },
+    {
+      "count": 1,
+      "score": 0.00000533,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1400-h/1400-h.htm"
+    }
+  ],
+  "ku": [
+    {
+      "count": 2,
+      "score": 0.00001862,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1661-h/1661-h.htm"
+    },
+    {
+      "count": 1,
+      "score": 0.00001579,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/22577-h/22577-h.htm"
+    }
+  ],
+  "l": [
+    {
+      "count": 4104,
+      "score": 0.03261388,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1322-h/1322-h.htm"
+    },
+    {
+      "count": 345,
+      "score": 0.03144654,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/50468-h/50468-h.htm"
+    },
+    {
+      "count": 5942,
+      "score": 0.02758102,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/2701-h/2701-h.htm"
+    },
+    {
+      "count": 2733,
+      "score": 0.02543982,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1661-h/1661-h.htm"
+    },
+    {
+      "count": 4605,
+      "score": 0.02455633,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1400-h/1400-h.htm"
+    },
+    {
+      "count": 1238,
+      "score": 0.01954840,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/22577-h/22577-h.htm"
+    },
+    {
+      "count": 1,
+      "score": 0.01818182,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/"
+    }
+  ],
+  "la le li lo lu": [
+    {
+      "count": 4095,
+      "score": 0.03254236,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1322-h/1322-h.htm"
+    },
+    {
+      "count": 312,
+      "score": 0.02843861,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/50468-h/50468-h.htm"
+    },
+    {
+      "count": 5931,
+      "score": 0.02752996,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/2701-h/2701-h.htm"
+    },
+    {
+      "count": 2721,
+      "score": 0.02532812,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1661-h/1661-h.htm"
+    },
+    {
+      "count": 4591,
+      "score": 0.02448168,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1400-h/1400-h.htm"
+    },
+    {
+      "count": 1236,
+      "score": 0.01951682,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/22577-h/22577-h.htm"
+    },
+    {
+      "count": 1,
+      "score": 0.01818182,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/"
+    }
+  ],
+  "m": [
+    {
+      "count": 10573,
+      "score": 0.05638091,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1400-h/1400-h.htm"
+    },
+    {
+      "count": 3,
+      "score": 0.05454545,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/"
+    },
+    {
+      "count": 5253,
+      "score": 0.04889696,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1661-h/1661-h.htm"
+    },
+    {
+      "count": 6151,
+      "score": 0.04888108,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1322-h/1322-h.htm"
+    },
+    {
+      "count": 8397,
+      "score": 0.03897641,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/2701-h/2701-h.htm"
+    },
+    {
+      "count": 2360,
+      "score": 0.03726512,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/22577-h/22577-h.htm"
+    },
+    {
+      "count": 332,
+      "score": 0.03026160,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/50468-h/50468-h.htm"
+    }
+  ],
+  "ma me mi mo mu": [
+    {
+      "count": 3,
+      "score": 0.05454545,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/"
+    },
+    {
+      "count": 7378,
+      "score": 0.03934346,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1400-h/1400-h.htm"
+    },
+    {
+      "count": 4865,
+      "score": 0.03866143,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1322-h/1322-h.htm"
+    },
+    {
+      "count": 7608,
+      "score": 0.03531410,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/2701-h/2701-h.htm"
+    },
+    {
+      "count": 3776,
+      "score": 0.03514847,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1661-h/1661-h.htm"
+    },
+    {
+      "count": 2141,
+      "score": 0.03380704,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/22577-h/22577-h.htm"
+    },
+    {
+      "count": 283,
+      "score": 0.02579528,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/50468-h/50468-h.htm"
+    }
+  ],
+  "n": [
+    {
+      "count": 1882,
+      "score": 0.02971735,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/22577-h/22577-h.htm"
+    },
+    {
+      "count": 3305,
+      "score": 0.02626434,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1322-h/1322-h.htm"
+    },
+    {
+      "count": 247,
+      "score": 0.02251390,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/50468-h/50468-h.htm"
+    },
+    {
+      "count": 4836,
+      "score": 0.02244729,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/2701-h/2701-h.htm"
+    },
+    {
+      "count": 4158,
+      "score": 0.02217269,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1400-h/1400-h.htm"
+    },
+    {
+      "count": 2313,
+      "score": 0.02153030,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1661-h/1661-h.htm"
+    }
+  ],
+  "na ne ni no nu": [
+    {
+      "count": 1879,
+      "score": 0.02966998,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/22577-h/22577-h.htm"
+    },
+    {
+      "count": 3305,
+      "score": 0.02626434,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1322-h/1322-h.htm"
+    },
+    {
+      "count": 4834,
+      "score": 0.02243801,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/2701-h/2701-h.htm"
+    },
+    {
+      "count": 4155,
+      "score": 0.02215669,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1400-h/1400-h.htm"
+    },
+    {
+      "count": 2309,
+      "score": 0.02149307,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1661-h/1661-h.htm"
+    },
+    {
+      "count": 228,
+      "score": 0.02078206,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/50468-h/50468-h.htm"
+    }
+  ],
+  "o": [
+    {
+      "count": 5,
+      "score": 0.09090909,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/"
+    },
+    {
+      "count": 9544,
+      "score": 0.07584475,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1322-h/1322-h.htm"
+    },
+    {
+      "count": 775,
+      "score": 0.07064078,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/50468-h/50468-h.htm"
+    },
+    {
+      "count": 4360,
+      "score": 0.06884573,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/22577-h/22577-h.htm"
+    },
+    {
+      "count": 14405,
+      "score": 0.06686378,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/2701-h/2701-h.htm"
+    },
+    {
+      "count": 11021,
+      "score": 0.05876989,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1400-h/1400-h.htm"
+    },
+    {
+      "count": 6068,
+      "score": 0.05648329,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1661-h/1661-h.htm"
+    }
+  ],
+  "o s v": [
+    {
+      "count": 20227,
+      "score": 0.16074096,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1322-h/1322-h.htm"
+    },
+    {
+      "count": 34157,
+      "score": 0.15854677,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/2701-h/2701-h.htm"
+    },
+    {
+      "count": 9603,
+      "score": 0.15163430,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/22577-h/22577-h.htm"
+    },
+    {
+      "count": 8,
+      "score": 0.14545455,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/"
+    },
+    {
+      "count": 14558,
+      "score": 0.13551150,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1661-h/1661-h.htm"
+    },
+    {
+      "count": 24751,
+      "score": 0.13198562,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1400-h/1400-h.htm"
+    },
+    {
+      "count": 1435,
+      "score": 0.13079938,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/50468-h/50468-h.htm"
+    }
+  ],
+  "oa oe oi oo ou": [
+    {
+      "count": 1,
+      "score": 0.01818182,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/"
+    },
+    {
+      "count": 1194,
+      "score": 0.00636705,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1400-h/1400-h.htm"
+    },
+    {
+      "count": 67,
+      "score": 0.00610701,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/50468-h/50468-h.htm"
+    },
+    {
+      "count": 632,
+      "score": 0.00588290,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1661-h/1661-h.htm"
+    },
+    {
+      "count": 1102,
+      "score": 0.00511516,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/2701-h/2701-h.htm"
+    },
+    {
+      "count": 552,
+      "score": 0.00438666,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1322-h/1322-h.htm"
+    },
+    {
+      "count": 211,
+      "score": 0.00333175,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/22577-h/22577-h.htm"
+    }
+  ],
+  "oh oy re ur xo xu": [
+    {
+      "count": 261,
+      "score": 0.02378999,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/50468-h/50468-h.htm"
+    },
+    {
+      "count": 776,
+      "score": 0.01225328,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/22577-h/22577-h.htm"
+    },
+    {
+      "count": 1408,
+      "score": 0.01118917,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1322-h/1322-h.htm"
+    },
+    {
+      "count": 1192,
+      "score": 0.01109560,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1661-h/1661-h.htm"
+    },
+    {
+      "count": 2064,
+      "score": 0.01100636,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1400-h/1400-h.htm"
+    },
+    {
+      "count": 2030,
+      "score": 0.00942266,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/2701-h/2701-h.htm"
+    }
+  ],
+  "p": [
+    {
+      "count": 711,
+      "score": 0.06480722,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/50468-h/50468-h.htm"
+    },
+    {
+      "count": 3,
+      "score": 0.05454545,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/"
+    },
+    {
+      "count": 3085,
+      "score": 0.04871309,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/22577-h/22577-h.htm"
+    },
+    {
+      "count": 4058,
+      "score": 0.03224832,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1322-h/1322-h.htm"
+    },
+    {
+      "count": 6231,
+      "score": 0.02892247,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/2701-h/2701-h.htm"
+    },
+    {
+      "count": 5121,
+      "score": 0.02730792,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1400-h/1400-h.htm"
+    },
+    {
+      "count": 2704,
+      "score": 0.02516988,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1661-h/1661-h.htm"
+    }
+  ],
+  "pa pe pi po pu": [
+    {
+      "count": 1648,
+      "score": 0.02602242,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/22577-h/22577-h.htm"
+    },
+    {
+      "count": 241,
+      "score": 0.02196700,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/50468-h/50468-h.htm"
+    },
+    {
+      "count": 2567,
+      "score": 0.02039957,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1322-h/1322-h.htm"
+    },
+    {
+      "count": 4004,
+      "score": 0.01858539,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/2701-h/2701-h.htm"
+    },
+    {
+      "count": 3470,
+      "score": 0.01850390,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1400-h/1400-h.htm"
+    },
+    {
+      "count": 1698,
+      "score": 0.01580564,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1661-h/1661-h.htm"
+    }
+  ],
+  "q": [
+    {
+      "count": 713,
+      "score": 0.00330954,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/2701-h/2701-h.htm"
+    },
+    {
+      "count": 280,
+      "score": 0.00260635,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1661-h/1661-h.htm"
+    },
+    {
+      "count": 454,
+      "score": 0.00242097,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1400-h/1400-h.htm"
+    },
+    {
+      "count": 103,
+      "score": 0.00162640,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/22577-h/22577-h.htm"
+    },
+    {
+      "count": 16,
+      "score": 0.00145839,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/50468-h/50468-h.htm"
+    },
+    {
+      "count": 135,
+      "score": 0.00107282,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1322-h/1322-h.htm"
+    }
+  ],
+  "qa qe qi qo qu": [
+    {
+      "count": 713,
+      "score": 0.00330954,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/2701-h/2701-h.htm"
+    },
+    {
+      "count": 280,
+      "score": 0.00260635,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1661-h/1661-h.htm"
+    },
+    {
+      "count": 454,
+      "score": 0.00242097,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1400-h/1400-h.htm"
+    },
+    {
+      "count": 103,
+      "score": 0.00162640,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/22577-h/22577-h.htm"
+    },
+    {
+      "count": 15,
+      "score": 0.00136724,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/50468-h/50468-h.htm"
+    },
+    {
+      "count": 135,
+      "score": 0.00107282,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1322-h/1322-h.htm"
+    }
+  ],
+  "r": [
+    {
+      "count": 334,
+      "score": 0.03044390,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/50468-h/50468-h.htm"
+    },
+    {
+      "count": 1374,
+      "score": 0.02169588,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/22577-h/22577-h.htm"
+    },
+    {
+      "count": 2728,
+      "score": 0.02167901,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1322-h/1322-h.htm"
+    },
+    {
+      "count": 2122,
+      "score": 0.01975240,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1661-h/1661-h.htm"
+    },
+    {
+      "count": 3487,
+      "score": 0.01859456,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1400-h/1400-h.htm"
+    },
+    {
+      "count": 1,
+      "score": 0.01818182,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/"
+    },
+    {
+      "count": 3902,
+      "score": 0.01811194,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/2701-h/2701-h.htm"
+    }
+  ],
+  "ra re ri ro ru": [
+    {
+      "count": 315,
+      "score": 0.02871206,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/50468-h/50468-h.htm"
+    },
+    {
+      "count": 1358,
+      "score": 0.02144323,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/22577-h/22577-h.htm"
+    },
+    {
+      "count": 2698,
+      "score": 0.02144061,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1322-h/1322-h.htm"
+    },
+    {
+      "count": 2105,
+      "score": 0.01959415,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1661-h/1661-h.htm"
+    },
+    {
+      "count": 3483,
+      "score": 0.01857323,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1400-h/1400-h.htm"
+    },
+    {
+      "count": 1,
+      "score": 0.01818182,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/"
+    },
+    {
+      "count": 3893,
+      "score": 0.01807016,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/2701-h/2701-h.htm"
+    }
+  ],
+  "s": [
+    {
+      "count": 18161,
+      "score": 0.08429803,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/2701-h/2701-h.htm"
+    },
+    {
+      "count": 9875,
+      "score": 0.07847516,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1322-h/1322-h.htm"
+    },
+    {
+      "count": 4611,
+      "score": 0.07280910,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/22577-h/22577-h.htm"
+    },
+    {
+      "count": 7704,
+      "score": 0.07171181,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1661-h/1661-h.htm"
+    },
+    {
+      "count": 12895,
+      "score": 0.06876306,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1400-h/1400-h.htm"
+    },
+    {
+      "count": 3,
+      "score": 0.05454545,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/"
+    },
+    {
+      "count": 562,
+      "score": 0.05122596,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/50468-h/50468-h.htm"
+    }
+  ],
+  "sa se si so su": [
+    {
+      "count": 2903,
+      "score": 0.04583925,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/22577-h/22577-h.htm"
+    },
+    {
+      "count": 9875,
+      "score": 0.04583685,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/2701-h/2701-h.htm"
+    },
+    {
+      "count": 5249,
+      "score": 0.04171302,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1322-h/1322-h.htm"
+    },
+    {
+      "count": 7648,
+      "score": 0.04078324,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1400-h/1400-h.htm"
+    },
+    {
+      "count": 4303,
+      "score": 0.04005399,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1661-h/1661-h.htm"
+    },
+    {
+      "count": 237,
+      "score": 0.02160241,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/50468-h/50468-h.htm"
+    }
+  ],
+  "t": [
+    {
+      "count": 35667,
+      "score": 0.16555575,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/2701-h/2701-h.htm"
+    },
+    {
+      "count": 20803,
+      "score": 0.16531835,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1322-h/1322-h.htm"
+    },
+    {
+      "count": 9431,
+      "score": 0.14891836,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/22577-h/22577-h.htm"
+    },
+    {
+      "count": 15397,
+      "score": 0.14332123,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1661-h/1661-h.htm"
+    },
+    {
+      "count": 25537,
+      "score": 0.13617700,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1400-h/1400-h.htm"
+    },
+    {
+      "count": 1438,
+      "score": 0.13107283,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/50468-h/50468-h.htm"
+    },
+    {
+      "count": 6,
+      "score": 0.10909091,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/"
+    }
+  ],
+  "ta te ti to tu": [
+    {
+      "count": 8335,
+      "score": 0.04444670,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1400-h/1400-h.htm"
+    },
+    {
+      "count": 2533,
+      "score": 0.03999684,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/22577-h/22577-h.htm"
+    },
+    {
+      "count": 4162,
+      "score": 0.03874151,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1661-h/1661-h.htm"
+    },
+    {
+      "count": 8228,
+      "score": 0.03819196,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/2701-h/2701-h.htm"
+    },
+    {
+      "count": 4157,
+      "score": 0.03303506,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1322-h/1322-h.htm"
+    },
+    {
+      "count": 291,
+      "score": 0.02652447,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/50468-h/50468-h.htm"
+    }
+  ],
+  "u": [
+    {
+      "count": 208,
+      "score": 0.01895907,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/50468-h/50468-h.htm"
+    },
+    {
+      "count": 1194,
+      "score": 0.01885362,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/22577-h/22577-h.htm"
+    },
+    {
+      "count": 1556,
+      "score": 0.01448385,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1661-h/1661-h.htm"
+    },
+    {
+      "count": 2729,
+      "score": 0.01266722,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/2701-h/2701-h.htm"
+    },
+    {
+      "count": 2349,
+      "score": 0.01252613,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1400-h/1400-h.htm"
+    },
+    {
+      "count": 1389,
+      "score": 0.01103818,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1322-h/1322-h.htm"
+    }
+  ],
+  "ua ue ui uo uu": [
+  ],
+  "v": [
+    {
+      "count": 632,
+      "score": 0.00997947,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/22577-h/22577-h.htm"
+    },
+    {
+      "count": 98,
+      "score": 0.00893264,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/50468-h/50468-h.htm"
+    },
+    {
+      "count": 1591,
+      "score": 0.00738496,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/2701-h/2701-h.htm"
+    },
+    {
+      "count": 786,
+      "score": 0.00731639,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1661-h/1661-h.htm"
+    },
+    {
+      "count": 808,
+      "score": 0.00642106,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1322-h/1322-h.htm"
+    },
+    {
+      "count": 835,
+      "score": 0.00445267,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1400-h/1400-h.htm"
+    }
+  ],
+  "va ve vi vo vu": [
+    {
+      "count": 628,
+      "score": 0.00991631,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/22577-h/22577-h.htm"
+    },
+    {
+      "count": 83,
+      "score": 0.00756540,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/50468-h/50468-h.htm"
+    },
+    {
+      "count": 1585,
+      "score": 0.00735711,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/2701-h/2701-h.htm"
+    },
+    {
+      "count": 784,
+      "score": 0.00729778,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1661-h/1661-h.htm"
+    },
+    {
+      "count": 805,
+      "score": 0.00639722,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1322-h/1322-h.htm"
+    },
+    {
+      "count": 833,
+      "score": 0.00444200,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1400-h/1400-h.htm"
+    }
+  ],
+  "w": [
+    {
+      "count": 5,
+      "score": 0.09090909,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/"
+    },
+    {
+      "count": 14583,
+      "score": 0.07776439,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1400-h/1400-h.htm"
+    },
+    {
+      "count": 8273,
+      "score": 0.07700828,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1661-h/1661-h.htm"
+    },
+    {
+      "count": 14757,
+      "score": 0.06849767,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/2701-h/2701-h.htm"
+    },
+    {
+      "count": 4157,
+      "score": 0.06564030,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/22577-h/22577-h.htm"
+    },
+    {
+      "count": 7274,
+      "score": 0.05780540,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1322-h/1322-h.htm"
+    },
+    {
+      "count": 461,
+      "score": 0.04201987,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/50468-h/50468-h.htm"
+    }
+  ],
+  "wa we wi wo wu": [
+    {
+      "count": 10946,
+      "score": 0.05836995,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1400-h/1400-h.htm"
+    },
+    {
+      "count": 3,
+      "score": 0.05454545,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/"
+    },
+    {
+      "count": 5803,
+      "score": 0.05401657,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1661-h/1661-h.htm"
+    },
+    {
+      "count": 2811,
+      "score": 0.04438655,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/22577-h/22577-h.htm"
+    },
+    {
+      "count": 5369,
+      "score": 0.04266665,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1322-h/1322-h.htm"
+    },
+    {
+      "count": 8997,
+      "score": 0.04176143,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/2701-h/2701-h.htm"
+    },
+    {
+      "count": 319,
+      "score": 0.02907666,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/50468-h/50468-h.htm"
+    }
+  ],
+  "x": [
+    {
+      "count": 13,
+      "score": 0.00118494,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/50468-h/50468-h.htm"
+    },
+    {
+      "count": 82,
+      "score": 0.00043727,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1400-h/1400-h.htm"
+    },
+    {
+      "count": 50,
+      "score": 0.00039734,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1322-h/1322-h.htm"
+    },
+    {
+      "count": 24,
+      "score": 0.00037897,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/22577-h/22577-h.htm"
+    },
+    {
+      "count": 6,
+      "score": 0.00005585,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1661-h/1661-h.htm"
+    },
+    {
+      "count": 5,
+      "score": 0.00002321,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/2701-h/2701-h.htm"
+    }
+  ],
+  "xa xe xi xo xu": [
+    {
+      "count": 7,
+      "score": 0.00011053,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/22577-h/22577-h.htm"
+    },
+    {
+      "count": 10,
+      "score": 0.00007947,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1322-h/1322-h.htm"
+    },
+    {
+      "count": 10,
+      "score": 0.00005333,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1400-h/1400-h.htm"
+    },
+    {
+      "count": 4,
+      "score": 0.00003723,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1661-h/1661-h.htm"
+    },
+    {
+      "count": 2,
+      "score": 0.00000928,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/2701-h/2701-h.htm"
+    }
+  ],
+  "y": [
+    {
+      "count": 2492,
+      "score": 0.02319650,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1661-h/1661-h.htm"
+    },
+    {
+      "count": 2772,
+      "score": 0.02202867,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1322-h/1322-h.htm"
+    },
+    {
+      "count": 3497,
+      "score": 0.01864788,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1400-h/1400-h.htm"
+    },
+    {
+      "count": 807,
+      "score": 0.01274278,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/22577-h/22577-h.htm"
+    },
+    {
+      "count": 2528,
+      "score": 0.01173423,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/2701-h/2701-h.htm"
+    },
+    {
+      "count": 98,
+      "score": 0.00893264,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/50468-h/50468-h.htm"
+    }
+  ],
+  "ya ye yi yo yu": [
+    {
+      "count": 2492,
+      "score": 0.02319650,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1661-h/1661-h.htm"
+    },
+    {
+      "count": 2772,
+      "score": 0.02202867,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1322-h/1322-h.htm"
+    },
+    {
+      "count": 3497,
+      "score": 0.01864788,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1400-h/1400-h.htm"
+    },
+    {
+      "count": 794,
+      "score": 0.01253750,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/22577-h/22577-h.htm"
+    },
+    {
+      "count": 2528,
+      "score": 0.01173423,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/2701-h/2701-h.htm"
+    },
+    {
+      "count": 91,
+      "score": 0.00829459,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/50468-h/50468-h.htm"
+    }
+  ],
+  "z": [
+    {
+      "count": 11,
+      "score": 0.00100264,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/50468-h/50468-h.htm"
+    },
+    {
+      "count": 11,
+      "score": 0.00017369,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/22577-h/22577-h.htm"
+    },
+    {
+      "count": 33,
+      "score": 0.00015318,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/2701-h/2701-h.htm"
+    },
+    {
+      "count": 9,
+      "score": 0.00007152,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1322-h/1322-h.htm"
+    },
+    {
+      "count": 5,
+      "score": 0.00004654,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1661-h/1661-h.htm"
+    },
+    {
+      "count": 6,
+      "score": 0.00003200,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1400-h/1400-h.htm"
+    }
+  ],
+  "za ze zi zo zu": [
+    {
+      "count": 8,
+      "score": 0.00072920,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/50468-h/50468-h.htm"
+    },
+    {
+      "count": 33,
+      "score": 0.00015318,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/2701-h/2701-h.htm"
+    },
+    {
+      "count": 9,
+      "score": 0.00014211,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/22577-h/22577-h.htm"
+    },
+    {
+      "count": 9,
+      "score": 0.00007152,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1322-h/1322-h.htm"
+    },
+    {
+      "count": 5,
+      "score": 0.00004654,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1661-h/1661-h.htm"
+    },
+    {
+      "count": 5,
+      "score": 0.00002666,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/guten/1400-h/1400-h.htm"
+    }
+  ]
+}

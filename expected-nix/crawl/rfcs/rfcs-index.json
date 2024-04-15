@@ -1,0 +1,225 @@
+{
+  "a": {
+    "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/": [
+      3,
+      32
+    ]
+  },
+  "and": {
+    "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/": [
+      10,
+      38,
+      44,
+      53
+    ]
+  },
+  "applic": {
+    "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/": [
+      21
+    ]
+  },
+  "architectur": {
+    "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/": [
+      27
+    ]
+  },
+  "comput": {
+    "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/": [
+      25
+    ]
+  },
+  "content": {
+    "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/": [
+      54
+    ]
+  },
+  "determin": {
+    "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/": [
+      30
+    ]
+  },
+  "domain": {
+    "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/": [
+      35
+    ]
+  },
+  "element": {
+    "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/": [
+      26
+    ]
+  },
+  "for": {
+    "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/": [
+      16
+    ]
+  },
+  "format": {
+    "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/": [
+      5
+    ]
+  },
+  "ftp": {
+    "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/": [
+      9
+    ]
+  },
+  "gmpls": {
+    "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/": [
+      39
+    ]
+  },
+  "http": {
+    "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/": [
+      51
+    ]
+  },
+  "hypertext": {
+    "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/": [
+      48
+    ]
+  },
+  "identifi": {
+    "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/": [
+      17
+    ]
+  },
+  "in": {
+    "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/": [
+      36
+    ]
+  },
+  "iso": {
+    "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/": [
+      7
+    ]
+  },
+  "languag": {
+    "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/": [
+      18
+    ]
+  },
+  "mail": {
+    "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/": [
+      12
+    ]
+  },
+  "media": {
+    "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/": [
+      41
+    ]
+  },
+  "mpls": {
+    "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/": [
+      37
+    ]
+  },
+  "network": {
+    "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/": [
+      11
+    ]
+  },
+  "of": {
+    "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/": [
+      6,
+      22,
+      31,
+      34
+    ]
+  },
+  "path": {
+    "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/": [
+      24
+    ]
+  },
+  "procedur": {
+    "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/": [
+      46
+    ]
+  },
+  "protocol": {
+    "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/": [
+      50
+    ]
+  },
+  "registr": {
+    "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/": [
+      45
+    ]
+  },
+  "rfc": {
+    "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/": [
+      8,
+      14,
+      19,
+      40,
+      47
+    ]
+  },
+  "rfcs": {
+    "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/": [
+      1
+    ]
+  },
+  "semant": {
+    "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/": [
+      52
+    ]
+  },
+  "sequenc": {
+    "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/": [
+      33
+    ]
+  },
+  "specif": {
+    "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/": [
+      43
+    ]
+  },
+  "system": {
+    "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/": [
+      13
+    ]
+  },
+  "tag": {
+    "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/": [
+      15
+    ]
+  },
+  "the": {
+    "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/": [
+      20,
+      23,
+      29
+    ]
+  },
+  "to": {
+    "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/": [
+      28
+    ]
+  },
+  "top": {
+    "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/": [
+      55
+    ]
+  },
+  "transfer": {
+    "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/": [
+      49
+    ]
+  },
+  "transform": {
+    "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/": [
+      4
+    ]
+  },
+  "type": {
+    "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/": [
+      42
+    ]
+  },
+  "utf": {
+    "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/": [
+      2
+    ]
+  }
+}

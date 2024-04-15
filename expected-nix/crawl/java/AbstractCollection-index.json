@@ -1,0 +1,4236 @@
+{
+  "": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      1
+    ]
+  },
+  "a": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      80,
+      132,
+      168,
+      211,
+      218,
+      351,
+      421,
+      449,
+      762,
+      878,
+      921,
+      959,
+      1126,
+      1183,
+      1218,
+      1238,
+      1315,
+      1393,
+      1398,
+      1426,
+      1470,
+      1553,
+      1604,
+      1693,
+      1944,
+      2021,
+      2063,
+      2256,
+      2464,
+      2631,
+      2642,
+      2685,
+      2692,
+      2731
+    ]
+  },
+  "abstract": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      70,
+      334,
+      507
+    ]
+  },
+  "abstractcollect": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      236,
+      491,
+      493
+    ]
+  },
+  "abstractcollection": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      43,
+      72
+    ]
+  },
+  "abstractlist": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      64
+    ]
+  },
+  "abstractqueu": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      65
+    ]
+  },
+  "abstractset": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      66
+    ]
+  },
+  "ad": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      1348,
+      1375,
+      1391,
+      1499,
+      1529,
+      1539,
+      2010,
+      2053,
+      2096,
+      2108
+    ]
+  },
+  "add": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      142,
+      252,
+      269,
+      1293,
+      1296,
+      1359,
+      1397,
+      1439,
+      1479,
+      1884,
+      1973,
+      1994
+    ]
+  },
+  "addal": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      1877,
+      1959,
+      2030
+    ]
+  },
+  "addallcollect": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      265,
+      1880
+    ]
+  },
+  "addit": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      138,
+      158
+    ]
+  },
+  "addobject": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      2118
+    ]
+  },
+  "adjac": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      2661
+    ]
+  },
+  "admit": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      210
+    ]
+  },
+  "affili": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      2740,
+      2751
+    ]
+  },
+  "after": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      1433,
+      2140,
+      2550
+    ]
+  },
+  "all": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      56,
+      241,
+      270,
+      286,
+      316,
+      371,
+      411,
+      426,
+      696,
+      798,
+      909,
+      926,
+      1080,
+      1255,
+      1751,
+      1792,
+      1819,
+      1885,
+      2103,
+      2125,
+      2351,
+      2536
+    ]
+  },
+  "alloc": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      761,
+      963,
+      1128,
+      1247
+    ]
+  },
+  "alreadi": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      1330,
+      1408
+    ]
+  },
+  "also": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      227,
+      378,
+      1875,
+      2117,
+      2132,
+      2320,
+      2528
+    ]
+  },
+  "alway": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      1428,
+      1447
+    ]
+  },
+  "an": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      98,
+      147,
+      338,
+      408,
+      423,
+      511,
+      533,
+      693,
+      772,
+      795,
+      865,
+      900,
+      923,
+      1077,
+      1170,
+      1252,
+      1415,
+      1449,
+      1572,
+      1650,
+      1688,
+      1991,
+      2043,
+      2086,
+      2208,
+      2416,
+      2592,
+      2696
+    ]
+  },
+  "and": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      109,
+      115,
+      128,
+      149,
+      172,
+      247,
+      593,
+      679,
+      972,
+      1329,
+      1362,
+      1510,
+      1667,
+      1731,
+      1858,
+      1934,
+      1972,
+      2066,
+      2224,
+      2302,
+      2432,
+      2510,
+      2609,
+      2669,
+      2702,
+      2723,
+      2744,
+      2766
+    ]
+  },
+  "andor": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      2738,
+      2749
+    ]
+  },
+  "ani": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      707,
+      1036,
+      1043,
+      1269,
+      1384,
+      1402
+    ]
+  },
+  "api": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      2700
+    ]
+  },
+  "are": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      377,
+      397,
+      715,
+      750,
+      1051,
+      1123,
+      1228,
+      1794,
+      1841,
+      2131,
+      2285,
+      2336,
+      2356,
+      2493,
+      2652,
+      2663,
+      2672
+    ]
+  },
+  "argument": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      171
+    ]
+  },
+  "array": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      409,
+      424,
+      439,
+      445,
+      694,
+      732,
+      740,
+      764,
+      773,
+      783,
+      796,
+      816,
+      825,
+      901,
+      924,
+      939,
+      945,
+      953,
+      961,
+      971,
+      985,
+      992,
+      1003,
+      1078,
+      1098,
+      1119,
+      1129,
+      1212,
+      1220,
+      1240,
+      1253,
+      1285,
+      1290
+    ]
+  },
+  "arraydequ": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      67
+    ]
+  },
+  "arraylistes": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      891,
+      1196
+    ]
+  },
+  "arraystoreexcept": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      1263
+    ]
+  },
+  "as": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      175,
+      709,
+      847,
+      864,
+      1045,
+      1152,
+      1169,
+      1314,
+      1469,
+      1603,
+      1692,
+      2020,
+      2255,
+      2463,
+      2676
+    ]
+  },
+  "assign": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      1276
+    ]
+  },
+  "assum": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      1997
+    ]
+  },
+  "at": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      599,
+      1540,
+      2109
+    ]
+  },
+  "back": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      770
+    ]
+  },
+  "be": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      203,
+      208,
+      646,
+      742,
+      1230,
+      1347,
+      1374,
+      1390,
+      1461,
+      1498,
+      1528,
+      1538,
+      1678,
+      1806,
+      2009,
+      2052,
+      2095,
+      2107,
+      2244,
+      2452,
+      2548
+    ]
+  },
+  "behavior": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      1899,
+      1921
+    ]
+  },
+  "big": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      1235
+    ]
+  },
+  "boolean": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      251,
+      264,
+      295,
+      307,
+      324,
+      347,
+      367,
+      386,
+      544,
+      576,
+      1295,
+      1549,
+      1742,
+      1879,
+      2121,
+      2325
+    ]
+  },
+  "bracket": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      2660
+    ]
+  },
+  "bug": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      2693
+    ]
+  },
+  "by": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      121,
+      153,
+      498,
+      521,
+      527,
+      555,
+      609,
+      717,
+      752,
+      771,
+      785,
+      802,
+      834,
+      1053,
+      1067,
+      1084,
+      1108,
+      1139,
+      1438,
+      1484,
+      1610,
+      1656,
+      1707,
+      1760,
+      1778,
+      1958,
+      1977,
+      2035,
+      2157,
+      2174,
+      2214,
+      2270,
+      2364,
+      2381,
+      2422,
+      2478,
+      2555,
+      2598,
+      2623,
+      2654,
+      2665,
+      2677
+    ]
+  },
+  "c": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      268,
+      309,
+      369,
+      388,
+      1744,
+      1803,
+      1883,
+      2004,
+      2123,
+      2239,
+      2327,
+      2447
+    ]
+  },
+  "ca": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      2756
+    ]
+  },
+  "call": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      862,
+      1167,
+      1319,
+      1435,
+      1474,
+      1608,
+      1697,
+      1924,
+      2025,
+      2142,
+      2260,
+      2468
+    ]
+  },
+  "caller": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      775,
+      1028
+    ]
+  },
+  "can": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      2106
+    ]
+  },
+  "cannot": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      1537
+    ]
+  },
+  "chang": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      844,
+      1149,
+      1313,
+      1468,
+      1602,
+      2019,
+      2254,
+      2462
+    ]
+  },
+  "charact": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      2667
+    ]
+  },
+  "check": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      625,
+      1774,
+      1807,
+      2170,
+      2377
+    ]
+  },
+  "choos": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      2579
+    ]
+  },
+  "class": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      11,
+      42,
+      71,
+      78,
+      108,
+      192,
+      216,
+      458,
+      1377,
+      1490,
+      2041,
+      2682
+    ]
+  },
+  "classcastexcept": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      658,
+      1487,
+      1710,
+      1828,
+      2038,
+      2273,
+      2481
+    ]
+  },
+  "classs": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      141
+    ]
+  },
+  "clear": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      284,
+      1379,
+      2531,
+      2534,
+      2556,
+      2618
+    ]
+  },
+  "clone": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      460
+    ]
+  },
+  "code": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      2725
+    ]
+  },
+  "collect": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      55,
+      85,
+      100,
+      134,
+      173,
+      181,
+      207,
+      223,
+      228,
+      257,
+      277,
+      280,
+      292,
+      302,
+      314,
+      323,
+      330,
+      346,
+      360,
+      374,
+      383,
+      395,
+      402,
+      417,
+      432,
+      454,
+      519,
+      541,
+      550,
+      570,
+      583,
+      597,
+      624,
+      643,
+      652,
+      670,
+      681,
+      702,
+      705,
+      754,
+      768,
+      804,
+      843,
+      852,
+      915,
+      932,
+      948,
+      977,
+      980,
+      998,
+      1010,
+      1024,
+      1032,
+      1041,
+      1086,
+      1148,
+      1157,
+      1216,
+      1227,
+      1261,
+      1273,
+      1301,
+      1312,
+      1324,
+      1335,
+      1351,
+      1355,
+      1376,
+      1394,
+      1427,
+      1458,
+      1467,
+      1486,
+      1502,
+      1512,
+      1532,
+      1562,
+      1581,
+      1592,
+      1601,
+      1622,
+      1639,
+      1658,
+      1669,
+      1682,
+      1709,
+      1722,
+      1733,
+      1749,
+      1758,
+      1773,
+      1790,
+      1804,
+      1812,
+      1817,
+      1826,
+      1840,
+      1845,
+      1851,
+      1860,
+      1871,
+      1892,
+      1895,
+      1908,
+      1930,
+      1933,
+      1936,
+      1942,
+      1971,
+      1982,
+      2000,
+      2005,
+      2013,
+      2018,
+      2037,
+      2048,
+      2056,
+      2061,
+      2068,
+      2078,
+      2091,
+      2099,
+      2128,
+      2137,
+      2145,
+      2155,
+      2169,
+      2187,
+      2196,
+      2226,
+      2237,
+      2240,
+      2248,
+      2253,
+      2272,
+      2284,
+      2290,
+      2295,
+      2305,
+      2316,
+      2334,
+      2341,
+      2350,
+      2362,
+      2376,
+      2394,
+      2404,
+      2434,
+      2445,
+      2448,
+      2456,
+      2461,
+      2480,
+      2492,
+      2498,
+      2503,
+      2513,
+      2524,
+      2542,
+      2546,
+      2567,
+      2600,
+      2611,
+      2625,
+      2636,
+      2646,
+      2690
+    ]
+  },
+  "collection": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      60,
+      76,
+      525,
+      559,
+      613,
+      789,
+      1071,
+      1442,
+      1614,
+      1764,
+      1962,
+      2161,
+      2368,
+      2559
+    ]
+  },
+  "comma": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      2668
+    ]
+  },
+  "common": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      2151,
+      2233
+    ]
+  },
+  "compon": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      734,
+      904,
+      1208,
+      1280
+    ]
+  },
+  "conceptu": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      2717
+    ]
+  },
+  "concurr": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      854,
+      1159
+    ]
+  },
+  "concurrentlinkeddequ": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      68
+    ]
+  },
+  "consecut": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      812,
+      1094
+    ]
+  },
+  "consist": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      2640
+    ]
+  },
+  "constr": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      22,
+      26,
+      31,
+      35
+    ]
+  },
+  "constructor": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      174,
+      229,
+      231,
+      233,
+      238,
+      489,
+      495,
+      500
+    ]
+  },
+  "contain": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      258,
+      303,
+      315,
+      331,
+      343,
+      379,
+      398,
+      410,
+      425,
+      516,
+      538,
+      551,
+      571,
+      574,
+      584,
+      598,
+      610,
+      653,
+      695,
+      797,
+      908,
+      925,
+      1035,
+      1079,
+      1214,
+      1254,
+      1302,
+      1331,
+      1409,
+      1429,
+      1582,
+      1593,
+      1670,
+      1750,
+      1787,
+      1796,
+      1809,
+      1818,
+      1852,
+      2006,
+      2062,
+      2133,
+      2147,
+      2183,
+      2191,
+      2227,
+      2241,
+      2296,
+      2337,
+      2358,
+      2390,
+      2399,
+      2435,
+      2449,
+      2504,
+      2711
+    ]
+  },
+  "containsal": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      1740,
+      1761
+    ]
+  },
+  "containsallcollect": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      308,
+      1743
+    ]
+  },
+  "containsobject": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      296,
+      577,
+      1876,
+      2322,
+      2530
+    ]
+  },
+  "convert": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      2673
+    ]
+  },
+  "copyright": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      2747
+    ]
+  },
+  "correct": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      869,
+      1174
+    ]
+  },
+  "countri": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      2746
+    ]
+  },
+  "declar": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      456,
+      471,
+      484
+    ]
+  },
+  "defin": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      1945
+    ]
+  },
+  "definit": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      2719
+    ]
+  },
+  "deprec": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      16
+    ]
+  },
+  "describ": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      193
+    ]
+  },
+  "descript": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      234,
+      250,
+      2715
+    ]
+  },
+  "detail": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      24,
+      33,
+      197,
+      490,
+      504,
+      2713
+    ]
+  },
+  "determin": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      1019
+    ]
+  },
+  "develop": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      2703
+    ]
+  },
+  "developertarget": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      2714
+    ]
+  },
+  "differ": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      879,
+      1184
+    ]
+  },
+  "direct": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      61
+    ]
+  },
+  "document": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      185,
+      1383,
+      2704,
+      2709,
+      2768
+    ]
+  },
+  "doe": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      682,
+      1033,
+      1325,
+      1513,
+      1661,
+      1734,
+      1861,
+      2069,
+      2218,
+      2306,
+      2426,
+      2514,
+      2603
+    ]
+  },
+  "due": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      1543,
+      2112
+    ]
+  },
+  "duplic": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      1328
+    ]
+  },
+  "dure": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      845,
+      856,
+      1150,
+      1161
+    ]
+  },
+  "e": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      48,
+      253,
+      267,
+      603,
+      607,
+      893,
+      894,
+      1198,
+      1199,
+      1297,
+      1452,
+      1574,
+      1578,
+      1882
+    ]
+  },
+  "each": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      187,
+      198,
+      626,
+      1775,
+      1974,
+      2171,
+      2378,
+      2569
+    ]
+  },
+  "effici": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      213,
+      2585
+    ]
+  },
+  "effort": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      90
+    ]
+  },
+  "element": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      52,
+      261,
+      273,
+      289,
+      306,
+      319,
+      333,
+      342,
+      357,
+      375,
+      392,
+      414,
+      429,
+      515,
+      537,
+      553,
+      573,
+      587,
+      602,
+      621,
+      627,
+      635,
+      638,
+      656,
+      665,
+      676,
+      686,
+      699,
+      714,
+      725,
+      800,
+      813,
+      832,
+      882,
+      912,
+      929,
+      995,
+      1000,
+      1038,
+      1050,
+      1061,
+      1082,
+      1095,
+      1106,
+      1122,
+      1137,
+      1187,
+      1224,
+      1258,
+      1270,
+      1305,
+      1334,
+      1345,
+      1361,
+      1371,
+      1388,
+      1400,
+      1411,
+      1432,
+      1453,
+      1494,
+      1507,
+      1517,
+      1524,
+      1536,
+      1559,
+      1573,
+      1587,
+      1596,
+      1627,
+      1632,
+      1636,
+      1676,
+      1689,
+      1717,
+      1728,
+      1738,
+      1754,
+      1776,
+      1793,
+      1822,
+      1836,
+      1857,
+      1865,
+      1888,
+      1951,
+      2007,
+      2044,
+      2065,
+      2073,
+      2087,
+      2105,
+      2129,
+      2149,
+      2172,
+      2231,
+      2242,
+      2281,
+      2301,
+      2310,
+      2331,
+      2354,
+      2379,
+      2439,
+      2450,
+      2489,
+      2509,
+      2518,
+      2539,
+      2570,
+      2647,
+      2662,
+      2671
+    ]
+  },
+  "empti": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      2549
+    ]
+  },
+  "enclos": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      2657
+    ]
+  },
+  "encount": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      1946
+    ]
+  },
+  "end": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      1007
+    ]
+  },
+  "enhanc": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      2697
+    ]
+  },
+  "enough": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      1236
+    ]
+  },
+  "ensur": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      254,
+      1298,
+      1462
+    ]
+  },
+  "equal": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      461,
+      475,
+      631,
+      827,
+      1132
+    ]
+  },
+  "equival": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      886,
+      1191,
+      1598
+    ]
+  },
+  "even": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      765,
+      837,
+      873,
+      1142,
+      1178
+    ]
+  },
+  "exampl": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      2726
+    ]
+  },
+  "except": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      1416
+    ]
+  },
+  "extend": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      73,
+      106,
+      266,
+      1881
+    ]
+  },
+  "fals": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      1321,
+      1420,
+      1801
+    ]
+  },
+  "field": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      21,
+      25,
+      30,
+      34
+    ]
+  },
+  "final": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      462
+    ]
+  },
+  "find": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      1630
+    ]
+  },
+  "fit": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      949,
+      981,
+      1115
+    ]
+  },
+  "follow": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      1005
+    ]
+  },
+  "for": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      112,
+      186,
+      496,
+      630,
+      892,
+      1197,
+      1248,
+      1401,
+      1624,
+      1808,
+      2584,
+      2698
+    ]
+  },
+  "foreach": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      488
+    ]
+  },
+  "formal": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      589,
+      1570
+    ]
+  },
+  "framework": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      224
+    ]
+  },
+  "free": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      778
+    ]
+  },
+  "from": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      290,
+      358,
+      1497,
+      1527,
+      1560,
+      1637,
+      1680,
+      2051,
+      2094,
+      2194,
+      2246,
+      2348,
+      2402,
+      2540
+    ]
+  },
+  "further": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      2699
+    ]
+  },
+  "general": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      166,
+      1952
+    ]
+  },
+  "getclass": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      463
+    ]
+  },
+  "guarante": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      708,
+      1044
+    ]
+  },
+  "happen": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      849,
+      1154
+    ]
+  },
+  "has": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      993,
+      1943
+    ]
+  },
+  "hashcod": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      464,
+      476
+    ]
+  },
+  "hasnext": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      127
+    ]
+  },
+  "help": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      18
+    ]
+  },
+  "hint": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      867,
+      1172
+    ]
+  },
+  "ie": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      990
+    ]
+  },
+  "if": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      205,
+      300,
+      312,
+      328,
+      361,
+      548,
+      568,
+      581,
+      592,
+      595,
+      650,
+      659,
+      673,
+      703,
+      766,
+      838,
+      850,
+      874,
+      946,
+      978,
+      1026,
+      1039,
+      1102,
+      1143,
+      1155,
+      1179,
+      1232,
+      1264,
+      1287,
+      1310,
+      1322,
+      1392,
+      1465,
+      1477,
+      1488,
+      1504,
+      1519,
+      1534,
+      1563,
+      1579,
+      1590,
+      1599,
+      1628,
+      1652,
+      1683,
+      1687,
+      1700,
+      1711,
+      1725,
+      1747,
+      1785,
+      1791,
+      1815,
+      1829,
+      1848,
+      1868,
+      1905,
+      1927,
+      1939,
+      2016,
+      2028,
+      2039,
+      2058,
+      2075,
+      2082,
+      2101,
+      2181,
+      2188,
+      2210,
+      2251,
+      2263,
+      2274,
+      2293,
+      2313,
+      2388,
+      2395,
+      2418,
+      2459,
+      2471,
+      2482,
+      2501,
+      2521,
+      2594,
+      2616
+    ]
+  },
+  "illegalargumentexcept": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      1518,
+      2081
+    ]
+  },
+  "illegalstateexcept": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      1533,
+      2100
+    ]
+  },
+  "immedi": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      1004
+    ]
+  },
+  "implement": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      57,
+      75,
+      82,
+      93,
+      97,
+      111,
+      126,
+      131,
+      159,
+      195,
+      209,
+      214,
+      560,
+      563,
+      614,
+      617,
+      790,
+      793,
+      1072,
+      1075,
+      1443,
+      1446,
+      1615,
+      1618,
+      1648,
+      1663,
+      1765,
+      1768,
+      1963,
+      1966,
+      1988,
+      2162,
+      2165,
+      2205,
+      2220,
+      2369,
+      2372,
+      2413,
+      2428,
+      2560,
+      2563,
+      2576,
+      2589,
+      2605
+    ]
+  },
+  "impli": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      1918
+    ]
+  },
+  "implicit": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      502
+    ]
+  },
+  "impos": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      1365
+    ]
+  },
+  "in": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      53,
+      179,
+      190,
+      196,
+      274,
+      320,
+      344,
+      380,
+      393,
+      399,
+      415,
+      430,
+      457,
+      472,
+      485,
+      517,
+      523,
+      529,
+      539,
+      557,
+      611,
+      622,
+      628,
+      641,
+      700,
+      726,
+      744,
+      755,
+      787,
+      806,
+      811,
+      913,
+      930,
+      950,
+      982,
+      1001,
+      1018,
+      1062,
+      1069,
+      1088,
+      1093,
+      1125,
+      1259,
+      1271,
+      1352,
+      1381,
+      1440,
+      1456,
+      1612,
+      1755,
+      1762,
+      1781,
+      1788,
+      1810,
+      1823,
+      1837,
+      1889,
+      1915,
+      1954,
+      1960,
+      1983,
+      2134,
+      2150,
+      2159,
+      2177,
+      2184,
+      2232,
+      2282,
+      2332,
+      2338,
+      2344,
+      2359,
+      2366,
+      2384,
+      2391,
+      2442,
+      2454,
+      2490,
+      2557,
+      2648,
+      2658,
+      2681,
+      2741
+    ]
+  },
+  "incompat": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      667,
+      1719,
+      1842,
+      2286,
+      2494
+    ]
+  },
+  "index": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      17,
+      819,
+      1101
+    ]
+  },
+  "insert": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      1545,
+      2114
+    ]
+  },
+  "instanc": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      353,
+      1555
+    ]
+  },
+  "interfac": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      58,
+      86,
+      95,
+      182,
+      473,
+      486,
+      524,
+      530,
+      558,
+      612,
+      788,
+      1070,
+      1441,
+      1613,
+      1763,
+      1961,
+      2160,
+      2367,
+      2558
+    ]
+  },
+  "into": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      1116,
+      1221
+    ]
+  },
+  "invari": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      1424
+    ]
+  },
+  "invoc": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      497
+    ]
+  },
+  "is": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      217,
+      363,
+      440,
+      644,
+      666,
+      677,
+      736,
+      769,
+      776,
+      826,
+      861,
+      871,
+      885,
+      906,
+      940,
+      955,
+      962,
+      1011,
+      1016,
+      1111,
+      1166,
+      1176,
+      1190,
+      1234,
+      1246,
+      1274,
+      1291,
+      1459,
+      1481,
+      1508,
+      1565,
+      1704,
+      1718,
+      1729,
+      1798,
+      1872,
+      1903,
+      1909,
+      1914,
+      1925,
+      1931,
+      1937,
+      1995,
+      2001,
+      2032,
+      2079,
+      2267,
+      2317,
+      2475,
+      2525,
+      2612,
+      2620,
+      2730,
+      2761
+    ]
+  },
+  "isempti": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      325,
+      542,
+      545,
+      556
+    ]
+  },
+  "it": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      160,
+      194,
+      362,
+      713,
+      718,
+      749,
+      954,
+      1049,
+      1054,
+      1233,
+      1407,
+      1412,
+      1496,
+      1526,
+      1564,
+      1629,
+      1633,
+      1786,
+      1950,
+      2050,
+      2093,
+      2182,
+      2189,
+      2192,
+      2353,
+      2389,
+      2396,
+      2400,
+      2655,
+      2739,
+      2750
+    ]
+  },
+  "iter": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      114,
+      119,
+      123,
+      151,
+      155,
+      336,
+      339,
+      505,
+      509,
+      512,
+      522,
+      528,
+      534,
+      618,
+      719,
+      805,
+      836,
+      846,
+      857,
+      876,
+      1055,
+      1087,
+      1110,
+      1141,
+      1151,
+      1162,
+      1181,
+      1619,
+      1642,
+      1654,
+      1659,
+      1769,
+      1780,
+      1967,
+      1979,
+      2166,
+      2176,
+      2199,
+      2212,
+      2216,
+      2373,
+      2383,
+      2407,
+      2420,
+      2424,
+      2564,
+      2596,
+      2601,
+      2656
+    ]
+  },
+  "iterable": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      59,
+      531
+    ]
+  },
+  "iterator": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      335,
+      508
+    ]
+  },
+  "iteratorremov": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      2573
+    ]
+  },
+  "java": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      5,
+      222,
+      2707,
+      2729
+    ]
+  },
+  "javabas": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      39
+    ]
+  },
+  "javalangiter": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      487
+    ]
+  },
+  "javalangobject": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      44,
+      459
+    ]
+  },
+  "javautil": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      41
+    ]
+  },
+  "javautilabstractcollection": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      45
+    ]
+  },
+  "javautilcollect": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      474
+    ]
+  },
+  "jdk": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      7
+    ]
+  },
+  "know": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      1029
+    ]
+  },
+  "known": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      62
+    ]
+  },
+  "larg": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      1113
+    ]
+  },
+  "least": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      600
+    ]
+  },
+  "length": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      821,
+      1021,
+      1131
+    ]
+  },
+  "licens": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      2764
+    ]
+  },
+  "limit": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      1342
+    ]
+  },
+  "link": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      4
+    ]
+  },
+  "list": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      888,
+      889,
+      1193,
+      1194,
+      2643
+    ]
+  },
+  "listadd": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      896,
+      1201
+    ]
+  },
+  "listtoarray": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      898
+    ]
+  },
+  "listtoarraya": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      1203
+    ]
+  },
+  "look": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      1623
+    ]
+  },
+  "maintain": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      751
+    ]
+  },
+  "make": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      706,
+      1042
+    ]
+  },
+  "may": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      202,
+      1340,
+      1346,
+      1373,
+      1389
+    ]
+  },
+  "member": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      219
+    ]
+  },
+  "method": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      23,
+      27,
+      32,
+      36,
+      117,
+      124,
+      143,
+      156,
+      162,
+      189,
+      201,
+      239,
+      245,
+      249,
+      455,
+      470,
+      483,
+      503,
+      721,
+      759,
+      860,
+      884,
+      1057,
+      1165,
+      1189,
+      1644,
+      1660,
+      1666,
+      2201,
+      2217,
+      2223,
+      2266,
+      2409,
+      2425,
+      2431,
+      2552,
+      2583,
+      2602,
+      2608
+    ]
+  },
+  "methodsabstract": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      243
+    ]
+  },
+  "methodsconcret": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      244
+    ]
+  },
+  "methodsinst": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      242
+    ]
+  },
+  "might": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      848,
+      1153
+    ]
+  },
+  "minim": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      88
+    ]
+  },
+  "modif": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      855,
+      1160
+    ]
+  },
+  "modifi": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      133,
+      232,
+      246,
+      780,
+      1910
+    ]
+  },
+  "modul": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      9,
+      38
+    ]
+  },
+  "more": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      212,
+      588,
+      994,
+      1569,
+      1585,
+      1835,
+      1855,
+      2230,
+      2280,
+      2299,
+      2438,
+      2488,
+      2507,
+      2712
+    ]
+  },
+  "most": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      2575
+    ]
+  },
+  "must": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      125,
+      137,
+      157,
+      722,
+      760,
+      1058,
+      1413
+    ]
+  },
+  "navig": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      3
+    ]
+  },
+  "need": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      103
+    ]
+  },
+  "nest": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      20,
+      29
+    ]
+  },
+  "new": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      15,
+      763,
+      890,
+      960,
+      1195,
+      1239
+    ]
+  },
+  "newli": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      1127
+    ]
+  },
+  "next": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      129
+    ]
+  },
+  "no": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      170,
+      332,
+      552,
+      572,
+      746,
+      2148
+    ]
+  },
+  "nonabstract": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      188
+    ]
+  },
+  "nonempti": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      1938,
+      2002,
+      2613
+    ]
+  },
+  "not": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      683,
+      1034,
+      1275,
+      1326,
+      1482,
+      1514,
+      1662,
+      1705,
+      1735,
+      1862,
+      2033,
+      2070,
+      2102,
+      2219,
+      2268,
+      2307,
+      2357,
+      2397,
+      2427,
+      2440,
+      2476,
+      2515,
+      2604,
+      2621
+    ]
+  },
+  "note": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      1645,
+      1985,
+      2202,
+      2410,
+      2586
+    ]
+  },
+  "notifi": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      465
+    ]
+  },
+  "notifyal": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      466
+    ]
+  },
+  "null": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      678,
+      685,
+      1014,
+      1037,
+      1292,
+      1360,
+      1509,
+      1516,
+      1730,
+      1737,
+      1856,
+      1864,
+      1873,
+      2064,
+      2072,
+      2080,
+      2300,
+      2309,
+      2318,
+      2508,
+      2517,
+      2526
+    ]
+  },
+  "nullpointerexcept": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      672,
+      1286,
+      1503,
+      1724,
+      1847,
+      2057,
+      2292,
+      2500
+    ]
+  },
+  "number": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      830,
+      880,
+      1104,
+      1135,
+      1185
+    ]
+  },
+  "o": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      297,
+      349,
+      578,
+      637,
+      1551,
+      1675
+    ]
+  },
+  "object": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      74,
+      405,
+      690,
+      737,
+      907,
+      1673,
+      1975,
+      2683
+    ]
+  },
+  "objectsequalso": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      606,
+      1577
+    ]
+  },
+  "occur": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      1953
+    ]
+  },
+  "of": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      51,
+      83,
+      199,
+      220,
+      271,
+      287,
+      317,
+      354,
+      372,
+      412,
+      427,
+      436,
+      442,
+      452,
+      662,
+      697,
+      814,
+      822,
+      831,
+      841,
+      881,
+      910,
+      927,
+      936,
+      942,
+      968,
+      975,
+      1008,
+      1022,
+      1096,
+      1105,
+      1136,
+      1146,
+      1186,
+      1210,
+      1225,
+      1241,
+      1256,
+      1268,
+      1282,
+      1317,
+      1370,
+      1472,
+      1491,
+      1522,
+      1556,
+      1606,
+      1695,
+      1714,
+      1752,
+      1820,
+      1832,
+      1886,
+      1900,
+      1922,
+      1949,
+      2023,
+      2042,
+      2045,
+      2085,
+      2088,
+      2126,
+      2258,
+      2277,
+      2352,
+      2466,
+      2485,
+      2537,
+      2634,
+      2641,
+      2644,
+      2688,
+      2720,
+      2736
+    ]
+  },
+  "on": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      1343,
+      1367,
+      1386
+    ]
+  },
+  "one": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      601,
+      1583,
+      1833,
+      1853,
+      2228,
+      2278,
+      2297,
+      2436,
+      2486,
+      2505
+    ]
+  },
+  "onli": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      104,
+      390,
+      594,
+      863,
+      1025,
+      1168,
+      2329
+    ]
+  },
+  "oper": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      263,
+      282,
+      294,
+      366,
+      385,
+      404,
+      1307,
+      1339,
+      1480,
+      1568,
+      1703,
+      1897,
+      1902,
+      1913,
+      2031,
+      2139,
+      2343,
+      2474,
+      2544,
+      2574,
+      2619
+    ]
+  },
+  "optim": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      866,
+      1171
+    ]
+  },
+  "option": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      262,
+      281,
+      293,
+      365,
+      384,
+      403,
+      671,
+      687,
+      1306,
+      1567,
+      1723,
+      1739,
+      1846,
+      1866,
+      1896,
+      2138,
+      2291,
+      2311,
+      2342,
+      2499,
+      2519,
+      2543
+    ]
+  },
+  "or": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      1584,
+      1597,
+      1834,
+      1854,
+      1867,
+      2074,
+      2229,
+      2279,
+      2298,
+      2312,
+      2437,
+      2487,
+      2506,
+      2520,
+      2694,
+      2733
+    ]
+  },
+  "oracl": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      2737,
+      2748,
+      2752
+    ]
+  },
+  "order": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      712,
+      729,
+      809,
+      1048,
+      1065,
+      1091,
+      1947,
+      1956,
+      2650
+    ]
+  },
+  "other": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      756,
+      1363,
+      1404,
+      2345,
+      2727,
+      2745
+    ]
+  },
+  "otherwis": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      145,
+      958,
+      1237,
+      1800
+    ]
+  },
+  "over": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      340,
+      513,
+      535,
+      619,
+      1620,
+      1770,
+      1968,
+      2167,
+      2374,
+      2565
+    ]
+  },
+  "overrid": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      139,
+      2581,
+      2679
+    ]
+  },
+  "overridden": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      204,
+      1996
+    ]
+  },
+  "overview": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      8,
+      2718
+    ]
+  },
+  "packag": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      10,
+      40
+    ]
+  },
+  "parallelstream": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      477
+    ]
+  },
+  "paramet": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      47,
+      636,
+      1205,
+      1217,
+      1451,
+      1674,
+      1802,
+      2003,
+      2238,
+      2446
+    ]
+  },
+  "parkway": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      2753
+    ]
+  },
+  "particular": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      1353,
+      1399
+    ]
+  },
+  "per": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      176
+    ]
+  },
+  "permit": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      684,
+      853,
+      1158,
+      1327,
+      1515,
+      1736,
+      1863,
+      2071,
+      2516
+    ]
+  },
+  "place": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      1341
+    ]
+  },
+  "polici": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      2770
+    ]
+  },
+  "presenc": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      640,
+      1455
+    ]
+  },
+  "present": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      364,
+      1566,
+      1684,
+      2441
+    ]
+  },
+  "preserv": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      1422
+    ]
+  },
+  "prevent": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      1495,
+      1525,
+      2049,
+      2092
+    ]
+  },
+  "preview": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      14
+    ]
+  },
+  "probabl": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      2578
+    ]
+  },
+  "process": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      1948
+    ]
+  },
+  "programm": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      102,
+      136,
+      164
+    ]
+  },
+  "progress": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      1916
+    ]
+  },
+  "properti": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      1521,
+      2084
+    ]
+  },
+  "protect": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      235,
+      492
+    ]
+  },
+  "provid": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      79,
+      110,
+      167
+    ]
+  },
+  "public": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      69,
+      506,
+      543,
+      575,
+      689,
+      917,
+      1294,
+      1548,
+      1741,
+      1878,
+      2120,
+      2324,
+      2532,
+      2627
+    ]
+  },
+  "purpos": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      1250
+    ]
+  },
+  "rather": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      1417
+    ]
+  },
+  "reason": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      1403
+    ]
+  },
+  "recommend": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      178
+    ]
+  },
+  "redistribut": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      2769
+    ]
+  },
+  "redwood": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      2754
+    ]
+  },
+  "refer": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      747,
+      2701
+    ]
+  },
+  "refus": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      1357,
+      1395
+    ]
+  },
+  "regist": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      2734
+    ]
+  },
+  "remov": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      161,
+      285,
+      350,
+      370,
+      1547,
+      1552,
+      1571,
+      1611,
+      1634,
+      1643,
+      1665,
+      1679,
+      1691,
+      1702,
+      2124,
+      2193,
+      2200,
+      2222,
+      2245,
+      2347,
+      2401,
+      2408,
+      2430,
+      2535,
+      2568,
+      2607
+    ]
+  },
+  "removeal": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      2119,
+      2158,
+      2265
+    ]
+  },
+  "removeallcollect": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      368,
+      2122
+    ]
+  },
+  "removeif": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      478
+    ]
+  },
+  "removeobject": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      348,
+      1550,
+      2321,
+      2529
+    ]
+  },
+  "report": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      2691
+    ]
+  },
+  "represent": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      451,
+      2633,
+      2639,
+      2687
+    ]
+  },
+  "requir": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      91,
+      561,
+      615,
+      791,
+      1073,
+      1444,
+      1616,
+      1766,
+      1964,
+      2163,
+      2370,
+      2561
+    ]
+  },
+  "reserv": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      2759
+    ]
+  },
+  "restrict": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      1366,
+      1385,
+      1546,
+      2115
+    ]
+  },
+  "result": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      870,
+      1175,
+      1316,
+      1471,
+      1605,
+      1694,
+      2022,
+      2257,
+      2465
+    ]
+  },
+  "retain": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      389,
+      2328,
+      2453
+    ]
+  },
+  "retainal": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      2323,
+      2365,
+      2473
+    ]
+  },
+  "retainallcollect": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      387,
+      2326
+    ]
+  },
+  "return": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      120,
+      152,
+      298,
+      310,
+      326,
+      337,
+      407,
+      422,
+      438,
+      448,
+      510,
+      532,
+      546,
+      564,
+      566,
+      579,
+      590,
+      648,
+      692,
+      716,
+      723,
+      731,
+      739,
+      782,
+      794,
+      801,
+      824,
+      833,
+      872,
+      877,
+      897,
+      899,
+      922,
+      938,
+      956,
+      1052,
+      1059,
+      1076,
+      1083,
+      1107,
+      1124,
+      1138,
+      1177,
+      1182,
+      1202,
+      1251,
+      1308,
+      1320,
+      1419,
+      1436,
+      1463,
+      1588,
+      1655,
+      1685,
+      1745,
+      1777,
+      1799,
+      1813,
+      1976,
+      2014,
+      2143,
+      2173,
+      2213,
+      2249,
+      2380,
+      2421,
+      2457,
+      2553,
+      2597,
+      2630,
+      2653,
+      2684
+    ]
+  },
+  "right": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      2758
+    ]
+  },
+  "room": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      987
+    ]
+  },
+  "runtim": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      434,
+      733,
+      903,
+      934,
+      966,
+      1244,
+      1266,
+      1279
+    ]
+  },
+  "safe": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      743
+    ]
+  },
+  "same": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      728,
+      808,
+      1064,
+      1090,
+      1243
+    ]
+  },
+  "se": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      6,
+      2708
+    ]
+  },
+  "search": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      37
+    ]
+  },
+  "see": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      226,
+      1784,
+      1874,
+      2116,
+      2180,
+      2319,
+      2387,
+      2527,
+      2705
+    ]
+  },
+  "separ": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      2664
+    ]
+  },
+  "set": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      1012
+    ]
+  },
+  "shore": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      2755
+    ]
+  },
+  "should": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      165,
+      1378
+    ]
+  },
+  "sinc": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      225
+    ]
+  },
+  "singl": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      352,
+      1554
+    ]
+  },
+  "size": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      116,
+      479,
+      565,
+      840,
+      859,
+      974,
+      1145,
+      1164
+    ]
+  },
+  "skelet": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      81
+    ]
+  },
+  "skip": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      2
+    ]
+  },
+  "so": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      1795,
+      2190,
+      2398
+    ]
+  },
+  "sole": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      237,
+      494
+    ]
+  },
+  "some": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      1354,
+      1520,
+      2083
+    ]
+  },
+  "space": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      2670
+    ]
+  },
+  "spare": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      989
+    ]
+  },
+  "specif": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      183
+    ]
+  },
+  "specifi": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      260,
+      276,
+      305,
+      322,
+      356,
+      382,
+      401,
+      444,
+      520,
+      526,
+      554,
+      586,
+      608,
+      634,
+      655,
+      664,
+      675,
+      784,
+      944,
+      952,
+      970,
+      984,
+      1066,
+      1118,
+      1284,
+      1289,
+      1304,
+      1333,
+      1380,
+      1431,
+      1437,
+      1493,
+      1506,
+      1558,
+      1595,
+      1609,
+      1626,
+      1672,
+      1716,
+      1727,
+      1757,
+      1759,
+      1772,
+      1825,
+      1839,
+      1850,
+      1870,
+      1891,
+      1907,
+      1929,
+      1941,
+      1957,
+      1970,
+      1999,
+      2047,
+      2060,
+      2077,
+      2090,
+      2136,
+      2154,
+      2156,
+      2186,
+      2236,
+      2289,
+      2304,
+      2315,
+      2340,
+      2361,
+      2363,
+      2393,
+      2444,
+      2497,
+      2512,
+      2523,
+      2554
+    ]
+  },
+  "spliter": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      480
+    ]
+  },
+  "squar": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      2659
+    ]
+  },
+  "start": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      817,
+      1099
+    ]
+  },
+  "store": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      810,
+      1092,
+      1231
+    ]
+  },
+  "stream": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      481
+    ]
+  },
+  "string": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      446,
+      450,
+      2628,
+      2632,
+      2638,
+      2675,
+      2686
+    ]
+  },
+  "stringvalueofobject": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      2678
+    ]
+  },
+  "subclass": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      63,
+      499
+    ]
+  },
+  "subject": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      2762
+    ]
+  },
+  "such": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      604,
+      1575,
+      1586
+    ]
+  },
+  "suggest": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      2695
+    ]
+  },
+  "summari": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      19,
+      28,
+      230,
+      240
+    ]
+  },
+  "support": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      1337,
+      1483,
+      1706,
+      2034,
+      2269,
+      2308,
+      2477,
+      2622
+    ]
+  },
+  "t": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      418,
+      419,
+      918,
+      919,
+      1206
+    ]
+  },
+  "term": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      2721,
+      2765
+    ]
+  },
+  "test": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      647
+    ]
+  },
+  "than": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      996,
+      1405,
+      1418
+    ]
+  },
+  "that": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      255,
+      376,
+      396,
+      441,
+      605,
+      745,
+      941,
+      1030,
+      1299,
+      1336,
+      1372,
+      1406,
+      1425,
+      1576,
+      1646,
+      1919,
+      1955,
+      1986,
+      2130,
+      2203,
+      2335,
+      2355,
+      2411,
+      2587
+    ]
+  },
+  "the": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      49,
+      84,
+      89,
+      101,
+      113,
+      118,
+      122,
+      135,
+      150,
+      154,
+      163,
+      177,
+      180,
+      184,
+      206,
+      221,
+      259,
+      272,
+      275,
+      288,
+      304,
+      318,
+      321,
+      341,
+      355,
+      381,
+      391,
+      400,
+      413,
+      428,
+      433,
+      437,
+      443,
+      514,
+      536,
+      585,
+      620,
+      623,
+      633,
+      654,
+      660,
+      663,
+      674,
+      698,
+      724,
+      727,
+      730,
+      738,
+      774,
+      781,
+      799,
+      807,
+      815,
+      820,
+      823,
+      829,
+      835,
+      839,
+      851,
+      858,
+      868,
+      875,
+      911,
+      928,
+      933,
+      937,
+      943,
+      947,
+      951,
+      965,
+      969,
+      973,
+      983,
+      991,
+      999,
+      1002,
+      1006,
+      1009,
+      1020,
+      1027,
+      1060,
+      1063,
+      1081,
+      1089,
+      1097,
+      1103,
+      1109,
+      1117,
+      1121,
+      1134,
+      1140,
+      1144,
+      1156,
+      1163,
+      1173,
+      1180,
+      1207,
+      1211,
+      1215,
+      1219,
+      1223,
+      1242,
+      1257,
+      1265,
+      1278,
+      1283,
+      1288,
+      1303,
+      1318,
+      1332,
+      1368,
+      1410,
+      1423,
+      1430,
+      1473,
+      1478,
+      1489,
+      1492,
+      1505,
+      1523,
+      1535,
+      1557,
+      1594,
+      1607,
+      1621,
+      1625,
+      1631,
+      1635,
+      1638,
+      1641,
+      1653,
+      1664,
+      1671,
+      1701,
+      1712,
+      1715,
+      1726,
+      1753,
+      1756,
+      1771,
+      1779,
+      1821,
+      1824,
+      1830,
+      1838,
+      1849,
+      1869,
+      1887,
+      1890,
+      1898,
+      1906,
+      1912,
+      1920,
+      1928,
+      1940,
+      1969,
+      1978,
+      1998,
+      2024,
+      2029,
+      2040,
+      2046,
+      2059,
+      2076,
+      2089,
+      2104,
+      2135,
+      2153,
+      2175,
+      2185,
+      2198,
+      2211,
+      2215,
+      2221,
+      2235,
+      2259,
+      2264,
+      2275,
+      2288,
+      2303,
+      2314,
+      2330,
+      2339,
+      2360,
+      2382,
+      2392,
+      2406,
+      2419,
+      2423,
+      2429,
+      2443,
+      2467,
+      2472,
+      2483,
+      2496,
+      2511,
+      2522,
+      2538,
+      2545,
+      2572,
+      2595,
+      2606,
+      2617,
+      2637,
+      2645,
+      2649,
+      2666,
+      2706,
+      2742,
+      2767
+    ]
+  },
+  "their": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      1382
+    ]
+  },
+  "then": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      1120
+    ]
+  },
+  "therein": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      957
+    ]
+  },
+  "these": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      200
+    ]
+  },
+  "they": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      2651
+    ]
+  },
+  "this": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      54,
+      77,
+      94,
+      107,
+      140,
+      191,
+      215,
+      256,
+      279,
+      291,
+      301,
+      313,
+      329,
+      345,
+      359,
+      373,
+      394,
+      416,
+      431,
+      453,
+      518,
+      540,
+      549,
+      562,
+      569,
+      582,
+      596,
+      616,
+      642,
+      651,
+      669,
+      680,
+      701,
+      704,
+      720,
+      753,
+      758,
+      767,
+      792,
+      803,
+      842,
+      883,
+      895,
+      914,
+      931,
+      976,
+      979,
+      997,
+      1015,
+      1023,
+      1031,
+      1040,
+      1056,
+      1074,
+      1085,
+      1147,
+      1188,
+      1200,
+      1226,
+      1249,
+      1260,
+      1272,
+      1300,
+      1311,
+      1323,
+      1338,
+      1350,
+      1421,
+      1434,
+      1445,
+      1457,
+      1466,
+      1485,
+      1501,
+      1511,
+      1531,
+      1541,
+      1561,
+      1580,
+      1591,
+      1600,
+      1617,
+      1647,
+      1657,
+      1668,
+      1681,
+      1696,
+      1708,
+      1721,
+      1732,
+      1748,
+      1767,
+      1789,
+      1811,
+      1816,
+      1844,
+      1859,
+      1894,
+      1901,
+      1917,
+      1923,
+      1932,
+      1935,
+      1965,
+      1981,
+      1987,
+      2012,
+      2017,
+      2036,
+      2055,
+      2067,
+      2098,
+      2110,
+      2127,
+      2141,
+      2144,
+      2164,
+      2168,
+      2195,
+      2204,
+      2225,
+      2247,
+      2252,
+      2271,
+      2283,
+      2294,
+      2333,
+      2349,
+      2371,
+      2375,
+      2403,
+      2412,
+      2433,
+      2455,
+      2460,
+      2479,
+      2491,
+      2502,
+      2541,
+      2551,
+      2562,
+      2566,
+      2582,
+      2588,
+      2599,
+      2610,
+      2624,
+      2635,
+      2689
+    ]
+  },
+  "throw": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      146,
+      657,
+      1262,
+      1414,
+      1448,
+      1475,
+      1649,
+      1698,
+      1827,
+      1990,
+      2026,
+      2207,
+      2261,
+      2415,
+      2469,
+      2591,
+      2614
+    ]
+  },
+  "thus": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      777
+    ]
+  },
+  "time": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      1542,
+      2111
+    ]
+  },
+  "to": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      87,
+      92,
+      96,
+      105,
+      130,
+      278,
+      645,
+      710,
+      748,
+      779,
+      828,
+      887,
+      988,
+      1013,
+      1046,
+      1114,
+      1133,
+      1192,
+      1213,
+      1229,
+      1277,
+      1349,
+      1358,
+      1396,
+      1460,
+      1500,
+      1530,
+      1544,
+      1677,
+      1783,
+      1805,
+      1893,
+      1980,
+      2008,
+      2011,
+      2054,
+      2097,
+      2113,
+      2179,
+      2243,
+      2386,
+      2451,
+      2580,
+      2674,
+      2763
+    ]
+  },
+  "toarray": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      406,
+      482,
+      688,
+      691,
+      786,
+      916,
+      1068
+    ]
+  },
+  "toarrayt": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      420,
+      920
+    ]
+  },
+  "too": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      1112
+    ]
+  },
+  "tostr": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      447,
+      2626,
+      2629,
+      2680
+    ]
+  },
+  "trademark": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      2732,
+      2735
+    ]
+  },
+  "tree": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      13
+    ]
+  },
+  "true": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      299,
+      311,
+      327,
+      547,
+      567,
+      580,
+      591,
+      649,
+      1309,
+      1464,
+      1589,
+      1686,
+      1746,
+      1797,
+      1814,
+      2015,
+      2250,
+      2458
+    ]
+  },
+  "turn": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      629,
+      1782,
+      1984,
+      2178,
+      2385
+    ]
+  },
+  "type": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      46,
+      50,
+      248,
+      435,
+      661,
+      735,
+      905,
+      935,
+      967,
+      1204,
+      1209,
+      1245,
+      1267,
+      1281,
+      1369,
+      1713,
+      1831,
+      2276,
+      2484
+    ]
+  },
+  "typic": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      501
+    ]
+  },
+  "undefin": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      1904,
+      1926
+    ]
+  },
+  "unless": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      1993
+    ]
+  },
+  "unmodifi": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      99
+    ]
+  },
+  "unsupportedoperationexcept": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      148,
+      1450,
+      1476,
+      1651,
+      1699,
+      1992,
+      2027,
+      2209,
+      2262,
+      2417,
+      2470,
+      2593,
+      2615
+    ]
+  },
+  "us": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      2743
+    ]
+  },
+  "usaal": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      2757
+    ]
+  },
+  "use": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      12,
+      1017,
+      1640,
+      2571,
+      2760
+    ]
+  },
+  "version": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      2728
+    ]
+  },
+  "void": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      169,
+      283,
+      2533
+    ]
+  },
+  "wait": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      467,
+      468,
+      469
+    ]
+  },
+  "was": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      1690
+    ]
+  },
+  "what": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      711,
+      1047,
+      1344,
+      1387
+    ]
+  },
+  "which": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      144,
+      1222,
+      2710
+    ]
+  },
+  "while": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      1911
+    ]
+  },
+  "whose": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      639,
+      902,
+      1454
+    ]
+  },
+  "will": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      741,
+      1356,
+      1364,
+      1989,
+      2146,
+      2206,
+      2414,
+      2547,
+      2577,
+      2590
+    ]
+  },
+  "with": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      632,
+      668,
+      818,
+      964,
+      986,
+      1100,
+      1130,
+      1720,
+      1843,
+      2152,
+      2197,
+      2234,
+      2287,
+      2405,
+      2495,
+      2716
+    ]
+  },
+  "word": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      757,
+      2346
+    ]
+  },
+  "work": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      2724
+    ]
+  },
+  "workaround": {
+    "https://usf-cs272-spring2024.github.io/project-web/docs/api/java.base/java/util/AbstractCollection.html": [
+      2722
+    ]
+  }
+}

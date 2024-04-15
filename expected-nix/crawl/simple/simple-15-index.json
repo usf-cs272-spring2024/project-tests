@@ -1,0 +1,370 @@
+{
+  "aardvark": {
+    "https://usf-cs272-spring2024.github.io/project-web/input/simple/": [
+      2
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/simple/capital_extension.HTML": [
+      1
+    ]
+  },
+  "alpaca": {
+    "https://usf-cs272-spring2024.github.io/project-web/input/simple/": [
+      1
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/simple/a/b/c/subdir.html": [
+      1
+    ]
+  },
+  "antelop": {
+    "https://usf-cs272-spring2024.github.io/project-web/input/simple/": [
+      9
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/simple/symbols.html": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ]
+  },
+  "art": {
+    "https://usf-cs272-spring2024.github.io/project-web/input/simple/stems.html": [
+      1,
+      2,
+      3,
+      4,
+      24
+    ]
+  },
+  "artichok": {
+    "https://usf-cs272-spring2024.github.io/project-web/input/simple/stems.html": [
+      5,
+      6
+    ]
+  },
+  "articl": {
+    "https://usf-cs272-spring2024.github.io/project-web/input/simple/stems.html": [
+      7,
+      8,
+      9
+    ]
+  },
+  "articul": {
+    "https://usf-cs272-spring2024.github.io/project-web/input/simple/stems.html": [
+      10,
+      11,
+      12,
+      13
+    ]
+  },
+  "artifici": {
+    "https://usf-cs272-spring2024.github.io/project-web/input/simple/stems.html": [
+      14,
+      15
+    ]
+  },
+  "artisan": {
+    "https://usf-cs272-spring2024.github.io/project-web/input/simple/stems.html": [
+      16
+    ]
+  },
+  "artist": {
+    "https://usf-cs272-spring2024.github.io/project-web/input/simple/stems.html": [
+      17,
+      18,
+      19,
+      20,
+      21
+    ]
+  },
+  "artless": {
+    "https://usf-cs272-spring2024.github.io/project-web/input/simple/stems.html": [
+      22,
+      23
+    ]
+  },
+  "ball": {
+    "https://usf-cs272-spring2024.github.io/project-web/input/simple/stems.html": [
+      25,
+      28
+    ]
+  },
+  "ballad": {
+    "https://usf-cs272-spring2024.github.io/project-web/input/simple/stems.html": [
+      26
+    ]
+  },
+  "ballast": {
+    "https://usf-cs272-spring2024.github.io/project-web/input/simple/stems.html": [
+      27
+    ]
+  },
+  "ballet": {
+    "https://usf-cs272-spring2024.github.io/project-web/input/simple/stems.html": [
+      29
+    ]
+  },
+  "balloon": {
+    "https://usf-cs272-spring2024.github.io/project-web/input/simple/": [
+      8
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/simple/stems.html": [
+      30,
+      31
+    ]
+  },
+  "ballot": {
+    "https://usf-cs272-spring2024.github.io/project-web/input/simple/stems.html": [
+      32
+    ]
+  },
+  "capybara": {
+    "https://usf-cs272-spring2024.github.io/project-web/input/simple/": [
+      10
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/simple/dir.txt": [
+      1
+    ]
+  },
+  "cassowari": {
+    "https://usf-cs272-spring2024.github.io/project-web/input/simple/": [
+      11
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/simple/wrong_extension.html": [
+      1
+    ]
+  },
+  "eight": {
+    "https://usf-cs272-spring2024.github.io/project-web/input/simple/position.html": [
+      8
+    ]
+  },
+  "eighteen": {
+    "https://usf-cs272-spring2024.github.io/project-web/input/simple/position.html": [
+      18
+    ]
+  },
+  "eleph": {
+    "https://usf-cs272-spring2024.github.io/project-web/input/simple/": [
+      5
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/simple/mixed_case.htm": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  "eleven": {
+    "https://usf-cs272-spring2024.github.io/project-web/input/simple/position.html": [
+      11
+    ]
+  },
+  "empti": {
+    "https://usf-cs272-spring2024.github.io/project-web/input/simple/": [
+      3
+    ]
+  },
+  "fifteen": {
+    "https://usf-cs272-spring2024.github.io/project-web/input/simple/position.html": [
+      15
+    ]
+  },
+  "five": {
+    "https://usf-cs272-spring2024.github.io/project-web/input/simple/position.html": [
+      5
+    ]
+  },
+  "four": {
+    "https://usf-cs272-spring2024.github.io/project-web/input/simple/": [
+      7
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/simple/position.html": [
+      4
+    ]
+  },
+  "fourteen": {
+    "https://usf-cs272-spring2024.github.io/project-web/input/simple/position.html": [
+      14
+    ]
+  },
+  "hello": {
+    "https://usf-cs272-spring2024.github.io/project-web/input/simple/": [
+      4
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/simple/hello.html": [
+      1,
+      3,
+      5,
+      7
+    ]
+  },
+  "invest": {
+    "https://usf-cs272-spring2024.github.io/project-web/input/simple/stems.html": [
+      33,
+      34,
+      41,
+      42
+    ]
+  },
+  "investig": {
+    "https://usf-cs272-spring2024.github.io/project-web/input/simple/stems.html": [
+      35,
+      36,
+      37,
+      38,
+      39,
+      40
+    ]
+  },
+  "light": {
+    "https://usf-cs272-spring2024.github.io/project-web/input/simple/stems.html": [
+      43,
+      44,
+      55,
+      56,
+      57,
+      59
+    ]
+  },
+  "lighten": {
+    "https://usf-cs272-spring2024.github.io/project-web/input/simple/stems.html": [
+      45,
+      46,
+      47,
+      48
+    ]
+  },
+  "lighter": {
+    "https://usf-cs272-spring2024.github.io/project-web/input/simple/stems.html": [
+      49
+    ]
+  },
+  "lightest": {
+    "https://usf-cs272-spring2024.github.io/project-web/input/simple/stems.html": [
+      50
+    ]
+  },
+  "lighthead": {
+    "https://usf-cs272-spring2024.github.io/project-web/input/simple/stems.html": [
+      51
+    ]
+  },
+  "lightheart": {
+    "https://usf-cs272-spring2024.github.io/project-web/input/simple/stems.html": [
+      52
+    ]
+  },
+  "lighthous": {
+    "https://usf-cs272-spring2024.github.io/project-web/input/simple/stems.html": [
+      53,
+      54
+    ]
+  },
+  "lightn": {
+    "https://usf-cs272-spring2024.github.io/project-web/input/simple/stems.html": [
+      58
+    ]
+  },
+  "lightsom": {
+    "https://usf-cs272-spring2024.github.io/project-web/input/simple/stems.html": [
+      60
+    ]
+  },
+  "nine": {
+    "https://usf-cs272-spring2024.github.io/project-web/input/simple/position.html": [
+      9
+    ]
+  },
+  "nineteen": {
+    "https://usf-cs272-spring2024.github.io/project-web/input/simple/position.html": [
+      19
+    ]
+  },
+  "one": {
+    "https://usf-cs272-spring2024.github.io/project-web/input/simple/position.html": [
+      1
+    ]
+  },
+  "seven": {
+    "https://usf-cs272-spring2024.github.io/project-web/input/simple/position.html": [
+      7
+    ]
+  },
+  "seventeen": {
+    "https://usf-cs272-spring2024.github.io/project-web/input/simple/position.html": [
+      17
+    ]
+  },
+  "shoebil": {
+    "https://usf-cs272-spring2024.github.io/project-web/input/simple/": [
+      6
+    ]
+  },
+  "six": {
+    "https://usf-cs272-spring2024.github.io/project-web/input/simple/position.html": [
+      6
+    ]
+  },
+  "sixteen": {
+    "https://usf-cs272-spring2024.github.io/project-web/input/simple/position.html": [
+      16
+    ]
+  },
+  "ten": {
+    "https://usf-cs272-spring2024.github.io/project-web/input/simple/position.html": [
+      10
+    ]
+  },
+  "thirteen": {
+    "https://usf-cs272-spring2024.github.io/project-web/input/simple/position.html": [
+      13
+    ]
+  },
+  "three": {
+    "https://usf-cs272-spring2024.github.io/project-web/input/simple/position.html": [
+      3
+    ]
+  },
+  "twelv": {
+    "https://usf-cs272-spring2024.github.io/project-web/input/simple/position.html": [
+      12
+    ]
+  },
+  "twenti": {
+    "https://usf-cs272-spring2024.github.io/project-web/input/simple/position.html": [
+      20
+    ]
+  },
+  "two": {
+    "https://usf-cs272-spring2024.github.io/project-web/input/simple/position.html": [
+      2
+    ]
+  },
+  "wonder": {
+    "https://usf-cs272-spring2024.github.io/project-web/input/simple/stems.html": [
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      67,
+      68
+    ]
+  },
+  "wondrous": {
+    "https://usf-cs272-spring2024.github.io/project-web/input/simple/stems.html": [
+      69
+    ]
+  },
+  "world": {
+    "https://usf-cs272-spring2024.github.io/project-web/input/simple/hello.html": [
+      2,
+      4,
+      6,
+      8
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "https://usf-cs272-spring2024.github.io/project-web/input/simple/": 11,
+  "https://usf-cs272-spring2024.github.io/project-web/input/simple/a/b/c/subdir.html": 1,
+  "https://usf-cs272-spring2024.github.io/project-web/input/simple/capital_extension.HTML": 1,
+  "https://usf-cs272-spring2024.github.io/project-web/input/simple/dir.txt": 1,
+  "https://usf-cs272-spring2024.github.io/project-web/input/simple/hello.html": 8,
+  "https://usf-cs272-spring2024.github.io/project-web/input/simple/mixed_case.htm": 4,
+  "https://usf-cs272-spring2024.github.io/project-web/input/simple/position.html": 20,
+  "https://usf-cs272-spring2024.github.io/project-web/input/simple/stems.html": 69,
+  "https://usf-cs272-spring2024.github.io/project-web/input/simple/symbols.html": 6,
+  "https://usf-cs272-spring2024.github.io/project-web/input/simple/wrong_extension.html": 1
+}

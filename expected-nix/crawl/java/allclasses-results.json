@@ -1,0 +1,184 @@
+{
+  "a": [
+    {
+      "count": 9649,
+      "score": 0.15299359,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/docs/api/allclasses-index.html"
+    }
+  ],
+  "b": [
+    {
+      "count": 2036,
+      "score": 0.03228262,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/docs/api/allclasses-index.html"
+    }
+  ],
+  "c": [
+    {
+      "count": 4647,
+      "score": 0.07368237,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/docs/api/allclasses-index.html"
+    }
+  ],
+  "d": [
+    {
+      "count": 2468,
+      "score": 0.03913237,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/docs/api/allclasses-index.html"
+    }
+  ],
+  "e": [
+    {
+      "count": 2086,
+      "score": 0.03307541,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/docs/api/allclasses-index.html"
+    }
+  ],
+  "f": [
+    {
+      "count": 2907,
+      "score": 0.04609311,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/docs/api/allclasses-index.html"
+    }
+  ],
+  "g": [
+    {
+      "count": 462,
+      "score": 0.00732543,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/docs/api/allclasses-index.html"
+    }
+  ],
+  "h": [
+    {
+      "count": 716,
+      "score": 0.01135283,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/docs/api/allclasses-index.html"
+    }
+  ],
+  "i": [
+    {
+      "count": 5400,
+      "score": 0.08562187,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/docs/api/allclasses-index.html"
+    }
+  ],
+  "j": [
+    {
+      "count": 729,
+      "score": 0.01155895,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/docs/api/allclasses-index.html"
+    }
+  ],
+  "k": [
+    {
+      "count": 372,
+      "score": 0.00589840,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/docs/api/allclasses-index.html"
+    }
+  ],
+  "l": [
+    {
+      "count": 1142,
+      "score": 0.01810744,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/docs/api/allclasses-index.html"
+    }
+  ],
+  "m": [
+    {
+      "count": 2183,
+      "score": 0.03461343,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/docs/api/allclasses-index.html"
+    }
+  ],
+  "n": [
+    {
+      "count": 1082,
+      "score": 0.01715609,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/docs/api/allclasses-index.html"
+    }
+  ],
+  "o": [
+    {
+      "count": 4221,
+      "score": 0.06692776,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/docs/api/allclasses-index.html"
+    }
+  ],
+  "p": [
+    {
+      "count": 2743,
+      "score": 0.04349274,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/docs/api/allclasses-index.html"
+    }
+  ],
+  "q": [
+    {
+      "count": 72,
+      "score": 0.00114162,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/docs/api/allclasses-index.html"
+    }
+  ],
+  "r": [
+    {
+      "count": 2531,
+      "score": 0.04013129,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/docs/api/allclasses-index.html"
+    }
+  ],
+  "s": [
+    {
+      "count": 4279,
+      "score": 0.06784740,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/docs/api/allclasses-index.html"
+    }
+  ],
+  "t": [
+    {
+      "count": 8977,
+      "score": 0.14233843,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/docs/api/allclasses-index.html"
+    }
+  ],
+  "u": [
+    {
+      "count": 1326,
+      "score": 0.02102493,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/docs/api/allclasses-index.html"
+    }
+  ],
+  "v": [
+    {
+      "count": 1002,
+      "score": 0.01588761,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/docs/api/allclasses-index.html"
+    }
+  ],
+  "w": [
+    {
+      "count": 1671,
+      "score": 0.02649521,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/docs/api/allclasses-index.html"
+    }
+  ],
+  "x": [
+    {
+      "count": 304,
+      "score": 0.00482019,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/docs/api/allclasses-index.html"
+    }
+  ],
+  "y": [
+    {
+      "count": 26,
+      "score": 0.00041225,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/docs/api/allclasses-index.html"
+    }
+  ],
+  "z": [
+    {
+      "count": 36,
+      "score": 0.00057081,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/docs/api/allclasses-index.html"
+    }
+  ]
+}

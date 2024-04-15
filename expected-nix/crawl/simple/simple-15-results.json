@@ -1,0 +1,70 @@
+{
+  "ant perf": [
+    {
+      "count": 6,
+      "score": 1.00000000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/simple/symbols.html"
+    },
+    {
+      "count": 1,
+      "score": 0.09090909,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/simple/"
+    }
+  ],
+  "capybara hidden": [
+    {
+      "count": 1,
+      "score": 1.00000000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/simple/dir.txt"
+    },
+    {
+      "count": 1,
+      "score": 0.09090909,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/simple/"
+    }
+  ],
+  "capybara hidden observ": [
+    {
+      "count": 1,
+      "score": 1.00000000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/simple/dir.txt"
+    },
+    {
+      "count": 1,
+      "score": 0.09090909,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/simple/"
+    }
+  ],
+  "cardin": [
+  ],
+  "four six": [
+    {
+      "count": 4,
+      "score": 0.20000000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/simple/position.html"
+    },
+    {
+      "count": 1,
+      "score": 0.09090909,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/simple/"
+    }
+  ],
+  "hello world": [
+    {
+      "count": 8,
+      "score": 1.00000000,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/simple/hello.html"
+    },
+    {
+      "count": 1,
+      "score": 0.09090909,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/simple/"
+    }
+  ],
+  "lori": [
+  ],
+  "observ perfor": [
+  ],
+  "perform": [
+  ]
+}

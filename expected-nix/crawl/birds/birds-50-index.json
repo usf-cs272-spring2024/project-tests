@@ -1,0 +1,1451 @@
+{
+  "a": {
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/albatross.html": [
+      3
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/blackbird.html": [
+      3
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/bluebird.html": [
+      3
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/cardinal.html": [
+      3
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/chickadee.html": [
+      3
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/crane.html": [
+      3
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/crow.html": [
+      3
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/cuckoo.html": [
+      3
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/dove.html": [
+      3
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/duck.html": [
+      3
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/eagle.html": [
+      3
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/egret.html": [
+      3
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/falcon.html": [
+      3
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/finch.html": [
+      3
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/goose.html": [
+      3
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/gull.html": [
+      3
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/hawk.html": [
+      3
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/heron.html": [
+      3
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/hummingbird.html": [
+      3
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/ibis.html": [
+      3
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/kingfisher.html": [
+      3
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/loon.html": [
+      3
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/magpie.html": [
+      3
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/mallard.html": [
+      3
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/meadowlark.html": [
+      3
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/mockingbird.html": [
+      3
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/nighthawk.html": [
+      3
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/osprey.html": [
+      3
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/owl.html": [
+      3
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/pelican.html": [
+      3
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/pheasant.html": [
+      3
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/pigeon.html": [
+      3
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/puffin.html": [
+      3
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/quail.html": [
+      3
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/raven.html": [
+      3
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/roadrunner.html": [
+      3
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/robin.html": [
+      3
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/sandpiper.html": [
+      3
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/sparrow.html": [
+      3
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/starling.html": [
+      3
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/stork.html": [
+      3
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/swallow.html": [
+      3
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/swan.html": [
+      3
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/tern.html": [
+      3
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/turkey.html": [
+      3
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/vulture.html": [
+      3
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/warbler.html": [
+      3
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/woodpecker.html": [
+      3
+    ]
+  },
+  "albatross": {
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/": [
+      8
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/albatross.html": [
+      1
+    ]
+  },
+  "alphabet": {
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/": [
+      4
+    ]
+  },
+  "an": {
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/": [
+      3
+    ]
+  },
+  "bird": {
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/": [
+      7,
+      9
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/albatross.html": [
+      7
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/blackbird.html": [
+      7
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/bluebird.html": [
+      7
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/cardinal.html": [
+      7
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/chickadee.html": [
+      7
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/crane.html": [
+      7
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/crow.html": [
+      7
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/cuckoo.html": [
+      7
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/dove.html": [
+      7
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/duck.html": [
+      7
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/eagle.html": [
+      7
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/egret.html": [
+      7
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/falcon.html": [
+      7
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/finch.html": [
+      7
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/goose.html": [
+      7
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/gull.html": [
+      7
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/hawk.html": [
+      7
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/heron.html": [
+      7
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/hummingbird.html": [
+      7
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/ibis.html": [
+      7
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/kingfisher.html": [
+      7
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/loon.html": [
+      7
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/magpie.html": [
+      7
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/mallard.html": [
+      7
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/meadowlark.html": [
+      7
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/mockingbird.html": [
+      7
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/nighthawk.html": [
+      7
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/osprey.html": [
+      7
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/owl.html": [
+      7
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/pelican.html": [
+      7
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/pheasant.html": [
+      7
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/pigeon.html": [
+      7
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/puffin.html": [
+      7
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/quail.html": [
+      7
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/raven.html": [
+      7
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/roadrunner.html": [
+      7
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/robin.html": [
+      7
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/sandpiper.html": [
+      7
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/sparrow.html": [
+      7
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/starling.html": [
+      7
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/stork.html": [
+      7
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/swallow.html": [
+      7
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/swan.html": [
+      7
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/tern.html": [
+      7
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/turkey.html": [
+      7
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/vulture.html": [
+      7
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/warbler.html": [
+      7
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/woodpecker.html": [
+      7
+    ]
+  },
+  "blackbird": {
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/": [
+      10
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/blackbird.html": [
+      1
+    ]
+  },
+  "bluebird": {
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/": [
+      11
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/bluebird.html": [
+      1
+    ]
+  },
+  "cardin": {
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/": [
+      12
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/cardinal.html": [
+      1
+    ]
+  },
+  "chickade": {
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/": [
+      13
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/chickadee.html": [
+      1
+    ]
+  },
+  "common": {
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/albatross.html": [
+      4
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/blackbird.html": [
+      4
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/bluebird.html": [
+      4
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/cardinal.html": [
+      4
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/chickadee.html": [
+      4
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/crane.html": [
+      4
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/crow.html": [
+      4
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/cuckoo.html": [
+      4
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/dove.html": [
+      4
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/duck.html": [
+      4
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/eagle.html": [
+      4
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/egret.html": [
+      4
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/falcon.html": [
+      4
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/finch.html": [
+      4
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/goose.html": [
+      4
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/gull.html": [
+      4
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/hawk.html": [
+      4
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/heron.html": [
+      4
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/hummingbird.html": [
+      4
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/ibis.html": [
+      4
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/kingfisher.html": [
+      4
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/loon.html": [
+      4
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/magpie.html": [
+      4
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/mallard.html": [
+      4
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/meadowlark.html": [
+      4
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/mockingbird.html": [
+      4
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/nighthawk.html": [
+      4
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/osprey.html": [
+      4
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/owl.html": [
+      4
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/pelican.html": [
+      4
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/pheasant.html": [
+      4
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/pigeon.html": [
+      4
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/puffin.html": [
+      4
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/quail.html": [
+      4
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/raven.html": [
+      4
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/roadrunner.html": [
+      4
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/robin.html": [
+      4
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/sandpiper.html": [
+      4
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/sparrow.html": [
+      4
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/starling.html": [
+      4
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/stork.html": [
+      4
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/swallow.html": [
+      4
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/swan.html": [
+      4
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/tern.html": [
+      4
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/turkey.html": [
+      4
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/vulture.html": [
+      4
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/warbler.html": [
+      4
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/woodpecker.html": [
+      4
+    ]
+  },
+  "crane": {
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/": [
+      14
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/crane.html": [
+      1
+    ]
+  },
+  "crow": {
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/": [
+      15
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/crow.html": [
+      1
+    ]
+  },
+  "cuckoo": {
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/": [
+      16
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/cuckoo.html": [
+      1
+    ]
+  },
+  "dove": {
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/": [
+      17
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/dove.html": [
+      1
+    ]
+  },
+  "duck": {
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/": [
+      18
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/duck.html": [
+      1
+    ]
+  },
+  "eagl": {
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/": [
+      19
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/eagle.html": [
+      1
+    ]
+  },
+  "egret": {
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/": [
+      20
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/egret.html": [
+      1
+    ]
+  },
+  "falcon": {
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/": [
+      21
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/falcon.html": [
+      1
+    ]
+  },
+  "finch": {
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/": [
+      22
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/finch.html": [
+      1
+    ]
+  },
+  "goos": {
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/": [
+      23
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/goose.html": [
+      1
+    ]
+  },
+  "gull": {
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/": [
+      24
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/gull.html": [
+      1
+    ]
+  },
+  "hawk": {
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/": [
+      25
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/hawk.html": [
+      1
+    ]
+  },
+  "here": {
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/": [
+      1
+    ]
+  },
+  "heron": {
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/": [
+      26
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/heron.html": [
+      1
+    ]
+  },
+  "home": {
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/": [
+      59
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/albatross.html": [
+      8
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/blackbird.html": [
+      8
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/bluebird.html": [
+      8
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/cardinal.html": [
+      8
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/chickadee.html": [
+      8
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/crane.html": [
+      8
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/crow.html": [
+      8
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/cuckoo.html": [
+      8
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/dove.html": [
+      8
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/duck.html": [
+      8
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/eagle.html": [
+      8
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/egret.html": [
+      8
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/falcon.html": [
+      8
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/finch.html": [
+      8
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/goose.html": [
+      8
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/gull.html": [
+      8
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/hawk.html": [
+      8
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/heron.html": [
+      8
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/hummingbird.html": [
+      8
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/ibis.html": [
+      8
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/kingfisher.html": [
+      8
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/loon.html": [
+      8
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/magpie.html": [
+      8
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/mallard.html": [
+      8
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/meadowlark.html": [
+      8
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/mockingbird.html": [
+      8
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/nighthawk.html": [
+      8
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/osprey.html": [
+      8
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/owl.html": [
+      8
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/pelican.html": [
+      8
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/pheasant.html": [
+      8
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/pigeon.html": [
+      8
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/puffin.html": [
+      8
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/quail.html": [
+      8
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/raven.html": [
+      8
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/roadrunner.html": [
+      8
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/robin.html": [
+      8
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/sandpiper.html": [
+      8
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/sparrow.html": [
+      8
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/starling.html": [
+      8
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/stork.html": [
+      8
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/swallow.html": [
+      8
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/swan.html": [
+      8
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/tern.html": [
+      8
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/turkey.html": [
+      8
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/vulture.html": [
+      8
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/warbler.html": [
+      8
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/woodpecker.html": [
+      8
+    ]
+  },
+  "hummingbird": {
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/": [
+      27
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/hummingbird.html": [
+      1
+    ]
+  },
+  "ibi": {
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/": [
+      28
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/ibis.html": [
+      1
+    ]
+  },
+  "is": {
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/": [
+      2
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/albatross.html": [
+      2
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/blackbird.html": [
+      2
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/bluebird.html": [
+      2
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/cardinal.html": [
+      2
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/chickadee.html": [
+      2
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/crane.html": [
+      2
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/crow.html": [
+      2
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/cuckoo.html": [
+      2
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/dove.html": [
+      2
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/duck.html": [
+      2
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/eagle.html": [
+      2
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/egret.html": [
+      2
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/falcon.html": [
+      2
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/finch.html": [
+      2
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/goose.html": [
+      2
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/gull.html": [
+      2
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/hawk.html": [
+      2
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/heron.html": [
+      2
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/hummingbird.html": [
+      2
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/ibis.html": [
+      2
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/kingfisher.html": [
+      2
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/loon.html": [
+      2
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/magpie.html": [
+      2
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/mallard.html": [
+      2
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/meadowlark.html": [
+      2
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/mockingbird.html": [
+      2
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/nighthawk.html": [
+      2
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/osprey.html": [
+      2
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/owl.html": [
+      2
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/pelican.html": [
+      2
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/pheasant.html": [
+      2
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/pigeon.html": [
+      2
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/puffin.html": [
+      2
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/quail.html": [
+      2
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/raven.html": [
+      2
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/roadrunner.html": [
+      2
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/robin.html": [
+      2
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/sandpiper.html": [
+      2
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/sparrow.html": [
+      2
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/starling.html": [
+      2
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/stork.html": [
+      2
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/swallow.html": [
+      2
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/swan.html": [
+      2
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/tern.html": [
+      2
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/turkey.html": [
+      2
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/vulture.html": [
+      2
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/warbler.html": [
+      2
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/woodpecker.html": [
+      2
+    ]
+  },
+  "kingfish": {
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/": [
+      29
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/kingfisher.html": [
+      1
+    ]
+  },
+  "list": {
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/": [
+      5
+    ]
+  },
+  "loon": {
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/": [
+      30
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/loon.html": [
+      1
+    ]
+  },
+  "magpi": {
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/": [
+      31
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/magpie.html": [
+      1
+    ]
+  },
+  "mallard": {
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/": [
+      32
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/mallard.html": [
+      1
+    ]
+  },
+  "meadowlark": {
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/": [
+      33
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/meadowlark.html": [
+      1
+    ]
+  },
+  "mockingbird": {
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/": [
+      34
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/mockingbird.html": [
+      1
+    ]
+  },
+  "nighthawk": {
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/": [
+      35
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/nighthawk.html": [
+      1
+    ]
+  },
+  "of": {
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/": [
+      6
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/albatross.html": [
+      6
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/blackbird.html": [
+      6
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/bluebird.html": [
+      6
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/cardinal.html": [
+      6
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/chickadee.html": [
+      6
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/crane.html": [
+      6
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/crow.html": [
+      6
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/cuckoo.html": [
+      6
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/dove.html": [
+      6
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/duck.html": [
+      6
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/eagle.html": [
+      6
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/egret.html": [
+      6
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/falcon.html": [
+      6
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/finch.html": [
+      6
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/goose.html": [
+      6
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/gull.html": [
+      6
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/hawk.html": [
+      6
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/heron.html": [
+      6
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/hummingbird.html": [
+      6
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/ibis.html": [
+      6
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/kingfisher.html": [
+      6
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/loon.html": [
+      6
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/magpie.html": [
+      6
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/mallard.html": [
+      6
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/meadowlark.html": [
+      6
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/mockingbird.html": [
+      6
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/nighthawk.html": [
+      6
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/osprey.html": [
+      6
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/owl.html": [
+      6
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/pelican.html": [
+      6
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/pheasant.html": [
+      6
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/pigeon.html": [
+      6
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/puffin.html": [
+      6
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/quail.html": [
+      6
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/raven.html": [
+      6
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/roadrunner.html": [
+      6
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/robin.html": [
+      6
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/sandpiper.html": [
+      6
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/sparrow.html": [
+      6
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/starling.html": [
+      6
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/stork.html": [
+      6
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/swallow.html": [
+      6
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/swan.html": [
+      6
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/tern.html": [
+      6
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/turkey.html": [
+      6
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/vulture.html": [
+      6
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/warbler.html": [
+      6
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/woodpecker.html": [
+      6
+    ]
+  },
+  "osprey": {
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/": [
+      36
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/osprey.html": [
+      1
+    ]
+  },
+  "owl": {
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/": [
+      37
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/owl.html": [
+      1
+    ]
+  },
+  "pelican": {
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/": [
+      38
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/pelican.html": [
+      1
+    ]
+  },
+  "pheasant": {
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/": [
+      39
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/pheasant.html": [
+      1
+    ]
+  },
+  "pigeon": {
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/": [
+      40
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/pigeon.html": [
+      1
+    ]
+  },
+  "puffin": {
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/": [
+      41
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/puffin.html": [
+      1
+    ]
+  },
+  "quail": {
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/": [
+      42
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/quail.html": [
+      1
+    ]
+  },
+  "raven": {
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/": [
+      43
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/raven.html": [
+      1
+    ]
+  },
+  "roadrunn": {
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/": [
+      44
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/roadrunner.html": [
+      1
+    ]
+  },
+  "robin": {
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/": [
+      45
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/robin.html": [
+      1
+    ]
+  },
+  "sandpip": {
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/": [
+      46
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/sandpiper.html": [
+      1
+    ]
+  },
+  "sparrow": {
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/": [
+      47
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/sparrow.html": [
+      1
+    ]
+  },
+  "starl": {
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/": [
+      48
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/starling.html": [
+      1
+    ]
+  },
+  "stork": {
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/": [
+      49
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/stork.html": [
+      1
+    ]
+  },
+  "swallow": {
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/": [
+      50
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/swallow.html": [
+      1
+    ]
+  },
+  "swan": {
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/": [
+      51
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/swan.html": [
+      1
+    ]
+  },
+  "tern": {
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/": [
+      52
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/tern.html": [
+      1
+    ]
+  },
+  "turkey": {
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/": [
+      53
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/turkey.html": [
+      1
+    ]
+  },
+  "type": {
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/albatross.html": [
+      5
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/blackbird.html": [
+      5
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/bluebird.html": [
+      5
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/cardinal.html": [
+      5
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/chickadee.html": [
+      5
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/crane.html": [
+      5
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/crow.html": [
+      5
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/cuckoo.html": [
+      5
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/dove.html": [
+      5
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/duck.html": [
+      5
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/eagle.html": [
+      5
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/egret.html": [
+      5
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/falcon.html": [
+      5
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/finch.html": [
+      5
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/goose.html": [
+      5
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/gull.html": [
+      5
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/hawk.html": [
+      5
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/heron.html": [
+      5
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/hummingbird.html": [
+      5
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/ibis.html": [
+      5
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/kingfisher.html": [
+      5
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/loon.html": [
+      5
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/magpie.html": [
+      5
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/mallard.html": [
+      5
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/meadowlark.html": [
+      5
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/mockingbird.html": [
+      5
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/nighthawk.html": [
+      5
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/osprey.html": [
+      5
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/owl.html": [
+      5
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/pelican.html": [
+      5
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/pheasant.html": [
+      5
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/pigeon.html": [
+      5
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/puffin.html": [
+      5
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/quail.html": [
+      5
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/raven.html": [
+      5
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/roadrunner.html": [
+      5
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/robin.html": [
+      5
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/sandpiper.html": [
+      5
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/sparrow.html": [
+      5
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/starling.html": [
+      5
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/stork.html": [
+      5
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/swallow.html": [
+      5
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/swan.html": [
+      5
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/tern.html": [
+      5
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/turkey.html": [
+      5
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/vulture.html": [
+      5
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/warbler.html": [
+      5
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/woodpecker.html": [
+      5
+    ]
+  },
+  "vultur": {
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/": [
+      54
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/vulture.html": [
+      1
+    ]
+  },
+  "warbler": {
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/": [
+      55
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/warbler.html": [
+      1
+    ]
+  },
+  "woodpeck": {
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/": [
+      56
+    ],
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/woodpecker.html": [
+      1
+    ]
+  },
+  "wren": {
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/": [
+      57
+    ]
+  },
+  "yellowthroat": {
+    "https://usf-cs272-spring2024.github.io/project-web/input/birds/": [
+      58
+    ]
+  }
+}

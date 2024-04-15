@@ -1,0 +1,909 @@
+{
+  "a": [
+    {
+      "count": 8,
+      "score": 0.14545455,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/"
+    },
+    {
+      "count": 1190,
+      "score": 0.12141618,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/rfc6805.html"
+    },
+    {
+      "count": 502,
+      "score": 0.11644630,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/rfc3629.html"
+    },
+    {
+      "count": 377,
+      "score": 0.11635802,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/rfc475.html"
+    },
+    {
+      "count": 3262,
+      "score": 0.11314210,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/rfc7231.html"
+    },
+    {
+      "count": 1048,
+      "score": 0.11166755,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/rfc6838.html"
+    },
+    {
+      "count": 2954,
+      "score": 0.10901978,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/rfc5646.html"
+    }
+  ],
+  "b": [
+    {
+      "count": 190,
+      "score": 0.04407330,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/rfc3629.html"
+    },
+    {
+      "count": 411,
+      "score": 0.04379329,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/rfc6838.html"
+    },
+    {
+      "count": 131,
+      "score": 0.04043210,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/rfc475.html"
+    },
+    {
+      "count": 378,
+      "score": 0.03856749,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/rfc6805.html"
+    },
+    {
+      "count": 980,
+      "score": 0.03616770,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/rfc5646.html"
+    },
+    {
+      "count": 941,
+      "score": 0.03263848,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/rfc7231.html"
+    }
+  ],
+  "c": [
+    {
+      "count": 669,
+      "score": 0.06825834,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/rfc6805.html"
+    },
+    {
+      "count": 1887,
+      "score": 0.06545038,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/rfc7231.html"
+    },
+    {
+      "count": 266,
+      "score": 0.06170262,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/rfc3629.html"
+    },
+    {
+      "count": 174,
+      "score": 0.05370370,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/rfc475.html"
+    },
+    {
+      "count": 1433,
+      "score": 0.05288603,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/rfc5646.html"
+    },
+    {
+      "count": 404,
+      "score": 0.04304742,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/rfc6838.html"
+    },
+    {
+      "count": 2,
+      "score": 0.03636364,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/"
+    }
+  ],
+  "d": [
+    {
+      "count": 607,
+      "score": 0.06193246,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/rfc6805.html"
+    },
+    {
+      "count": 2,
+      "score": 0.03636364,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/"
+    },
+    {
+      "count": 920,
+      "score": 0.03395335,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/rfc5646.html"
+    },
+    {
+      "count": 110,
+      "score": 0.03395062,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/rfc475.html"
+    },
+    {
+      "count": 900,
+      "score": 0.03121640,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/rfc7231.html"
+    },
+    {
+      "count": 279,
+      "score": 0.02972829,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/rfc6838.html"
+    },
+    {
+      "count": 124,
+      "score": 0.02876363,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/rfc3629.html"
+    }
+  ],
+  "e": [
+    {
+      "count": 151,
+      "score": 0.03502668,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/rfc3629.html"
+    },
+    {
+      "count": 309,
+      "score": 0.03152740,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/rfc6805.html"
+    },
+    {
+      "count": 850,
+      "score": 0.03136994,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/rfc5646.html"
+    },
+    {
+      "count": 246,
+      "score": 0.02621204,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/rfc6838.html"
+    },
+    {
+      "count": 697,
+      "score": 0.02417537,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/rfc7231.html"
+    },
+    {
+      "count": 1,
+      "score": 0.01818182,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/"
+    },
+    {
+      "count": 46,
+      "score": 0.01419753,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/rfc475.html"
+    }
+  ],
+  "f": [
+    {
+      "count": 201,
+      "score": 0.06203704,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/rfc475.html"
+    },
+    {
+      "count": 3,
+      "score": 0.05454545,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/"
+    },
+    {
+      "count": 1326,
+      "score": 0.04599216,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/rfc7231.html"
+    },
+    {
+      "count": 1231,
+      "score": 0.04543106,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/rfc5646.html"
+    },
+    {
+      "count": 173,
+      "score": 0.04012990,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/rfc3629.html"
+    },
+    {
+      "count": 366,
+      "score": 0.03899840,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/rfc6838.html"
+    },
+    {
+      "count": 341,
+      "score": 0.03479237,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/rfc6805.html"
+    }
+  ],
+  "g": [
+    {
+      "count": 1,
+      "score": 0.01818182,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/"
+    },
+    {
+      "count": 248,
+      "score": 0.00860185,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/rfc7231.html"
+    },
+    {
+      "count": 229,
+      "score": 0.00845143,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/rfc5646.html"
+    },
+    {
+      "count": 61,
+      "score": 0.00622385,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/rfc6805.html"
+    },
+    {
+      "count": 20,
+      "score": 0.00617284,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/rfc475.html"
+    },
+    {
+      "count": 51,
+      "score": 0.00543420,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/rfc6838.html"
+    },
+    {
+      "count": 20,
+      "score": 0.00463929,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/rfc3629.html"
+    }
+  ],
+  "h": [
+    {
+      "count": 2,
+      "score": 0.03636364,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/"
+    },
+    {
+      "count": 992,
+      "score": 0.03440741,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/rfc7231.html"
+    },
+    {
+      "count": 84,
+      "score": 0.02592593,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/rfc475.html"
+    },
+    {
+      "count": 185,
+      "score": 0.01887562,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/rfc6805.html"
+    },
+    {
+      "count": 70,
+      "score": 0.01623753,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/rfc3629.html"
+    },
+    {
+      "count": 123,
+      "score": 0.01310602,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/rfc6838.html"
+    },
+    {
+      "count": 286,
+      "score": 0.01055506,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/rfc5646.html"
+    }
+  ],
+  "i": [
+    {
+      "count": 854,
+      "score": 0.08713397,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/rfc6805.html"
+    },
+    {
+      "count": 796,
+      "score": 0.08481620,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/rfc6838.html"
+    },
+    {
+      "count": 2280,
+      "score": 0.08414526,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/rfc5646.html"
+    },
+    {
+      "count": 358,
+      "score": 0.08304338,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/rfc3629.html"
+    },
+    {
+      "count": 252,
+      "score": 0.07777778,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/rfc475.html"
+    },
+    {
+      "count": 2090,
+      "score": 0.07249142,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/rfc7231.html"
+    },
+    {
+      "count": 3,
+      "score": 0.05454545,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/"
+    }
+  ],
+  "j": [
+    {
+      "count": 57,
+      "score": 0.00607352,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/rfc6838.html"
+    },
+    {
+      "count": 156,
+      "score": 0.00541084,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/rfc7231.html"
+    },
+    {
+      "count": 27,
+      "score": 0.00275482,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/rfc6805.html"
+    },
+    {
+      "count": 11,
+      "score": 0.00255161,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/rfc3629.html"
+    },
+    {
+      "count": 6,
+      "score": 0.00185185,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/rfc475.html"
+    },
+    {
+      "count": 41,
+      "score": 0.00151314,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/rfc5646.html"
+    }
+  ],
+  "k": [
+    {
+      "count": 82,
+      "score": 0.00836649,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/rfc6805.html"
+    },
+    {
+      "count": 22,
+      "score": 0.00510322,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/rfc3629.html"
+    },
+    {
+      "count": 10,
+      "score": 0.00308642,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/rfc475.html"
+    },
+    {
+      "count": 19,
+      "score": 0.00202451,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/rfc6838.html"
+    },
+    {
+      "count": 38,
+      "score": 0.00131803,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/rfc7231.html"
+    },
+    {
+      "count": 35,
+      "score": 0.00129170,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/rfc5646.html"
+    }
+  ],
+  "l": [
+    {
+      "count": 1131,
+      "score": 0.04174048,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/rfc5646.html"
+    },
+    {
+      "count": 1,
+      "score": 0.01818182,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/"
+    },
+    {
+      "count": 50,
+      "score": 0.01543210,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/rfc475.html"
+    },
+    {
+      "count": 419,
+      "score": 0.01453297,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/rfc7231.html"
+    },
+    {
+      "count": 139,
+      "score": 0.01418223,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/rfc6805.html"
+    },
+    {
+      "count": 60,
+      "score": 0.01391788,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/rfc3629.html"
+    },
+    {
+      "count": 97,
+      "score": 0.01033564,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/rfc6838.html"
+    }
+  ],
+  "m": [
+    {
+      "count": 284,
+      "score": 0.08765432,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/rfc475.html"
+    },
+    {
+      "count": 543,
+      "score": 0.05785828,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/rfc6838.html"
+    },
+    {
+      "count": 3,
+      "score": 0.05454545,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/"
+    },
+    {
+      "count": 1117,
+      "score": 0.03874302,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/rfc7231.html"
+    },
+    {
+      "count": 956,
+      "score": 0.03528196,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/rfc5646.html"
+    },
+    {
+      "count": 305,
+      "score": 0.03111927,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/rfc6805.html"
+    },
+    {
+      "count": 133,
+      "score": 0.03085131,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/rfc3629.html"
+    }
+  ],
+  "n": [
+    {
+      "count": 154,
+      "score": 0.04753086,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/rfc475.html"
+    },
+    {
+      "count": 160,
+      "score": 0.03711436,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/rfc3629.html"
+    },
+    {
+      "count": 286,
+      "score": 0.03047416,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/rfc6838.html"
+    },
+    {
+      "count": 241,
+      "score": 0.02458933,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/rfc6805.html"
+    },
+    {
+      "count": 684,
+      "score": 0.02372446,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/rfc7231.html"
+    },
+    {
+      "count": 617,
+      "score": 0.02277089,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/rfc5646.html"
+    },
+    {
+      "count": 1,
+      "score": 0.01818182,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/"
+    }
+  ],
+  "o": [
+    {
+      "count": 334,
+      "score": 0.07747622,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/rfc3629.html"
+    },
+    {
+      "count": 4,
+      "score": 0.07272727,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/"
+    },
+    {
+      "count": 681,
+      "score": 0.06948271,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/rfc6805.html"
+    },
+    {
+      "count": 1740,
+      "score": 0.06421612,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/rfc5646.html"
+    },
+    {
+      "count": 1759,
+      "score": 0.06101072,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/rfc7231.html"
+    },
+    {
+      "count": 572,
+      "score": 0.06094832,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/rfc6838.html"
+    },
+    {
+      "count": 153,
+      "score": 0.04722222,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/rfc475.html"
+    }
+  ],
+  "p": [
+    {
+      "count": 1053,
+      "score": 0.10743802,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/rfc6805.html"
+    },
+    {
+      "count": 3,
+      "score": 0.05454545,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/"
+    },
+    {
+      "count": 472,
+      "score": 0.05029302,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/rfc6838.html"
+    },
+    {
+      "count": 1159,
+      "score": 0.04277384,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/rfc5646.html"
+    },
+    {
+      "count": 180,
+      "score": 0.04175365,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/rfc3629.html"
+    },
+    {
+      "count": 1101,
+      "score": 0.03818806,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/rfc7231.html"
+    },
+    {
+      "count": 97,
+      "score": 0.02993827,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/rfc475.html"
+    }
+  ],
+  "q": [
+    {
+      "count": 33,
+      "score": 0.00336700,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/rfc6805.html"
+    },
+    {
+      "count": 71,
+      "score": 0.00246263,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/rfc7231.html"
+    },
+    {
+      "count": 4,
+      "score": 0.00123457,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/rfc475.html"
+    },
+    {
+      "count": 8,
+      "score": 0.00085242,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/rfc6838.html"
+    },
+    {
+      "count": 19,
+      "score": 0.00070121,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/rfc5646.html"
+    },
+    {
+      "count": 3,
+      "score": 0.00069589,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/rfc3629.html"
+    }
+  ],
+  "r": [
+    {
+      "count": 7,
+      "score": 0.12727273,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/"
+    },
+    {
+      "count": 2515,
+      "score": 0.08723249,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/rfc7231.html"
+    },
+    {
+      "count": 773,
+      "score": 0.08236548,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/rfc6838.html"
+    },
+    {
+      "count": 1654,
+      "score": 0.06104222,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/rfc5646.html"
+    },
+    {
+      "count": 504,
+      "score": 0.05142332,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/rfc6805.html"
+    },
+    {
+      "count": 130,
+      "score": 0.04012346,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/rfc475.html"
+    },
+    {
+      "count": 141,
+      "score": 0.03270703,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/rfc3629.html"
+    }
+  ],
+  "s": [
+    {
+      "count": 2518,
+      "score": 0.08733655,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/rfc7231.html"
+    },
+    {
+      "count": 2321,
+      "score": 0.08565840,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/rfc5646.html"
+    },
+    {
+      "count": 724,
+      "score": 0.07714438,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/rfc6838.html"
+    },
+    {
+      "count": 239,
+      "score": 0.07376543,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/rfc475.html"
+    },
+    {
+      "count": 318,
+      "score": 0.07376479,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/rfc3629.html"
+    },
+    {
+      "count": 4,
+      "score": 0.07272727,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/"
+    },
+    {
+      "count": 498,
+      "score": 0.05081114,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/rfc6805.html"
+    }
+  ],
+  "t": [
+    {
+      "count": 1626,
+      "score": 0.17325519,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/rfc6838.html"
+    },
+    {
+      "count": 9,
+      "score": 0.16363636,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/"
+    },
+    {
+      "count": 4264,
+      "score": 0.15736640,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/rfc5646.html"
+    },
+    {
+      "count": 493,
+      "score": 0.15216049,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/rfc475.html"
+    },
+    {
+      "count": 4296,
+      "score": 0.14900628,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/rfc7231.html"
+    },
+    {
+      "count": 1354,
+      "score": 0.13814917,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/rfc6805.html"
+    },
+    {
+      "count": 581,
+      "score": 0.13477151,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/rfc3629.html"
+    }
+  ],
+  "u": [
+    {
+      "count": 286,
+      "score": 0.06634192,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/rfc3629.html"
+    },
+    {
+      "count": 137,
+      "score": 0.04228395,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/rfc475.html"
+    },
+    {
+      "count": 755,
+      "score": 0.02618709,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/rfc7231.html"
+    },
+    {
+      "count": 699,
+      "score": 0.02579717,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/rfc5646.html"
+    },
+    {
+      "count": 1,
+      "score": 0.01818182,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/"
+    },
+    {
+      "count": 162,
+      "score": 0.01726159,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/rfc6838.html"
+    },
+    {
+      "count": 76,
+      "score": 0.00775431,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/rfc6805.html"
+    }
+  ],
+  "v": [
+    {
+      "count": 350,
+      "score": 0.01291704,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/rfc5646.html"
+    },
+    {
+      "count": 49,
+      "score": 0.01136627,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/rfc3629.html"
+    },
+    {
+      "count": 228,
+      "score": 0.00790815,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/rfc7231.html"
+    },
+    {
+      "count": 71,
+      "score": 0.00756526,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/rfc6838.html"
+    },
+    {
+      "count": 16,
+      "score": 0.00493827,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/rfc475.html"
+    },
+    {
+      "count": 38,
+      "score": 0.00387716,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/rfc6805.html"
+    }
+  ],
+  "w": [
+    {
+      "count": 790,
+      "score": 0.02915559,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/rfc5646.html"
+    },
+    {
+      "count": 118,
+      "score": 0.02737184,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/rfc3629.html"
+    },
+    {
+      "count": 228,
+      "score": 0.02429409,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/rfc6838.html"
+    },
+    {
+      "count": 671,
+      "score": 0.02327356,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/rfc7231.html"
+    },
+    {
+      "count": 71,
+      "score": 0.02191358,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/rfc475.html"
+    },
+    {
+      "count": 159,
+      "score": 0.01622283,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/rfc6805.html"
+    }
+  ],
+  "x": [
+    {
+      "count": 36,
+      "score": 0.00835073,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/rfc3629.html"
+    },
+    {
+      "count": 115,
+      "score": 0.00398876,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/rfc7231.html"
+    },
+    {
+      "count": 19,
+      "score": 0.00202451,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/rfc6838.html"
+    },
+    {
+      "count": 35,
+      "score": 0.00129170,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/rfc5646.html"
+    },
+    {
+      "count": 1,
+      "score": 0.00030864,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/rfc475.html"
+    },
+    {
+      "count": 2,
+      "score": 0.00020406,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/rfc6805.html"
+    }
+  ],
+  "y": [
+    {
+      "count": 18,
+      "score": 0.00417537,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/rfc3629.html"
+    },
+    {
+      "count": 32,
+      "score": 0.00110992,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/rfc7231.html"
+    },
+    {
+      "count": 29,
+      "score": 0.00107027,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/rfc5646.html"
+    },
+    {
+      "count": 3,
+      "score": 0.00031966,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/rfc6838.html"
+    },
+    {
+      "count": 2,
+      "score": 0.00020406,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/rfc6805.html"
+    }
+  ],
+  "z": [
+    {
+      "count": 93,
+      "score": 0.00343224,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/rfc5646.html"
+    },
+    {
+      "count": 7,
+      "score": 0.00162375,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/rfc3629.html"
+    },
+    {
+      "count": 13,
+      "score": 0.00132640,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/rfc6805.html"
+    },
+    {
+      "count": 13,
+      "score": 0.00045090,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/rfc7231.html"
+    },
+    {
+      "count": 1,
+      "score": 0.00010655,
+      "where": "https://usf-cs272-spring2024.github.io/project-web/input/rfcs/rfc6838.html"
+    }
+  ]
+}
