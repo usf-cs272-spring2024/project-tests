@@ -28,6 +28,8 @@ import java.util.stream.Stream;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeAll;
+import org.junit.jupiter.api.extension.ExtensionContext;
+import org.junit.jupiter.api.extension.TestWatcher;
 import org.junit.jupiter.api.function.Executable;
 import org.junit.platform.launcher.TestIdentifier;
 import org.junit.platform.launcher.listeners.TestExecutionSummary.Failure;
@@ -632,5 +634,27 @@ public class ProjectTests {
 				""";
 
 		System.out.printf(format, (double) processors, maximum, before, after);
+	}
+
+	/**
+	 * Counts the number of failed tests so far. Used to prevent tests from running
+	 * if there are any previous failures.
+	 */
+	public static class TestCounter implements TestWatcher {
+		/** Tracks number of successes. */
+		public static int passed = 0;
+
+		/** Tracks number of failures. */
+		public static int failed = 0;
+
+		@Override
+		public void testSuccessful(ExtensionContext context) {
+			passed++;
+		}
+
+		@Override
+		public void testFailed(ExtensionContext context, Throwable cause) {
+			failed++;
+		}
 	}
 }
