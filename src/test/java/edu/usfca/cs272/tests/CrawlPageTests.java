@@ -78,6 +78,17 @@ public class CrawlPageTests extends ProjectTests {
 		/**
 		 * Tests crawl output.
 		 *
+		 * @throws MalformedURLException if unable to create seed url
+		 */
+		@Order(1)
+		@Test()
+		public void testHello() throws MalformedURLException {
+			testIndex("input/simple/hello.html", "simple", "hello");
+		}
+
+		/**
+		 * Tests crawl output.
+		 *
 		 * @param subdir the expected output subdirectory
 		 * @param id the unique test and file id
 		 * @param seed the seed url
@@ -89,7 +100,6 @@ public class CrawlPageTests extends ProjectTests {
 			"simple, simple,   input/simple/",
 			"simple, subdir,   input/simple/a/b/c/subdir.html",
 			"simple, capital,  input/simple/capital_extension.HTML",
-			"simple, hello,    input/simple/hello.html",
 			"simple, mixed,    input/simple/mixed_case.htm",
 			"simple, position, input/simple/position.html",
 			"simple, stems,    input/simple/stems.html",
