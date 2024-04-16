@@ -4,6 +4,7 @@ import static edu.usfca.cs272.tests.utils.ProjectPath.ACTUAL;
 import static edu.usfca.cs272.tests.utils.ProjectPath.EXPECTED;
 import static edu.usfca.cs272.tests.utils.ProjectPath.TEXT;
 import static java.nio.charset.StandardCharsets.UTF_8;
+import static org.junit.jupiter.api.Assumptions.assumeTrue;
 
 import java.io.BufferedReader;
 import java.io.File;
@@ -28,6 +29,7 @@ import java.util.stream.Stream;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeAll;
+import org.junit.jupiter.api.TestInfo;
 import org.junit.jupiter.api.extension.ExtensionContext;
 import org.junit.jupiter.api.extension.TestWatcher;
 import org.junit.jupiter.api.function.Executable;
@@ -647,6 +649,14 @@ public class ProjectTests {
 		/** Tracks number of failures. */
 		public static int failed = 0;
 
+		/** Initializes the test counter. */
+		public TestCounter() {
+			passed = 0;
+			failed = 0;
+
+			System.out.println(this.getClass().getSimpleName() + " initialized.");
+		}
+
 		@Override
 		public void testSuccessful(ExtensionContext context) {
 			passed++;
@@ -655,6 +665,20 @@ public class ProjectTests {
 		@Override
 		public void testFailed(ExtensionContext context, Throwable cause) {
 			failed++;
+		}
+
+		/**
+		 * Assumes tests are passing.
+		 * @param info test information
+		 */
+		public static void assumeNoFailures(TestInfo info) {
+			String format = """
+					%nFound %d passing and %d failing tests.
+					Disabling %s tests.""";
+
+			Supplier<String> debug = () -> format.formatted(
+					TestCounter.passed, TestCounter.failed, info.getDisplayName());
+			assumeTrue(TestCounter.failed == 0, debug);
 		}
 	}
 }

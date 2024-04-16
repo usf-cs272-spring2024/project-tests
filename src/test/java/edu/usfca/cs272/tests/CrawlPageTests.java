@@ -21,7 +21,9 @@ import org.junit.jupiter.api.Order;
 import org.junit.jupiter.api.Tag;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.TestClassOrder;
+import org.junit.jupiter.api.TestInfo;
 import org.junit.jupiter.api.TestMethodOrder;
+import org.junit.jupiter.api.extension.ExtendWith;
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.CsvSource;
 import org.junit.jupiter.params.provider.ValueSource;
@@ -36,6 +38,7 @@ import edu.usfca.cs272.tests.utils.ProjectTests;
  * @author CS 272 Software Development (University of San Francisco)
  * @version Spring 2024
  */
+@ExtendWith(ProjectTests.TestCounter.class)
 @TestClassOrder(ClassOrderer.OrderAnnotation.class)
 public class CrawlPageTests extends ProjectTests {
 	// ███████╗████████╗ ██████╗ ██████╗
@@ -123,6 +126,16 @@ public class CrawlPageTests extends ProjectTests {
 	@Order(2)
 	@TestMethodOrder(OrderAnnotation.class)
 	public class ComplexTests {
+		/**
+		 * Only run if other tests had 0 failures.
+		 *
+		 * @param info test information
+		 */
+		@BeforeAll
+		public static void checkStatus(TestInfo info) {
+			ProjectTests.TestCounter.assumeNoFailures(info);
+		}
+
 		/**
 		 * Tests crawl output.
 		 *
