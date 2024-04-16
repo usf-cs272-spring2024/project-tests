@@ -114,8 +114,7 @@ public class ProjectNextTests {
 	@Tag("time-v2.3")
 	@Tag("time-v2.4")
 	@Tag("time-v4.0")
-	@Tag("next-v4.1")
-	@Tag("next-v4.2")
+	@Tag("next-v4.0")
 	@Tag("next-v5.0")
 	@Tag("next-v5.1")
 	@Tag("test-v5.0")
@@ -130,6 +129,8 @@ public class ProjectNextTests {
 	@Test
 	@Tag("time-v4.1")
 	@Tag("time-v4.2")
+	@Tag("next-v4.1")
+	@Tag("next-v4.2")
 	@Tag("test-v4.1")
 	@Tag("test-v4.2")
 	@Tag("test-v5.0")
