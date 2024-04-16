@@ -66,6 +66,16 @@ public class CrawlPageTests extends ProjectTests {
 	@TestMethodOrder(OrderAnnotation.class)
 	public class InitialTests {
 		/**
+		 * Only run if other tests had 0 failures.
+		 *
+		 * @param info test information
+		 */
+		@BeforeAll
+		public static void checkStatus(TestInfo info) {
+			ProjectTests.TestCounter.assumeNoFailures(info);
+		}
+
+		/**
 		 * Tests crawl output.
 		 *
 		 * @param subdir the expected output subdirectory
@@ -282,6 +292,16 @@ public class CrawlPageTests extends ProjectTests {
 	@Tag("test-v4.2")
 	@TestMethodOrder(OrderAnnotation.class)
 	public class SpecialTests {
+		/**
+		 * Only run if other tests had 0 failures.
+		 *
+		 * @param info test information
+		 */
+		@BeforeAll
+		public static void checkStatus(TestInfo info) {
+			ProjectTests.TestCounter.assumeNoFailures(info);
+		}
+
 		/**
 		 * Tests crawl output.
 		 *
