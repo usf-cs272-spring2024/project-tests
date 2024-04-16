@@ -290,6 +290,7 @@ public class CrawlPageTests extends ProjectTests {
 	@Tag("test-v4.0")
 	@Tag("test-v4.1")
 	@Tag("test-v4.2")
+	@Tag("past-v5")
 	@TestMethodOrder(OrderAnnotation.class)
 	public class SpecialTests {
 		/**
