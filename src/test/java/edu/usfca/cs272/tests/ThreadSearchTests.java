@@ -413,6 +413,9 @@ public class ThreadSearchTests extends ProjectTests {
 		 */
 		@Test
 		@Order(2)
+		@Tag("time-v4.0")
+		@Tag("time-v4.1")
+		@Tag("time-v4.2")
 		public void testSearchSingleMulti() {
 			String[] args1 = { TEXT.flag, ProjectPath.TEXT.text, QUERY.flag, QUERY_COMPLEX.text, PARTIAL.flag };
 
