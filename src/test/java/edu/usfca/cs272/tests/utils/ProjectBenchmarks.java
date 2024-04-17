@@ -37,7 +37,7 @@ public class ProjectBenchmarks extends ProjectTests {
 	public static final double MIN_SPEEDUP = 1.1;
 
 	/** Speedup required for crawl tests. */
-	public static final double CRAWL_SPEEDUP = 1.5;
+	public static final double CRAWL_SPEEDUP = 1.8;
 
 	/** The number of warmup runs when benchmarking. */
 	public static final int WARMUP_ROUNDS = GITHUB ? 1 : 5;
