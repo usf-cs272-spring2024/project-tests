@@ -57,7 +57,6 @@ public class CrawlSiteTests extends ProjectBenchmarks {
 	 */
 	@Nested
 	@Order(1)
-	@Tag("test-v4.1")
 	@TestMethodOrder(OrderAnnotation.class)
 	public class InitialTests {
 		/**
@@ -101,6 +100,7 @@ public class CrawlSiteTests extends ProjectBenchmarks {
 		 */
 		@Test
 		@Order(3)
+		@Tag("test-v4.1")
 		@Tag("test-v4.2")
 		public void testSimpleSearch() {
 			int crawl = 15;
