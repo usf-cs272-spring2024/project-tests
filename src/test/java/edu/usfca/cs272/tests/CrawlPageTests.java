@@ -91,7 +91,7 @@ public class CrawlPageTests extends ProjectTests {
 		 * @param id the unique test and file id
 		 * @param seed the seed url
 		 */
-		@Order(1)
+		@Order(2)
 		@ParameterizedTest(name = "{index} {2}")
 		@CsvSource({
 			"simple, simple,   input/simple/",
