@@ -503,7 +503,7 @@ public class CrawlSiteTests extends ProjectBenchmarks {
 
 			// then test the timing
 			assertTimeoutPreemptively(LONG_TIMEOUT, () -> {
-				double result = compare("Web Crawl", "1 Worker", args1, BENCH_WORKERS.text + " Workers", args2);
+				double result = compare("Web-Crawl", "1 Worker", args1, BENCH_WORKERS.text + " Workers", args2);
 				Supplier<String> debug = () -> String.format(format, BENCH_WORKERS.num, result, target, "1 worker");
 				assertTrue(result >= target, debug);
 			});
@@ -543,7 +543,7 @@ public class CrawlSiteTests extends ProjectBenchmarks {
 
 			// then test the timing
 			assertTimeoutPreemptively(LONG_TIMEOUT, () -> {
-				double result = compare("Web Search", "1 Worker", args1, BENCH_WORKERS.text + " Workers", args2);
+				double result = compare("Web-Search", "1 Worker", args1, BENCH_WORKERS.text + " Workers", args2);
 				Supplier<String> debug = () -> String.format(format, BENCH_WORKERS.num, result, target, "1 worker");
 				assertTrue(result >= target, debug);
 			});
