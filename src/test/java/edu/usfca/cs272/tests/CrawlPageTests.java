@@ -3,7 +3,6 @@ package edu.usfca.cs272.tests;
 import static edu.usfca.cs272.tests.utils.ProjectPath.ACTUAL;
 import static edu.usfca.cs272.tests.utils.ProjectPath.EXPECTED;
 
-import java.net.MalformedURLException;
 import java.net.URI;
 import java.nio.file.Files;
 import java.nio.file.Path;
@@ -78,11 +77,10 @@ public class CrawlPageTests extends ProjectTests {
 		/**
 		 * Tests crawl output.
 		 *
-		 * @throws MalformedURLException if unable to create seed url
 		 */
 		@Order(1)
 		@Test()
-		public void testHello() throws MalformedURLException {
+		public void testHello() {
 			testIndex("input/simple/hello.html", "simple", "hello");
 		}
 
@@ -92,7 +90,6 @@ public class CrawlPageTests extends ProjectTests {
 		 * @param subdir the expected output subdirectory
 		 * @param id the unique test and file id
 		 * @param seed the seed url
-		 * @throws MalformedURLException if unable to create seed url
 		 */
 		@Order(1)
 		@ParameterizedTest(name = "{index} {2}")
@@ -107,7 +104,7 @@ public class CrawlPageTests extends ProjectTests {
 			"simple, dir,      input/simple/dir.txt",
 			"simple, wrong,    input/simple/wrong_extension.html"
 		})
-		public void testSimple(String subdir, String id, String seed) throws MalformedURLException {
+		public void testSimple(String subdir, String id, String seed) {
 			testIndex(seed, subdir, id);
 		}
 
@@ -117,7 +114,6 @@ public class CrawlPageTests extends ProjectTests {
 		 * @param subdir the expected output subdirectory
 		 * @param id the unique test and file id
 		 * @param seed the seed url
-		 * @throws MalformedURLException if unable to create seed url
 		 */
 		@Order(3)
 		@ParameterizedTest(name = "{index} {2}")
@@ -126,7 +122,7 @@ public class CrawlPageTests extends ProjectTests {
 			"birds, raven,  input/birds/raven.html",
 			"birds, falcon, input/birds/falcon.html#file=hello.jpg"
 		})
-		public void testBirds(String subdir, String id, String seed) throws MalformedURLException {
+		public void testBirds(String subdir, String id, String seed) {
 			testIndex(seed, subdir, id);
 		}
 
@@ -162,7 +158,6 @@ public class CrawlPageTests extends ProjectTests {
 		 * @param subdir the expected output subdirectory
 		 * @param id the unique test and file id
 		 * @param seed the seed url
-		 * @throws MalformedURLException if unable to create seed url
 		 */
 		@Order(1)
 		@ParameterizedTest(name = "{index} {2}")
@@ -175,7 +170,7 @@ public class CrawlPageTests extends ProjectTests {
 			"rfcs, rfc6805, input/rfcs/rfc6805.html",
 			"rfcs, rfc6838, input/rfcs/rfc6838.html"
 		})
-		public void testRFCs(String subdir, String id, String seed) throws MalformedURLException {
+		public void testRFCs(String subdir, String id, String seed) {
 			testIndex(seed, subdir, id);
 		}
 
@@ -185,7 +180,6 @@ public class CrawlPageTests extends ProjectTests {
 		 * @param subdir the expected output subdirectory
 		 * @param id the unique test and file id
 		 * @param seed the seed url
-		 * @throws MalformedURLException if unable to create seed url
 		 */
 		@Order(2)
 		@ParameterizedTest(name = "{index} {2}")
@@ -195,7 +189,7 @@ public class CrawlPageTests extends ProjectTests {
 		@CsvSource({
 			"rfcs, rfc7231, input/rfcs/rfc7231.html"
 		})
-		public void testRFC7231(String subdir, String id, String seed) throws MalformedURLException {
+		public void testRFC7231(String subdir, String id, String seed) {
 			testPartial(seed, subdir, id, ProjectPath.QUERY_LETTERS);
 		}
 
@@ -205,7 +199,6 @@ public class CrawlPageTests extends ProjectTests {
 		 * @param subdir the expected output subdirectory
 		 * @param id the unique test and file id
 		 * @param seed the seed url
-		 * @throws MalformedURLException if unable to create seed url
 		 */
 		@Order(3)
 		@ParameterizedTest(name = "{index} {2}")
@@ -217,7 +210,7 @@ public class CrawlPageTests extends ProjectTests {
 			"guten, guten-22577, input/guten/22577-h/22577-h.htm",
 			"guten, guten-50468, input/guten/50468-h/50468-h.htm"
 		})
-		public void testGuten(String subdir, String id, String seed) throws MalformedURLException {
+		public void testGuten(String subdir, String id, String seed) {
 			testIndex(seed, subdir, id);
 		}
 
@@ -227,7 +220,6 @@ public class CrawlPageTests extends ProjectTests {
 		 * @param subdir the expected output subdirectory
 		 * @param id the unique test and file id
 		 * @param seed the seed url
-		 * @throws MalformedURLException if unable to create seed url
 		 */
 		@Order(4)
 		@ParameterizedTest(name = "{index} {2}")
@@ -237,7 +229,7 @@ public class CrawlPageTests extends ProjectTests {
 		@CsvSource({
 			"guten, guten-2701, input/guten/2701-h/2701-h.htm"
 		})
-		public void testGuten2701(String subdir, String id, String seed) throws MalformedURLException {
+		public void testGuten2701(String subdir, String id, String seed) {
 			testPartial(seed, subdir, id, ProjectPath.QUERY_COMPLEX);
 		}
 
@@ -247,7 +239,6 @@ public class CrawlPageTests extends ProjectTests {
 		 * @param subdir the expected output subdirectory
 		 * @param id the unique test and file id
 		 * @param seed the seed url
-		 * @throws MalformedURLException if unable to create seed url
 		 */
 		@Order(5)
 		@ParameterizedTest(name = "{index} {2}")
@@ -258,7 +249,7 @@ public class CrawlPageTests extends ProjectTests {
 			"java, AbstractPreferences, docs/api/java.prefs/java/util/prefs/AbstractPreferences.html",
 			"java, overview, docs/api/overview-tree.html"
 		})
-		public void testJava(String subdir, String id, String seed) throws MalformedURLException {
+		public void testJava(String subdir, String id, String seed) {
 			testCountsIndex(seed, subdir, id);
 		}
 
@@ -268,7 +259,6 @@ public class CrawlPageTests extends ProjectTests {
 		 * @param subdir the expected output subdirectory
 		 * @param id the unique test and file id
 		 * @param seed the seed url
-		 * @throws MalformedURLException if unable to create seed url
 		 */
 		@Order(6)
 		@ParameterizedTest(name = "{index} {2}")
@@ -279,7 +269,7 @@ public class CrawlPageTests extends ProjectTests {
 		@CsvSource({
 			"java, allclasses, docs/api/allclasses-index.html"
 		})
-		public void testJavaIndex(String subdir, String id, String seed) throws MalformedURLException {
+		public void testJavaIndex(String subdir, String id, String seed) {
 			testPartial(seed, subdir, id, ProjectPath.QUERY_LETTERS);
 		}
 
@@ -319,14 +309,13 @@ public class CrawlPageTests extends ProjectTests {
 		 * @param subdir the expected output subdirectory
 		 * @param id the unique test and file id
 		 * @param seed the seed url
-		 * @throws MalformedURLException if unable to create seed url
 		 */
 		@Order(1)
 		@ParameterizedTest(name = "{index} {2}")
 		@CsvSource({
 			"special, empty, input/simple/empty.html"
 		})
-		public void testEmptyIndex(String subdir, String id, String seed) throws MalformedURLException {
+		public void testEmptyIndex(String subdir, String id, String seed) {
 			Map<ProjectFlag, String> input = Map.of(ProjectFlag.QUERY, ProjectPath.QUERY_SIMPLE.text);
 			List<ProjectFlag> output = List.of(ProjectFlag.INDEX, ProjectFlag.COUNTS, ProjectFlag.RESULTS);
 			testCrawl(seed, subdir, id, input, output);
@@ -338,7 +327,6 @@ public class CrawlPageTests extends ProjectTests {
 		 * @param subdir the expected output subdirectory
 		 * @param id the unique test and file id
 		 * @param seed the seed url
-		 * @throws MalformedURLException if unable to create seed url
 		 */
 		@Order(2)
 		@ParameterizedTest(name = "{index} {2}")
@@ -348,7 +336,7 @@ public class CrawlPageTests extends ProjectTests {
 			"special, type-nowhere, input/simple/no_extension#nowhere.html",
 			"special, type-cover,   input/guten/1661-h/images/cover.jpg",
 		})
-		public void testNotHtml(String subdir, String id, String seed) throws MalformedURLException {
+		public void testNotHtml(String subdir, String id, String seed) {
 			testIndex(seed, subdir, id);
 		}
 
@@ -358,7 +346,6 @@ public class CrawlPageTests extends ProjectTests {
 		 * @param subdir the expected output subdirectory
 		 * @param id the unique test and file id
 		 * @param seed the seed url
-		 * @throws MalformedURLException if unable to create seed url
 		 */
 		@Order(3)
 		@ParameterizedTest(name = "{index} {2}")
@@ -366,7 +353,7 @@ public class CrawlPageTests extends ProjectTests {
 			"special, status-404, https://www.cs.usfca.edu/~cs272/redirect/nowhere",
 			"special, status-410, https://www.cs.usfca.edu/~cs272/redirect/gone"
 		})
-		public void testNotOkay(String subdir, String id, String seed) throws MalformedURLException {
+		public void testNotOkay(String subdir, String id, String seed) {
 			testIndex(seed, subdir, id);
 		}
 
@@ -376,7 +363,6 @@ public class CrawlPageTests extends ProjectTests {
 		 * @param subdir the expected output subdirectory
 		 * @param id the unique test and file id
 		 * @param seed the seed url
-		 * @throws MalformedURLException if unable to create seed url
 		 */
 		@Order(4)
 		@ParameterizedTest(name = "{index} {2}")
@@ -387,7 +373,7 @@ public class CrawlPageTests extends ProjectTests {
 			"special, http-usfcs, http://www.cs.usfca.edu/~cs272/simple/hello.html",
 			"special, http-hello, input/simple/hello.html"
 		})
-		public void testRedirect(String subdir, String id, String seed) throws MalformedURLException {
+		public void testRedirect(String subdir, String id, String seed) {
 			testIndex(seed, subdir, id);
 		}
 
@@ -397,7 +383,6 @@ public class CrawlPageTests extends ProjectTests {
 		 * @param subdir the expected output subdirectory
 		 * @param id the unique test and file id
 		 * @param seed the seed url
-		 * @throws MalformedURLException if unable to create seed url
 		 */
 		@Order(5)
 		@ParameterizedTest(name = "{index} {2}")
@@ -405,18 +390,17 @@ public class CrawlPageTests extends ProjectTests {
 			"special, loop-1, https://www.cs.usfca.edu/~cs272/redirect/loop1",
 			"special, loop-2, https://www.cs.usfca.edu/~cs272/redirect/loop2"
 		})
-		public void testFailedRedirect(String subdir, String id, String seed) throws MalformedURLException {
+		public void testFailedRedirect(String subdir, String id, String seed) {
 			testIndex(seed, subdir, id);
 		}
 
 		/**
 		 * Tests crawl AND text output.
 		 *
-		 * @throws MalformedURLException if unable to create seed url
 		 */
 		@Order(6)
 		@Test
-		public void testMixedInput() throws MalformedURLException {
+		public void testMixedInput() {
 			URI uri = GITHUB.resolve("input/simple/hello.html");
 
 			List<ProjectFlag> output = List.of(ProjectFlag.COUNTS, ProjectFlag.INDEX, ProjectFlag.RESULTS);
@@ -594,9 +578,8 @@ public class CrawlPageTests extends ProjectTests {
 	 * @param id the test id
 	 * @param input the input flags to use
 	 * @param output the output flags to use
-	 * @throws MalformedURLException if unable to convert seed to URL
 	 */
-	public static void testCrawl(String seed, String subdir, String id, Map<ProjectFlag, String> input, List<ProjectFlag> output) throws MalformedURLException {
+	public static void testCrawl(String seed, String subdir, String id, Map<ProjectFlag, String> input, List<ProjectFlag> output) {
 		URI uri = GITHUB.resolve(seed);
 
 		Map<ProjectFlag, String> config = new LinkedHashMap<>();
@@ -626,9 +609,8 @@ public class CrawlPageTests extends ProjectTests {
 	 * @param seed the seed link
 	 * @param subdir the expected output subdir
 	 * @param id the test id
-	 * @throws MalformedURLException if unable to convert seed to URL
 	 */
-	public static void testIndex(String seed, String subdir, String id) throws MalformedURLException {
+	public static void testIndex(String seed, String subdir, String id) {
 		Map<ProjectFlag, String> input = Collections.emptyMap();
 		List<ProjectFlag> output = List.of(ProjectFlag.INDEX);
 		testCrawl(seed, subdir, id, input, output);
@@ -640,9 +622,8 @@ public class CrawlPageTests extends ProjectTests {
 	 * @param seed the seed link
 	 * @param subdir the expected output subdir
 	 * @param id the test id
-	 * @throws MalformedURLException if unable to convert seed to URL
 	 */
-	public static void testCountsIndex(String seed, String subdir, String id) throws MalformedURLException {
+	public static void testCountsIndex(String seed, String subdir, String id) {
 		Map<ProjectFlag, String> input = Collections.emptyMap();
 		List<ProjectFlag> output = List.of(ProjectFlag.COUNTS, ProjectFlag.INDEX);
 		testCrawl(seed, subdir, id, input, output);
@@ -655,9 +636,8 @@ public class CrawlPageTests extends ProjectTests {
 	 * @param subdir the expected output subdir
 	 * @param id the test id
 	 * @param query the query file
-	 * @throws MalformedURLException if unable to convert seed to URL
 	 */
-	public static void testPartial(String seed, String subdir, String id, ProjectPath query) throws MalformedURLException {
+	public static void testPartial(String seed, String subdir, String id, ProjectPath query) {
 		Map<ProjectFlag, String> input = Map.of(ProjectFlag.QUERY, query.text, ProjectFlag.PARTIAL, "");
 		List<ProjectFlag> output = List.of(ProjectFlag.COUNTS, ProjectFlag.INDEX, ProjectFlag.RESULTS);
 		testCrawl(seed, subdir, id, input, output);
