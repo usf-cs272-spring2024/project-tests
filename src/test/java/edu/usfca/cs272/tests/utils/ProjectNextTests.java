@@ -15,6 +15,7 @@ import org.junit.platform.launcher.listeners.SummaryGeneratingListener;
 
 import edu.usfca.cs272.tests.BuildIndexTests;
 import edu.usfca.cs272.tests.CrawlPageTests;
+import edu.usfca.cs272.tests.CrawlSiteTests;
 import edu.usfca.cs272.tests.SearchExactTests;
 import edu.usfca.cs272.tests.SearchPartialTests;
 import edu.usfca.cs272.tests.ThreadBuildTests;
@@ -99,6 +100,17 @@ public class ProjectNextTests {
 	/**
 	 * Tests that next project functionality is not present.
 	 *
+	 * @throws IOException if an IO error occurs
+	 */
+	@Test
+	@Tag("next-v4.0")
+	public void testCrawlSiteCountOutput() throws IOException {
+		runJUnitTest(CrawlSiteTests.InitialTests.class, "testSimpleCounts");
+	}
+
+	/**
+	 * Tests that next project functionality is not present.
+	 *
 	 * @throws Exception if an error occurs
 	 */
 	@Test
@@ -114,31 +126,14 @@ public class ProjectNextTests {
 	@Tag("time-v2.3")
 	@Tag("time-v2.4")
 	@Tag("time-v4.0")
-	@Tag("next-v4.0")
-	@Tag("next-v5.0")
-	@Tag("next-v5.1")
 	@Tag("test-v5.0")
 	@Tag("test-v5.1")
-	public void pass() throws Exception {
-		// No next tests for these releases!
-	}
-
-	/**
-	 * Makes sure tests fail for future projects that are not yet supported.
-	 */
-	@Test
-	@Tag("time-v4.1")
-	@Tag("time-v4.2")
 	@Tag("next-v4.1")
 	@Tag("next-v4.2")
-	@Tag("test-v4.1")
-	@Tag("test-v4.2")
-	@Tag("test-v5.0")
-	@Tag("test-v5.1")
-	@Tag("test-v5.0")
-	@Tag("test-v5.1")
-	public void fail() {
-		Assertions.fail();
+	@Tag("next-v5.0")
+	@Tag("next-v5.1")
+	public void pass() throws Exception {
+		// No next tests for these releases!
 	}
 
 	/**
