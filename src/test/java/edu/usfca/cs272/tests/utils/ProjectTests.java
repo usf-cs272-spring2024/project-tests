@@ -4,7 +4,6 @@ import static edu.usfca.cs272.tests.utils.ProjectPath.ACTUAL;
 import static edu.usfca.cs272.tests.utils.ProjectPath.EXPECTED;
 import static edu.usfca.cs272.tests.utils.ProjectPath.TEXT;
 import static java.nio.charset.StandardCharsets.UTF_8;
-import static org.junit.jupiter.api.Assumptions.assumeTrue;
 
 import java.io.BufferedReader;
 import java.io.File;
@@ -668,17 +667,19 @@ public class ProjectTests {
 		}
 
 		/**
-		 * Assumes tests are passing.
+		 * Asserts tests are passing. Primarily used to prevent connecting to a web
+		 * server when tests are failing.
+		 *
 		 * @param info test information
 		 */
-		public static void assumeNoFailures(TestInfo info) {
+		public static void assertNoFailures(TestInfo info) {
 			String format = """
-					%nFound %d passing and %d failing tests.
-					Disabling %s tests.""";
+					Disabling "%s" due to earlier failing tests.
+					""";
 
-			Supplier<String> debug = () -> format.formatted(
-					TestCounter.passed, TestCounter.failed, info.getDisplayName());
-			assumeTrue(TestCounter.failed == 0, debug);
+			Assertions.assertTrue(
+					TestCounter.failed == 0,
+					() -> format.formatted(info.getDisplayName()));
 		}
 	}
 }

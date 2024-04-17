@@ -72,7 +72,7 @@ public class CrawlPageTests extends ProjectTests {
 		 */
 		@BeforeAll
 		public static void checkStatus(TestInfo info) {
-			ProjectTests.TestCounter.assumeNoFailures(info);
+			ProjectTests.TestCounter.assertNoFailures(info);
 		}
 
 		/**
@@ -153,7 +153,7 @@ public class CrawlPageTests extends ProjectTests {
 		 */
 		@BeforeAll
 		public static void checkStatus(TestInfo info) {
-			ProjectTests.TestCounter.assumeNoFailures(info);
+			ProjectTests.TestCounter.assertNoFailures(info);
 		}
 
 		/**
@@ -310,7 +310,7 @@ public class CrawlPageTests extends ProjectTests {
 		 */
 		@BeforeAll
 		public static void checkStatus(TestInfo info) {
-			ProjectTests.TestCounter.assumeNoFailures(info);
+			ProjectTests.TestCounter.assertNoFailures(info);
 		}
 
 		/**
