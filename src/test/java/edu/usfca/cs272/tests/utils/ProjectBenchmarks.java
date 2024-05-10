@@ -40,10 +40,10 @@ public class ProjectBenchmarks extends ProjectTests {
 	public static final double CRAWL_SPEEDUP = 1.8;
 
 	/** The number of warmup runs when benchmarking. */
-	public static final int WARMUP_ROUNDS = GITHUB ? 1 : 5;
+	public static final int WARMUP_ROUNDS = GITHUB ? 2 : 5;
 
 	/** The number of rounds to use when benchmarking. */
-	public static final int TIMED_ROUNDS = GITHUB ? 5 : 10;
+	public static final int TIMED_ROUNDS = GITHUB ? 6 : 10;
 
 	/** The default number of threads to use when benchmarking single versus multithreading. */
 	public static final ThreadBuildTests.Threads BENCH_MULTI = ThreadBuildTests.Threads.THREE;
