@@ -247,7 +247,8 @@ public class CrawlPageTests extends ProjectTests {
 			"java, SourceVersion, docs/api/java.compiler/javax/lang/model/SourceVersion.html",
 			"java, AboutHandler, docs/api/java.desktop/java/awt/desktop/AboutHandler.html",
 			"java, AbstractPreferences, docs/api/java.prefs/java/util/prefs/AbstractPreferences.html",
-			"java, overview, docs/api/overview-tree.html"
+			"java, overview, docs/api/overview-tree.html",
+			"java, new-list, docs/api/new-list.html"
 		})
 		public void testJava(String subdir, String id, String seed) {
 			testCountsIndex(seed, subdir, id);
