@@ -468,6 +468,7 @@ public class CrawlSiteTests extends ProjectBenchmarks {
 	@Tag("time-v4.1")
 	@Tag("time-v4.2")
 	@Tag("time-v5.0")
+	@Tag("time-v5.1")
 	@TestMethodOrder(OrderAnnotation.class)
 	public class RuntimeTests {
 		/**
